@@ -1,0 +1,37 @@
+[
+  {
+    "range": [
+      0,
+      0.07
+    ],
+    "name": "Factory New"
+  },
+  {
+    "range": [
+      0.07,
+      0.15
+    ],
+    "name": "Minimal Wear"
+  },
+  {
+    "range": [
+      0.15,
+      0.38
+    ],
+    "name": "Field-Tested"
+  },
+  {
+    "range": [
+      0.38,
+      0.45
+    ],
+    "name": "Well-Worn"
+  },
+  {
+    "range": [
+      0.45,
+      1.0
+    ],
+    "name": "Battle-Scarred"
+  }
+]

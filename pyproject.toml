@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "csgo-items-db"
+version = "0.1.0"
+description = "Schema of CSGO items"
+authors = ["somespecialone <tkachenkodmitriy@yahoo.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.8.1"
+vdf = "^3.4"
+vpk = "^1.4.0"
+environs = "^9.4.0"
+
+[tool.poetry.dev-dependencies]
+black = "*"
+
+[tool.black]
+line-length = 120
+target-version = ['py310']
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

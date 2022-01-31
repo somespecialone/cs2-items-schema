@@ -1,0 +1,34 @@
+{
+  "0": {
+    "nonweapon": "Default",
+    "weapon": "Stock"
+  },
+  "1": {
+    "nonweapon": "Base Grade",
+    "weapon": "Consumer Grade"
+  },
+  "2": {
+    "nonweapon": "Medium Grade",
+    "weapon": "Industrial Grade"
+  },
+  "3": {
+    "nonweapon": "High Grade",
+    "weapon": "Mil-Spec Grade"
+  },
+  "4": {
+    "nonweapon": "Remarkable",
+    "weapon": "Restricted"
+  },
+  "5": {
+    "nonweapon": "Exotic",
+    "weapon": "Classified"
+  },
+  "6": {
+    "nonweapon": "Extraordinary",
+    "weapon": "Covert"
+  },
+  "7": {
+    "nonweapon": "Contraband",
+    "weapon": "Contraband"
+  }
+}
