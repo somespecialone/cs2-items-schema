@@ -9,7 +9,7 @@ import aiohttp
 import vdf
 import vpk
 
-from . import _types
+from . import _typings
 
 from ._vpk_extractor import VpkExtractor
 from ._fields import FieldsCollector
@@ -66,12 +66,12 @@ class ResourceCollector:
     def _parse_data_files(cls, *texts: str) -> tuple:
         items_game_text, csgo_english_text, items_game_cdn_text, items_schema_text = texts
 
-        items_game: _types.ITEMS_GAME = vdf.loads(items_game_text)["items_game"]
-        csgo_english: _types.CSGO_ENGLISH = cls._keys_to_lowercase(vdf.loads(csgo_english_text)["lang"]["Tokens"])
-        items_cdn: _types.ITEMS_CDN = {
+        items_game: _typings.ITEMS_GAME = vdf.loads(items_game_text)["items_game"]
+        csgo_english: _typings.CSGO_ENGLISH = cls._keys_to_lowercase(vdf.loads(csgo_english_text)["lang"]["Tokens"])
+        items_cdn: _typings.ITEMS_CDN = {
             line.split("=")[0]: line.split("=")[1] for line in items_game_cdn_text.splitlines()[3:]
         }
-        items_schema: _types.ITEMS_SCHEMA = json.loads(items_schema_text)["result"]
+        items_schema: _typings.ITEMS_SCHEMA = json.loads(items_schema_text)["result"]
 
         return items_game, csgo_english, items_cdn, items_schema
 
@@ -90,17 +90,19 @@ class ResourceCollector:
         items_game, csgo_english, items_cdn, items_schema = self._parse_data_files(*texts)
         pak = VpkExtractor(vpk.open(str(self.vpk_path)))
 
-        fields_collector = FieldsCollector(items_game, csgo_english, items_schema)
+        fields_collector = FieldsCollector(items_game, csgo_english, items_schema, categories)
         qualities, types, paints, rarities, origins = fields_collector()
 
         cases_collector = CasesCollector(items_game, csgo_english, items_schema)
         cases = cases_collector()
 
-        items_collector = ItemsCollector(items_game, csgo_english, items_schema, items_cdn, paints, categories, cases)
+        items_collector = ItemsCollector(
+            items_game, csgo_english, items_schema, items_cdn, paints, types, categories, cases
+        )
         items = items_collector()
 
         sticker_collector = StickerPatchCollector(pak, items_game, csgo_english)
-        stickers, patches, graffities = sticker_collector()
+        stickers, patches, graffities, tints = sticker_collector()
         sticker_kits = {**stickers, **patches, **graffities}
 
         # test(pak, items_cdn, csgo_english)
@@ -114,6 +116,7 @@ class ResourceCollector:
             ("cases.json", cases),
             ("items.json", items),
             ("sticker_kits.json", sticker_kits),
+            ("tints.json", tints),
         )
         self._dump_files(*to_dump)
 

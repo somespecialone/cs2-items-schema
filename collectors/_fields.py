@@ -1,19 +1,21 @@
 from dataclasses import dataclass
 
-from . import _types
+from . import _typings
 
 
 @dataclass(repr=False, eq=False)
 class FieldsCollector:
     """Collect origins, qualities, types, paints and rarities from game data."""
 
-    items_game: _types.ITEMS_GAME
-    csgo_english: _types.CSGO_ENGLISH
-    items_schema: _types.ITEMS_SCHEMA
+    items_game: _typings.ITEMS_GAME
+    csgo_english: _typings.CSGO_ENGLISH
+    items_schema: _typings.ITEMS_SCHEMA
+    categories: dict[str, str]
 
     # key to identify rarity
     _weapon_key: str = "weapon"
     _non_weapon_key: str = "nonweapon"
+    _character_key: str = "character"
 
     def _parse_qualities(self) -> dict[str, str]:
         qualities = {}
@@ -24,23 +26,40 @@ class FieldsCollector:
                 pass
         return qualities
 
-    def _find_item_type_name(self, defindex: str) -> str | None:
-        weapon_data: dict[str, str] = self.items_game["items"][defindex]
-        if "item_name" in weapon_data:
-            weapon_hud: str = weapon_data["item_name"][1:]
+    def _find_item_name(self, defindex: str) -> str | None:
+        item_data: dict[str, str] = self.items_game["items"][defindex]
+        if "item_name" in item_data:
+            weapon_hud: str = item_data["item_name"][1:]
 
         else:
-            prefab_val: str = weapon_data["prefab"]
+            prefab_val: str = item_data["prefab"]
             weapon_hud: str = self.items_game["prefabs"][prefab_val]["item_name"][1:]
 
         return self.csgo_english.get(weapon_hud.lower())
 
+    @staticmethod
+    def _invert_dict(mapping: dict[str, str]) -> dict[str, str]:
+        return {v: k for k, v in mapping.items()}
+
+    def _find_category(self, defindex: str) -> str:
+        categories_mapping = self._invert_dict(self.categories)
+
+        for item_data in self.items_schema["items"]:
+            if str(item_data["defindex"]) == defindex:
+                return categories_mapping[self.csgo_english[item_data["item_type_name"][1:].lower()].lower()]
+
     def _parse_types(self) -> dict[str, str]:
-        del self.items_game["items"]["default"]
         types = {}
+
+        del self.items_game["items"]["default"]
         for defindex in self.items_game["items"].keys():
             try:
-                types |= {defindex: self._find_item_type_name(defindex)}
+                types |= {
+                    defindex: {
+                        "name": self._find_item_name(defindex),
+                        "category": self._find_category(defindex),
+                    }
+                }
             except KeyError:
                 pass
         return {k: v for k, v in types.items() if v is not None}  # filter from None values
@@ -56,7 +75,7 @@ class FieldsCollector:
                 paints |= {paintindex: self._define_paints(paintindex)}
             except KeyError:
                 pass
-
+        # TODO: wear min/max
         return paints
 
     def _parse_rarities(self) -> dict[str, dict[str, str]]:
@@ -65,6 +84,8 @@ class FieldsCollector:
             v["value"]: {
                 self._weapon_key: self.csgo_english[v["loc_key_weapon"].lower()],
                 self._non_weapon_key: self.csgo_english[v["loc_key"].lower()],
+                self._character_key: self.csgo_english[v["loc_key_character"].lower()],
+                "color": self.items_game["colors"][v["color"]]["hex_color"],
             }
             for v in self.items_game["rarities"].values()
         }

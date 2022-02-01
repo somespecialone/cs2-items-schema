@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from . import _types
+from . import _typings
 
 from ._vpk_extractor import VpkExtractor
 
@@ -14,8 +14,8 @@ class StickerPatchCollector:
 
     pak: VpkExtractor
 
-    items_game: _types.ITEMS_GAME
-    csgo_english: _types.CSGO_ENGLISH
+    items_game: _typings.ITEMS_GAME
+    csgo_english: _typings.CSGO_ENGLISH
 
     @staticmethod
     def _fix_sticker_name(sticker_name: str) -> str:
@@ -36,6 +36,13 @@ class StickerPatchCollector:
 
         return item
 
+    def _parse_tints(self):
+        tints = {}
+        for tint_data in self.items_game["graffiti_tints"].values():
+            tints |= {tint_data["id"]: self.csgo_english["Attrib_SprayTintValue_".lower() + tint_data["id"]]}
+
+        return tints
+
     def __call__(self) -> tuple:
         stickers = {}
         patches = {}
@@ -54,4 +61,5 @@ class StickerPatchCollector:
             except KeyError:
                 continue
 
-        return stickers, patches, graffities
+        tints = self._parse_tints()
+        return stickers, patches, graffities, tints

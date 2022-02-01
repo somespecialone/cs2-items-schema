@@ -1,7 +1,7 @@
 import re
 from dataclasses import dataclass
 
-from . import _types
+from . import _typings
 
 
 # TODO find rare items
@@ -9,9 +9,9 @@ from . import _types
 class CasesCollector:
     """Collect cases"""
 
-    items_game: _types.ITEMS_GAME
-    csgo_english: _types.CSGO_ENGLISH
-    items_schema: _types.ITEMS_SCHEMA
+    items_game: _typings.ITEMS_GAME
+    csgo_english: _typings.CSGO_ENGLISH
+    items_schema: _typings.ITEMS_SCHEMA
 
     def _find_image(self, defindex: str) -> str:
         for item in self.items_schema["items"]:

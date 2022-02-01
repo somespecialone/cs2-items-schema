@@ -1,33 +1,49 @@
 {
   "0": {
+    "character": "Default",
+    "color": "#6a6156",
     "nonweapon": "Default",
     "weapon": "Stock"
   },
   "1": {
+    "character": "",
+    "color": "#b0c3d9",
     "nonweapon": "Base Grade",
     "weapon": "Consumer Grade"
   },
   "2": {
+    "character": "",
+    "color": "#5e98d9",
     "nonweapon": "Medium Grade",
     "weapon": "Industrial Grade"
   },
   "3": {
+    "character": "Distinguished",
+    "color": "#4b69ff",
     "nonweapon": "High Grade",
     "weapon": "Mil-Spec Grade"
   },
   "4": {
+    "character": "Exceptional",
+    "color": "#8847ff",
     "nonweapon": "Remarkable",
     "weapon": "Restricted"
   },
   "5": {
+    "character": "Superior",
+    "color": "#d32ce6",
     "nonweapon": "Exotic",
     "weapon": "Classified"
   },
   "6": {
+    "character": "Master",
+    "color": "#eb4b4b",
     "nonweapon": "Extraordinary",
     "weapon": "Covert"
   },
   "7": {
+    "character": "Contraband",
+    "color": "#e4ae39",
     "nonweapon": "Contraband",
     "weapon": "Contraband"
   }
