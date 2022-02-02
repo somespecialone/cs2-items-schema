@@ -18787,17 +18787,105 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/stockh2021/sig_apex_gold.72c955d8842d90cd37e1b1ee8dca47fd179a15da.png",
     "name": "apEX (Gold) | Stockholm 2021"
   },
+  "5249": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/b_hop_paper.3ceaac28e782f3c4acb21905cd49cc41115e6f4c.png",
+    "name": "B Hop"
+  },
   "525": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_snyper_foil.55ba0e196ae76f8793d7a1fd9f49e44162ef66a0.png",
     "name": "SnypeR (Foil) | Cologne 2015"
+  },
+  "5250": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/flick_shot_paper.ec6eb7397a4fe808affe1e18958a5f876a540709.png",
+    "name": "Flick Shotter"
+  },
+  "5251": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/get_clucked_paper.7780a356ce55315fee7bb0a05f969e70aa86bd30.png",
+    "name": "Get Clucked"
+  },
+  "5252": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/im_lit_paper.743f3e642ceb1c303d631b66dc098687661e528b.png",
+    "name": "I'm Lit"
+  },
+  "5253": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/mischief_t_paper.f3e3bbff6f9978ddd8e742c6876f4c0d54daae3f.png",
+    "name": "Little Mischief"
+  },
+  "5254": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/my_game_is_paper.36c868853ff94086a2108d257e16a18ab45f571c.png",
+    "name": "Hi, My Game Is"
+  },
+  "5255": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/run_ct_run_paper.37c2ea9c36b323b44acd7e49f272967673296435.png",
+    "name": "Run CT, Run"
+  },
+  "5256": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/smoke_criminal_paper.b9a23bb55ef6da720a6649f1884f61af237f6a0a.png",
+    "name": "Smoke Criminal"
+  },
+  "5257": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/squeaky_door_paper.4989bdcbffecc1563f3a13db680b9b472dbd5dad.png",
+    "name": "Squeaky Door"
+  },
+  "5258": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/teamwork_paper.1c4cc5f3ae600895d83f072da94e2c8d301e87d0.png",
+    "name": "Rat Pack"
+  },
+  "5259": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/this_is_fine_t_paper.773426a0b5028be9d2e117cf1f37e076814f951e.png",
+    "name": "This Is Fine (T)"
   },
   "526": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_snyper_gold.a6030fba9dcdb8953efd9ef4a9ced606d925cd71.png",
     "name": "SnypeR (Gold) | Cologne 2015"
   },
+  "5260": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/wallbang_paper.c1ce259475b323cd0f66a7c60670a095bea5727f.png",
+    "name": "Wallbang"
+  },
+  "5261": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/flashblack_holo.cc26e3193cd5488e59b7f1c695ced0a635bda9aa.png",
+    "name": "Flashblack (Holo)"
+  },
+  "5262": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/infinite_diamond_holo.c00f9decab265d48ec94b4ca9dbb4528cbf768e5.png",
+    "name": "Infinite Diamond (Holo)"
+  },
+  "5263": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/phx_balaclava_holo.e2b5ab7184b8427ebd3a4ac5b39f8fea00ee1d1d.png",
+    "name": "Phoenix Balaclava Co. (Holo)"
+  },
+  "5264": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/sneaky_dept_holo.9420ecd83f8463ccf5741020610fe79814cca7fe.png",
+    "name": "Sneaky Beaky Dept. (Holo)"
+  },
+  "5265": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/t_rush_holo.311eccc536bed526535024a77c2913faecacabab.png",
+    "name": "T Rush (Holo)"
+  },
+  "5266": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/v_for_victory_holo.cea4db0f9308ed61a81333f5e118c2d89e8f6573.png",
+    "name": "V For Victory (Holo)"
+  },
+  "5267": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/face_me_foil.552971363f271a6ec509a1937dee66faecfe4095.png",
+    "name": "Face Me (Foil)"
+  },
+  "5268": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/inferno_diorama_foil.7fcd95f53d93add574e99c3603a4017fae974c2e.png",
+    "name": "Inferno Diorama (Foil)"
+  },
+  "5269": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/real_mvp_foil.e503c7c18fe9106efcbe59db0f1239b7cde37f11.png",
+    "name": "The Real MVP (Foil)"
+  },
   "527": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_james.068fde4272d4b8494497064b766cac54da6e37df.png",
     "name": "James | Cologne 2015"
+  },
+  "5270": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/spring2022/rock_paper_scissors_foil.8b41514b269069feafc9487b6a9ab53f7e52942c.png",
+    "name": "Rock, Paper, Scissors (Foil)"
   },
   "528": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/cologne2015/sig_james_foil.918cf5ddf6b60da6fb6f3b338cf8514d37fffd56.png",

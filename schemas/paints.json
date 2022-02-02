@@ -1,1097 +1,5472 @@
 {
-  "0": "-",
-  "10": "Copperhead",
-  "100": "Storm",
-  "1000": "Run and Hide",
-  "10006": "Charred",
-  "10007": "Snakebite",
-  "10008": "Bronzed",
-  "10009": "Leather",
-  "1001": "Welcome to the Jungle",
-  "10010": "Spruce DDPAT",
-  "10013": "Lunar Weave",
-  "10015": "Convoy",
-  "10016": "Crimson Weave",
-  "10018": "Superconductor",
-  "10019": "Arid",
-  "1002": "Berries And Cherries",
-  "10021": "Slaughter",
-  "10024": "Eclipse",
-  "10026": "Spearmint",
-  "10027": "Boom!",
-  "10028": "Cool Mint",
-  "1003": "Crime Scene",
-  "10030": "Forest DDPAT",
-  "10033": "Crimson Kimono",
-  "10034": "Emerald Web",
-  "10035": "Foundation",
-  "10036": "Badlands",
-  "10037": "Pandora's Box",
-  "10038": "Hedge Maze",
-  "10039": "Guerrilla",
-  "1004": "X-Ray",
-  "10040": "Diamondback",
-  "10041": "King Snake",
-  "10042": "Imperial Plaid",
-  "10043": "Overtake",
-  "10044": "Racing Green",
-  "10045": "Amphibious",
-  "10046": "Bronze Morph",
-  "10047": "Omega",
-  "10048": "Vice",
-  "10049": "POW!",
-  "1005": "Heist",
-  "10050": "Turtle",
-  "10051": "Transport",
-  "10052": "Polygon",
-  "10053": "Cobalt Skulls",
-  "10054": "Overprint",
-  "10055": "Duct Tape",
-  "10056": "Arboreal",
-  "10057": "Emerald",
-  "10058": "Mangrove",
-  "10059": "Rattler",
-  "1006": "Night Heist",
-  "10060": "Case Hardened",
-  "10061": "Crimson Web",
-  "10062": "Buckshot",
-  "10063": "Fade",
-  "10064": "Mogul",
-  "10065": "Marble Fade",
-  "10066": "Lt. Commander",
-  "10067": "Tiger Strike",
-  "10068": "Field Agent",
-  "10069": "Rezan the Red",
-  "1007": "Vault Heist",
-  "10070": "Snow Leopard",
-  "10071": "Queen Jaguar",
-  "10072": "Black Tie",
-  "10073": "Slingshot",
-  "10074": "Big Game",
-  "10075": "Scarlet Shamagh",
-  "10076": "Nocts",
-  "10077": "Finish Line",
-  "10078": "Smoke Out",
-  "10079": "Blood Pressure",
-  "1008": "Houndstooth",
-  "10080": "3rd Commando Company",
-  "10081": "Desert Shamagh",
-  "10082": "Giraffe",
-  "10083": "Constrictor",
-  "10084": "CAUTION!",
-  "10085": "Jade",
-  "10086": "Yellow-banded",
-  "10087": "Needle Point",
-  "10088": "Unhinged",
-  "1009": "Hot Snakes",
-  "101": "Tornado",
-  "1010": "Phoenix Chalk",
-  "1011": "Phoenix Marker",
-  "1012": "Phoenix Stencil",
-  "1013": "Phoenix Blacklight",
-  "1014": "Clay Ambush",
-  "1015": "Tiger Pit",
-  "1016": "Franklin",
-  "1017": "Blue Phosphor",
-  "1018": "Panthera onca",
-  "1019": "Panther Camo",
-  "102": "Whiteout",
-  "1020": "Ancient Earth",
-  "1021": "Ancient Lore",
-  "1022": "Lush Ruins",
-  "1023": "Tall Grass",
-  "1024": "Blast From the Past",
-  "1025": "Gold Brick",
-  "1026": "Fade",
-  "1027": "Target Acquired",
-  "1028": "Magna Carta",
-  "1029": "Silk Tiger",
-  "1030": "Bengal Tiger",
-  "1031": "Ancient Visions",
-  "1032": "Dusk Ruins",
-  "1033": "Carved Jade",
-  "1034": "Ancient Ritual",
-  "1035": "Slate",
-  "1036": "Circaetus",
-  "1037": "Food Chain",
-  "1038": "Chromatic Aberration",
-  "1039": "Clear Polymer",
-  "104": "Grassland Leaves",
-  "1040": "The Traitor",
-  "1041": "In Living Color",
-  "1042": "O.S.I.P.R.",
-  "1043": "dev_texture",
-  "1044": "Cyber Shell",
-  "1045": "Button Masher",
-  "1046": "XOXO",
-  "1047": "Junk Yard",
-  "1048": "Heavy Metal",
-  "1049": "Oscillator",
-  "1050": "Trigger Discipline",
-  "1051": "Windblown",
-  "1052": "Death Strike",
-  "1053": "Meltdown",
-  "1055": "Space Race",
-  "1056": "Sputnik",
-  "1058": "POP AWP",
-  "1059": "Fizzy POP",
-  "1060": "Spring Twilly",
-  "1061": "Autumn Twilly",
-  "1063": "The Coalition",
-  "1064": "Syndicate",
-  "1065": "Whiteout",
-  "1066": "Faulty Wiring",
-  "1067": "Propaganda",
-  "107": "Polar Mesh",
-  "1070": "Green Laminate",
-  "1071": "CAUTION!",
-  "1072": "Prism Terrace",
-  "1073": "Imminent Danger",
-  "1074": "Schematic",
-  "1075": "Strats",
-  "1076": "Framework",
-  "1077": "Interlock",
-  "1078": "Blue Tire",
-  "1079": "Red Tire",
-  "1080": "Infrastructure",
-  "1081": "Digital Architect",
-  "1082": "Fall Hazard",
-  "1083": "Breaker Box",
-  "1084": "Hazard Pay",
-  "1085": "Mechanism",
-  "1086": "Oil Change",
-  "1087": "Leet Museo",
-  "1088": "Plague",
-  "1089": "BI83 Spectrum",
-  "1090": "Ocean Drive",
-  "1091": "Tread",
-  "1092": "ZX Spectron",
-  "1093": "Boost Protocol",
-  "1094": "Mount Fuji",
-  "1095": "Keeping Tabs",
-  "1096": "Guerrilla",
-  "1097": "Spider Lily",
-  "1098": "Toybox",
-  "1099": "Lumen",
-  "11": "Skulls",
-  "110": "Condemned",
-  "1100": "Snack Attack",
-  "1101": "Turbo Peek",
-  "1102": "Black Lotus",
-  "1103": "Watchdog",
-  "1104": "Lore",
-  "1105": "Lore",
-  "1106": "Lore",
-  "1107": "Lore",
-  "1108": "Lore",
-  "1109": "Black Laminate",
-  "111": "Glacier Mesh",
-  "1110": "Black Laminate",
-  "1111": "Black Laminate",
-  "1112": "Black Laminate",
-  "1113": "Black Laminate",
-  "1114": "Autotronic",
-  "1115": "Autotronic",
-  "1116": "Autotronic",
-  "1117": "Autotronic",
-  "1118": "Autotronic",
-  "1119": "Gamma Doppler",
-  "1120": "Gamma Doppler",
-  "1121": "Gamma Doppler",
-  "1122": "Gamma Doppler",
-  "1123": "Gamma Doppler",
-  "1125": "Space Cat",
-  "1126": "Melondrama",
-  "1127": "Rapid Eye Movement",
-  "1128": "Scrawl",
-  "1129": "Dream Glade",
-  "1130": "Night Terror",
-  "1131": "Ensnared",
-  "1132": "Foresight",
-  "1133": "Abyssal Apparition",
-  "1134": "Starlight Protector",
-  "1135": "Zombie Offensive",
-  "1136": "Ticket to Hell",
-  "1137": "Necro Jr.",
-  "1138": "Lifted Spirits",
-  "1139": "Poultrygeist",
-  "1140": "Spirit Board",
-  "1141": "Nightwish",
-  "116": "Sand Mesh",
-  "119": "Sage Spray",
-  "12": "Crimson Web",
-  "122": "Jungle Spray",
-  "124": "Sand Spray",
-  "125": "X-Ray",
-  "13": "Blue Streak",
-  "135": "Urban Perforated",
-  "136": "Waves Perforated",
-  "14": "Red Laminate",
-  "141": "Orange Peel",
-  "143": "Urban Masked",
-  "147": "Jungle Dashed",
-  "148": "Sand Dashed",
-  "149": "Urban Dashed",
-  "15": "Gunsmoke",
-  "151": "Jungle",
-  "153": "Demolition",
-  "154": "Afterimage",
-  "155": "Bullet Rain",
-  "156": "Death by Kitty",
-  "157": "Palm",
-  "158": "Walnut",
-  "159": "Brass",
-  "16": "Jungle Tiger",
-  "162": "Splash",
-  "164": "Modern Hunter",
-  "165": "Splash Jam",
-  "166": "Blaze Orange",
-  "167": "Radiation Hazard",
-  "168": "Nuclear Threat",
-  "169": "Fallout Warning",
-  "17": "Urban DDPAT",
-  "170": "Predator",
-  "171": "Irradiated Alert",
-  "172": "Black Laminate",
-  "174": "BOOM",
-  "175": "Scorched",
-  "176": "Faded Zebra",
-  "177": "Memento",
-  "178": "Doomkitty",
-  "179": "Nuclear Threat",
-  "180": "Fire Serpent",
-  "181": "Corticera",
-  "182": "Emerald Dragon",
-  "183": "Overgrowth",
-  "184": "Corticera",
-  "185": "Golden Koi",
-  "186": "Wave Spray",
-  "187": "Zirka",
-  "188": "Graven",
-  "189": "Bright Water",
-  "190": "Black Limba",
-  "191": "Tempest",
-  "192": "Shattered",
-  "193": "Bone Pile",
-  "194": "Spitfire",
-  "195": "Demeter",
-  "196": "Emerald",
-  "197": "Anodized Navy",
-  "198": "Hazard",
-  "199": "Dry Season",
-  "2": "Groundwater",
-  "20": "Virus",
-  "200": "Mayan Dreams",
-  "201": "Palm",
-  "202": "Jungle DDPAT",
-  "203": "Rust Coat",
-  "204": "Mosaico",
-  "205": "Jungle",
-  "206": "Tornado",
-  "207": "Facets",
-  "208": "Sand Dune",
-  "209": "Groundwater",
-  "21": "Granite Marbleized",
-  "210": "Anodized Gunmetal",
-  "211": "Ocean Foam",
-  "212": "Graphite",
-  "213": "Ocean Foam",
-  "214": "Graphite",
-  "215": "X-Ray",
-  "216": "Blue Titanium",
-  "217": "Blood Tiger",
-  "218": "Hexane",
-  "219": "Hive",
-  "22": "Contrast Spray",
-  "220": "Hemoglobin",
-  "221": "Serum",
-  "222": "Blood in the Water",
-  "223": "Nightshade",
-  "224": "Water Sigil",
-  "225": "Ghost Camo",
-  "226": "Blue Laminate",
-  "227": "Electric Hive",
-  "228": "Blind Spot",
-  "229": "Azure Zebra",
-  "230": "Steel Disruption",
-  "231": "Cobalt Disruption",
-  "232": "Crimson Web",
-  "233": "Tropical Storm",
-  "234": "Ash Wood",
-  "235": "VariCamo",
-  "236": "Night Ops",
-  "237": "Urban Rubble",
-  "238": "VariCamo Blue",
-  "240": "CaliCamo",
-  "241": "Hunting Blind",
-  "242": "Army Mesh",
-  "243": "Gator Mesh",
-  "244": "Teardown",
-  "245": "Army Recon",
-  "246": "Amber Fade",
-  "247": "Damascus Steel",
-  "248": "Red Quartz",
-  "249": "Cobalt Quartz",
-  "25": "Forest Leaves",
-  "250": "Full Stop",
-  "251": "Pit Viper",
-  "252": "Silver Quartz",
-  "253": "Acid Fade",
-  "254": "Nitro",
-  "255": "Asiimov",
-  "256": "The Kraken",
-  "257": "Guardian",
-  "258": "Mehndi",
-  "259": "Redline",
-  "26": "Lichen Dashed",
-  "260": "Pulse",
-  "261": "Marina",
-  "262": "Rose Iron",
-  "263": "Rising Skull",
-  "264": "Sandstorm",
-  "265": "Kami",
-  "266": "Magma",
-  "267": "Cobalt Halftone",
-  "268": "Tread Plate",
-  "269": "The Fuschia Is Now",
-  "27": "Bone Mask",
-  "270": "Victoria",
-  "271": "Undertow",
-  "272": "Titanium Bit",
-  "273": "Heirloom",
-  "274": "Copper Galaxy",
-  "275": "Red FragCam",
-  "276": "Panther",
-  "277": "Stainless",
-  "278": "Blue Fissure",
-  "279": "Asiimov",
-  "28": "Anodized Navy",
-  "280": "Chameleon",
-  "281": "Corporal",
-  "282": "Redline",
-  "283": "Trigon",
-  "284": "Heat",
-  "285": "Terrain",
-  "286": "Antique",
-  "287": "Pulse",
-  "288": "Sergeant",
-  "289": "Sandstorm",
-  "290": "Guardian",
-  "291": "Heaven Guard",
-  "293": "Death Rattle",
-  "294": "Green Apple",
-  "295": "Franklin",
-  "296": "Meteorite",
-  "297": "Tuxedo",
-  "298": "Army Sheen",
-  "299": "Caged Steel",
-  "3": "Candy Apple",
-  "30": "Snake Camo",
-  "300": "Emerald Pinstripe",
-  "301": "Atomic Alloy",
-  "302": "Vulcan",
-  "303": "Isaac",
-  "304": "Slashed",
-  "305": "Torque",
-  "306": "Antique",
-  "307": "Retribution",
-  "308": "Kami",
-  "309": "Howl",
-  "310": "Curse",
-  "311": "Desert Warfare",
-  "312": "Cyrex",
-  "313": "Orion",
-  "314": "Heaven Guard",
-  "315": "Poison Dart",
-  "316": "Jaguar",
-  "317": "Bratatat",
-  "318": "Road Rash",
-  "319": "Detour",
-  "32": "Silver",
-  "320": "Red Python",
-  "321": "Master Piece",
-  "322": "Nitro",
-  "323": "Rust Coat",
-  "325": "Chalice",
-  "326": "Knight",
-  "327": "Chainmail",
-  "328": "Hand Cannon",
-  "329": "Dark Age",
-  "33": "Hot Rod",
-  "330": "Briar",
-  "332": "Royal Blue",
-  "333": "Indigo",
-  "334": "Twist",
-  "335": "Module",
-  "336": "Desert-Strike",
-  "337": "Tatter",
-  "338": "Pulse",
-  "339": "Caiman",
-  "34": "Metallic DDPAT",
-  "340": "Jet Set",
-  "341": "First Class",
-  "342": "Leather",
-  "343": "Commuter",
-  "344": "Dragon Lore",
-  "345": "First Class",
-  "346": "Coach Class",
-  "347": "Pilot",
-  "348": "Red Leather",
-  "349": "Osiris",
-  "350": "Tigris",
-  "351": "Conspiracy",
-  "352": "Fowl Play",
-  "353": "Water Elemental",
-  "354": "Urban Hazard",
-  "355": "Desert-Strike",
-  "356": "Koi",
-  "357": "Ivory",
-  "358": "Supernova",
-  "359": "Asiimov",
-  "36": "Ossified",
-  "360": "Cyrex",
-  "361": "Abyss",
-  "362": "Labyrinth",
-  "363": "Traveler",
-  "364": "Business Class",
-  "365": "Olive Plaid",
-  "366": "Green Plaid",
-  "367": "Reactor",
-  "368": "Setting Sun",
-  "369": "Nuclear Waste",
-  "37": "Blaze",
-  "370": "Bone Machine",
-  "371": "Styx",
-  "372": "Nuclear Garden",
-  "373": "Contamination",
-  "374": "Toxic",
-  "375": "Radiation Hazard",
-  "376": "Chemical Green",
-  "377": "Hot Shot",
-  "378": "Fallout Warning",
-  "379": "Cerberus",
-  "38": "Fade",
-  "380": "Wasteland Rebel",
-  "381": "Grinder",
-  "382": "Murky",
-  "383": "Basilisk",
-  "384": "Griffin",
-  "385": "Firestarter",
-  "386": "Dart",
-  "387": "Urban Hazard",
-  "388": "Cartel",
-  "389": "Fire Elemental",
-  "39": "Bulldozer",
-  "390": "Highwayman",
-  "391": "Cardiac",
-  "392": "Delusion",
-  "393": "Tranquility",
-  "394": "Cartel",
-  "395": "Man-o'-war",
-  "396": "Urban Shock",
-  "397": "Naga",
-  "398": "Chatterbox",
-  "399": "Catacombs",
-  "40": "Night",
-  "400": "\u9f8d\u738b (Dragon King)",
-  "401": "System Lock",
-  "402": "Malachite",
-  "403": "Deadly Poison",
-  "404": "Muertos",
-  "405": "Serenity",
-  "406": "Grotto",
-  "407": "Quicksilver",
-  "409": "Tiger Tooth",
-  "41": "Copper",
-  "410": "Damascus Steel",
-  "411": "Damascus Steel",
-  "413": "Marble Fade",
-  "414": "Rust Coat",
-  "415": "Doppler",
-  "416": "Doppler",
-  "417": "Doppler",
-  "418": "Doppler",
-  "419": "Doppler",
-  "42": "Blue Steel",
-  "420": "Doppler",
-  "421": "Doppler",
-  "422": "Elite Build",
-  "423": "Armor Core",
-  "424": "Worm God",
-  "425": "Bronze Deco",
-  "426": "Valence",
-  "427": "Monkey Business",
-  "428": "Eco",
-  "429": "Djinn",
-  "43": "Stained",
-  "430": "Hyper Beast",
-  "431": "Heat",
-  "432": "Man-o'-war",
-  "433": "Neon Rider",
-  "434": "Origami",
-  "435": "Pole Position",
-  "436": "Grand Prix",
-  "437": "Twilight Galaxy",
-  "438": "Chronos",
-  "439": "Hades",
-  "44": "Case Hardened",
-  "440": "Icarus Fell",
-  "441": "Minotaur's Labyrinth",
-  "442": "Asterion",
-  "443": "Pathfinder",
-  "444": "Daedalus",
-  "445": "Hot Rod",
-  "446": "Medusa",
-  "447": "Duelist",
-  "448": "Pandora's Box",
-  "449": "Poseidon",
-  "450": "Moon in Libra",
-  "451": "Sun in Leo",
-  "452": "Shipping Forecast",
-  "453": "Emerald",
-  "454": "Para Green",
-  "455": "Akihabara Accept",
-  "456": "Hydroponic",
-  "457": "Bamboo Print",
-  "458": "Bamboo Shadow",
-  "459": "Bamboo Forest",
-  "46": "Contractor",
-  "460": "Aqua Terrace",
-  "462": "Counter Terrace",
-  "463": "Terrace",
-  "464": "Neon Kimono",
-  "465": "Orange Kimono",
-  "466": "Crimson Kimono",
-  "467": "Mint Kimono",
-  "468": "Midnight Storm",
-  "469": "Sunset Storm \u58f1",
-  "47": "Colony",
-  "470": "Sunset Storm \u5f10",
-  "471": "Daybreak",
-  "472": "Impact Drill",
-  "473": "Seabird",
-  "474": "Aquamarine Revenge",
-  "475": "Hyper Beast",
-  "476": "Yellow Jacket",
-  "477": "Neural Net",
-  "478": "Rocket Pop",
-  "479": "Bunsen Burner",
-  "48": "Dragon Tattoo",
-  "480": "Evil Daimyo",
-  "481": "Nemesis",
-  "482": "Ruby Poison Dart",
-  "483": "Loudmouth",
-  "484": "Ranger",
-  "485": "Handgun",
-  "486": "Elite Build",
-  "487": "Cyrex",
-  "488": "Riot",
-  "489": "Torque",
-  "490": "Frontside Misty",
-  "491": "Dualing Dragons",
-  "492": "Survivor Z",
-  "493": "Flux",
-  "494": "Stone Cold",
-  "495": "Wraiths",
-  "496": "Nebula Crusader",
-  "497": "Golden Coil",
-  "498": "Rangeen",
-  "499": "Cobalt Core",
-  "5": "Forest DDPAT",
-  "500": "Special Delivery",
-  "501": "Wingshot",
-  "502": "Green Marine",
-  "503": "Big Iron",
-  "504": "Kill Confirmed",
-  "505": "Scumbria",
-  "506": "Point Disarray",
-  "507": "Ricochet",
-  "508": "Fuel Rod",
-  "509": "Corinthian",
-  "51": "Lightning Strike",
-  "510": "Retrobution",
-  "511": "The Executioner",
-  "512": "Royal Paladin",
-  "514": "Power Loader",
-  "515": "Imperial",
-  "516": "Shapewood",
-  "517": "Yorick",
-  "518": "Outbreak",
-  "519": "Tiger Moth",
-  "520": "Avalanche",
-  "521": "Teclu Burner",
-  "522": "Fade",
-  "523": "Amber Fade",
-  "524": "Fuel Injector",
-  "525": "Elite Build",
-  "526": "Photic Zone",
-  "527": "Kumicho Dragon",
-  "528": "Cartel",
-  "529": "Valence",
-  "530": "Triumvirate",
-  "532": "Royal Legion",
-  "533": "The Battlestar",
-  "534": "Lapis Gator",
-  "535": "Praetorian",
-  "536": "Impire",
-  "537": "Hyper Beast",
-  "538": "Necropos",
-  "539": "Jambiya",
-  "540": "Lead Conduit",
-  "541": "Fleet Flock",
-  "542": "Judgement of Anubis",
-  "543": "Red Astor",
-  "544": "Ventilators",
-  "545": "Orange Crash",
-  "546": "Firefight",
-  "547": "Spectre",
-  "548": "Chantico's Fire",
-  "549": "Bioleak",
-  "550": "Oceanic",
-  "551": "Asiimov",
-  "552": "Fubar",
-  "553": "Atlas",
-  "554": "Ghost Crusader",
-  "555": "Re-Entry",
-  "556": "Primal Saber",
-  "557": "Black Tie",
-  "558": "Lore",
-  "559": "Lore",
-  "560": "Lore",
-  "561": "Lore",
-  "562": "Lore",
-  "563": "Black Laminate",
-  "564": "Black Laminate",
-  "565": "Black Laminate",
-  "566": "Black Laminate",
-  "567": "Black Laminate",
-  "568": "Gamma Doppler",
-  "569": "Gamma Doppler",
-  "570": "Gamma Doppler",
-  "571": "Gamma Doppler",
-  "572": "Gamma Doppler",
-  "573": "Autotronic",
-  "574": "Autotronic",
-  "575": "Autotronic",
-  "576": "Autotronic",
-  "577": "Autotronic",
-  "578": "Bright Water",
-  "579": "Bright Water",
-  "580": "Freehand",
-  "581": "Freehand",
-  "582": "Freehand",
-  "583": "Aristocrat",
-  "584": "Phobos",
-  "585": "Violent Daimyo",
-  "586": "Wasteland Rebel",
-  "587": "Mecha Industries",
-  "588": "Desolate Space",
-  "589": "Carnivore",
-  "59": "Slaughter",
-  "590": "Exo",
-  "591": "Imperial Dragon",
-  "592": "Iron Clad",
-  "593": "Chopper",
-  "594": "Harvester",
-  "595": "Reboot",
-  "596": "Limelight",
-  "597": "Bloodsport",
-  "598": "Aerial",
-  "599": "Ice Cap",
-  "6": "Arctic Camo",
-  "60": "Dark Water",
-  "600": "Neon Revolution",
-  "601": "Syd Mead",
-  "602": "Imprint",
-  "603": "Directive",
-  "604": "Roll Cage",
-  "605": "Scumbria",
-  "606": "Ventilator",
-  "607": "Weasel",
-  "608": "Petroglyph",
-  "609": "Airlock",
-  "61": "Hypnotic",
-  "610": "Dazzle",
-  "611": "Grim",
-  "612": "Powercore",
-  "613": "Triarch",
-  "614": "Fuel Injector",
-  "615": "Briefing",
-  "616": "Slipstream",
-  "617": "Doppler",
-  "618": "Doppler",
-  "619": "Doppler",
-  "62": "Bloomstick",
-  "620": "Ultraviolet",
-  "621": "Ultraviolet",
-  "622": "Polymer",
-  "623": "Ironwork",
-  "624": "Dragonfire",
-  "625": "Royal Consorts",
-  "626": "Mecha Industries",
-  "627": "Cirrus",
-  "628": "Stinger",
-  "629": "Black Sand",
-  "630": "Sand Scale",
-  "631": "Flashback",
-  "632": "Buzz Kill",
-  "633": "Sonar",
-  "634": "Gila",
-  "635": "Turf",
-  "636": "Shallow Grave",
-  "637": "Cyrex",
-  "638": "Wasteland Princess",
-  "639": "Bloodsport",
-  "640": "Fever Dream",
-  "641": "Jungle Slipstream",
-  "642": "Blueprint",
-  "643": "Xiangliu",
-  "644": "Decimator",
-  "645": "Oxide Blaze",
-  "646": "Capillary",
-  "647": "Crimson Tsunami",
-  "648": "Emerald Poison Dart",
-  "649": "Akoben",
-  "650": "Ripple",
-  "651": "Last Dive",
-  "652": "Scaffold",
-  "653": "Neo-Noir",
-  "654": "Seasons",
-  "655": "Zander",
-  "656": "Orbit Mk01",
-  "657": "Blueprint",
-  "658": "Cobra Strike",
-  "659": "Macabre",
-  "660": "Hyper Beast",
-  "661": "Sugar Rush",
-  "662": "Oni Taiji",
-  "663": "Briefing",
-  "664": "Hellfire",
-  "665": "Aloha",
-  "666": "Hard Water",
-  "667": "Woodsman",
-  "668": "Red Rock",
-  "669": "Death Grip",
-  "67": "Cold Blooded",
-  "670": "Death's Head",
-  "671": "Cut Out",
-  "672": "Metal Flowers",
-  "673": "Morris",
-  "674": "Triqua",
-  "675": "The Empress",
-  "676": "High Roller",
-  "677": "Hunter",
-  "678": "See Ya Later",
-  "679": "Goo",
-  "680": "Off World",
-  "681": "Leaded Glass",
-  "682": "Oceanic",
-  "683": "Llama Cannon",
-  "684": "Cracked Opal",
-  "685": "Jungle Slipstream",
-  "686": "Phantom",
-  "687": "Tacticat",
-  "688": "Exposure",
-  "689": "Ziggy",
-  "690": "Stymphalian",
-  "691": "Mortis",
-  "692": "Night Riot",
-  "693": "Flame Test",
-  "694": "Moonrise",
-  "695": "Neo-Noir",
-  "696": "Bloodsport",
-  "697": "Black Sand",
-  "698": "Lionfish",
-  "699": "Wild Six",
-  "70": "Carbon Fiber",
-  "700": "Urban Hazard",
-  "701": "Grip",
-  "702": "Aloha",
-  "703": "SWAG-7",
-  "704": "Arctic Wolf",
-  "705": "Cortex",
-  "706": "Oxide Blaze",
-  "707": "Neon Rider",
-  "708": "Amber Slipstream",
-  "709": "Eco",
-  "71": "Scorpion",
-  "710": "Shred",
-  "711": "Code Red",
-  "712": "High Seas",
-  "713": "Warhawk",
-  "714": "Nightmare",
-  "715": "Capillary",
-  "716": "Toy Soldier",
-  "717": "Traction",
-  "718": "PAW",
-  "719": "Powercore",
-  "72": "Safari Mesh",
-  "720": "Devourer",
-  "721": "Survivalist",
-  "722": "Snek-9",
-  "723": "Eye of Athena",
-  "724": "Wild Lotus",
-  "725": "Day Lily",
-  "726": "Sunset Lily",
-  "727": "Midnight Lily",
-  "728": "Teal Blossom",
-  "729": "Crimson Blossom",
-  "73": "Wings",
-  "730": "Dark Blossom",
-  "731": "Banana Leaf",
-  "732": "Synth Leaf",
-  "733": "Rust Leaf",
-  "734": "Wild Lily",
-  "735": "Night Stripe",
-  "736": "The Prince",
-  "737": "Cinquedea",
-  "738": "Orange Murano",
-  "739": "Violet Murano",
-  "74": "Polar Camo",
-  "740": "Navy Murano",
-  "741": "Dark Filigree",
-  "742": "Red Filigree",
-  "743": "Orange Filigree",
-  "744": "Baroque Red",
-  "745": "Baroque Purple",
-  "746": "Baroque Orange",
-  "747": "Twin Turbo",
-  "748": "Calf Skin",
-  "749": "Vino Primo",
-  "75": "Blizzard Marbleized",
-  "750": "Integrale",
-  "751": "Hand Brake",
-  "752": "Fade",
-  "753": "Dirt Drop",
-  "754": "Rust Coat",
-  "755": "Slide",
-  "756": "Gungnir",
-  "757": "Emerald J\u00f6rmungandr",
-  "758": "Flame J\u00f6rmungandr",
-  "759": "Astral J\u00f6rmungandr",
-  "76": "Winter Forest",
-  "760": "Frost Borre",
-  "761": "Copper Borre",
-  "762": "Red Stone",
-  "763": "Mj\u00f6lnir",
-  "764": "Fennec Fox",
-  "765": "Desert Blossom",
-  "77": "Boreal Forest",
-  "775": "Facility Sketch",
-  "776": "Facility Negative",
-  "777": "Facility Draft",
-  "778": "Facility Dark",
-  "779": "Random Access",
-  "78": "Forest Night",
-  "780": "Mainframe",
-  "781": "Co-Processor",
-  "782": "Motherboard",
-  "783": "Bulkhead",
-  "784": "Coolant",
-  "785": "Mandrel",
-  "786": "Exchanger",
-  "787": "Core Breach",
-  "788": "Acheron",
-  "789": "Nuclear Garden",
-  "790": "Cold Fusion",
-  "791": "Remote Control",
-  "792": "Control Panel",
-  "793": "Converter",
-  "794": "Sweeper",
-  "795": "Safety Net",
-  "796": "Check Engine",
-  "797": "Brake Light",
-  "798": "Nitro",
-  "799": "High Beam",
-  "8": "Desert Storm",
-  "800": "Lab Rats",
-  "801": "Asiimov",
-  "802": "Momentum",
-  "803": "Neo-Noir",
-  "804": "Modest Threat",
-  "805": "Mecha Industries",
-  "806": "Scavenger",
-  "807": "Signal",
-  "808": "Oxide Blaze",
-  "809": "Wood Fired",
-  "810": "Phosphor",
-  "811": "Magnesium",
-  "812": "Pipe Down",
-  "813": "Nevermore",
-  "814": "Black Sand",
-  "815": "Danger Close",
-  "816": "Fubar",
-  "817": "Flashback",
-  "818": "Purple DDPAT",
-  "819": "Desert Hydra",
-  "820": "Music Box",
-  "821": "Elegant Vines",
-  "822": "Navy Sheen",
-  "823": "Sand Storm",
-  "824": "Drift Wood",
-  "825": "Drought",
-  "826": "Sienna Damask",
-  "827": "Humidor",
-  "828": "Verdant Growth",
-  "829": "Anolis",
-  "83": "Orange DDPAT",
-  "835": "Crypsis",
-  "836": "Uncharted",
-  "837": "Angry Mob",
-  "838": "Atheris",
-  "839": "Bamboozle",
-  "84": "Pink DDPAT",
-  "840": "Whitefish",
-  "841": "Light Rail",
-  "842": "Akoben",
-  "843": "Skull Crusher",
-  "844": "The Emperor",
-  "845": "Momentum",
-  "846": "Gauss",
-  "847": "Mischief",
-  "848": "Verdigris",
-  "849": "Off World",
-  "850": "Incinegator",
-  "851": "Moonrise",
-  "852": "Doppler",
-  "853": "Doppler",
-  "854": "Doppler",
-  "855": "Doppler",
-  "856": "Marble Fade",
-  "857": "Damascus Steel",
-  "858": "Damascus Steel",
-  "859": "Emerald Quartz",
-  "860": "Pyre",
-  "861": "Barricade",
-  "862": "Moss Quartz",
-  "863": "Night Borre",
-  "864": "Candy Apple",
-  "865": "Stone Mosaico",
-  "866": "Canal Spray",
-  "867": "Stained Glass",
-  "868": "Sea Calico",
-  "869": "Sundown",
-  "870": "Jungle Thicket",
-  "871": "Surfwood",
-  "872": "Bamboo Garden",
-  "873": "Seabird",
-  "879": "Fade",
-  "880": "Parched",
-  "884": "Embargo",
-  "885": "Rat Rod",
-  "886": "Arctic Wolf",
-  "887": "Containment Breach",
-  "888": "Acid Wash",
-  "889": "Decimator",
-  "890": "Plume",
-  "891": "Black Sand",
-  "892": "Memento",
-  "893": "Neon Ply",
-  "894": "Obsidian",
-  "895": "Balance",
-  "896": "Torn",
-  "897": "Colony IV",
-  "898": "Stalker",
-  "899": "Bloodshot",
-  "9": "Bengal Tiger",
-  "90": "Mudder",
-  "900": "Warbird",
-  "902": "Aztec",
-  "903": "Elite 1.6",
-  "904": "Decommissioned",
-  "905": "Flash Out",
-  "906": "Buddy",
-  "907": "Inferno",
-  "908": "Classic Crate",
-  "909": "Popdog",
-  "910": "Hydra",
-  "911": "Nostalgia",
-  "913": "Death by Puppy",
-  "914": "Assault",
-  "915": "Agent",
-  "916": "Plastique",
-  "917": "Wildfire",
-  "918": "Sacrifice",
-  "919": "Commemoration",
-  "92": "Cyanospatter",
-  "920": "Boroque Sand",
-  "921": "Gold Arabesque",
-  "922": "Orange Anolis",
-  "923": "Oxide Oasis",
-  "924": "Desert Brush",
-  "925": "Desert DDPAT",
-  "926": "Red DDPAT",
-  "927": "Spalted Wood",
-  "928": "Black & Tan",
-  "929": "Quick Sand",
-  "93": "Caramel",
-  "930": "New Roots",
-  "931": "Old Roots",
-  "932": "Withered Vine",
-  "933": "Midnight Palm",
-  "934": "Bleached",
-  "935": "Prey",
-  "941": "Phantom Disruptor",
-  "942": "Tom Cat",
-  "943": "Capillary",
-  "944": "Distressed",
-  "945": "Blue Ply",
-  "946": "Player Two",
-  "947": "Disco Tech",
-  "948": "Justice",
-  "949": "Desert Strike",
-  "95": "Grassland",
-  "950": "Prototype",
-  "951": "Acid Etched",
-  "952": "Bone Forged",
-  "953": "Apocalypto",
-  "954": "Enforcer",
-  "955": "Darkwing",
-  "956": "Fever Dream",
-  "957": "Bullet Queen",
-  "958": "Ultralight",
-  "959": "Legion of Anubis",
-  "96": "Blue Spruce",
-  "960": "Gnarled",
-  "961": "Monster Call",
-  "962": "Printstream",
-  "963": "Vogue",
-  "964": "Brother",
-  "965": "Allure",
-  "966": "Ol' Rusty",
-  "967": "Mainframe 001",
-  "968": "Cassette",
-  "969": "Freight",
-  "970": "Entombed",
-  "971": "Tooth Fairy",
-  "972": "Connexion",
-  "973": "Runic",
-  "974": "Kitbash",
-  "975": "Exoskeleton",
-  "976": "Vendetta",
-  "977": "Cocoa Rampage",
-  "978": "Dezastre",
-  "979": "Fairy Tale",
-  "98": "Ultraviolet",
-  "980": "Digital Mesh",
-  "981": "Vandal",
-  "982": "Contaminant",
-  "983": "Deep Relief",
-  "984": "Printstream",
-  "985": "Cyber Security",
-  "986": "Condition Zero",
-  "987": "Clear Polymer",
-  "988": "Neo-Noir",
-  "989": "Parallax",
-  "99": "Sand Dune",
-  "990": "Gold Bismuth",
-  "991": "Monster Mashup",
-  "992": "The Bronze",
-  "993": "Global Offensive",
-  "994": "Charter",
-  "995": "Surveillance",
-  "996": "Threat Detected",
-  "997": "Dispatch",
-  "998": "Switch Board",
-  "999": "Prime Conspiracy"
+  "10": {
+    "name": "Copperhead",
+    "wear_max": 0.38,
+    "wear_min": 0.12
+  },
+  "100": {
+    "name": "Storm",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1000": {
+    "name": "Run and Hide",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "10006": {
+    "name": "Charred",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10007": {
+    "name": "Snakebite",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10008": {
+    "name": "Bronzed",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10009": {
+    "name": "Leather",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1001": {
+    "name": "Welcome to the Jungle",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "10010": {
+    "name": "Spruce DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10013": {
+    "name": "Lunar Weave",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10015": {
+    "name": "Convoy",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10016": {
+    "name": "Crimson Weave",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10018": {
+    "name": "Superconductor",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10019": {
+    "name": "Arid",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1002": {
+    "name": "Berries And Cherries",
+    "wear_max": 0.1,
+    "wear_min": 0.0
+  },
+  "10021": {
+    "name": "Slaughter",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10024": {
+    "name": "Eclipse",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10026": {
+    "name": "Spearmint",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10027": {
+    "name": "Boom!",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10028": {
+    "name": "Cool Mint",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1003": {
+    "name": "Crime Scene",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "10030": {
+    "name": "Forest DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10033": {
+    "name": "Crimson Kimono",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10034": {
+    "name": "Emerald Web",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10035": {
+    "name": "Foundation",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10036": {
+    "name": "Badlands",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10037": {
+    "name": "Pandora's Box",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10038": {
+    "name": "Hedge Maze",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10039": {
+    "name": "Guerrilla",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1004": {
+    "name": "X-Ray",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "10040": {
+    "name": "Diamondback",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10041": {
+    "name": "King Snake",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10042": {
+    "name": "Imperial Plaid",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10043": {
+    "name": "Overtake",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10044": {
+    "name": "Racing Green",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10045": {
+    "name": "Amphibious",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10046": {
+    "name": "Bronze Morph",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10047": {
+    "name": "Omega",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10048": {
+    "name": "Vice",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10049": {
+    "name": "POW!",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1005": {
+    "name": "Heist",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "10050": {
+    "name": "Turtle",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10051": {
+    "name": "Transport",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10052": {
+    "name": "Polygon",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10053": {
+    "name": "Cobalt Skulls",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10054": {
+    "name": "Overprint",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10055": {
+    "name": "Duct Tape",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10056": {
+    "name": "Arboreal",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10057": {
+    "name": "Emerald",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10058": {
+    "name": "Mangrove",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10059": {
+    "name": "Rattler",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1006": {
+    "name": "Night Heist",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "10060": {
+    "name": "Case Hardened",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10061": {
+    "name": "Crimson Web",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10062": {
+    "name": "Buckshot",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10063": {
+    "name": "Fade",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10064": {
+    "name": "Mogul",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10065": {
+    "name": "Marble Fade",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10066": {
+    "name": "Lt. Commander",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10067": {
+    "name": "Tiger Strike",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10068": {
+    "name": "Field Agent",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10069": {
+    "name": "Rezan the Red",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1007": {
+    "name": "Vault Heist",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "10070": {
+    "name": "Snow Leopard",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10071": {
+    "name": "Queen Jaguar",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10072": {
+    "name": "Black Tie",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10073": {
+    "name": "Slingshot",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10074": {
+    "name": "Big Game",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10075": {
+    "name": "Scarlet Shamagh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10076": {
+    "name": "Nocts",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10077": {
+    "name": "Finish Line",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10078": {
+    "name": "Smoke Out",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10079": {
+    "name": "Blood Pressure",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1008": {
+    "name": "Houndstooth",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "10080": {
+    "name": "3rd Commando Company",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10081": {
+    "name": "Desert Shamagh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10082": {
+    "name": "Giraffe",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10083": {
+    "name": "Constrictor",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10084": {
+    "name": "CAUTION!",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10085": {
+    "name": "Jade",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10086": {
+    "name": "Yellow-banded",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10087": {
+    "name": "Needle Point",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "10088": {
+    "name": "Unhinged",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1009": {
+    "name": "Hot Snakes",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "101": {
+    "name": "Tornado",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1010": {
+    "name": "Phoenix Chalk",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1011": {
+    "name": "Phoenix Marker",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1012": {
+    "name": "Phoenix Stencil",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1013": {
+    "name": "Phoenix Blacklight",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1014": {
+    "name": "Clay Ambush",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1015": {
+    "name": "Tiger Pit",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1016": {
+    "name": "Franklin",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "1017": {
+    "name": "Blue Phosphor",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "1018": {
+    "name": "Panthera onca",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1019": {
+    "name": "Panther Camo",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "102": {
+    "name": "Whiteout",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1020": {
+    "name": "Ancient Earth",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1021": {
+    "name": "Ancient Lore",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1022": {
+    "name": "Lush Ruins",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1023": {
+    "name": "Tall Grass",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1024": {
+    "name": "Blast From the Past",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1025": {
+    "name": "Gold Brick",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1026": {
+    "name": "Fade",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "1027": {
+    "name": "Target Acquired",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1028": {
+    "name": "Magna Carta",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1029": {
+    "name": "Silk Tiger",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1030": {
+    "name": "Bengal Tiger",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1031": {
+    "name": "Ancient Visions",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "1032": {
+    "name": "Dusk Ruins",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1033": {
+    "name": "Carved Jade",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "1034": {
+    "name": "Ancient Ritual",
+    "wear_max": 0.76,
+    "wear_min": 0.0
+  },
+  "1035": {
+    "name": "Slate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1036": {
+    "name": "Circaetus",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1037": {
+    "name": "Food Chain",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1038": {
+    "name": "Chromatic Aberration",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1039": {
+    "name": "Clear Polymer",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "104": {
+    "name": "Grassland Leaves",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1040": {
+    "name": "The Traitor",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1041": {
+    "name": "In Living Color",
+    "wear_max": 0.79,
+    "wear_min": 0.0
+  },
+  "1042": {
+    "name": "O.S.I.P.R.",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1043": {
+    "name": "dev_texture",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1044": {
+    "name": "Cyber Shell",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1045": {
+    "name": "Button Masher",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1046": {
+    "name": "XOXO",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1047": {
+    "name": "Junk Yard",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1048": {
+    "name": "Heavy Metal",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1049": {
+    "name": "Oscillator",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1050": {
+    "name": "Trigger Discipline",
+    "wear_max": 0.97,
+    "wear_min": 0.0
+  },
+  "1051": {
+    "name": "Windblown",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1052": {
+    "name": "Death Strike",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1053": {
+    "name": "Meltdown",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "1055": {
+    "name": "Space Race",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1056": {
+    "name": "Sputnik",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1058": {
+    "name": "POP AWP",
+    "wear_max": 0.44,
+    "wear_min": 0.0
+  },
+  "1059": {
+    "name": "Fizzy POP",
+    "wear_max": 0.57,
+    "wear_min": 0.0
+  },
+  "1060": {
+    "name": "Spring Twilly",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1061": {
+    "name": "Autumn Twilly",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "1063": {
+    "name": "The Coalition",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1064": {
+    "name": "Syndicate",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1065": {
+    "name": "Whiteout",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1066": {
+    "name": "Faulty Wiring",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1067": {
+    "name": "Propaganda",
+    "wear_max": 0.62,
+    "wear_min": 0.0
+  },
+  "107": {
+    "name": "Polar Mesh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1070": {
+    "name": "Green Laminate",
+    "wear_max": 0.4,
+    "wear_min": 0.02
+  },
+  "1071": {
+    "name": "CAUTION!",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1072": {
+    "name": "Prism Terrace",
+    "wear_max": 0.37,
+    "wear_min": 0.0
+  },
+  "1073": {
+    "name": "Imminent Danger",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1074": {
+    "name": "Schematic",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1075": {
+    "name": "Strats",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1076": {
+    "name": "Framework",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1077": {
+    "name": "Interlock",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1078": {
+    "name": "Blue Tire",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1079": {
+    "name": "Red Tire",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1080": {
+    "name": "Infrastructure",
+    "wear_max": 0.49,
+    "wear_min": 0.0
+  },
+  "1081": {
+    "name": "Digital Architect",
+    "wear_max": 0.49,
+    "wear_min": 0.0
+  },
+  "1082": {
+    "name": "Fall Hazard",
+    "wear_max": 0.52,
+    "wear_min": 0.01
+  },
+  "1083": {
+    "name": "Breaker Box",
+    "wear_max": 0.44,
+    "wear_min": 0.0
+  },
+  "1084": {
+    "name": "Hazard Pay",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "1085": {
+    "name": "Mechanism",
+    "wear_max": 0.49,
+    "wear_min": 0.0
+  },
+  "1086": {
+    "name": "Oil Change",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1087": {
+    "name": "Leet Museo",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1088": {
+    "name": "Plague",
+    "wear_max": 0.76,
+    "wear_min": 0.0
+  },
+  "1089": {
+    "name": "BI83 Spectrum",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1090": {
+    "name": "Ocean Drive",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1091": {
+    "name": "Tread",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1092": {
+    "name": "ZX Spectron",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1093": {
+    "name": "Boost Protocol",
+    "wear_max": 0.41,
+    "wear_min": 0.0
+  },
+  "1094": {
+    "name": "Mount Fuji",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1095": {
+    "name": "Keeping Tabs",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1096": {
+    "name": "Guerrilla",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1097": {
+    "name": "Spider Lily",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1098": {
+    "name": "Toybox",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1099": {
+    "name": "Lumen",
+    "wear_max": 0.77,
+    "wear_min": 0.0
+  },
+  "11": {
+    "name": "Skulls",
+    "wear_max": 0.26,
+    "wear_min": 0.1
+  },
+  "110": {
+    "name": "Condemned",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1100": {
+    "name": "Snack Attack",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1101": {
+    "name": "Turbo Peek",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1102": {
+    "name": "Black Lotus",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1103": {
+    "name": "Watchdog",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1104": {
+    "name": "Lore",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1105": {
+    "name": "Lore",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1106": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1107": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1108": {
+    "name": "Lore",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1109": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "111": {
+    "name": "Glacier Mesh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1110": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1111": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1112": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1113": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1114": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1115": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1116": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1117": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1118": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1119": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1120": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1121": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1122": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1123": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1125": {
+    "name": "Space Cat",
+    "wear_max": 0.67,
+    "wear_min": 0.0
+  },
+  "1126": {
+    "name": "Melondrama",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1127": {
+    "name": "Rapid Eye Movement",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1128": {
+    "name": "Scrawl",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1129": {
+    "name": "Dream Glade",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1130": {
+    "name": "Night Terror",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1131": {
+    "name": "Ensnared",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1132": {
+    "name": "Foresight",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1133": {
+    "name": "Abyssal Apparition",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1134": {
+    "name": "Starlight Protector",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1135": {
+    "name": "Zombie Offensive",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1136": {
+    "name": "Ticket to Hell",
+    "wear_max": 0.76,
+    "wear_min": 0.0
+  },
+  "1137": {
+    "name": "Necro Jr.",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1138": {
+    "name": "Lifted Spirits",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1139": {
+    "name": "Poultrygeist",
+    "wear_max": 0.57,
+    "wear_min": 0.0
+  },
+  "1140": {
+    "name": "Spirit Board",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1141": {
+    "name": "Nightwish",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "116": {
+    "name": "Sand Mesh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "119": {
+    "name": "Sage Spray",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "12": {
+    "name": "Crimson Web",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "122": {
+    "name": "Jungle Spray",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "124": {
+    "name": "Sand Spray",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "125": {
+    "name": "X-Ray",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "13": {
+    "name": "Blue Streak",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "135": {
+    "name": "Urban Perforated",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "136": {
+    "name": "Waves Perforated",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "14": {
+    "name": "Red Laminate",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "141": {
+    "name": "Orange Peel",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "143": {
+    "name": "Urban Masked",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "147": {
+    "name": "Jungle Dashed",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "148": {
+    "name": "Sand Dashed",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "149": {
+    "name": "Urban Dashed",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "15": {
+    "name": "Gunsmoke",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "151": {
+    "name": "Jungle",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "153": {
+    "name": "Demolition",
+    "wear_max": 0.6,
+    "wear_min": 0.26
+  },
+  "154": {
+    "name": "Afterimage",
+    "wear_max": 0.4,
+    "wear_min": 0.02
+  },
+  "155": {
+    "name": "Bullet Rain",
+    "wear_max": 0.46,
+    "wear_min": 0.02
+  },
+  "156": {
+    "name": "Death by Kitty",
+    "wear_max": 0.32,
+    "wear_min": 0.08
+  },
+  "157": {
+    "name": "Palm",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "158": {
+    "name": "Walnut",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "159": {
+    "name": "Brass",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "16": {
+    "name": "Jungle Tiger",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "162": {
+    "name": "Splash",
+    "wear_max": 0.18,
+    "wear_min": 0.06
+  },
+  "164": {
+    "name": "Modern Hunter",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "165": {
+    "name": "Splash Jam",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "166": {
+    "name": "Blaze Orange",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "167": {
+    "name": "Radiation Hazard",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "168": {
+    "name": "Nuclear Threat",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "169": {
+    "name": "Fallout Warning",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "17": {
+    "name": "Urban DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "170": {
+    "name": "Predator",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "171": {
+    "name": "Irradiated Alert",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "172": {
+    "name": "Black Laminate",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "174": {
+    "name": "BOOM",
+    "wear_max": 0.28,
+    "wear_min": 0.06
+  },
+  "175": {
+    "name": "Scorched",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "176": {
+    "name": "Faded Zebra",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "177": {
+    "name": "Memento",
+    "wear_max": 0.18,
+    "wear_min": 0.02
+  },
+  "178": {
+    "name": "Doomkitty",
+    "wear_max": 0.22,
+    "wear_min": 0.08
+  },
+  "179": {
+    "name": "Nuclear Threat",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "180": {
+    "name": "Fire Serpent",
+    "wear_max": 0.76,
+    "wear_min": 0.06
+  },
+  "181": {
+    "name": "Corticera",
+    "wear_max": 0.3,
+    "wear_min": 0.06
+  },
+  "182": {
+    "name": "Emerald Dragon",
+    "wear_max": 0.52,
+    "wear_min": 0.06
+  },
+  "183": {
+    "name": "Overgrowth",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "184": {
+    "name": "Corticera",
+    "wear_max": 0.3,
+    "wear_min": 0.06
+  },
+  "185": {
+    "name": "Golden Koi",
+    "wear_max": 0.12,
+    "wear_min": 0.0
+  },
+  "186": {
+    "name": "Wave Spray",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "187": {
+    "name": "Zirka",
+    "wear_max": 0.42,
+    "wear_min": 0.06
+  },
+  "188": {
+    "name": "Graven",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "189": {
+    "name": "Bright Water",
+    "wear_max": 0.22,
+    "wear_min": 0.1
+  },
+  "190": {
+    "name": "Black Limba",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "191": {
+    "name": "Tempest",
+    "wear_max": 0.22,
+    "wear_min": 0.06
+  },
+  "192": {
+    "name": "Shattered",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "193": {
+    "name": "Bone Pile",
+    "wear_max": 0.34,
+    "wear_min": 0.06
+  },
+  "194": {
+    "name": "Spitfire",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "195": {
+    "name": "Demeter",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "196": {
+    "name": "Emerald",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "197": {
+    "name": "Anodized Navy",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "198": {
+    "name": "Hazard",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "199": {
+    "name": "Dry Season",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "2": {
+    "name": "Groundwater",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "20": {
+    "name": "Virus",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "200": {
+    "name": "Mayan Dreams",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "201": {
+    "name": "Palm",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "202": {
+    "name": "Jungle DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "203": {
+    "name": "Rust Coat",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "204": {
+    "name": "Mosaico",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "205": {
+    "name": "Jungle",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "206": {
+    "name": "Tornado",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "207": {
+    "name": "Facets",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "208": {
+    "name": "Sand Dune",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "209": {
+    "name": "Groundwater",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "21": {
+    "name": "Granite Marbleized",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "210": {
+    "name": "Anodized Gunmetal",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "211": {
+    "name": "Ocean Foam",
+    "wear_max": 0.12,
+    "wear_min": 0.0
+  },
+  "212": {
+    "name": "Graphite",
+    "wear_max": 0.12,
+    "wear_min": 0.0
+  },
+  "213": {
+    "name": "Ocean Foam",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "214": {
+    "name": "Graphite",
+    "wear_max": 0.12,
+    "wear_min": 0.0
+  },
+  "215": {
+    "name": "X-Ray",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "216": {
+    "name": "Blue Titanium",
+    "wear_max": 0.04,
+    "wear_min": 0.0
+  },
+  "217": {
+    "name": "Blood Tiger",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "218": {
+    "name": "Hexane",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "219": {
+    "name": "Hive",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "22": {
+    "name": "Contrast Spray",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "220": {
+    "name": "Hemoglobin",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "221": {
+    "name": "Serum",
+    "wear_max": 0.25,
+    "wear_min": 0.0
+  },
+  "222": {
+    "name": "Blood in the Water",
+    "wear_max": 0.2,
+    "wear_min": 0.06
+  },
+  "223": {
+    "name": "Nightshade",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "224": {
+    "name": "Water Sigil",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "225": {
+    "name": "Ghost Camo",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "226": {
+    "name": "Blue Laminate",
+    "wear_max": 0.4,
+    "wear_min": 0.02
+  },
+  "227": {
+    "name": "Electric Hive",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "228": {
+    "name": "Blind Spot",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "229": {
+    "name": "Azure Zebra",
+    "wear_max": 0.28,
+    "wear_min": 0.0
+  },
+  "230": {
+    "name": "Steel Disruption",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "231": {
+    "name": "Cobalt Disruption",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "232": {
+    "name": "Crimson Web",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "233": {
+    "name": "Tropical Storm",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "234": {
+    "name": "Ash Wood",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "235": {
+    "name": "VariCamo",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "236": {
+    "name": "Night Ops",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "237": {
+    "name": "Urban Rubble",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "238": {
+    "name": "VariCamo Blue",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "240": {
+    "name": "CaliCamo",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "241": {
+    "name": "Hunting Blind",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "242": {
+    "name": "Army Mesh",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "243": {
+    "name": "Gator Mesh",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "244": {
+    "name": "Teardown",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "245": {
+    "name": "Army Recon",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "246": {
+    "name": "Amber Fade",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "247": {
+    "name": "Damascus Steel",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "248": {
+    "name": "Red Quartz",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "249": {
+    "name": "Cobalt Quartz",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "25": {
+    "name": "Forest Leaves",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "250": {
+    "name": "Full Stop",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "251": {
+    "name": "Pit Viper",
+    "wear_max": 0.5,
+    "wear_min": 0.08
+  },
+  "252": {
+    "name": "Silver Quartz",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "253": {
+    "name": "Acid Fade",
+    "wear_max": 0.03,
+    "wear_min": 0.0
+  },
+  "254": {
+    "name": "Nitro",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "255": {
+    "name": "Asiimov",
+    "wear_max": 1.0,
+    "wear_min": 0.18
+  },
+  "256": {
+    "name": "The Kraken",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "257": {
+    "name": "Guardian",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "258": {
+    "name": "Mehndi",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "259": {
+    "name": "Redline",
+    "wear_max": 0.4,
+    "wear_min": 0.1
+  },
+  "26": {
+    "name": "Lichen Dashed",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "260": {
+    "name": "Pulse",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "261": {
+    "name": "Marina",
+    "wear_max": 0.5,
+    "wear_min": 0.05
+  },
+  "262": {
+    "name": "Rose Iron",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "263": {
+    "name": "Rising Skull",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "264": {
+    "name": "Sandstorm",
+    "wear_max": 0.6,
+    "wear_min": 0.1
+  },
+  "265": {
+    "name": "Kami",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "266": {
+    "name": "Magma",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "267": {
+    "name": "Cobalt Halftone",
+    "wear_max": 0.45,
+    "wear_min": 0.05
+  },
+  "268": {
+    "name": "Tread Plate",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "269": {
+    "name": "The Fuschia Is Now",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "27": {
+    "name": "Bone Mask",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "270": {
+    "name": "Victoria",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "271": {
+    "name": "Undertow",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "272": {
+    "name": "Titanium Bit",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "273": {
+    "name": "Heirloom",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "274": {
+    "name": "Copper Galaxy",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "275": {
+    "name": "Red FragCam",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "276": {
+    "name": "Panther",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "277": {
+    "name": "Stainless",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "278": {
+    "name": "Blue Fissure",
+    "wear_max": 0.58,
+    "wear_min": 0.06
+  },
+  "279": {
+    "name": "Asiimov",
+    "wear_max": 1.0,
+    "wear_min": 0.18
+  },
+  "28": {
+    "name": "Anodized Navy",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "280": {
+    "name": "Chameleon",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "281": {
+    "name": "Corporal",
+    "wear_max": 0.75,
+    "wear_min": 0.05
+  },
+  "282": {
+    "name": "Redline",
+    "wear_max": 0.7,
+    "wear_min": 0.1
+  },
+  "283": {
+    "name": "Trigon",
+    "wear_max": 0.75,
+    "wear_min": 0.08
+  },
+  "284": {
+    "name": "Heat",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "285": {
+    "name": "Terrain",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "286": {
+    "name": "Antique",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "287": {
+    "name": "Pulse",
+    "wear_max": 0.6,
+    "wear_min": 0.1
+  },
+  "288": {
+    "name": "Sergeant",
+    "wear_max": 1.0,
+    "wear_min": 0.1
+  },
+  "289": {
+    "name": "Sandstorm",
+    "wear_max": 0.7,
+    "wear_min": 0.1
+  },
+  "290": {
+    "name": "Guardian",
+    "wear_max": 0.38,
+    "wear_min": 0.0
+  },
+  "291": {
+    "name": "Heaven Guard",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "293": {
+    "name": "Death Rattle",
+    "wear_max": 0.5,
+    "wear_min": 0.08
+  },
+  "294": {
+    "name": "Green Apple",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "295": {
+    "name": "Franklin",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "296": {
+    "name": "Meteorite",
+    "wear_max": 0.18,
+    "wear_min": 0.0
+  },
+  "297": {
+    "name": "Tuxedo",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "298": {
+    "name": "Army Sheen",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "299": {
+    "name": "Caged Steel",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "3": {
+    "name": "Candy Apple",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "30": {
+    "name": "Snake Camo",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "300": {
+    "name": "Emerald Pinstripe",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "301": {
+    "name": "Atomic Alloy",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "302": {
+    "name": "Vulcan",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "303": {
+    "name": "Isaac",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "304": {
+    "name": "Slashed",
+    "wear_max": 0.8,
+    "wear_min": 0.15
+  },
+  "305": {
+    "name": "Torque",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "306": {
+    "name": "Antique",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "307": {
+    "name": "Retribution",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "308": {
+    "name": "Kami",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "309": {
+    "name": "Howl",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "310": {
+    "name": "Curse",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "311": {
+    "name": "Desert Warfare",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "312": {
+    "name": "Cyrex",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "313": {
+    "name": "Orion",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "314": {
+    "name": "Heaven Guard",
+    "wear_max": 0.5,
+    "wear_min": 0.03
+  },
+  "315": {
+    "name": "Poison Dart",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "316": {
+    "name": "Jaguar",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "317": {
+    "name": "Bratatat",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "318": {
+    "name": "Road Rash",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "319": {
+    "name": "Detour",
+    "wear_max": 0.43,
+    "wear_min": 0.0
+  },
+  "32": {
+    "name": "Silver",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "320": {
+    "name": "Red Python",
+    "wear_max": 0.5,
+    "wear_min": 0.08
+  },
+  "321": {
+    "name": "Master Piece",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "322": {
+    "name": "Nitro",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "323": {
+    "name": "Rust Coat",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "325": {
+    "name": "Chalice",
+    "wear_max": 0.1,
+    "wear_min": 0.0
+  },
+  "326": {
+    "name": "Knight",
+    "wear_max": 0.1,
+    "wear_min": 0.0
+  },
+  "327": {
+    "name": "Chainmail",
+    "wear_max": 0.22,
+    "wear_min": 0.0
+  },
+  "328": {
+    "name": "Hand Cannon",
+    "wear_max": 0.7,
+    "wear_min": 0.01
+  },
+  "329": {
+    "name": "Dark Age",
+    "wear_max": 0.22,
+    "wear_min": 0.0
+  },
+  "33": {
+    "name": "Hot Rod",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "330": {
+    "name": "Briar",
+    "wear_max": 0.22,
+    "wear_min": 0.0
+  },
+  "332": {
+    "name": "Royal Blue",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "333": {
+    "name": "Indigo",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "334": {
+    "name": "Twist",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "335": {
+    "name": "Module",
+    "wear_max": 0.35,
+    "wear_min": 0.0
+  },
+  "336": {
+    "name": "Desert-Strike",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "337": {
+    "name": "Tatter",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "338": {
+    "name": "Pulse",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "339": {
+    "name": "Caiman",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "34": {
+    "name": "Metallic DDPAT",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "340": {
+    "name": "Jet Set",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "341": {
+    "name": "First Class",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "342": {
+    "name": "Leather",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "343": {
+    "name": "Commuter",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "344": {
+    "name": "Dragon Lore",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "345": {
+    "name": "First Class",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "346": {
+    "name": "Coach Class",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "347": {
+    "name": "Pilot",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "348": {
+    "name": "Red Leather",
+    "wear_max": 0.56,
+    "wear_min": 0.0
+  },
+  "349": {
+    "name": "Osiris",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "350": {
+    "name": "Tigris",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "351": {
+    "name": "Conspiracy",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "352": {
+    "name": "Fowl Play",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "353": {
+    "name": "Water Elemental",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "354": {
+    "name": "Urban Hazard",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "355": {
+    "name": "Desert-Strike",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "356": {
+    "name": "Koi",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "357": {
+    "name": "Ivory",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "358": {
+    "name": "Supernova",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "359": {
+    "name": "Asiimov",
+    "wear_max": 0.92,
+    "wear_min": 0.0
+  },
+  "36": {
+    "name": "Ossified",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "360": {
+    "name": "Cyrex",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "361": {
+    "name": "Abyss",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "362": {
+    "name": "Labyrinth",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "363": {
+    "name": "Traveler",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "364": {
+    "name": "Business Class",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "365": {
+    "name": "Olive Plaid",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "366": {
+    "name": "Green Plaid",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "367": {
+    "name": "Reactor",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "368": {
+    "name": "Setting Sun",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "369": {
+    "name": "Nuclear Waste",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "37": {
+    "name": "Blaze",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "370": {
+    "name": "Bone Machine",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "371": {
+    "name": "Styx",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "372": {
+    "name": "Nuclear Garden",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "373": {
+    "name": "Contamination",
+    "wear_max": 0.83,
+    "wear_min": 0.0
+  },
+  "374": {
+    "name": "Toxic",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "375": {
+    "name": "Radiation Hazard",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "376": {
+    "name": "Chemical Green",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "377": {
+    "name": "Hot Shot",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "378": {
+    "name": "Fallout Warning",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "379": {
+    "name": "Cerberus",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "38": {
+    "name": "Fade",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "380": {
+    "name": "Wasteland Rebel",
+    "wear_max": 0.7,
+    "wear_min": 0.05
+  },
+  "381": {
+    "name": "Grinder",
+    "wear_max": 0.25,
+    "wear_min": 0.02
+  },
+  "382": {
+    "name": "Murky",
+    "wear_max": 0.25,
+    "wear_min": 0.0
+  },
+  "383": {
+    "name": "Basilisk",
+    "wear_max": 0.68,
+    "wear_min": 0.0
+  },
+  "384": {
+    "name": "Griffin",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "385": {
+    "name": "Firestarter",
+    "wear_max": 0.49,
+    "wear_min": 0.06
+  },
+  "386": {
+    "name": "Dart",
+    "wear_max": 0.46,
+    "wear_min": 0.0
+  },
+  "387": {
+    "name": "Urban Hazard",
+    "wear_max": 0.25,
+    "wear_min": 0.0
+  },
+  "388": {
+    "name": "Cartel",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "389": {
+    "name": "Fire Elemental",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "39": {
+    "name": "Bulldozer",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "390": {
+    "name": "Highwayman",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "391": {
+    "name": "Cardiac",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "392": {
+    "name": "Delusion",
+    "wear_max": 0.35,
+    "wear_min": 0.06
+  },
+  "393": {
+    "name": "Tranquility",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "394": {
+    "name": "Cartel",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "395": {
+    "name": "Man-o'-war",
+    "wear_max": 0.2,
+    "wear_min": 0.1
+  },
+  "396": {
+    "name": "Urban Shock",
+    "wear_max": 0.47,
+    "wear_min": 0.0
+  },
+  "397": {
+    "name": "Naga",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "398": {
+    "name": "Chatterbox",
+    "wear_max": 0.85,
+    "wear_min": 0.35
+  },
+  "399": {
+    "name": "Catacombs",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "40": {
+    "name": "Night",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "400": {
+    "name": "\u9f8d\u738b (Dragon King)",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "401": {
+    "name": "System Lock",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "402": {
+    "name": "Malachite",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "403": {
+    "name": "Deadly Poison",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "404": {
+    "name": "Muertos",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "405": {
+    "name": "Serenity",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "406": {
+    "name": "Grotto",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "407": {
+    "name": "Quicksilver",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "409": {
+    "name": "Tiger Tooth",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "41": {
+    "name": "Copper",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "410": {
+    "name": "Damascus Steel",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "411": {
+    "name": "Damascus Steel",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "413": {
+    "name": "Marble Fade",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "414": {
+    "name": "Rust Coat",
+    "wear_max": 1.0,
+    "wear_min": 0.4
+  },
+  "415": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "416": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "417": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "418": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "419": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "42": {
+    "name": "Blue Steel",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "420": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "421": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "422": {
+    "name": "Elite Build",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "423": {
+    "name": "Armor Core",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "424": {
+    "name": "Worm God",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "425": {
+    "name": "Bronze Deco",
+    "wear_max": 0.46,
+    "wear_min": 0.0
+  },
+  "426": {
+    "name": "Valence",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "427": {
+    "name": "Monkey Business",
+    "wear_max": 0.9,
+    "wear_min": 0.1
+  },
+  "428": {
+    "name": "Eco",
+    "wear_max": 0.85,
+    "wear_min": 0.1
+  },
+  "429": {
+    "name": "Djinn",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "43": {
+    "name": "Stained",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "430": {
+    "name": "Hyper Beast",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "431": {
+    "name": "Heat",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "432": {
+    "name": "Man-o'-war",
+    "wear_max": 0.2,
+    "wear_min": 0.1
+  },
+  "433": {
+    "name": "Neon Rider",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "434": {
+    "name": "Origami",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "435": {
+    "name": "Pole Position",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "436": {
+    "name": "Grand Prix",
+    "wear_max": 0.35,
+    "wear_min": 0.25
+  },
+  "437": {
+    "name": "Twilight Galaxy",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "438": {
+    "name": "Chronos",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "439": {
+    "name": "Hades",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "44": {
+    "name": "Case Hardened",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "440": {
+    "name": "Icarus Fell",
+    "wear_max": 0.1,
+    "wear_min": 0.0
+  },
+  "441": {
+    "name": "Minotaur's Labyrinth",
+    "wear_max": 0.39,
+    "wear_min": 0.0
+  },
+  "442": {
+    "name": "Asterion",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "443": {
+    "name": "Pathfinder",
+    "wear_max": 0.35,
+    "wear_min": 0.0
+  },
+  "444": {
+    "name": "Daedalus",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "445": {
+    "name": "Hot Rod",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "446": {
+    "name": "Medusa",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "447": {
+    "name": "Duelist",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "448": {
+    "name": "Pandora's Box",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "449": {
+    "name": "Poseidon",
+    "wear_max": 0.33,
+    "wear_min": 0.0
+  },
+  "450": {
+    "name": "Moon in Libra",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "451": {
+    "name": "Sun in Leo",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "452": {
+    "name": "Shipping Forecast",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "453": {
+    "name": "Emerald",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "454": {
+    "name": "Para Green",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "455": {
+    "name": "Akihabara Accept",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "456": {
+    "name": "Hydroponic",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "457": {
+    "name": "Bamboo Print",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "458": {
+    "name": "Bamboo Shadow",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "459": {
+    "name": "Bamboo Forest",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "46": {
+    "name": "Contractor",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "460": {
+    "name": "Aqua Terrace",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "462": {
+    "name": "Counter Terrace",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "463": {
+    "name": "Terrace",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "464": {
+    "name": "Neon Kimono",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "465": {
+    "name": "Orange Kimono",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "466": {
+    "name": "Crimson Kimono",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "467": {
+    "name": "Mint Kimono",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "468": {
+    "name": "Midnight Storm",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "469": {
+    "name": "Sunset Storm \u58f1",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "47": {
+    "name": "Colony",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "470": {
+    "name": "Sunset Storm \u5f10",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "471": {
+    "name": "Daybreak",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "472": {
+    "name": "Impact Drill",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "473": {
+    "name": "Seabird",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "474": {
+    "name": "Aquamarine Revenge",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "475": {
+    "name": "Hyper Beast",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "476": {
+    "name": "Yellow Jacket",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "477": {
+    "name": "Neural Net",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "478": {
+    "name": "Rocket Pop",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "479": {
+    "name": "Bunsen Burner",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "48": {
+    "name": "Dragon Tattoo",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "480": {
+    "name": "Evil Daimyo",
+    "wear_max": 0.52,
+    "wear_min": 0.0
+  },
+  "481": {
+    "name": "Nemesis",
+    "wear_max": 0.32,
+    "wear_min": 0.0
+  },
+  "482": {
+    "name": "Ruby Poison Dart",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "483": {
+    "name": "Loudmouth",
+    "wear_max": 0.65,
+    "wear_min": 0.14
+  },
+  "484": {
+    "name": "Ranger",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "485": {
+    "name": "Handgun",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "486": {
+    "name": "Elite Build",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "487": {
+    "name": "Cyrex",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "488": {
+    "name": "Riot",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "489": {
+    "name": "Torque",
+    "wear_max": 0.46,
+    "wear_min": 0.0
+  },
+  "490": {
+    "name": "Frontside Misty",
+    "wear_max": 0.87,
+    "wear_min": 0.02
+  },
+  "491": {
+    "name": "Dualing Dragons",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "492": {
+    "name": "Survivor Z",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "493": {
+    "name": "Flux",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "494": {
+    "name": "Stone Cold",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "495": {
+    "name": "Wraiths",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "496": {
+    "name": "Nebula Crusader",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "497": {
+    "name": "Golden Coil",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "498": {
+    "name": "Rangeen",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "499": {
+    "name": "Cobalt Core",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "5": {
+    "name": "Forest DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "500": {
+    "name": "Special Delivery",
+    "wear_max": 0.62,
+    "wear_min": 0.0
+  },
+  "501": {
+    "name": "Wingshot",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "502": {
+    "name": "Green Marine",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "503": {
+    "name": "Big Iron",
+    "wear_max": 0.64,
+    "wear_min": 0.0
+  },
+  "504": {
+    "name": "Kill Confirmed",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "505": {
+    "name": "Scumbria",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "506": {
+    "name": "Point Disarray",
+    "wear_max": 0.67,
+    "wear_min": 0.0
+  },
+  "507": {
+    "name": "Ricochet",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "508": {
+    "name": "Fuel Rod",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "509": {
+    "name": "Corinthian",
+    "wear_max": 0.44,
+    "wear_min": 0.0
+  },
+  "51": {
+    "name": "Lightning Strike",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "510": {
+    "name": "Retrobution",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "511": {
+    "name": "The Executioner",
+    "wear_max": 0.85,
+    "wear_min": 0.14
+  },
+  "512": {
+    "name": "Royal Paladin",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "514": {
+    "name": "Power Loader",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "515": {
+    "name": "Imperial",
+    "wear_max": 0.2,
+    "wear_min": 0.0
+  },
+  "516": {
+    "name": "Shapewood",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "517": {
+    "name": "Yorick",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "518": {
+    "name": "Outbreak",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "519": {
+    "name": "Tiger Moth",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "520": {
+    "name": "Avalanche",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "521": {
+    "name": "Teclu Burner",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "522": {
+    "name": "Fade",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "523": {
+    "name": "Amber Fade",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "524": {
+    "name": "Fuel Injector",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "525": {
+    "name": "Elite Build",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "526": {
+    "name": "Photic Zone",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "527": {
+    "name": "Kumicho Dragon",
+    "wear_max": 0.76,
+    "wear_min": 0.0
+  },
+  "528": {
+    "name": "Cartel",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "529": {
+    "name": "Valence",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "530": {
+    "name": "Triumvirate",
+    "wear_max": 0.61,
+    "wear_min": 0.0
+  },
+  "532": {
+    "name": "Royal Legion",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "533": {
+    "name": "The Battlestar",
+    "wear_max": 0.64,
+    "wear_min": 0.0
+  },
+  "534": {
+    "name": "Lapis Gator",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "535": {
+    "name": "Praetorian",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "536": {
+    "name": "Impire",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "537": {
+    "name": "Hyper Beast",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "538": {
+    "name": "Necropos",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "539": {
+    "name": "Jambiya",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "540": {
+    "name": "Lead Conduit",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "541": {
+    "name": "Fleet Flock",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "542": {
+    "name": "Judgement of Anubis",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "543": {
+    "name": "Red Astor",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "544": {
+    "name": "Ventilators",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "545": {
+    "name": "Orange Crash",
+    "wear_max": 0.52,
+    "wear_min": 0.0
+  },
+  "546": {
+    "name": "Firefight",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "547": {
+    "name": "Spectre",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "548": {
+    "name": "Chantico's Fire",
+    "wear_max": 0.99,
+    "wear_min": 0.0
+  },
+  "549": {
+    "name": "Bioleak",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "550": {
+    "name": "Oceanic",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "551": {
+    "name": "Asiimov",
+    "wear_max": 1.0,
+    "wear_min": 0.1
+  },
+  "552": {
+    "name": "Fubar",
+    "wear_max": 1.0,
+    "wear_min": 0.4
+  },
+  "553": {
+    "name": "Atlas",
+    "wear_max": 0.81,
+    "wear_min": 0.0
+  },
+  "554": {
+    "name": "Ghost Crusader",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "555": {
+    "name": "Re-Entry",
+    "wear_max": 0.43,
+    "wear_min": 0.0
+  },
+  "556": {
+    "name": "Primal Saber",
+    "wear_max": 0.77,
+    "wear_min": 0.0
+  },
+  "557": {
+    "name": "Black Tie",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "558": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "559": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "560": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "561": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "562": {
+    "name": "Lore",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "563": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "564": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "565": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "566": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "567": {
+    "name": "Black Laminate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "568": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "569": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "570": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "571": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "572": {
+    "name": "Gamma Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "573": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "574": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "575": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "576": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "577": {
+    "name": "Autotronic",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "578": {
+    "name": "Bright Water",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "579": {
+    "name": "Bright Water",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "580": {
+    "name": "Freehand",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "581": {
+    "name": "Freehand",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "582": {
+    "name": "Freehand",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "583": {
+    "name": "Aristocrat",
+    "wear_max": 0.66,
+    "wear_min": 0.0
+  },
+  "584": {
+    "name": "Phobos",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "585": {
+    "name": "Violent Daimyo",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "586": {
+    "name": "Wasteland Rebel",
+    "wear_max": 0.54,
+    "wear_min": 0.0
+  },
+  "587": {
+    "name": "Mecha Industries",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "588": {
+    "name": "Desolate Space",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "589": {
+    "name": "Carnivore",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "59": {
+    "name": "Slaughter",
+    "wear_max": 0.26,
+    "wear_min": 0.01
+  },
+  "590": {
+    "name": "Exo",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "591": {
+    "name": "Imperial Dragon",
+    "wear_max": 0.63,
+    "wear_min": 0.0
+  },
+  "592": {
+    "name": "Iron Clad",
+    "wear_max": 0.8,
+    "wear_min": 0.05
+  },
+  "593": {
+    "name": "Chopper",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "594": {
+    "name": "Harvester",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "595": {
+    "name": "Reboot",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "596": {
+    "name": "Limelight",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "597": {
+    "name": "Bloodsport",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "598": {
+    "name": "Aerial",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "599": {
+    "name": "Ice Cap",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "6": {
+    "name": "Arctic Camo",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "60": {
+    "name": "Dark Water",
+    "wear_max": 0.26,
+    "wear_min": 0.1
+  },
+  "600": {
+    "name": "Neon Revolution",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "601": {
+    "name": "Syd Mead",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "602": {
+    "name": "Imprint",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "603": {
+    "name": "Directive",
+    "wear_max": 1.0,
+    "wear_min": 0.06
+  },
+  "604": {
+    "name": "Roll Cage",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "605": {
+    "name": "Scumbria",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "606": {
+    "name": "Ventilator",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "607": {
+    "name": "Weasel",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "608": {
+    "name": "Petroglyph",
+    "wear_max": 0.44,
+    "wear_min": 0.0
+  },
+  "609": {
+    "name": "Airlock",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "61": {
+    "name": "Hypnotic",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "610": {
+    "name": "Dazzle",
+    "wear_max": 0.65,
+    "wear_min": 0.1
+  },
+  "611": {
+    "name": "Grim",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "612": {
+    "name": "Powercore",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "613": {
+    "name": "Triarch",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "614": {
+    "name": "Fuel Injector",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "615": {
+    "name": "Briefing",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "616": {
+    "name": "Slipstream",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "617": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "618": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "619": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "62": {
+    "name": "Bloomstick",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "620": {
+    "name": "Ultraviolet",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "621": {
+    "name": "Ultraviolet",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "622": {
+    "name": "Polymer",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "623": {
+    "name": "Ironwork",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "624": {
+    "name": "Dragonfire",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "625": {
+    "name": "Royal Consorts",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "626": {
+    "name": "Mecha Industries",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "627": {
+    "name": "Cirrus",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "628": {
+    "name": "Stinger",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "629": {
+    "name": "Black Sand",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "630": {
+    "name": "Sand Scale",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "631": {
+    "name": "Flashback",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "632": {
+    "name": "Buzz Kill",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "633": {
+    "name": "Sonar",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "634": {
+    "name": "Gila",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "635": {
+    "name": "Turf",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "636": {
+    "name": "Shallow Grave",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "637": {
+    "name": "Cyrex",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "638": {
+    "name": "Wasteland Princess",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "639": {
+    "name": "Bloodsport",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "640": {
+    "name": "Fever Dream",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "641": {
+    "name": "Jungle Slipstream",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "642": {
+    "name": "Blueprint",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "643": {
+    "name": "Xiangliu",
+    "wear_max": 0.56,
+    "wear_min": 0.0
+  },
+  "644": {
+    "name": "Decimator",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "645": {
+    "name": "Oxide Blaze",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "646": {
+    "name": "Capillary",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "647": {
+    "name": "Crimson Tsunami",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "648": {
+    "name": "Emerald Poison Dart",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "649": {
+    "name": "Akoben",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "650": {
+    "name": "Ripple",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "651": {
+    "name": "Last Dive",
+    "wear_max": 0.52,
+    "wear_min": 0.0
+  },
+  "652": {
+    "name": "Scaffold",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "653": {
+    "name": "Neo-Noir",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "654": {
+    "name": "Seasons",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "655": {
+    "name": "Zander",
+    "wear_max": 1.0,
+    "wear_min": 0.05
+  },
+  "656": {
+    "name": "Orbit Mk01",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "657": {
+    "name": "Blueprint",
+    "wear_max": 0.86,
+    "wear_min": 0.0
+  },
+  "658": {
+    "name": "Cobra Strike",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "659": {
+    "name": "Macabre",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "660": {
+    "name": "Hyper Beast",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "661": {
+    "name": "Sugar Rush",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "662": {
+    "name": "Oni Taiji",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "663": {
+    "name": "Briefing",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "664": {
+    "name": "Hellfire",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "665": {
+    "name": "Aloha",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "666": {
+    "name": "Hard Water",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "667": {
+    "name": "Woodsman",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "668": {
+    "name": "Red Rock",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "669": {
+    "name": "Death Grip",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "67": {
+    "name": "Cold Blooded",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "670": {
+    "name": "Death's Head",
+    "wear_max": 0.51,
+    "wear_min": 0.0
+  },
+  "671": {
+    "name": "Cut Out",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "672": {
+    "name": "Metal Flowers",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "673": {
+    "name": "Morris",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "674": {
+    "name": "Triqua",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "675": {
+    "name": "The Empress",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "676": {
+    "name": "High Roller",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "677": {
+    "name": "Hunter",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "678": {
+    "name": "See Ya Later",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "679": {
+    "name": "Goo",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "680": {
+    "name": "Off World",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "681": {
+    "name": "Leaded Glass",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "682": {
+    "name": "Oceanic",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "683": {
+    "name": "Llama Cannon",
+    "wear_max": 0.7,
+    "wear_min": 0.03
+  },
+  "684": {
+    "name": "Cracked Opal",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "685": {
+    "name": "Jungle Slipstream",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "686": {
+    "name": "Phantom",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "687": {
+    "name": "Tacticat",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "688": {
+    "name": "Exposure",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "689": {
+    "name": "Ziggy",
+    "wear_max": 0.72,
+    "wear_min": 0.0
+  },
+  "690": {
+    "name": "Stymphalian",
+    "wear_max": 0.63,
+    "wear_min": 0.0
+  },
+  "691": {
+    "name": "Mortis",
+    "wear_max": 0.64,
+    "wear_min": 0.0
+  },
+  "692": {
+    "name": "Night Riot",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "693": {
+    "name": "Flame Test",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "694": {
+    "name": "Moonrise",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "695": {
+    "name": "Neo-Noir",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "696": {
+    "name": "Bloodsport",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "697": {
+    "name": "Black Sand",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "698": {
+    "name": "Lionfish",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "699": {
+    "name": "Wild Six",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "70": {
+    "name": "Carbon Fiber",
+    "wear_max": 0.12,
+    "wear_min": 0.0
+  },
+  "700": {
+    "name": "Urban Hazard",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "701": {
+    "name": "Grip",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "702": {
+    "name": "Aloha",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "703": {
+    "name": "SWAG-7",
+    "wear_max": 0.92,
+    "wear_min": 0.0
+  },
+  "704": {
+    "name": "Arctic Wolf",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "705": {
+    "name": "Cortex",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "706": {
+    "name": "Oxide Blaze",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "707": {
+    "name": "Neon Rider",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "708": {
+    "name": "Amber Slipstream",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "709": {
+    "name": "Eco",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "71": {
+    "name": "Scorpion",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "710": {
+    "name": "Shred",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "711": {
+    "name": "Code Red",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "712": {
+    "name": "High Seas",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "713": {
+    "name": "Warhawk",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "714": {
+    "name": "Nightmare",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "715": {
+    "name": "Capillary",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "716": {
+    "name": "Toy Soldier",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "717": {
+    "name": "Traction",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "718": {
+    "name": "PAW",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "719": {
+    "name": "Powercore",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "72": {
+    "name": "Safari Mesh",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "720": {
+    "name": "Devourer",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "721": {
+    "name": "Survivalist",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "722": {
+    "name": "Snek-9",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "723": {
+    "name": "Eye of Athena",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "724": {
+    "name": "Wild Lotus",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "725": {
+    "name": "Day Lily",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "726": {
+    "name": "Sunset Lily",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "727": {
+    "name": "Midnight Lily",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "728": {
+    "name": "Teal Blossom",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "729": {
+    "name": "Crimson Blossom",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "73": {
+    "name": "Wings",
+    "wear_max": 0.14,
+    "wear_min": 0.0
+  },
+  "730": {
+    "name": "Dark Blossom",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "731": {
+    "name": "Banana Leaf",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "732": {
+    "name": "Synth Leaf",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "733": {
+    "name": "Rust Leaf",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "734": {
+    "name": "Wild Lily",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "735": {
+    "name": "Night Stripe",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "736": {
+    "name": "The Prince",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "737": {
+    "name": "Cinquedea",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "738": {
+    "name": "Orange Murano",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "739": {
+    "name": "Violet Murano",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "74": {
+    "name": "Polar Camo",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "740": {
+    "name": "Navy Murano",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "741": {
+    "name": "Dark Filigree",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "742": {
+    "name": "Red Filigree",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "743": {
+    "name": "Orange Filigree",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "744": {
+    "name": "Baroque Red",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "745": {
+    "name": "Baroque Purple",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "746": {
+    "name": "Baroque Orange",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "747": {
+    "name": "Twin Turbo",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "748": {
+    "name": "Calf Skin",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "749": {
+    "name": "Vino Primo",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "75": {
+    "name": "Blizzard Marbleized",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "750": {
+    "name": "Integrale",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "751": {
+    "name": "Hand Brake",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "752": {
+    "name": "Fade",
+    "wear_max": 0.25,
+    "wear_min": 0.0
+  },
+  "753": {
+    "name": "Dirt Drop",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "754": {
+    "name": "Rust Coat",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "755": {
+    "name": "Slide",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "756": {
+    "name": "Gungnir",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "757": {
+    "name": "Emerald J\u00f6rmungandr",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "758": {
+    "name": "Flame J\u00f6rmungandr",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "759": {
+    "name": "Astral J\u00f6rmungandr",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "76": {
+    "name": "Winter Forest",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "760": {
+    "name": "Frost Borre",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "761": {
+    "name": "Copper Borre",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "762": {
+    "name": "Red Stone",
+    "wear_max": 0.5,
+    "wear_min": 0.06
+  },
+  "763": {
+    "name": "Mj\u00f6lnir",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "764": {
+    "name": "Fennec Fox",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "765": {
+    "name": "Desert Blossom",
+    "wear_max": 0.49,
+    "wear_min": 0.0
+  },
+  "77": {
+    "name": "Boreal Forest",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "775": {
+    "name": "Facility Sketch",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "776": {
+    "name": "Facility Negative",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "777": {
+    "name": "Facility Draft",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "778": {
+    "name": "Facility Dark",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "779": {
+    "name": "Random Access",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "78": {
+    "name": "Forest Night",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "780": {
+    "name": "Mainframe",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "781": {
+    "name": "Co-Processor",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "782": {
+    "name": "Motherboard",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "783": {
+    "name": "Bulkhead",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "784": {
+    "name": "Coolant",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "785": {
+    "name": "Mandrel",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "786": {
+    "name": "Exchanger",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "787": {
+    "name": "Core Breach",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "788": {
+    "name": "Acheron",
+    "wear_max": 0.83,
+    "wear_min": 0.0
+  },
+  "789": {
+    "name": "Nuclear Garden",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "790": {
+    "name": "Cold Fusion",
+    "wear_max": 0.83,
+    "wear_min": 0.0
+  },
+  "791": {
+    "name": "Remote Control",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "792": {
+    "name": "Control Panel",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "793": {
+    "name": "Converter",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "794": {
+    "name": "Sweeper",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "795": {
+    "name": "Safety Net",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "796": {
+    "name": "Check Engine",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "797": {
+    "name": "Brake Light",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "798": {
+    "name": "Nitro",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "799": {
+    "name": "High Beam",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "8": {
+    "name": "Desert Storm",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "800": {
+    "name": "Lab Rats",
+    "wear_max": 0.35,
+    "wear_min": 0.0
+  },
+  "801": {
+    "name": "Asiimov",
+    "wear_max": 0.7,
+    "wear_min": 0.05
+  },
+  "802": {
+    "name": "Momentum",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "803": {
+    "name": "Neo-Noir",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "804": {
+    "name": "Modest Threat",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "805": {
+    "name": "Mecha Industries",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "806": {
+    "name": "Scavenger",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "807": {
+    "name": "Signal",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "808": {
+    "name": "Oxide Blaze",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "809": {
+    "name": "Wood Fired",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "810": {
+    "name": "Phosphor",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "811": {
+    "name": "Magnesium",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "812": {
+    "name": "Pipe Down",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "813": {
+    "name": "Nevermore",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "814": {
+    "name": "Black Sand",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "815": {
+    "name": "Danger Close",
+    "wear_max": 0.8,
+    "wear_min": 0.02
+  },
+  "816": {
+    "name": "Fubar",
+    "wear_max": 1.0,
+    "wear_min": 0.14
+  },
+  "817": {
+    "name": "Flashback",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "818": {
+    "name": "Purple DDPAT",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "819": {
+    "name": "Desert Hydra",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "820": {
+    "name": "Music Box",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "821": {
+    "name": "Elegant Vines",
+    "wear_max": 0.37,
+    "wear_min": 0.0
+  },
+  "822": {
+    "name": "Navy Sheen",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "823": {
+    "name": "Sand Storm",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "824": {
+    "name": "Drift Wood",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "825": {
+    "name": "Drought",
+    "wear_max": 0.44,
+    "wear_min": 0.0
+  },
+  "826": {
+    "name": "Sienna Damask",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "827": {
+    "name": "Humidor",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "828": {
+    "name": "Verdant Growth",
+    "wear_max": 0.47,
+    "wear_min": 0.0
+  },
+  "829": {
+    "name": "Anolis",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "83": {
+    "name": "Orange DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "835": {
+    "name": "Crypsis",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "836": {
+    "name": "Uncharted",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "837": {
+    "name": "Angry Mob",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "838": {
+    "name": "Atheris",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "839": {
+    "name": "Bamboozle",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "84": {
+    "name": "Pink DDPAT",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "840": {
+    "name": "Whitefish",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "841": {
+    "name": "Light Rail",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "842": {
+    "name": "Akoben",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "843": {
+    "name": "Skull Crusher",
+    "wear_max": 0.8,
+    "wear_min": 0.25
+  },
+  "844": {
+    "name": "The Emperor",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "845": {
+    "name": "Momentum",
+    "wear_max": 1.0,
+    "wear_min": 0.05
+  },
+  "846": {
+    "name": "Gauss",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "847": {
+    "name": "Mischief",
+    "wear_max": 1.0,
+    "wear_min": 0.1
+  },
+  "848": {
+    "name": "Verdigris",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "849": {
+    "name": "Off World",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "850": {
+    "name": "Incinegator",
+    "wear_max": 0.65,
+    "wear_min": 0.14
+  },
+  "851": {
+    "name": "Moonrise",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "852": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "853": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "854": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "855": {
+    "name": "Doppler",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "856": {
+    "name": "Marble Fade",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "857": {
+    "name": "Damascus Steel",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "858": {
+    "name": "Damascus Steel",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "859": {
+    "name": "Emerald Quartz",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "860": {
+    "name": "Pyre",
+    "wear_max": 0.55,
+    "wear_min": 0.06
+  },
+  "861": {
+    "name": "Barricade",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "862": {
+    "name": "Moss Quartz",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "863": {
+    "name": "Night Borre",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "864": {
+    "name": "Candy Apple",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "865": {
+    "name": "Stone Mosaico",
+    "wear_max": 0.5,
+    "wear_min": 0.06
+  },
+  "866": {
+    "name": "Canal Spray",
+    "wear_max": 0.6,
+    "wear_min": 0.06
+  },
+  "867": {
+    "name": "Stained Glass",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "868": {
+    "name": "Sea Calico",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "869": {
+    "name": "Sundown",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "870": {
+    "name": "Jungle Thicket",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "871": {
+    "name": "Surfwood",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "872": {
+    "name": "Bamboo Garden",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "873": {
+    "name": "Seabird",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "879": {
+    "name": "Fade",
+    "wear_max": 0.08,
+    "wear_min": 0.0
+  },
+  "880": {
+    "name": "Parched",
+    "wear_max": 0.49,
+    "wear_min": 0.0
+  },
+  "884": {
+    "name": "Embargo",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "885": {
+    "name": "Rat Rod",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "886": {
+    "name": "Arctic Wolf",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "887": {
+    "name": "Containment Breach",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "888": {
+    "name": "Acid Wash",
+    "wear_max": 0.68,
+    "wear_min": 0.0
+  },
+  "889": {
+    "name": "Decimator",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "890": {
+    "name": "Plume",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "891": {
+    "name": "Black Sand",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "892": {
+    "name": "Memento",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "893": {
+    "name": "Neon Ply",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "894": {
+    "name": "Obsidian",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "895": {
+    "name": "Balance",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "896": {
+    "name": "Torn",
+    "wear_max": 0.45,
+    "wear_min": 0.0
+  },
+  "897": {
+    "name": "Colony IV",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "898": {
+    "name": "Stalker",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "899": {
+    "name": "Bloodshot",
+    "wear_max": 0.6,
+    "wear_min": 0.14
+  },
+  "9": {
+    "name": "Bengal Tiger",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "90": {
+    "name": "Mudder",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "900": {
+    "name": "Warbird",
+    "wear_max": 0.65,
+    "wear_min": 0.05
+  },
+  "902": {
+    "name": "Aztec",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "903": {
+    "name": "Elite 1.6",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "904": {
+    "name": "Decommissioned",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "905": {
+    "name": "Flash Out",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "906": {
+    "name": "Buddy",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "907": {
+    "name": "Inferno",
+    "wear_max": 0.68,
+    "wear_min": 0.0
+  },
+  "908": {
+    "name": "Classic Crate",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "909": {
+    "name": "Popdog",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "910": {
+    "name": "Hydra",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "911": {
+    "name": "Nostalgia",
+    "wear_max": 0.57,
+    "wear_min": 0.0
+  },
+  "913": {
+    "name": "Death by Puppy",
+    "wear_max": 0.4,
+    "wear_min": 0.0
+  },
+  "914": {
+    "name": "Assault",
+    "wear_max": 0.62,
+    "wear_min": 0.0
+  },
+  "915": {
+    "name": "Agent",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "916": {
+    "name": "Plastique",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "917": {
+    "name": "Wildfire",
+    "wear_max": 0.7,
+    "wear_min": 0.01
+  },
+  "918": {
+    "name": "Sacrifice",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "919": {
+    "name": "Commemoration",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "92": {
+    "name": "Cyanospatter",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "920": {
+    "name": "Boroque Sand",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "921": {
+    "name": "Gold Arabesque",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "922": {
+    "name": "Orange Anolis",
+    "wear_max": 0.37,
+    "wear_min": 0.0
+  },
+  "923": {
+    "name": "Oxide Oasis",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "924": {
+    "name": "Desert Brush",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "925": {
+    "name": "Desert DDPAT",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "926": {
+    "name": "Red DDPAT",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "927": {
+    "name": "Spalted Wood",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "928": {
+    "name": "Black & Tan",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "929": {
+    "name": "Quick Sand",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "93": {
+    "name": "Caramel",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "930": {
+    "name": "New Roots",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "931": {
+    "name": "Old Roots",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "932": {
+    "name": "Withered Vine",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "933": {
+    "name": "Midnight Palm",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "934": {
+    "name": "Bleached",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "935": {
+    "name": "Prey",
+    "wear_max": 0.48,
+    "wear_min": 0.0
+  },
+  "941": {
+    "name": "Phantom Disruptor",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "942": {
+    "name": "Tom Cat",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "943": {
+    "name": "Capillary",
+    "wear_max": 0.7,
+    "wear_min": 0.05
+  },
+  "944": {
+    "name": "Distressed",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "945": {
+    "name": "Blue Ply",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "946": {
+    "name": "Player Two",
+    "wear_max": 0.84,
+    "wear_min": 0.0
+  },
+  "947": {
+    "name": "Disco Tech",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "948": {
+    "name": "Justice",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "949": {
+    "name": "Desert Strike",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "95": {
+    "name": "Grassland",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "950": {
+    "name": "Prototype",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "951": {
+    "name": "Acid Etched",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "952": {
+    "name": "Bone Forged",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "953": {
+    "name": "Apocalypto",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "954": {
+    "name": "Enforcer",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "955": {
+    "name": "Darkwing",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "956": {
+    "name": "Fever Dream",
+    "wear_max": 0.72,
+    "wear_min": 0.0
+  },
+  "957": {
+    "name": "Bullet Queen",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "958": {
+    "name": "Ultralight",
+    "wear_max": 0.79,
+    "wear_min": 0.0
+  },
+  "959": {
+    "name": "Legion of Anubis",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "96": {
+    "name": "Blue Spruce",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "960": {
+    "name": "Gnarled",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "961": {
+    "name": "Monster Call",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "962": {
+    "name": "Printstream",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "963": {
+    "name": "Vogue",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "964": {
+    "name": "Brother",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "965": {
+    "name": "Allure",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "966": {
+    "name": "Ol' Rusty",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "967": {
+    "name": "Mainframe 001",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "968": {
+    "name": "Cassette",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "969": {
+    "name": "Freight",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "970": {
+    "name": "Entombed",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "971": {
+    "name": "Tooth Fairy",
+    "wear_max": 0.73,
+    "wear_min": 0.0
+  },
+  "972": {
+    "name": "Connexion",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "973": {
+    "name": "Runic",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "974": {
+    "name": "Kitbash",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "975": {
+    "name": "Exoskeleton",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "976": {
+    "name": "Vendetta",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "977": {
+    "name": "Cocoa Rampage",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "978": {
+    "name": "Dezastre",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "979": {
+    "name": "Fairy Tale",
+    "wear_max": 0.9,
+    "wear_min": 0.02
+  },
+  "98": {
+    "name": "Ultraviolet",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "980": {
+    "name": "Digital Mesh",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "981": {
+    "name": "Vandal",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "982": {
+    "name": "Contaminant",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "983": {
+    "name": "Deep Relief",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "984": {
+    "name": "Printstream",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "985": {
+    "name": "Cyber Security",
+    "wear_max": 0.98,
+    "wear_min": 0.0
+  },
+  "986": {
+    "name": "Condition Zero",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "987": {
+    "name": "Clear Polymer",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "988": {
+    "name": "Neo-Noir",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "989": {
+    "name": "Parallax",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "99": {
+    "name": "Sand Dune",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "990": {
+    "name": "Gold Bismuth",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "991": {
+    "name": "Monster Mashup",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "992": {
+    "name": "The Bronze",
+    "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "993": {
+    "name": "Global Offensive",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "994": {
+    "name": "Charter",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "995": {
+    "name": "Surveillance",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "996": {
+    "name": "Threat Detected",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "997": {
+    "name": "Dispatch",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "998": {
+    "name": "Switch Board",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "999": {
+    "name": "Prime Conspiracy",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  }
 }

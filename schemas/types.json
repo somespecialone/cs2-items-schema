@@ -375,10 +375,6 @@
     "category": "19",
     "name": "Huntsman Case Key"
   },
-  "1306": {
-    "category": "26",
-    "name": "Mission"
-  },
   "1307": {
     "category": "19",
     "name": "Huntsman Case Key"
@@ -422,14 +418,6 @@
   "1318": {
     "category": "10",
     "name": "Gold Operation Vanguard Coin"
-  },
-  "1320": {
-    "category": "21",
-    "name": "Campaign Maghreb"
-  },
-  "1321": {
-    "category": "21",
-    "name": "Campaign Eurasia"
   },
   "1322": {
     "category": "19",
@@ -710,10 +698,6 @@
   "2": {
     "category": "3",
     "name": "Dual Berettas"
-  },
-  "20": {
-    "category": "25",
-    "name": "Repulsor Device"
   },
   "20000": {
     "category": "11",
@@ -1387,6 +1371,10 @@
     "category": "11",
     "name": "StatTrak\u2122 Music Kit | The Verkkars & n0thing, Flashbang Dance"
   },
+  "20187": {
+    "category": "11",
+    "name": "The Boardroom Sticker Capsule"
+  },
   "23": {
     "category": "6",
     "name": "MP5-SD"
@@ -1427,10 +1415,6 @@
     "category": "19",
     "name": "Dreams & Nightmares Contest Winner"
   },
-  "31": {
-    "category": "25",
-    "name": "Zeus x27"
-  },
   "32": {
     "category": "3",
     "name": "P2000"
@@ -1450,10 +1434,6 @@
   "36": {
     "category": "3",
     "name": "P250"
-  },
-  "37": {
-    "category": "25",
-    "name": "Riot Shield"
   },
   "38": {
     "category": "5",
@@ -2663,10 +2643,6 @@
     "category": "11",
     "name": "Sticker | Natus Vincere | Atlanta 2017"
   },
-  "43": {
-    "category": "22",
-    "name": "Flashbang"
-  },
   "4300": {
     "category": "11",
     "name": "Sticker | North | Atlanta 2017"
@@ -3066,10 +3042,6 @@
   "4399": {
     "category": "11",
     "name": "Krakow 2017 Overpass Souvenir Package"
-  },
-  "44": {
-    "category": "22",
-    "name": "High Explosive Grenade"
   },
   "4400": {
     "category": "11",
@@ -3471,10 +3443,6 @@
     "category": "11",
     "name": "Sticker | Ninjas in Pyjamas | London 2018"
   },
-  "45": {
-    "category": "22",
-    "name": "Smoke Grenade"
-  },
   "4500": {
     "category": "11",
     "name": "Sticker | compLexity Gaming | London 2018"
@@ -3875,10 +3843,6 @@
     "category": "11",
     "name": "Feral Predators Capsule"
   },
-  "46": {
-    "category": "22",
-    "name": "Molotov"
-  },
   "4600": {
     "category": "11",
     "name": "Shattered Web Sticker Collection"
@@ -4275,10 +4239,6 @@
     "category": "15",
     "name": "Operation Broken Fang Premium Pass"
   },
-  "47": {
-    "category": "22",
-    "name": "Decoy Grenade"
-  },
   "4700": {
     "category": "10",
     "name": "Operation Broken Fang Challenge Coin"
@@ -4615,6 +4575,10 @@
     "category": "11",
     "name": "Operation Riptide Sticker Collection"
   },
+  "4784": {
+    "category": "11",
+    "name": "The Boardroom Sticker Capsule"
+  },
   "4785": {
     "category": "11",
     "name": "The 2021 Train Collection"
@@ -4674,10 +4638,6 @@
   "4799": {
     "category": "10",
     "name": "Stockholm 2021 Gold Coin"
-  },
-  "48": {
-    "category": "22",
-    "name": "Incendiary Grenade"
   },
   "4800": {
     "category": "10",
@@ -4778,14 +4738,6 @@
   "4824": {
     "category": "10",
     "name": "2022 Service Medal"
-  },
-  "49": {
-    "category": "24",
-    "name": "C4 Explosive"
-  },
-  "50": {
-    "category": "25",
-    "name": "Kevlar Vest"
   },
   "500": {
     "category": "1",
@@ -5099,10 +5051,6 @@
     "category": "9",
     "name": null
   },
-  "51": {
-    "category": "25",
-    "name": "Kevlar + Helmet"
-  },
   "5100": {
     "category": "9",
     "name": null
@@ -5170,10 +5118,6 @@
   "519": {
     "category": "1",
     "name": "Ursus Knife"
-  },
-  "52": {
-    "category": "25",
-    "name": "Heavy Assault Suit"
   },
   "520": {
     "category": "1",
@@ -5291,10 +5235,6 @@
     "category": "9",
     "name": "Primeiro Tenente | Brazilian 1st Battalion"
   },
-  "55": {
-    "category": "25",
-    "name": "Defuse Kit"
-  },
   "5500": {
     "category": "9",
     "name": "Dragomir | Sabre"
@@ -5319,10 +5259,6 @@
     "category": "9",
     "name": "Dragomir | Sabre Footsoldier"
   },
-  "56": {
-    "category": "25",
-    "name": "Rescue Kit"
-  },
   "5600": {
     "category": "9",
     "name": null
@@ -5334,10 +5270,6 @@
   "5602": {
     "category": "9",
     "name": "D Squadron Officer | NZSAS"
-  },
-  "57": {
-    "category": "25",
-    "name": "Medi-Shot"
   },
   "58": {
     "category": "12",
@@ -5627,10 +5559,6 @@
     "category": "10",
     "name": "Alyx Pin"
   },
-  "62": {
-    "category": "23",
-    "name": "Trade Up Contract"
-  },
   "63": {
     "category": "3",
     "name": "CZ75-Auto"
@@ -5655,10 +5583,6 @@
     "category": "11",
     "name": "Master Agents"
   },
-  "68": {
-    "category": "22",
-    "name": "Tactical Awareness Grenade"
-  },
   "69": {
     "category": "1",
     "name": "Bare Hands"
@@ -5667,17 +5591,9 @@
     "category": "4",
     "name": "AK-47"
   },
-  "70": {
-    "category": "25",
-    "name": "Breach Charge"
-  },
   "7000": {
     "category": "19",
     "name": "Operation Wildfire Case Key"
-  },
-  "72": {
-    "category": "25",
-    "name": "Tablet"
   },
   "75": {
     "category": "1",
@@ -5698,26 +5614,6 @@
   "80": {
     "category": "1",
     "name": "Spectral Shiv"
-  },
-  "81": {
-    "category": "22",
-    "name": "Fire Bomb"
-  },
-  "82": {
-    "category": "22",
-    "name": "Diversion Device"
-  },
-  "83": {
-    "category": "22",
-    "name": "Frag Grenade"
-  },
-  "84": {
-    "category": "22",
-    "name": "Snowball"
-  },
-  "85": {
-    "category": "25",
-    "name": "Bump Mine"
   },
   "874": {
     "category": "10",

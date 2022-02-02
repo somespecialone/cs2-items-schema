@@ -44,4 +44,5 @@ class CasesCollector:
                     }
                 )
 
+        # TODO: sticker capsules, souvenir packages
         return cases

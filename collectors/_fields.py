@@ -17,6 +17,9 @@ class FieldsCollector:
     _non_weapon_key: str = "nonweapon"
     _character_key: str = "character"
 
+    _WEAR_MIN_DEFAULT = 0.06
+    _WEAR_MAX_DEFAULT = 0.8
+
     def _parse_qualities(self) -> dict[str, str]:
         qualities = {}
         for quality_key, quality_data in self.items_game["qualities"].items():
@@ -32,8 +35,7 @@ class FieldsCollector:
             weapon_hud: str = item_data["item_name"][1:]
 
         else:
-            prefab_val: str = item_data["prefab"]
-            weapon_hud: str = self.items_game["prefabs"][prefab_val]["item_name"][1:]
+            weapon_hud: str = self.items_game["prefabs"][item_data["prefab"]]["item_name"][1:]
 
         return self.csgo_english.get(weapon_hud.lower())
 
@@ -62,7 +64,7 @@ class FieldsCollector:
                 }
             except KeyError:
                 pass
-        return {k: v for k, v in types.items() if v is not None}  # filter from None values
+        return types
 
     def _define_paints(self, paintindex: str) -> str:
         code_name: str = self.items_game["paint_kits"][paintindex]["description_tag"][1:]
@@ -70,16 +72,24 @@ class FieldsCollector:
 
     def _parse_paints(self):
         paints = {}
-        for paintindex in self.items_game["paint_kits"].keys():
+        for paintindex, paint_data in self.items_game["paint_kits"].items():
             try:
-                paints |= {paintindex: self._define_paints(paintindex)}
+                paints |= {
+                    paintindex: {
+                        "name": self._define_paints(paintindex),
+                        "wear_min": float(paint_data.get("wear_remap_min", self._WEAR_MIN_DEFAULT)),
+                        "wear_max": float(paint_data.get("wear_remap_max", self._WEAR_MAX_DEFAULT)),
+                    }
+                }
             except KeyError:
                 pass
-        # TODO: wear min/max
+
+        del paints["0"]  # exclude base(vanilla) weapon paint
         return paints
 
     def _parse_rarities(self) -> dict[str, dict[str, str]]:
-        del self.items_game["rarities"]["unusual"]  # remove useless rarity
+        del self.items_game["rarities"]["unusual"]
+        del self.items_game["rarities"]["default"]  # remove useless rarity
         return {
             v["value"]: {
                 self._weapon_key: self.csgo_english[v["loc_key_weapon"].lower()],
