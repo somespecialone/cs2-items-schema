@@ -42,6 +42,7 @@ if __name__ == "__main__":
         ),
         "vpk_path": args.vpk_path.resolve(),
         "categories_path": RES_DIR / "categories.json",
+        "phases_mapping_path": RES_DIR / "_phases_mapping.json",
     }
     resource_collector = ResourceCollector(**params)
     asyncio.run(resource_collector.collect())

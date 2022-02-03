@@ -5,9 +5,6 @@ from . import _typings
 from ._vpk_extractor import VpkExtractor
 
 
-STICKER_FIX_NAMES: tuple[tuple[str, str]] = (("dignitas", "teamdignitas"),)
-
-
 @dataclass(eq=False, repr=False)
 class StickerPatchCollector:
     """Collect sticker kits :)"""
@@ -17,10 +14,11 @@ class StickerPatchCollector:
     items_game: _typings.ITEMS_GAME
     csgo_english: _typings.CSGO_ENGLISH
 
-    @staticmethod
-    def _fix_sticker_name(sticker_name: str) -> str:
+    STICKER_FIX_NAMES: tuple[tuple[str, str]] = (("dignitas", "teamdignitas"),)
+
+    def _fix_sticker_name(self, sticker_name: str) -> str:
         """Fix sticker name inconstancy. Valve's 'good' work..."""
-        for sticker_names in STICKER_FIX_NAMES:
+        for sticker_names in self.STICKER_FIX_NAMES:
             if sticker_names[0] in sticker_name:
                 return sticker_name.replace(sticker_names[0], sticker_names[1])
 
@@ -39,7 +37,7 @@ class StickerPatchCollector:
     def _parse_tints(self):
         tints = {}
         for tint_data in self.items_game["graffiti_tints"].values():
-            tints |= {tint_data["id"]: self.csgo_english["Attrib_SprayTintValue_".lower() + tint_data["id"]]}
+            tints[tint_data["id"]] = self.csgo_english["Attrib_SprayTintValue_".lower() + tint_data["id"]]
 
         return tints
 

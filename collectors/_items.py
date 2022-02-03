@@ -11,10 +11,10 @@ class ItemsCollector:
     items_schema: _typings.ITEMS_SCHEMA
     items_cdn: _typings.ITEMS_CDN
 
-    paints: dict[str, str]
-    types: dict[str, dict[str, str]]
-    categories: dict[str, str]
-    cases: dict[str, dict[str | list[str]]]
+    paints: _typings.PAINTS
+    types: _typings.TYPES
+    categories: _typings.CATEGORIES
+    cases: _typings.CASES
 
     _WITH_PAINTS_SET: set[str] = field(
         default_factory=lambda: {"knife", "pistol", "rifle", "smg", "sniper rifle", "shotgun", "machinegun", "gloves"}
@@ -100,7 +100,7 @@ class ItemsCollector:
                         }
 
                         if cases := self._find_cases(defindex, paint_index):
-                            painted_item |= {"cases": cases}
+                            painted_item["cases"] = cases
 
                         items.update({"[" + paint_index + "]" + defindex: painted_item})
 

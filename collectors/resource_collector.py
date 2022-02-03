@@ -42,6 +42,7 @@ class ResourceCollector:
 
     vpk_path: Path
     categories_path: Path
+    phases_mapping_path: Path
 
     def __post_init__(self):
         assert self.vpk_path.exists(), "No vpk file on this path"  # some validation
@@ -86,11 +87,14 @@ class ResourceCollector:
         with self.categories_path.open("r") as c:
             categories: dict[str, str] = json.load(c)
 
+        with self.phases_mapping_path.open("r") as p:
+            phases_mapping: dict[str, str] = json.load(p)
+
         texts = await self._fetch_data_files()
         items_game, csgo_english, items_cdn, items_schema = self._parse_data_files(*texts)
         pak = VpkExtractor(vpk.open(str(self.vpk_path)))
 
-        fields_collector = FieldsCollector(items_game, csgo_english, items_schema, categories)
+        fields_collector = FieldsCollector(items_game, csgo_english, items_schema, categories, phases_mapping)
         qualities, types, paints, rarities, origins = fields_collector()
 
         cases_collector = CasesCollector(items_game, csgo_english, items_schema)

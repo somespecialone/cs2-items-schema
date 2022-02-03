@@ -10,21 +10,22 @@ class FieldsCollector:
     items_game: _typings.ITEMS_GAME
     csgo_english: _typings.CSGO_ENGLISH
     items_schema: _typings.ITEMS_SCHEMA
-    categories: dict[str, str]
+    categories: _typings.CATEGORIES
+    phases_mapping: _typings.PHASES_MAPPING
 
     # key to identify rarity
-    _weapon_key: str = "weapon"
-    _non_weapon_key: str = "nonweapon"
-    _character_key: str = "character"
+    _WEAPON_KEY: str = "weapon"
+    _NON_WEAPON_KEY: str = "nonweapon"
+    _CHARACTER_KEY: str = "character"
 
-    _WEAR_MIN_DEFAULT = 0.06
-    _WEAR_MAX_DEFAULT = 0.8
+    _WEAR_MIN_DEFAULT: float = 0.06
+    _WEAR_MAX_DEFAULT: float = 0.8
 
     def _parse_qualities(self) -> dict[str, str]:
         qualities = {}
         for quality_key, quality_data in self.items_game["qualities"].items():
             try:
-                qualities |= {quality_data["value"]: self.csgo_english[quality_key.lower()]}
+                qualities[quality_data["value"]] = self.csgo_english[quality_key.lower()]
             except KeyError:
                 pass
         return qualities
@@ -50,17 +51,15 @@ class FieldsCollector:
             if str(item_data["defindex"]) == defindex:
                 return categories_mapping[self.csgo_english[item_data["item_type_name"][1:].lower()].lower()]
 
-    def _parse_types(self) -> dict[str, str]:
+    def _parse_types(self) -> dict[str, dict[str, str]]:
         types = {}
 
         del self.items_game["items"]["default"]
         for defindex in self.items_game["items"].keys():
             try:
-                types |= {
-                    defindex: {
-                        "name": self._find_item_name(defindex),
-                        "category": self._find_category(defindex),
-                    }
+                types[defindex] = {
+                    "name": self._find_item_name(defindex),
+                    "category": self._find_category(defindex),
                 }
             except KeyError:
                 pass
@@ -71,16 +70,20 @@ class FieldsCollector:
         return self.csgo_english[code_name.lower()]
 
     def _parse_paints(self):
+        # paints with paintindex bigger than 999/1000 are real?
         paints = {}
         for paintindex, paint_data in self.items_game["paint_kits"].items():
             try:
-                paints |= {
-                    paintindex: {
-                        "name": self._define_paints(paintindex),
-                        "wear_min": float(paint_data.get("wear_remap_min", self._WEAR_MIN_DEFAULT)),
-                        "wear_max": float(paint_data.get("wear_remap_max", self._WEAR_MAX_DEFAULT)),
-                    }
+                paint = {
+                    "name": self._define_paints(paintindex),
+                    "wear_min": float(paint_data.get("wear_remap_min", self._WEAR_MIN_DEFAULT)),
+                    "wear_max": float(paint_data.get("wear_remap_max", self._WEAR_MAX_DEFAULT)),
                 }
+
+                if "doppler" in paint["name"].lower() and (phase := self.phases_mapping.get(paintindex)):
+                    paint["phase"] = phase
+
+                paints[paintindex] = paint
             except KeyError:
                 pass
 
@@ -89,12 +92,12 @@ class FieldsCollector:
 
     def _parse_rarities(self) -> dict[str, dict[str, str]]:
         del self.items_game["rarities"]["unusual"]
-        del self.items_game["rarities"]["default"]  # remove useless rarity
+        del self.items_game["rarities"]["default"]  # remove useless rarities
         return {
             v["value"]: {
-                self._weapon_key: self.csgo_english[v["loc_key_weapon"].lower()],
-                self._non_weapon_key: self.csgo_english[v["loc_key"].lower()],
-                self._character_key: self.csgo_english[v["loc_key_character"].lower()],
+                self._WEAPON_KEY: self.csgo_english[v["loc_key_weapon"].lower()],
+                self._NON_WEAPON_KEY: self.csgo_english[v["loc_key"].lower()],
+                self._CHARACTER_KEY: self.csgo_english[v["loc_key_character"].lower()],
                 "color": self.items_game["colors"][v["color"]]["hex_color"],
             }
             for v in self.items_game["rarities"].values()
