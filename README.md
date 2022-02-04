@@ -29,7 +29,7 @@ python ./collect.py "some/absolute/path/Steam/steamapps/common/Counter-Strike Gl
 ### TODO 📑
 
 - [ ] Rare items in cases (maybe from external resource)
-- [ ] Souvenir/Stattrak (qualities) items
+- [ ] Sticker capsules
 - [ ] Souvenir packages
 - [ ] Item sets
 - [ ] Graffiti with tints
