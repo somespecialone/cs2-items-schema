@@ -16,9 +16,10 @@ class ItemsCollector:
     categories: _typings.CATEGORIES
     cases: _typings.CASES
 
-    _WITH_PAINTS_SET: set[str] = field(
+    _WITH_PAINTS: set[str] = field(
         default_factory=lambda: {"knife", "pistol", "rifle", "smg", "sniper rifle", "shotgun", "machinegun", "gloves"}
     )
+    _WITHOUT_IMAGE: set[str] = field(default_factory=lambda: {"patch", "sticker", "graffiti"})
 
     def _create_painted_item_name(self, defindex: str, paint_index: str) -> str:
         paint_codename = "_" + self.items_game["paint_kits"][paint_index]["name"]
@@ -34,7 +35,7 @@ class ItemsCollector:
         return list(cases)
 
     def _check_paintable(self, item: dict[str, str | dict]) -> bool:
-        # return self.categories[self.types[item["defindex"]]["category"]] in self._WITH_PAINTS_SET
+        # return self.categories[self.types[item["defindex"]]["category"]] in self._WITH_PAINTS
         return item.get("capabilities", {}).get("paintable", False)
 
     def _find_rarity_paintable(self, paint_index: str) -> str:
@@ -76,16 +77,11 @@ class ItemsCollector:
                 continue
 
             if not self._check_paintable(item_data):
-                if image := (item_data["image_url"] or item_data["image_url_large"]):
-                    items.update(
-                        {
-                            defindex: {
-                                "type": defindex,
-                                "image": image,
-                                "rarity": self._find_rarity_nonpaintable(defindex),
-                            }
-                        }
-                    )
+                item = {"type": defindex, "rarity": self._find_rarity_nonpaintable(defindex)}
+                if image := item_data["image_url"] or item_data["image_url_large"]:
+                    item["image"] = image
+
+                items[defindex] = item
 
             else:
                 # find possible combination defindex + paintindex = item with paint
@@ -102,6 +98,6 @@ class ItemsCollector:
                         if cases := self._find_cases(defindex, paint_index):
                             painted_item["cases"] = cases
 
-                        items.update({"[" + paint_index + "]" + defindex: painted_item})
+                        items[f"[{paint_index}]{defindex}"] = painted_item
 
         return items

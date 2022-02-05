@@ -1,12 +1,10 @@
 {
   "1": {
-    "character": "",
     "color": "#b0c3d9",
     "nonweapon": "Base Grade",
     "weapon": "Consumer Grade"
   },
   "2": {
-    "character": "",
     "color": "#5e98d9",
     "nonweapon": "Medium Grade",
     "weapon": "Industrial Grade"

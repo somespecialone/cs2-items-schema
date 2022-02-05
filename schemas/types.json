@@ -4791,285 +4791,25 @@
     "category": "9",
     "name": "Local CT Agent"
   },
-  "5038": {
-    "category": "9",
-    "name": null
-  },
-  "5039": {
-    "category": "9",
-    "name": null
-  },
-  "5040": {
-    "category": "9",
-    "name": null
-  },
-  "5041": {
-    "category": "9",
-    "name": null
-  },
-  "5042": {
-    "category": "9",
-    "name": null
-  },
-  "5043": {
-    "category": "9",
-    "name": null
-  },
-  "5044": {
-    "category": "9",
-    "name": null
-  },
-  "5045": {
-    "category": "9",
-    "name": null
-  },
-  "5046": {
-    "category": "9",
-    "name": null
-  },
-  "5047": {
-    "category": "9",
-    "name": null
-  },
-  "5048": {
-    "category": "9",
-    "name": null
-  },
-  "5049": {
-    "category": "9",
-    "name": null
-  },
   "505": {
     "category": "1",
     "name": "Flip Knife"
-  },
-  "5050": {
-    "category": "9",
-    "name": null
-  },
-  "5051": {
-    "category": "9",
-    "name": null
-  },
-  "5052": {
-    "category": "9",
-    "name": null
-  },
-  "5053": {
-    "category": "9",
-    "name": null
-  },
-  "5054": {
-    "category": "9",
-    "name": null
-  },
-  "5055": {
-    "category": "9",
-    "name": null
-  },
-  "5056": {
-    "category": "9",
-    "name": null
-  },
-  "5057": {
-    "category": "9",
-    "name": null
-  },
-  "5058": {
-    "category": "9",
-    "name": null
-  },
-  "5059": {
-    "category": "9",
-    "name": null
   },
   "506": {
     "category": "1",
     "name": "Gut Knife"
   },
-  "5060": {
-    "category": "9",
-    "name": null
-  },
-  "5061": {
-    "category": "9",
-    "name": null
-  },
-  "5062": {
-    "category": "9",
-    "name": null
-  },
-  "5063": {
-    "category": "9",
-    "name": null
-  },
-  "5064": {
-    "category": "9",
-    "name": null
-  },
-  "5065": {
-    "category": "9",
-    "name": null
-  },
-  "5066": {
-    "category": "9",
-    "name": null
-  },
-  "5067": {
-    "category": "9",
-    "name": null
-  },
-  "5068": {
-    "category": "9",
-    "name": null
-  },
-  "5069": {
-    "category": "9",
-    "name": null
-  },
   "507": {
     "category": "1",
     "name": "Karambit"
-  },
-  "5070": {
-    "category": "9",
-    "name": null
-  },
-  "5071": {
-    "category": "9",
-    "name": null
-  },
-  "5072": {
-    "category": "9",
-    "name": null
-  },
-  "5073": {
-    "category": "9",
-    "name": null
-  },
-  "5074": {
-    "category": "9",
-    "name": null
-  },
-  "5075": {
-    "category": "9",
-    "name": null
-  },
-  "5076": {
-    "category": "9",
-    "name": null
-  },
-  "5077": {
-    "category": "9",
-    "name": null
-  },
-  "5078": {
-    "category": "9",
-    "name": null
-  },
-  "5079": {
-    "category": "9",
-    "name": null
   },
   "508": {
     "category": "1",
     "name": "M9 Bayonet"
   },
-  "5080": {
-    "category": "9",
-    "name": null
-  },
-  "5081": {
-    "category": "9",
-    "name": null
-  },
-  "5082": {
-    "category": "9",
-    "name": null
-  },
-  "5083": {
-    "category": "9",
-    "name": null
-  },
-  "5084": {
-    "category": "9",
-    "name": null
-  },
-  "5085": {
-    "category": "9",
-    "name": null
-  },
-  "5086": {
-    "category": "9",
-    "name": null
-  },
-  "5087": {
-    "category": "9",
-    "name": null
-  },
-  "5088": {
-    "category": "9",
-    "name": null
-  },
-  "5089": {
-    "category": "9",
-    "name": null
-  },
   "509": {
     "category": "1",
     "name": "Huntsman Knife"
-  },
-  "5090": {
-    "category": "9",
-    "name": null
-  },
-  "5091": {
-    "category": "9",
-    "name": null
-  },
-  "5092": {
-    "category": "9",
-    "name": null
-  },
-  "5093": {
-    "category": "9",
-    "name": null
-  },
-  "5094": {
-    "category": "9",
-    "name": null
-  },
-  "5095": {
-    "category": "9",
-    "name": null
-  },
-  "5096": {
-    "category": "9",
-    "name": null
-  },
-  "5097": {
-    "category": "9",
-    "name": null
-  },
-  "5100": {
-    "category": "9",
-    "name": null
-  },
-  "5101": {
-    "category": "9",
-    "name": null
-  },
-  "5102": {
-    "category": "9",
-    "name": null
-  },
-  "5103": {
-    "category": "9",
-    "name": null
-  },
-  "5104": {
-    "category": "9",
-    "name": null
   },
   "5105": {
     "category": "9",
@@ -5123,26 +4863,6 @@
     "category": "1",
     "name": "Navaja Knife"
   },
-  "5200": {
-    "category": "9",
-    "name": null
-  },
-  "5201": {
-    "category": "9",
-    "name": null
-  },
-  "5202": {
-    "category": "9",
-    "name": null
-  },
-  "5203": {
-    "category": "9",
-    "name": null
-  },
-  "5204": {
-    "category": "9",
-    "name": null
-  },
   "5205": {
     "category": "9",
     "name": "Soldier | Phoenix"
@@ -5174,26 +4894,6 @@
   "525": {
     "category": "1",
     "name": "Skeleton Knife"
-  },
-  "5300": {
-    "category": "9",
-    "name": null
-  },
-  "5301": {
-    "category": "9",
-    "name": null
-  },
-  "5302": {
-    "category": "9",
-    "name": null
-  },
-  "5303": {
-    "category": "9",
-    "name": null
-  },
-  "5304": {
-    "category": "9",
-    "name": null
   },
   "5305": {
     "category": "9",
@@ -5258,10 +4958,6 @@
   "5505": {
     "category": "9",
     "name": "Dragomir | Sabre Footsoldier"
-  },
-  "5600": {
-    "category": "9",
-    "name": null
   },
   "5601": {
     "category": "9",

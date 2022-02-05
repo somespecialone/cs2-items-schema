@@ -38,7 +38,7 @@ class FieldsCollector:
         else:
             weapon_hud: str = self.items_game["prefabs"][item_data["prefab"]]["item_name"][1:]
 
-        return self.csgo_english.get(weapon_hud.lower())
+        return self.csgo_english[weapon_hud.lower()]
 
     @staticmethod
     def _invert_dict(mapping: dict[str, str]) -> dict[str, str]:
@@ -93,15 +93,19 @@ class FieldsCollector:
     def _parse_rarities(self) -> dict[str, dict[str, str]]:
         del self.items_game["rarities"]["unusual"]
         del self.items_game["rarities"]["default"]  # remove useless rarities
-        return {
-            v["value"]: {
+        rarities = {}
+        for v in self.items_game["rarities"].values():
+            rarity = {
                 self._WEAPON_KEY: self.csgo_english[v["loc_key_weapon"].lower()],
                 self._NON_WEAPON_KEY: self.csgo_english[v["loc_key"].lower()],
-                self._CHARACTER_KEY: self.csgo_english[v["loc_key_character"].lower()],
                 "color": self.items_game["colors"][v["color"]]["hex_color"],
             }
-            for v in self.items_game["rarities"].values()
-        }
+            if character_rarity := self.csgo_english[v["loc_key_character"].lower()]:
+                rarity[self._CHARACTER_KEY] = character_rarity
+
+            rarities[v["value"]] = rarity
+
+        return rarities
 
     def _parse_origins(self) -> dict[str, str]:
         return {str(origin_data["origin"]): origin_data["name"] for origin_data in self.items_schema["originNames"]}

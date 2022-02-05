@@ -404,6 +404,10 @@
     "rarity": "1",
     "type": "1204"
   },
+  "1209": {
+    "rarity": "1",
+    "type": "1209"
+  },
   "1210": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/gift1player.d7af0c74ccc8314c314c870708c0ae3a0ead32ad.png",
     "rarity": "1",
@@ -473,6 +477,10 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_4.9767c63233d8985cd090230ab2bfa29ae05ecdc0.png",
     "rarity": "1",
     "type": "1313"
+  },
+  "1314": {
+    "rarity": "3",
+    "type": "1314"
   },
   "1315": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/operation_vanguard_pass.4dbf27f27c32be69ae74f13f6aaa20da52ae8126.png",
@@ -613,6 +621,14 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_12.89e026230580ed4b9ad7e64590105df3476d6714.png",
     "rarity": "1",
     "type": "1347"
+  },
+  "1348": {
+    "rarity": "1",
+    "type": "1348"
+  },
+  "1349": {
+    "rarity": "1",
+    "type": "1349"
   },
   "1350": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/crate_key_community_13.7d24fd2e7d65e034b4b35d61cde00c7dfc025a66.png",
@@ -4694,6 +4710,10 @@
     "rarity": "1",
     "type": "4608"
   },
+  "4609": {
+    "rarity": "1",
+    "type": "4609"
+  },
   "4610": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_patch_pack01.1617d1419f05d0ac0b7c33d853f344890f400300.png",
     "rarity": "1",
@@ -5914,6 +5934,10 @@
     "rarity": "1",
     "type": "5602"
   },
+  "58": {
+    "rarity": "3",
+    "type": "58"
+  },
   "59": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_t.3d6c8a849655a3ff51633c7dd575646ed9ac020d.png",
     "rarity": "1",
@@ -6303,6 +6327,10 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_spanner.5ee5de5470d1f74c8a63ed151d18027024db2620.png",
     "rarity": "1",
     "type": "78"
+  },
+  "80": {
+    "rarity": "1",
+    "type": "80"
   },
   "874": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/5yearcoin.8349aa6fa8af5018a3906bf5a0223537dce3e0bf.png",

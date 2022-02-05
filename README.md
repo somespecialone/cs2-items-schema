@@ -32,4 +32,4 @@ python ./collect.py "some/absolute/path/Steam/steamapps/common/Counter-Strike Gl
 - [ ] Sticker capsules
 - [ ] Souvenir packages
 - [ ] Item sets
-- [ ] Graffiti with tints
+- [x] ~~Graffiti with tints~~
