@@ -31,5 +31,5 @@ python ./collect.py "some/absolute/path/Steam/steamapps/common/Counter-Strike Gl
 - [ ] Rare items in cases (maybe from external resource)
 - [ ] Sticker capsules
 - [ ] Souvenir packages
-- [ ] Item sets
+- [x] Item sets
 - [x] ~~Graffiti with tints~~

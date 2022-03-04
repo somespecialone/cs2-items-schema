@@ -389,6 +389,36 @@
     "rarity": "6",
     "type": "1078"
   },
+  "1079": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_iris.f7f26d30c7d355011e0b82e4852b92b76c402d24.png",
+    "rarity": "6",
+    "type": "1079"
+  },
+  "1080": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_climb.052e07c5967d082dc6284708a1d3dab9113a250c.png",
+    "rarity": "6",
+    "type": "1080"
+  },
+  "1081": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_crete.ba48f238ec6045875787bc012550d8fa5769ad3c.png",
+    "rarity": "6",
+    "type": "1081"
+  },
+  "1082": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_hive.30dddbb4433152560f6fd5d89242f2a5e28c53af.png",
+    "rarity": "6",
+    "type": "1082"
+  },
+  "1083": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_vineyard.6724f3f34c27bcd26b9480354d68933ed774eef2.png",
+    "rarity": "6",
+    "type": "1083"
+  },
+  "1084": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/maptoken_ember.dabce2e9efd517a5eb4a3060545eb0da017f2733.png",
+    "rarity": "6",
+    "type": "1084"
+  },
   "1200": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/tools/tag.a2bf9644e84e15506b9abab84125eb24527b723a.png",
     "rarity": "1",

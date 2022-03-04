@@ -319,6 +319,30 @@
     "category": "10",
     "name": "County Map Coin"
   },
+  "1079": {
+    "category": "10",
+    "name": "Iris Map Coin"
+  },
+  "1080": {
+    "category": "10",
+    "name": "Climb Map Coin"
+  },
+  "1081": {
+    "category": "10",
+    "name": "Crete Map Coin"
+  },
+  "1082": {
+    "category": "10",
+    "name": "Hive Map Coin"
+  },
+  "1083": {
+    "category": "10",
+    "name": "Vineyard Map Coin"
+  },
+  "1084": {
+    "category": "10",
+    "name": "Ember Map Coin"
+  },
   "11": {
     "category": "5",
     "name": "G3SG1"

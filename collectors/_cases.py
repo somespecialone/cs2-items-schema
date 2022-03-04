@@ -40,6 +40,7 @@ class CasesCollector:
                             "name": self.csgo_english[item_data["item_name"][1:].lower()],
                             "image": self._find_image(defindex),
                             "items": self._find_items(item_data["tags"]["ItemSet"]["tag_value"]),
+                            "set": self.csgo_english[item_data["tags"]["ItemSet"]["tag_text"][1:].lower()],
                         }
                     }
                 )
