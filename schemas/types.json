@@ -4763,6 +4763,90 @@
     "category": "10",
     "name": "2022 Service Medal"
   },
+  "4825": {
+    "category": "15",
+    "name": "Antwerp 2022 Viewer Pass"
+  },
+  "4826": {
+    "category": "10",
+    "name": "Antwerp 2022 Coin"
+  },
+  "4827": {
+    "category": "10",
+    "name": "Antwerp 2022 Silver Coin"
+  },
+  "4828": {
+    "category": "10",
+    "name": "Antwerp 2022 Gold Coin"
+  },
+  "4829": {
+    "category": "10",
+    "name": "Antwerp 2022 Diamond Coin"
+  },
+  "4830": {
+    "category": "15",
+    "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens"
+  },
+  "4831": {
+    "category": "15",
+    "name": "Antwerp 2022 Souvenir Token"
+  },
+  "4832": {
+    "category": "11",
+    "name": "Antwerp 2022 Legends Sticker Capsule"
+  },
+  "4833": {
+    "category": "11",
+    "name": "Antwerp 2022 Challengers Sticker Capsule"
+  },
+  "4834": {
+    "category": "11",
+    "name": "Antwerp 2022 Contenders Sticker Capsule"
+  },
+  "4835": {
+    "category": "11",
+    "name": "Antwerp 2022 Inferno Souvenir Package"
+  },
+  "4836": {
+    "category": "11",
+    "name": "Antwerp 2022 Mirage Souvenir Package"
+  },
+  "4837": {
+    "category": "11",
+    "name": "Antwerp 2022 Dust II Souvenir Package"
+  },
+  "4838": {
+    "category": "11",
+    "name": "Antwerp 2022 Overpass Souvenir Package"
+  },
+  "4839": {
+    "category": "11",
+    "name": "Antwerp 2022 Ancient Souvenir Package"
+  },
+  "4840": {
+    "category": "11",
+    "name": "Antwerp 2022 Nuke Souvenir Package"
+  },
+  "4841": {
+    "category": "11",
+    "name": "Antwerp 2022 Vertigo Souvenir Package"
+  },
+  "4842": {
+    "category": "11",
+    "name": "Antwerp 2022 Legends Autograph Capsule"
+  },
+  "4843": {
+    "category": "11",
+    "name": "Antwerp 2022 Challengers Autograph Capsule"
+  },
+  "4844": {
+    "category": "11",
+    "name": "Antwerp 2022 Contenders Autograph Capsule"
+  },
+  "4845": {
+    "category": "11",
+    "name": "Antwerp 2022 Champions Autograph Capsule"
+  },
   "500": {
     "category": "1",
     "name": "Bayonet"
@@ -5774,5 +5858,21 @@
   "982": {
     "category": "10",
     "name": "Quarterfinalist at PGL Stockholm 2021"
+  },
+  "983": {
+    "category": "10",
+    "name": "Champion at PGL Antwerp 2022"
+  },
+  "984": {
+    "category": "10",
+    "name": "Finalist at PGL Antwerp 2022"
+  },
+  "985": {
+    "category": "10",
+    "name": "Semifinalist at PGL Antwerp 2022"
+  },
+  "986": {
+    "category": "10",
+    "name": "Quarterfinalist at PGL Antwerp 2022"
   }
 }

@@ -5809,6 +5809,111 @@
     "rarity": "6",
     "type": "4824"
   },
+  "4825": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass.9657f475496fbf853d15fc294d163beaf5ec4369.png",
+    "rarity": "1",
+    "type": "4825"
+  },
+  "4826": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_bronze.5ae4d2715c1c268f525cdc96e069ddb09bc78bd1.png",
+    "rarity": "6",
+    "type": "4826"
+  },
+  "4827": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_silver.fbbd6039bb7c426a2bc94260fef724a7afa41686.png",
+    "rarity": "6",
+    "type": "4827"
+  },
+  "4828": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_gold.4e42cefcb36534f913f9fecdcfb10dd2632be50a.png",
+    "rarity": "6",
+    "type": "4828"
+  },
+  "4829": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_crystal.4f8bbc057bddd674969549fedf89ce6df6e34a9f.png",
+    "rarity": "6",
+    "type": "4829"
+  },
+  "4830": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_pack.8275d589d582bb3c525951c098a8020fcbd4e7fd.png",
+    "rarity": "1",
+    "type": "4830"
+  },
+  "4831": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/pgl_pickem_2022_pass_charge.d6ea82480149ddbea247c4617e5175b684177eed.png",
+    "rarity": "1",
+    "type": "4831"
+  },
+  "4832": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_legends.739658b85d1bf64fa382df956e4b06ee03517c8f.png",
+    "rarity": "1",
+    "type": "4832"
+  },
+  "4833": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers.2a8bbe701212a71f6aafa66eefe4e5882d466d29.png",
+    "rarity": "1",
+    "type": "4833"
+  },
+  "4834": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders.5de5e408ebbae3c5e27d2d692aad446a515f7112.png",
+    "rarity": "1",
+    "type": "4834"
+  },
+  "4835": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_inferno.bbafa6dc6366b53b52fe2e5505063c3d22a9d5e8.png",
+    "rarity": "1",
+    "type": "4835"
+  },
+  "4836": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_mirage.6fd89e7b1aa99b499085b3ee4d1bc9babe9f0149.png",
+    "rarity": "1",
+    "type": "4836"
+  },
+  "4837": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_dust2.34c2ad7fef5af8760c1b821cc291b2ae2aeaa46a.png",
+    "rarity": "1",
+    "type": "4837"
+  },
+  "4838": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_overpass.b49a0cf31d712111df1f242aba93847c9957625d.png",
+    "rarity": "1",
+    "type": "4838"
+  },
+  "4839": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_ancient.be9d7d23627870d11893a4dd8a57a063cec07b03.png",
+    "rarity": "1",
+    "type": "4839"
+  },
+  "4840": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_nuke.4429df1cdac6206b27343c1b2187ddd17c1f735b.png",
+    "rarity": "1",
+    "type": "4840"
+  },
+  "4841": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_antwerp2022_promo_de_vertigo.b6852a54ab50c53059d8d7a90998e500682d30be.png",
+    "rarity": "1",
+    "type": "4841"
+  },
+  "4842": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends.04ab14e8417a24ae0b925d8064d95929c0c6b303.png",
+    "rarity": "1",
+    "type": "4842"
+  },
+  "4843": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers.fa18c4d5778dde2971aee30f10b4f07860169353.png",
+    "rarity": "1",
+    "type": "4843"
+  },
+  "4844": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders.494683f2789eeade4b00accef3556d2099d52075.png",
+    "rarity": "1",
+    "type": "4844"
+  },
+  "4845": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions.db89b34dc09a6c0ecca620329c13b8f2c9cda40c.png",
+    "rarity": "1",
+    "type": "4845"
+  },
   "5028": {
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/t_gloves.5f14eea783ae4af8925568511ce39eb76463b489.png",
     "rarity": "1",
@@ -6906,6 +7011,26 @@
     "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
     "rarity": "6",
     "type": "982"
+  },
+  "983": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors.22c41059d3f3732ccc503cff103040e020f05e92.png",
+    "rarity": "6",
+    "type": "983"
+  },
+  "984": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+    "rarity": "6",
+    "type": "984"
+  },
+  "985": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+    "rarity": "6",
+    "type": "985"
+  },
+  "986": {
+    "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/status_icons/trophy_majors_finalists.3fc763dc0877ef542e9e6927bde6e3771deaee00.png",
+    "rarity": "6",
+    "type": "986"
   },
   "[10006]5027": {
     "image": "http://media.steampowered.com/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.36a1f3b18c240487ae6aba735429754c706aca70.png",
