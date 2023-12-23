@@ -1,8 +1,7 @@
 import asyncio
 import json
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any
 
 import aiohttp
 from multidict import CIMultiDict
@@ -18,53 +17,44 @@ from .containers import ContainersCollector
 
 @dataclass(eq=False, repr=False)
 class ResourceCollector:
-    RES_DIR: Path = ""
+    resource_dir: Path = field(default_factory=lambda: Path("schemas"))
 
-    ITEMS_GAME_URL: str = ""
-    CSGO_ENGLISH_URL: str = ""
-    ITEMS_GAME_CDN_URL: str = ""
+    items_game_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/items_game.txt"
+    csgo_english_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/csgo_english.txt"
+    items_game_cdn_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/items_game_cdn.txt"
 
-    async def _fetch_data_files(self) -> list[dict | list]:
+    _phases_mapping: dict[str, str] = None
+
+    def __post_init__(self):
+        with (self.resource_dir / "_phases_mapping.json").open("r") as p:
+            self._phases_mapping: dict[str, str] = json.load(p)
+
+    async def fetch_data(self) -> tuple[typings.ITEMS_GAME, typings.CSGO_ENGLISH, typings.ITEMS_CDN]:
         async with aiohttp.ClientSession() as session:
             tasks = (
-                session.get(self.ITEMS_GAME_URL),
-                session.get(self.CSGO_ENGLISH_URL),
-                session.get(self.ITEMS_GAME_CDN_URL),
+                session.get(self.items_game_url),
+                session.get(self.csgo_english_url),
+                session.get(self.items_game_cdn_url),
             )
 
             resps = await asyncio.gather(*tasks)
-            return [await resp.text() for resp in resps]
+            items_game_raw, csgo_english_raw, items_game_cdn_raw = [await resp.text() for resp in resps]
 
-    @classmethod
-    def _parse_data_files(cls) -> tuple:
-        with Path("items_game.txt").open("r", encoding="utf8") as f:
-            items_game_raw = vdf.load(f)
-
-        with Path("csgo_english.txt").open("r", encoding="utf8") as f:
-            csgo_english_raw = vdf.load(f)
-
-        with Path("items_game_cdn.txt").open("r", encoding="utf8") as f:
-            items_game_cdn_raw = f.read()
-
-        items_game: typings.ITEMS_GAME = items_game_raw["items_game"]
-        csgo_english: typings.CSGO_ENGLISH = CIMultiDict(csgo_english_raw["lang"]["Tokens"])
-        items_cdn: typings.ITEMS_CDN = {k: v for k, v in (l.split("=") for l in items_game_cdn_raw.splitlines()[3:])}
+        items_game = vdf.loads(items_game_raw)["items_game"]
+        csgo_english = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
+        items_cdn = {k: v for k, v in (l.split("=") for l in items_game_cdn_raw.splitlines()[3:])}
 
         return items_game, csgo_english, items_cdn
 
-    def dump_files(self, *files: tuple[str | Path, Any]):
+    def dump_files(self, *files: tuple[str | Path, ...]):
         for file_name, file in files:
-            with (Path("schemas") / file_name).open("w") as f:
+            with (self.resource_dir / file_name).open("w") as f:
                 json.dump(file, f, sort_keys=True, indent=2)
 
-    def collect(self):
-        with Path("schemas/_phases_mapping.json").open("r") as p:
-            phases_mapping: dict[str, str] = json.load(p)
+    async def collect(self):
+        items_game, csgo_english, items_cdn = await self.fetch_data()
 
-        # texts = await self._fetch_data_files()
-        items_game, csgo_english, items_cdn = self._parse_data_files()
-
-        fields_collector = FieldsCollector(items_game, csgo_english, phases_mapping)
+        fields_collector = FieldsCollector(items_game, csgo_english, self._phases_mapping)
         types, qualities, definitions, paints, rarities, musics, tints = fields_collector()
 
         containers_collector = ContainersCollector(items_game, csgo_english)

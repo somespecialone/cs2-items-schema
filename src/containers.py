@@ -65,7 +65,11 @@ class ContainersCollector:
             if not self._check_case_prefab(item_data):
                 continue
 
-            container = {"name": self.csgo_english[item_data["item_name"][1:]]}
+            try:
+                container = {"name": self.csgo_english[item_data["item_name"][1:]]}
+            except KeyError:
+                continue
+
             # there can be image pointer for containers a la 'econ/weapon_cases/...'
 
             containers_to_add = {}
@@ -167,7 +171,7 @@ class ContainersCollector:
                     containers_to_add = sticker_capsules
 
             else:  # skip containers without loot lists
-                pass
+                continue
 
             if container.get("items") or container.get("kits") or container.get("musics"):
                 containers_to_add[defindex] = container
