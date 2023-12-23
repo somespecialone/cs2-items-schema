@@ -1,5495 +1,6912 @@
 {
+  "0": {
+    "name": "-",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
   "10": {
     "name": "Copperhead",
+    "rarity": "3",
     "wear_max": 0.38,
     "wear_min": 0.12
   },
   "100": {
     "name": "Storm",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1000": {
     "name": "Run and Hide",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10006": {
     "name": "Charred",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10007": {
     "name": "Snakebite",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10008": {
     "name": "Bronzed",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10009": {
     "name": "Leather",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1001": {
     "name": "Welcome to the Jungle",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10010": {
     "name": "Spruce DDPAT",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10013": {
     "name": "Lunar Weave",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10015": {
     "name": "Convoy",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10016": {
     "name": "Crimson Weave",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10018": {
     "name": "Superconductor",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10019": {
     "name": "Arid",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1002": {
     "name": "Berries And Cherries",
+    "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "10021": {
     "name": "Slaughter",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10024": {
     "name": "Eclipse",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10026": {
     "name": "Spearmint",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10027": {
     "name": "Boom!",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10028": {
     "name": "Cool Mint",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1003": {
     "name": "Crime Scene",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "10030": {
     "name": "Forest DDPAT",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10033": {
     "name": "Crimson Kimono",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10034": {
     "name": "Emerald Web",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10035": {
     "name": "Foundation",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10036": {
     "name": "Badlands",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10037": {
     "name": "Pandora's Box",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10038": {
     "name": "Hedge Maze",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10039": {
     "name": "Guerrilla",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1004": {
     "name": "X-Ray",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "10040": {
     "name": "Diamondback",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10041": {
     "name": "King Snake",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10042": {
     "name": "Imperial Plaid",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10043": {
     "name": "Overtake",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10044": {
     "name": "Racing Green",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10045": {
     "name": "Amphibious",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10046": {
     "name": "Bronze Morph",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10047": {
     "name": "Omega",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10048": {
     "name": "Vice",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10049": {
     "name": "POW!",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1005": {
     "name": "Heist",
+    "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "10050": {
     "name": "Turtle",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10051": {
     "name": "Transport",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10052": {
     "name": "Polygon",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10053": {
     "name": "Cobalt Skulls",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10054": {
     "name": "Overprint",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10055": {
     "name": "Duct Tape",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10056": {
     "name": "Arboreal",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10057": {
     "name": "Emerald",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10058": {
     "name": "Mangrove",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10059": {
     "name": "Rattler",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1006": {
     "name": "Night Heist",
+    "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "10060": {
     "name": "Case Hardened",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10061": {
     "name": "Crimson Web",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10062": {
     "name": "Buckshot",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10063": {
     "name": "Fade",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10064": {
     "name": "Mogul",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10065": {
     "name": "Marble Fade",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10066": {
     "name": "Lt. Commander",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10067": {
     "name": "Tiger Strike",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10068": {
     "name": "Field Agent",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10069": {
     "name": "Rezan the Red",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1007": {
     "name": "Vault Heist",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "10070": {
     "name": "Snow Leopard",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10071": {
     "name": "Queen Jaguar",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10072": {
     "name": "Black Tie",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10073": {
     "name": "Slingshot",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10074": {
     "name": "Big Game",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10075": {
     "name": "Scarlet Shamagh",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10076": {
     "name": "Nocts",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10077": {
     "name": "Finish Line",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10078": {
     "name": "Smoke Out",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10079": {
     "name": "Blood Pressure",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1008": {
     "name": "Houndstooth",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "10080": {
     "name": "3rd Commando Company",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10081": {
     "name": "Desert Shamagh",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10082": {
     "name": "Giraffe",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10083": {
     "name": "Constrictor",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10084": {
     "name": "CAUTION!",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10085": {
     "name": "Jade",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10086": {
     "name": "Yellow-banded",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10087": {
     "name": "Needle Point",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "10088": {
     "name": "Unhinged",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1009": {
     "name": "Hot Snakes",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "101": {
     "name": "Tornado",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1010": {
     "name": "Phoenix Chalk",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1011": {
     "name": "Phoenix Marker",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1012": {
     "name": "Phoenix Stencil",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1013": {
     "name": "Phoenix Blacklight",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1014": {
     "name": "Clay Ambush",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1015": {
     "name": "Tiger Pit",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1016": {
     "name": "Franklin",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "1017": {
     "name": "Blue Phosphor",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "1018": {
     "name": "Panthera onca",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1019": {
     "name": "Panther Camo",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "102": {
     "name": "Whiteout",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1020": {
     "name": "Ancient Earth",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1021": {
     "name": "Ancient Lore",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1022": {
     "name": "Lush Ruins",
+    "rarity": "1",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1023": {
     "name": "Tall Grass",
+    "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1024": {
     "name": "Blast From the Past",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1025": {
     "name": "Gold Brick",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1026": {
     "name": "Fade",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "1027": {
     "name": "Target Acquired",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1028": {
     "name": "Magna Carta",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1029": {
     "name": "Silk Tiger",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1030": {
     "name": "Bengal Tiger",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1031": {
     "name": "Ancient Visions",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "1032": {
     "name": "Dusk Ruins",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1033": {
     "name": "Carved Jade",
+    "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "1034": {
     "name": "Ancient Ritual",
+    "rarity": "2",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1035": {
     "name": "Slate",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1036": {
     "name": "Circaetus",
+    "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1037": {
     "name": "Food Chain",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1038": {
     "name": "Chromatic Aberration",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1039": {
     "name": "Clear Polymer",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "104": {
     "name": "Grassland Leaves",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1040": {
     "name": "The Traitor",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1041": {
     "name": "In Living Color",
+    "rarity": "5",
     "wear_max": 0.79,
     "wear_min": 0.0
   },
   "1042": {
     "name": "O.S.I.P.R.",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1043": {
     "name": "dev_texture",
+    "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1044": {
     "name": "Cyber Shell",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1045": {
     "name": "Button Masher",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1046": {
     "name": "XOXO",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1047": {
     "name": "Junk Yard",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1048": {
     "name": "Heavy Metal",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1049": {
     "name": "Oscillator",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1050": {
     "name": "Trigger Discipline",
+    "rarity": "3",
     "wear_max": 0.97,
     "wear_min": 0.0
   },
   "1051": {
     "name": "Windblown",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1052": {
     "name": "Death Strike",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1053": {
     "name": "Meltdown",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "1055": {
     "name": "Space Race",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1056": {
     "name": "Sputnik",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1058": {
     "name": "POP AWP",
+    "rarity": "3",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "1059": {
     "name": "Fizzy POP",
+    "rarity": "2",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "1060": {
     "name": "Spring Twilly",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1061": {
     "name": "Autumn Twilly",
+    "rarity": "4",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "1063": {
     "name": "The Coalition",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1064": {
     "name": "Syndicate",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1065": {
     "name": "Whiteout",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1066": {
     "name": "Faulty Wiring",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1067": {
     "name": "Propaganda",
+    "rarity": "5",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "107": {
     "name": "Polar Mesh",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1070": {
     "name": "Green Laminate",
+    "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "1071": {
     "name": "CAUTION!",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1072": {
     "name": "Prism Terrace",
+    "rarity": "4",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "1073": {
     "name": "Imminent Danger",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1074": {
     "name": "Schematic",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1075": {
     "name": "Strats",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1076": {
     "name": "Framework",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1077": {
     "name": "Interlock",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1078": {
     "name": "Blue Tire",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1079": {
     "name": "Red Tire",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1080": {
     "name": "Infrastructure",
+    "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1081": {
     "name": "Digital Architect",
+    "rarity": "4",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1082": {
     "name": "Fall Hazard",
+    "rarity": "5",
     "wear_max": 0.52,
     "wear_min": 0.01
   },
   "1083": {
     "name": "Breaker Box",
+    "rarity": "2",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "1084": {
     "name": "Hazard Pay",
+    "rarity": "5",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "1085": {
     "name": "Mechanism",
+    "rarity": "2",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "1086": {
     "name": "Oil Change",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1087": {
     "name": "Leet Museo",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1088": {
     "name": "Plague",
+    "rarity": "3",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1089": {
     "name": "BI83 Spectrum",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1090": {
     "name": "Ocean Drive",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1091": {
     "name": "Tread",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1092": {
     "name": "ZX Spectron",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1093": {
     "name": "Boost Protocol",
+    "rarity": "4",
     "wear_max": 0.41,
     "wear_min": 0.0
   },
   "1094": {
     "name": "Mount Fuji",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "1095": {
     "name": "Keeping Tabs",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1096": {
     "name": "Guerrilla",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1097": {
     "name": "Spider Lily",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1098": {
     "name": "Toybox",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1099": {
     "name": "Lumen",
+    "rarity": "3",
     "wear_max": 0.77,
     "wear_min": 0.0
   },
   "11": {
     "name": "Skulls",
+    "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.1
   },
   "110": {
     "name": "Condemned",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1100": {
     "name": "Snack Attack",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1101": {
     "name": "Turbo Peek",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "1102": {
     "name": "Black Lotus",
+    "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1103": {
     "name": "Watchdog",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1104": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1105": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1106": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1107": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "1108": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1109": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "111": {
     "name": "Glacier Mesh",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "1110": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1111": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1112": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1113": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1114": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1115": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1116": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1117": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1118": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1119": {
     "name": "Gamma Doppler",
     "phase": "8",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1120": {
     "name": "Gamma Doppler",
     "phase": "1",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1121": {
     "name": "Gamma Doppler",
     "phase": "2",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1122": {
     "name": "Gamma Doppler",
     "phase": "3",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1123": {
     "name": "Gamma Doppler",
     "phase": "4",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1125": {
     "name": "Space Cat",
+    "rarity": "4",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "1126": {
     "name": "Melondrama",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1127": {
     "name": "Rapid Eye Movement",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1128": {
     "name": "Scrawl",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1129": {
     "name": "Dream Glade",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1130": {
     "name": "Night Terror",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1131": {
     "name": "Ensnared",
+    "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1132": {
     "name": "Foresight",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "1133": {
     "name": "Abyssal Apparition",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1134": {
     "name": "Starlight Protector",
+    "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "1135": {
     "name": "Zombie Offensive",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1136": {
     "name": "Ticket to Hell",
+    "rarity": "3",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "1137": {
     "name": "Necro Jr.",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1138": {
     "name": "Lifted Spirits",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1139": {
     "name": "Poultrygeist",
+    "rarity": "3",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "1140": {
     "name": "Spirit Board",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "1141": {
     "name": "Nightwish",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1142": {
+    "name": "Printstream",
+    "rarity": "5",
+    "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1143": {
+    "name": "Ice Coaled",
+    "rarity": "4",
+    "wear_max": 0.77,
+    "wear_min": 0.0
+  },
+  "1144": {
+    "name": "Chromatic Aberration",
+    "rarity": "5",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1145": {
+    "name": "Crazy 8",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1146": {
+    "name": "Meow 36",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1147": {
+    "name": "Destroyer",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1148": {
+    "name": "Downtown",
+    "rarity": "4",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1149": {
+    "name": "Poly Mag",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1150": {
+    "name": "Monkeyflage",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1151": {
+    "name": "Dragon Tech",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1152": {
+    "name": "Drop Me",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1153": {
+    "name": "Visions",
+    "rarity": "5",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1154": {
+    "name": "Vent Rush",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1155": {
+    "name": "Kiss\u2665Love",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1156": {
+    "name": "Flora Carnivora",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1157": {
+    "name": "Roadblock",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1158": {
+    "name": "Winterized",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "116": {
     "name": "Sand Mesh",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "119": {
     "name": "Sage Spray",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "12": {
     "name": "Crimson Web",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "122": {
     "name": "Jungle Spray",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
+  },
+  "1220": {
+    "name": "Insomnia",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1221": {
+    "name": "Head Shot",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1222": {
+    "name": "Duality",
+    "rarity": "4",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1223": {
+    "name": "Emphorosaur-S",
+    "rarity": "3",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1224": {
+    "name": "Wicked Sick",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1225": {
+    "name": "Featherweight",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1226": {
+    "name": "Fragments",
+    "rarity": "3",
+    "wear_max": 0.78,
+    "wear_min": 0.0
+  },
+  "1227": {
+    "name": "Umbral Rabbit",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1228": {
+    "name": "Temukau",
+    "rarity": "5",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1229": {
+    "name": "Sakkaku",
+    "rarity": "4",
+    "wear_max": 0.79,
+    "wear_min": 0.21
+  },
+  "1230": {
+    "name": "Re.built",
+    "rarity": "3",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1231": {
+    "name": "Liquidation",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1232": {
+    "name": "Banana Cannon",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1233": {
+    "name": "Neoqueen",
+    "rarity": "4",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1234": {
+    "name": "Cyberforce",
+    "rarity": "3",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1235": {
+    "name": "Rebel",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1236": {
+    "name": "Wild Child",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1237": {
+    "name": "Inlay",
+    "rarity": "1",
+    "wear_max": 0.76,
+    "wear_min": 0.0
+  },
+  "1238": {
+    "name": "Steel Delta",
+    "rarity": "2",
+    "wear_max": 0.73,
+    "wear_min": 0.0
+  },
+  "1239": {
+    "name": "Black Nile",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
   },
   "124": {
     "name": "Sand Spray",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1240": {
+    "name": "Ramese's Reach",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1241": {
+    "name": "Waters of Nephthys",
+    "rarity": "5",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1242": {
+    "name": "Submerged",
+    "rarity": "1",
+    "wear_max": 0.8,
+    "wear_min": 0.02
+  },
+  "1243": {
+    "name": "Mud-Spec",
+    "rarity": "1",
+    "wear_max": 0.73,
+    "wear_min": 0.0
+  },
+  "1244": {
+    "name": "Echoing Sands",
+    "rarity": "2",
+    "wear_max": 0.8,
+    "wear_min": 0.02
+  },
+  "1245": {
+    "name": "Copper Coated",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1246": {
+    "name": "Sunbaked",
+    "rarity": "1",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1247": {
+    "name": "Sobek's Bite",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1248": {
+    "name": "Apep's Curse",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1249": {
+    "name": "Snake Pit",
+    "rarity": "1",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
   "125": {
     "name": "X-Ray",
+    "rarity": "4",
     "wear_max": 0.3,
+    "wear_min": 0.0
+  },
+  "1250": {
+    "name": "ScaraB Rush",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1251": {
+    "name": "Azure Glyph",
+    "rarity": "2",
+    "wear_max": 0.99,
+    "wear_min": 0.01
+  },
+  "1252": {
+    "name": "Mummy's Rot",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1253": {
+    "name": "Desert Tactical",
+    "rarity": "1",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1254": {
+    "name": "Hieroglyph",
+    "rarity": "1",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1255": {
+    "name": "Eye of Horus",
+    "rarity": "5",
+    "wear_max": 0.7,
     "wear_min": 0.0
   },
   "13": {
     "name": "Blue Streak",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "135": {
     "name": "Urban Perforated",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "136": {
     "name": "Waves Perforated",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "14": {
     "name": "Red Laminate",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "141": {
     "name": "Orange Peel",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "143": {
     "name": "Urban Masked",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "147": {
     "name": "Jungle Dashed",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "148": {
     "name": "Sand Dashed",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "149": {
     "name": "Urban Dashed",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "15": {
     "name": "Gunsmoke",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "151": {
     "name": "Jungle",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "153": {
     "name": "Demolition",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.26
   },
   "154": {
     "name": "Afterimage",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "155": {
     "name": "Bullet Rain",
+    "rarity": "6",
     "wear_max": 0.46,
     "wear_min": 0.02
   },
   "156": {
     "name": "Death by Kitty",
+    "rarity": "6",
     "wear_max": 0.32,
     "wear_min": 0.08
   },
   "157": {
     "name": "Palm",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "158": {
     "name": "Walnut",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "159": {
     "name": "Brass",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "16": {
     "name": "Jungle Tiger",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "162": {
     "name": "Splash",
+    "rarity": "4",
     "wear_max": 0.18,
     "wear_min": 0.06
   },
   "164": {
     "name": "Modern Hunter",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "165": {
     "name": "Splash Jam",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "166": {
     "name": "Blaze Orange",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "167": {
     "name": "Radiation Hazard",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "168": {
     "name": "Nuclear Threat",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "169": {
     "name": "Fallout Warning",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "17": {
     "name": "Urban DDPAT",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "170": {
     "name": "Predator",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "171": {
     "name": "Irradiated Alert",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "172": {
     "name": "Black Laminate",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "174": {
     "name": "BOOM",
+    "rarity": "4",
     "wear_max": 0.28,
     "wear_min": 0.06
   },
   "175": {
     "name": "Scorched",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "176": {
     "name": "Faded Zebra",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "177": {
     "name": "Memento",
+    "rarity": "3",
     "wear_max": 0.18,
     "wear_min": 0.02
   },
   "178": {
     "name": "Doomkitty",
+    "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.08
   },
   "179": {
     "name": "Nuclear Threat",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "180": {
     "name": "Fire Serpent",
+    "rarity": "5",
     "wear_max": 0.76,
     "wear_min": 0.06
   },
   "181": {
     "name": "Corticera",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.06
   },
   "182": {
     "name": "Emerald Dragon",
+    "rarity": "5",
     "wear_max": 0.52,
     "wear_min": 0.06
   },
   "183": {
     "name": "Overgrowth",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "184": {
     "name": "Corticera",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.06
   },
   "185": {
     "name": "Golden Koi",
+    "rarity": "5",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "186": {
     "name": "Wave Spray",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "187": {
     "name": "Zirka",
+    "rarity": "3",
     "wear_max": 0.42,
     "wear_min": 0.06
   },
   "188": {
     "name": "Graven",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "189": {
     "name": "Bright Water",
+    "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.1
   },
   "190": {
     "name": "Black Limba",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "191": {
     "name": "Tempest",
+    "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.06
   },
   "192": {
     "name": "Shattered",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "193": {
     "name": "Bone Pile",
+    "rarity": "3",
     "wear_max": 0.34,
     "wear_min": 0.06
   },
   "194": {
     "name": "Spitfire",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "195": {
     "name": "Demeter",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "196": {
     "name": "Emerald",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "197": {
     "name": "Anodized Navy",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "198": {
     "name": "Hazard",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "199": {
     "name": "Dry Season",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "2": {
     "name": "Groundwater",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "20": {
     "name": "Virus",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "200": {
     "name": "Mayan Dreams",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "201": {
     "name": "Palm",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "202": {
     "name": "Jungle DDPAT",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "203": {
     "name": "Rust Coat",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "204": {
     "name": "Mosaico",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "205": {
     "name": "Jungle",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "206": {
     "name": "Tornado",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "207": {
     "name": "Facets",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "208": {
     "name": "Sand Dune",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "209": {
     "name": "Groundwater",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "21": {
     "name": "Granite Marbleized",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "210": {
     "name": "Anodized Gunmetal",
+    "rarity": "1",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "211": {
     "name": "Ocean Foam",
+    "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "212": {
     "name": "Graphite",
+    "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "213": {
     "name": "Ocean Foam",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "214": {
     "name": "Graphite",
+    "rarity": "4",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "215": {
     "name": "X-Ray",
+    "rarity": "6",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "216": {
     "name": "Blue Titanium",
+    "rarity": "3",
     "wear_max": 0.04,
     "wear_min": 0.0
   },
   "217": {
     "name": "Blood Tiger",
+    "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "218": {
     "name": "Hexane",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "219": {
     "name": "Hive",
+    "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "22": {
     "name": "Contrast Spray",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "220": {
     "name": "Hemoglobin",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "221": {
     "name": "Serum",
+    "rarity": "4",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "222": {
     "name": "Blood in the Water",
+    "rarity": "6",
     "wear_max": 0.2,
     "wear_min": 0.06
   },
   "223": {
     "name": "Nightshade",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "224": {
     "name": "Water Sigil",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "225": {
     "name": "Ghost Camo",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "226": {
     "name": "Blue Laminate",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.02
   },
   "227": {
     "name": "Electric Hive",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "228": {
     "name": "Blind Spot",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "229": {
     "name": "Azure Zebra",
+    "rarity": "3",
     "wear_max": 0.28,
     "wear_min": 0.0
   },
   "230": {
     "name": "Steel Disruption",
+    "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "231": {
     "name": "Cobalt Disruption",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "232": {
     "name": "Crimson Web",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "233": {
     "name": "Tropical Storm",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "234": {
     "name": "Ash Wood",
+    "rarity": "2",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "235": {
     "name": "VariCamo",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "236": {
     "name": "Night Ops",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "237": {
     "name": "Urban Rubble",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "238": {
     "name": "VariCamo Blue",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "240": {
     "name": "CaliCamo",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "241": {
     "name": "Hunting Blind",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "242": {
     "name": "Army Mesh",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "243": {
     "name": "Gator Mesh",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "244": {
     "name": "Teardown",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "245": {
     "name": "Army Recon",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "246": {
     "name": "Amber Fade",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "247": {
     "name": "Damascus Steel",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "248": {
     "name": "Red Quartz",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "249": {
     "name": "Cobalt Quartz",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "25": {
     "name": "Forest Leaves",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "250": {
     "name": "Full Stop",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "251": {
     "name": "Pit Viper",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "252": {
     "name": "Silver Quartz",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "253": {
     "name": "Acid Fade",
+    "rarity": "3",
     "wear_max": 0.03,
     "wear_min": 0.0
   },
   "254": {
     "name": "Nitro",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "255": {
     "name": "Asiimov",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.18
   },
   "256": {
     "name": "The Kraken",
+    "rarity": "6",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "257": {
     "name": "Guardian",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "258": {
     "name": "Mehndi",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "259": {
     "name": "Redline",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.1
   },
   "26": {
     "name": "Lichen Dashed",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "260": {
     "name": "Pulse",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "261": {
     "name": "Marina",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.05
   },
   "262": {
     "name": "Rose Iron",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "263": {
     "name": "Rising Skull",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "264": {
     "name": "Sandstorm",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.1
   },
   "265": {
     "name": "Kami",
+    "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "266": {
     "name": "Magma",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "267": {
     "name": "Cobalt Halftone",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.05
   },
   "268": {
     "name": "Tread Plate",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "269": {
     "name": "The Fuschia Is Now",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "27": {
     "name": "Bone Mask",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "270": {
     "name": "Victoria",
+    "rarity": "6",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "271": {
     "name": "Undertow",
+    "rarity": "5",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "272": {
     "name": "Titanium Bit",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "273": {
     "name": "Heirloom",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "274": {
     "name": "Copper Galaxy",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "275": {
     "name": "Red FragCam",
+    "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "276": {
     "name": "Panther",
+    "rarity": "3",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "277": {
     "name": "Stainless",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "278": {
     "name": "Blue Fissure",
+    "rarity": "2",
     "wear_max": 0.58,
     "wear_min": 0.06
   },
   "279": {
     "name": "Asiimov",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.18
   },
   "28": {
     "name": "Anodized Navy",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "280": {
     "name": "Chameleon",
+    "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "281": {
     "name": "Corporal",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.05
   },
   "282": {
     "name": "Redline",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.1
   },
   "283": {
     "name": "Trigon",
+    "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.08
   },
   "284": {
     "name": "Heat",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "285": {
     "name": "Terrain",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "286": {
     "name": "Antique",
+    "rarity": "5",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "287": {
     "name": "Pulse",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.1
   },
   "288": {
     "name": "Sergeant",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "289": {
     "name": "Sandstorm",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.1
   },
   "290": {
     "name": "Guardian",
+    "rarity": "3",
     "wear_max": 0.38,
     "wear_min": 0.0
   },
   "291": {
     "name": "Heaven Guard",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "293": {
     "name": "Death Rattle",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "294": {
     "name": "Green Apple",
+    "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "295": {
     "name": "Franklin",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "296": {
     "name": "Meteorite",
+    "rarity": "2",
     "wear_max": 0.18,
     "wear_min": 0.0
   },
   "297": {
     "name": "Tuxedo",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "298": {
     "name": "Army Sheen",
+    "rarity": "1",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "299": {
     "name": "Caged Steel",
+    "rarity": "2",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "3": {
     "name": "Candy Apple",
+    "rarity": "2",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "30": {
     "name": "Snake Camo",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "300": {
     "name": "Emerald Pinstripe",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "301": {
     "name": "Atomic Alloy",
+    "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "302": {
     "name": "Vulcan",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "303": {
     "name": "Isaac",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "304": {
     "name": "Slashed",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.15
   },
   "305": {
     "name": "Torque",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "306": {
     "name": "Antique",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "307": {
     "name": "Retribution",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "308": {
     "name": "Kami",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "309": {
     "name": "Howl",
+    "rarity": "7",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "310": {
     "name": "Curse",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "311": {
     "name": "Desert Warfare",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "312": {
     "name": "Cyrex",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "313": {
     "name": "Orion",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "314": {
     "name": "Heaven Guard",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.03
   },
   "315": {
     "name": "Poison Dart",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "316": {
     "name": "Jaguar",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "317": {
     "name": "Bratatat",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "318": {
     "name": "Road Rash",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "319": {
     "name": "Detour",
+    "rarity": "3",
     "wear_max": 0.43,
     "wear_min": 0.0
   },
   "32": {
     "name": "Silver",
+    "rarity": "2",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "320": {
     "name": "Red Python",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.08
   },
   "321": {
     "name": "Master Piece",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "322": {
     "name": "Nitro",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "323": {
     "name": "Rust Coat",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "325": {
     "name": "Chalice",
+    "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "326": {
     "name": "Knight",
+    "rarity": "4",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "327": {
     "name": "Chainmail",
+    "rarity": "2",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "328": {
     "name": "Hand Cannon",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.01
   },
   "329": {
     "name": "Dark Age",
+    "rarity": "3",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "33": {
     "name": "Hot Rod",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "330": {
     "name": "Briar",
+    "rarity": "1",
     "wear_max": 0.22,
     "wear_min": 0.0
   },
   "332": {
     "name": "Royal Blue",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "333": {
     "name": "Indigo",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "334": {
     "name": "Twist",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "335": {
     "name": "Module",
+    "rarity": "3",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "336": {
     "name": "Desert-Strike",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "337": {
     "name": "Tatter",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "338": {
     "name": "Pulse",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "339": {
     "name": "Caiman",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "34": {
     "name": "Metallic DDPAT",
+    "rarity": "2",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "340": {
     "name": "Jet Set",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "341": {
     "name": "First Class",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "342": {
     "name": "Leather",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "343": {
     "name": "Commuter",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "344": {
     "name": "Dragon Lore",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "345": {
     "name": "First Class",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "346": {
     "name": "Coach Class",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "347": {
     "name": "Pilot",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "348": {
     "name": "Red Leather",
+    "rarity": "3",
     "wear_max": 0.56,
     "wear_min": 0.0
   },
   "349": {
     "name": "Osiris",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "350": {
     "name": "Tigris",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "351": {
     "name": "Conspiracy",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "352": {
     "name": "Fowl Play",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "353": {
     "name": "Water Elemental",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "354": {
     "name": "Urban Hazard",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "355": {
     "name": "Desert-Strike",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "356": {
     "name": "Koi",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "357": {
     "name": "Ivory",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "358": {
     "name": "Supernova",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "359": {
     "name": "Asiimov",
+    "rarity": "6",
     "wear_max": 0.92,
     "wear_min": 0.0
   },
   "36": {
     "name": "Ossified",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "360": {
     "name": "Cyrex",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "361": {
     "name": "Abyss",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "362": {
     "name": "Labyrinth",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "363": {
     "name": "Traveler",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "364": {
     "name": "Business Class",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "365": {
     "name": "Olive Plaid",
+    "rarity": "1",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "366": {
     "name": "Green Plaid",
+    "rarity": "1",
     "wear_max": 0.58,
     "wear_min": 0.0
   },
   "367": {
     "name": "Reactor",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "368": {
     "name": "Setting Sun",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "369": {
     "name": "Nuclear Waste",
+    "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "37": {
     "name": "Blaze",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "370": {
     "name": "Bone Machine",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "371": {
     "name": "Styx",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "372": {
     "name": "Nuclear Garden",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "373": {
     "name": "Contamination",
+    "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "374": {
     "name": "Toxic",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "375": {
     "name": "Radiation Hazard",
+    "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "376": {
     "name": "Chemical Green",
+    "rarity": "2",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "377": {
     "name": "Hot Shot",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "378": {
     "name": "Fallout Warning",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "379": {
     "name": "Cerberus",
+    "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "38": {
     "name": "Fade",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "380": {
     "name": "Wasteland Rebel",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "381": {
     "name": "Grinder",
+    "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.02
   },
   "382": {
     "name": "Murky",
+    "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "383": {
     "name": "Basilisk",
+    "rarity": "3",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "384": {
     "name": "Griffin",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "385": {
     "name": "Firestarter",
+    "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.06
   },
   "386": {
     "name": "Dart",
+    "rarity": "3",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "387": {
     "name": "Urban Hazard",
+    "rarity": "3",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "388": {
     "name": "Cartel",
+    "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "389": {
     "name": "Fire Elemental",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "39": {
     "name": "Bulldozer",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "390": {
     "name": "Highwayman",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "391": {
     "name": "Cardiac",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "392": {
     "name": "Delusion",
+    "rarity": "3",
     "wear_max": 0.35,
     "wear_min": 0.06
   },
   "393": {
     "name": "Tranquility",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "394": {
     "name": "Cartel",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "395": {
     "name": "Man-o'-war",
+    "rarity": "5",
     "wear_max": 0.2,
     "wear_min": 0.1
   },
   "396": {
     "name": "Urban Shock",
+    "rarity": "4",
     "wear_max": 0.47,
     "wear_min": 0.0
   },
   "397": {
     "name": "Naga",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "398": {
     "name": "Chatterbox",
+    "rarity": "6",
     "wear_max": 0.85,
     "wear_min": 0.35
   },
   "399": {
     "name": "Catacombs",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "40": {
     "name": "Night",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "400": {
     "name": "\u9f8d\u738b (Dragon King)",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "401": {
     "name": "System Lock",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "402": {
     "name": "Malachite",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "403": {
     "name": "Deadly Poison",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "404": {
     "name": "Muertos",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "405": {
     "name": "Serenity",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "406": {
     "name": "Grotto",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "407": {
     "name": "Quicksilver",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "409": {
     "name": "Tiger Tooth",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "41": {
     "name": "Copper",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "410": {
     "name": "Damascus Steel",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "411": {
     "name": "Damascus Steel",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "413": {
     "name": "Marble Fade",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "414": {
     "name": "Rust Coat",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.4
   },
   "415": {
     "name": "Doppler",
     "phase": "5",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "416": {
     "name": "Doppler",
     "phase": "6",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "417": {
     "name": "Doppler",
     "phase": "7",
+    "rarity": "6",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "418": {
     "name": "Doppler",
     "phase": "1",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "419": {
     "name": "Doppler",
     "phase": "2",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "42": {
     "name": "Blue Steel",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "420": {
     "name": "Doppler",
     "phase": "3",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "421": {
     "name": "Doppler",
     "phase": "4",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "422": {
     "name": "Elite Build",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "423": {
     "name": "Armor Core",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "424": {
     "name": "Worm God",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "425": {
     "name": "Bronze Deco",
+    "rarity": "2",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "426": {
     "name": "Valence",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "427": {
     "name": "Monkey Business",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.1
   },
   "428": {
     "name": "Eco",
+    "rarity": "5",
     "wear_max": 0.85,
     "wear_min": 0.1
   },
   "429": {
     "name": "Djinn",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "43": {
     "name": "Stained",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "430": {
     "name": "Hyper Beast",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "431": {
     "name": "Heat",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "432": {
     "name": "Man-o'-war",
+    "rarity": "3",
     "wear_max": 0.2,
     "wear_min": 0.1
   },
   "433": {
     "name": "Neon Rider",
+    "rarity": "6",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "434": {
     "name": "Origami",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "435": {
     "name": "Pole Position",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "436": {
     "name": "Grand Prix",
+    "rarity": "4",
     "wear_max": 0.35,
     "wear_min": 0.25
   },
   "437": {
     "name": "Twilight Galaxy",
+    "rarity": "4",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "438": {
     "name": "Chronos",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "439": {
     "name": "Hades",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "44": {
     "name": "Case Hardened",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "440": {
     "name": "Icarus Fell",
+    "rarity": "3",
     "wear_max": 0.1,
     "wear_min": 0.0
   },
   "441": {
     "name": "Minotaur's Labyrinth",
+    "rarity": "3",
     "wear_max": 0.39,
     "wear_min": 0.0
   },
   "442": {
     "name": "Asterion",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "443": {
     "name": "Pathfinder",
+    "rarity": "1",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "444": {
     "name": "Daedalus",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "445": {
     "name": "Hot Rod",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "446": {
     "name": "Medusa",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "447": {
     "name": "Duelist",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "448": {
     "name": "Pandora's Box",
+    "rarity": "3",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "449": {
     "name": "Poseidon",
+    "rarity": "4",
     "wear_max": 0.33,
     "wear_min": 0.0
   },
   "450": {
     "name": "Moon in Libra",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "451": {
     "name": "Sun in Leo",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "452": {
     "name": "Shipping Forecast",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "453": {
     "name": "Emerald",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "454": {
     "name": "Para Green",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "455": {
     "name": "Akihabara Accept",
+    "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "456": {
     "name": "Hydroponic",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "457": {
     "name": "Bamboo Print",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "458": {
     "name": "Bamboo Shadow",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "459": {
     "name": "Bamboo Forest",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "46": {
     "name": "Contractor",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "460": {
     "name": "Aqua Terrace",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "462": {
     "name": "Counter Terrace",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "463": {
     "name": "Terrace",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "464": {
     "name": "Neon Kimono",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "465": {
     "name": "Orange Kimono",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "466": {
     "name": "Crimson Kimono",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "467": {
     "name": "Mint Kimono",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "468": {
     "name": "Midnight Storm",
+    "rarity": "1",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "469": {
     "name": "Sunset Storm \u58f1",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "47": {
     "name": "Colony",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "470": {
     "name": "Sunset Storm \u5f10",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "471": {
     "name": "Daybreak",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "472": {
     "name": "Impact Drill",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "473": {
     "name": "Seabird",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "474": {
     "name": "Aquamarine Revenge",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "475": {
     "name": "Hyper Beast",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "476": {
     "name": "Yellow Jacket",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "477": {
     "name": "Neural Net",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "478": {
     "name": "Rocket Pop",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "479": {
     "name": "Bunsen Burner",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "48": {
     "name": "Dragon Tattoo",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "480": {
     "name": "Evil Daimyo",
+    "rarity": "3",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "481": {
     "name": "Nemesis",
+    "rarity": "5",
     "wear_max": 0.32,
     "wear_min": 0.0
   },
   "482": {
     "name": "Ruby Poison Dart",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "483": {
     "name": "Loudmouth",
+    "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.14
   },
   "484": {
     "name": "Ranger",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "485": {
     "name": "Handgun",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "486": {
     "name": "Elite Build",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "487": {
     "name": "Cyrex",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "488": {
     "name": "Riot",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "489": {
     "name": "Torque",
+    "rarity": "2",
     "wear_max": 0.46,
     "wear_min": 0.0
   },
   "490": {
     "name": "Frontside Misty",
+    "rarity": "4",
     "wear_max": 0.87,
     "wear_min": 0.02
   },
   "491": {
     "name": "Dualing Dragons",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "492": {
     "name": "Survivor Z",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "493": {
     "name": "Flux",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "494": {
     "name": "Stone Cold",
+    "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "495": {
     "name": "Wraiths",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "496": {
     "name": "Nebula Crusader",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "497": {
     "name": "Golden Coil",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "498": {
     "name": "Rangeen",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "499": {
     "name": "Cobalt Core",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "5": {
     "name": "Forest DDPAT",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "500": {
     "name": "Special Delivery",
+    "rarity": "4",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "501": {
     "name": "Wingshot",
+    "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "502": {
     "name": "Green Marine",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "503": {
     "name": "Big Iron",
+    "rarity": "5",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "504": {
     "name": "Kill Confirmed",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "505": {
     "name": "Scumbria",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "506": {
     "name": "Point Disarray",
+    "rarity": "4",
     "wear_max": 0.67,
     "wear_min": 0.0
   },
   "507": {
     "name": "Ricochet",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "508": {
     "name": "Fuel Rod",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "509": {
     "name": "Corinthian",
+    "rarity": "2",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "51": {
     "name": "Lightning Strike",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "510": {
     "name": "Retrobution",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "511": {
     "name": "The Executioner",
+    "rarity": "5",
     "wear_max": 0.85,
     "wear_min": 0.14
   },
   "512": {
     "name": "Royal Paladin",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "514": {
     "name": "Power Loader",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "515": {
     "name": "Imperial",
+    "rarity": "2",
     "wear_max": 0.2,
     "wear_min": 0.0
   },
   "516": {
     "name": "Shapewood",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "517": {
     "name": "Yorick",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "518": {
     "name": "Outbreak",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "519": {
     "name": "Tiger Moth",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "520": {
     "name": "Avalanche",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "521": {
     "name": "Teclu Burner",
+    "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "522": {
     "name": "Fade",
+    "rarity": "6",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "523": {
     "name": "Amber Fade",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "524": {
     "name": "Fuel Injector",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "525": {
     "name": "Elite Build",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "526": {
     "name": "Photic Zone",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "527": {
     "name": "Kumicho Dragon",
+    "rarity": "4",
     "wear_max": 0.76,
     "wear_min": 0.0
   },
   "528": {
     "name": "Cartel",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "529": {
     "name": "Valence",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "530": {
     "name": "Triumvirate",
+    "rarity": "4",
     "wear_max": 0.61,
     "wear_min": 0.0
   },
   "532": {
     "name": "Royal Legion",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "533": {
     "name": "The Battlestar",
+    "rarity": "5",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "534": {
     "name": "Lapis Gator",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "535": {
     "name": "Praetorian",
+    "rarity": "4",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "536": {
     "name": "Impire",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "537": {
     "name": "Hyper Beast",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "538": {
     "name": "Necropos",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "539": {
     "name": "Jambiya",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "540": {
     "name": "Lead Conduit",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "541": {
     "name": "Fleet Flock",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "542": {
     "name": "Judgement of Anubis",
+    "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "543": {
     "name": "Red Astor",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "544": {
     "name": "Ventilators",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "545": {
     "name": "Orange Crash",
+    "rarity": "3",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "546": {
     "name": "Firefight",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "547": {
     "name": "Spectre",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "548": {
     "name": "Chantico's Fire",
+    "rarity": "5",
     "wear_max": 0.99,
     "wear_min": 0.0
   },
   "549": {
     "name": "Bioleak",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "550": {
     "name": "Oceanic",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "551": {
     "name": "Asiimov",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "552": {
     "name": "Fubar",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.4
   },
   "553": {
     "name": "Atlas",
+    "rarity": "3",
     "wear_max": 0.81,
     "wear_min": 0.0
   },
   "554": {
     "name": "Ghost Crusader",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "555": {
     "name": "Re-Entry",
+    "rarity": "4",
     "wear_max": 0.43,
     "wear_min": 0.0
   },
   "556": {
     "name": "Primal Saber",
+    "rarity": "5",
     "wear_max": 0.77,
     "wear_min": 0.0
   },
   "557": {
     "name": "Black Tie",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "558": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "559": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "560": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "561": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "562": {
     "name": "Lore",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "563": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "564": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "565": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "566": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "567": {
     "name": "Black Laminate",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "568": {
     "name": "Gamma Doppler",
     "phase": "8",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "569": {
     "name": "Gamma Doppler",
     "phase": "1",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "570": {
     "name": "Gamma Doppler",
     "phase": "2",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "571": {
     "name": "Gamma Doppler",
     "phase": "3",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "572": {
     "name": "Gamma Doppler",
     "phase": "4",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "573": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "574": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "575": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "576": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "577": {
     "name": "Autotronic",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "578": {
     "name": "Bright Water",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "579": {
     "name": "Bright Water",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "580": {
     "name": "Freehand",
+    "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "581": {
     "name": "Freehand",
+    "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "582": {
     "name": "Freehand",
+    "rarity": "3",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "583": {
     "name": "Aristocrat",
+    "rarity": "4",
     "wear_max": 0.66,
     "wear_min": 0.0
   },
   "584": {
     "name": "Phobos",
+    "rarity": "3",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "585": {
     "name": "Violent Daimyo",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "586": {
     "name": "Wasteland Rebel",
+    "rarity": "5",
     "wear_max": 0.54,
     "wear_min": 0.0
   },
   "587": {
     "name": "Mecha Industries",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "588": {
     "name": "Desolate Space",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "589": {
     "name": "Carnivore",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "59": {
     "name": "Slaughter",
+    "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.01
   },
   "590": {
     "name": "Exo",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "591": {
     "name": "Imperial Dragon",
+    "rarity": "4",
     "wear_max": 0.63,
     "wear_min": 0.0
   },
   "592": {
     "name": "Iron Clad",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.05
   },
   "593": {
     "name": "Chopper",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "594": {
     "name": "Harvester",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "595": {
     "name": "Reboot",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "596": {
     "name": "Limelight",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "597": {
     "name": "Bloodsport",
+    "rarity": "5",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "598": {
     "name": "Aerial",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "599": {
     "name": "Ice Cap",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "6": {
     "name": "Arctic Camo",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "60": {
     "name": "Dark Water",
+    "rarity": "3",
     "wear_max": 0.26,
     "wear_min": 0.1
   },
   "600": {
     "name": "Neon Revolution",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "601": {
     "name": "Syd Mead",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "602": {
     "name": "Imprint",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "603": {
     "name": "Directive",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.06
   },
   "604": {
     "name": "Roll Cage",
+    "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "605": {
     "name": "Scumbria",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "606": {
     "name": "Ventilator",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "607": {
     "name": "Weasel",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "608": {
     "name": "Petroglyph",
+    "rarity": "4",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "609": {
     "name": "Airlock",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "61": {
     "name": "Hypnotic",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "610": {
     "name": "Dazzle",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.1
   },
   "611": {
     "name": "Grim",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "612": {
     "name": "Powercore",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "613": {
     "name": "Triarch",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "614": {
     "name": "Fuel Injector",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "615": {
     "name": "Briefing",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "616": {
     "name": "Slipstream",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "617": {
     "name": "Doppler",
     "phase": "7",
+    "rarity": "6",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "618": {
     "name": "Doppler",
     "phase": "2",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "619": {
     "name": "Doppler",
     "phase": "6",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "62": {
     "name": "Bloomstick",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "620": {
     "name": "Ultraviolet",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "621": {
     "name": "Ultraviolet",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "622": {
     "name": "Polymer",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "623": {
     "name": "Ironwork",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "624": {
     "name": "Dragonfire",
+    "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "625": {
     "name": "Royal Consorts",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "626": {
     "name": "Mecha Industries",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "627": {
     "name": "Cirrus",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "628": {
     "name": "Stinger",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "629": {
     "name": "Black Sand",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "630": {
     "name": "Sand Scale",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "631": {
     "name": "Flashback",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "632": {
     "name": "Buzz Kill",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "633": {
     "name": "Sonar",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "634": {
     "name": "Gila",
+    "rarity": "4",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "635": {
     "name": "Turf",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "636": {
     "name": "Shallow Grave",
+    "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "637": {
     "name": "Cyrex",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "638": {
     "name": "Wasteland Princess",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "639": {
     "name": "Bloodsport",
+    "rarity": "5",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "640": {
     "name": "Fever Dream",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "641": {
     "name": "Jungle Slipstream",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "642": {
     "name": "Blueprint",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "643": {
     "name": "Xiangliu",
+    "rarity": "5",
     "wear_max": 0.56,
     "wear_min": 0.0
   },
   "644": {
     "name": "Decimator",
+    "rarity": "4",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "645": {
     "name": "Oxide Blaze",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "646": {
     "name": "Capillary",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "647": {
     "name": "Crimson Tsunami",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "648": {
     "name": "Emerald Poison Dart",
+    "rarity": "4",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "649": {
     "name": "Akoben",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "650": {
     "name": "Ripple",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "651": {
     "name": "Last Dive",
+    "rarity": "4",
     "wear_max": 0.52,
     "wear_min": 0.0
   },
   "652": {
     "name": "Scaffold",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "653": {
     "name": "Neo-Noir",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "654": {
     "name": "Seasons",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "655": {
     "name": "Zander",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.05
   },
   "656": {
     "name": "Orbit Mk01",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "657": {
     "name": "Blueprint",
+    "rarity": "2",
     "wear_max": 0.86,
     "wear_min": 0.0
   },
   "658": {
     "name": "Cobra Strike",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "659": {
     "name": "Macabre",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "660": {
     "name": "Hyper Beast",
+    "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "661": {
     "name": "Sugar Rush",
+    "rarity": "5",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "662": {
     "name": "Oni Taiji",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "663": {
     "name": "Briefing",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "664": {
     "name": "Hellfire",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "665": {
     "name": "Aloha",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "666": {
     "name": "Hard Water",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "667": {
     "name": "Woodsman",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "668": {
     "name": "Red Rock",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "669": {
     "name": "Death Grip",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "67": {
     "name": "Cold Blooded",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "670": {
     "name": "Death's Head",
+    "rarity": "4",
     "wear_max": 0.51,
     "wear_min": 0.0
   },
   "671": {
     "name": "Cut Out",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "672": {
     "name": "Metal Flowers",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "673": {
     "name": "Morris",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "674": {
     "name": "Triqua",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "675": {
     "name": "The Empress",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "676": {
     "name": "High Roller",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "677": {
     "name": "Hunter",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "678": {
     "name": "See Ya Later",
+    "rarity": "6",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "679": {
     "name": "Goo",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "680": {
     "name": "Off World",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "681": {
     "name": "Leaded Glass",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "682": {
     "name": "Oceanic",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "683": {
     "name": "Llama Cannon",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.03
   },
   "684": {
     "name": "Cracked Opal",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "685": {
     "name": "Jungle Slipstream",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "686": {
     "name": "Phantom",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "687": {
     "name": "Tacticat",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "688": {
     "name": "Exposure",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "689": {
     "name": "Ziggy",
+    "rarity": "4",
     "wear_max": 0.72,
     "wear_min": 0.0
   },
   "690": {
     "name": "Stymphalian",
+    "rarity": "5",
     "wear_max": 0.63,
     "wear_min": 0.0
   },
   "691": {
     "name": "Mortis",
+    "rarity": "4",
     "wear_max": 0.64,
     "wear_min": 0.0
   },
   "692": {
     "name": "Night Riot",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "693": {
     "name": "Flame Test",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "694": {
     "name": "Moonrise",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "695": {
     "name": "Neo-Noir",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "696": {
     "name": "Bloodsport",
+    "rarity": "6",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "697": {
     "name": "Black Sand",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "698": {
     "name": "Lionfish",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "699": {
     "name": "Wild Six",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "70": {
     "name": "Carbon Fiber",
+    "rarity": "2",
     "wear_max": 0.12,
     "wear_min": 0.0
   },
   "700": {
     "name": "Urban Hazard",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "701": {
     "name": "Grip",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "702": {
     "name": "Aloha",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "703": {
     "name": "SWAG-7",
+    "rarity": "4",
     "wear_max": 0.92,
     "wear_min": 0.0
   },
   "704": {
     "name": "Arctic Wolf",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "705": {
     "name": "Cortex",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "706": {
     "name": "Oxide Blaze",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "707": {
     "name": "Neon Rider",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "708": {
     "name": "Amber Slipstream",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "709": {
     "name": "Eco",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "71": {
     "name": "Scorpion",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "710": {
     "name": "Shred",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "711": {
     "name": "Code Red",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "712": {
     "name": "High Seas",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "713": {
     "name": "Warhawk",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "714": {
     "name": "Nightmare",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "715": {
     "name": "Capillary",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "716": {
     "name": "Toy Soldier",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "717": {
     "name": "Traction",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "718": {
     "name": "PAW",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "719": {
     "name": "Powercore",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "72": {
     "name": "Safari Mesh",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "720": {
     "name": "Devourer",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "721": {
     "name": "Survivalist",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "722": {
     "name": "Snek-9",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "723": {
     "name": "Eye of Athena",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "724": {
     "name": "Wild Lotus",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "725": {
     "name": "Day Lily",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "726": {
     "name": "Sunset Lily",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "727": {
     "name": "Midnight Lily",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "728": {
     "name": "Teal Blossom",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "729": {
     "name": "Crimson Blossom",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "73": {
     "name": "Wings",
+    "rarity": "3",
     "wear_max": 0.14,
     "wear_min": 0.0
   },
   "730": {
     "name": "Dark Blossom",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "731": {
     "name": "Banana Leaf",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "732": {
     "name": "Synth Leaf",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "733": {
     "name": "Rust Leaf",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "734": {
     "name": "Wild Lily",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "735": {
     "name": "Night Stripe",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "736": {
     "name": "The Prince",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "737": {
     "name": "Cinquedea",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "738": {
     "name": "Orange Murano",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "739": {
     "name": "Violet Murano",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "74": {
     "name": "Polar Camo",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "740": {
     "name": "Navy Murano",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "741": {
     "name": "Dark Filigree",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "742": {
     "name": "Red Filigree",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "743": {
     "name": "Orange Filigree",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "744": {
     "name": "Baroque Red",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "745": {
     "name": "Baroque Purple",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "746": {
     "name": "Baroque Orange",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "747": {
     "name": "Twin Turbo",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "748": {
     "name": "Calf Skin",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "749": {
     "name": "Vino Primo",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "75": {
     "name": "Blizzard Marbleized",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "750": {
     "name": "Integrale",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "751": {
     "name": "Hand Brake",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "752": {
     "name": "Fade",
+    "rarity": "4",
     "wear_max": 0.25,
     "wear_min": 0.0
   },
   "753": {
     "name": "Dirt Drop",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "754": {
     "name": "Rust Coat",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "755": {
     "name": "Slide",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "756": {
     "name": "Gungnir",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "757": {
     "name": "Emerald J\u00f6rmungandr",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "758": {
     "name": "Flame J\u00f6rmungandr",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "759": {
     "name": "Astral J\u00f6rmungandr",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "76": {
     "name": "Winter Forest",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "760": {
     "name": "Frost Borre",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "761": {
     "name": "Copper Borre",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "762": {
     "name": "Red Stone",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.06
   },
   "763": {
     "name": "Mj\u00f6lnir",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "764": {
     "name": "Fennec Fox",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "765": {
     "name": "Desert Blossom",
+    "rarity": "3",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "77": {
     "name": "Boreal Forest",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "775": {
     "name": "Facility Sketch",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "776": {
     "name": "Facility Negative",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "777": {
     "name": "Facility Draft",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "778": {
     "name": "Facility Dark",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "779": {
     "name": "Random Access",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "78": {
     "name": "Forest Night",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "780": {
     "name": "Mainframe",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "781": {
     "name": "Co-Processor",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "782": {
     "name": "Motherboard",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "783": {
     "name": "Bulkhead",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "784": {
     "name": "Coolant",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "785": {
     "name": "Mandrel",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "786": {
     "name": "Exchanger",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "787": {
     "name": "Core Breach",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "788": {
     "name": "Acheron",
+    "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "789": {
     "name": "Nuclear Garden",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "790": {
     "name": "Cold Fusion",
+    "rarity": "2",
     "wear_max": 0.83,
     "wear_min": 0.0
   },
   "791": {
     "name": "Remote Control",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "792": {
     "name": "Control Panel",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "793": {
     "name": "Converter",
+    "rarity": "2",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "794": {
     "name": "Sweeper",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "795": {
     "name": "Safety Net",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "796": {
     "name": "Check Engine",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "797": {
     "name": "Brake Light",
+    "rarity": "3",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "798": {
     "name": "Nitro",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "799": {
     "name": "High Beam",
+    "rarity": "1",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "8": {
     "name": "Desert Storm",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "800": {
     "name": "Lab Rats",
+    "rarity": "4",
     "wear_max": 0.35,
     "wear_min": 0.0
   },
   "801": {
     "name": "Asiimov",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "802": {
     "name": "Momentum",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "803": {
     "name": "Neo-Noir",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "804": {
     "name": "Modest Threat",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "805": {
     "name": "Mecha Industries",
+    "rarity": "4",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "806": {
     "name": "Scavenger",
+    "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "807": {
     "name": "Signal",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "808": {
     "name": "Oxide Blaze",
+    "rarity": "2",
     "wear_max": 0.85,
     "wear_min": 0.0
   },
   "809": {
     "name": "Wood Fired",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "810": {
     "name": "Phosphor",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "811": {
     "name": "Magnesium",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "812": {
     "name": "Pipe Down",
+    "rarity": "4",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "813": {
     "name": "Nevermore",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "814": {
     "name": "Black Sand",
+    "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "815": {
     "name": "Danger Close",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.02
   },
   "816": {
     "name": "Fubar",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.14
   },
   "817": {
     "name": "Flashback",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "818": {
     "name": "Purple DDPAT",
+    "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "819": {
     "name": "Desert Hydra",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "820": {
     "name": "Music Box",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "821": {
     "name": "Elegant Vines",
+    "rarity": "4",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "822": {
     "name": "Navy Sheen",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "823": {
     "name": "Sand Storm",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "824": {
     "name": "Drift Wood",
+    "rarity": "2",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "825": {
     "name": "Drought",
+    "rarity": "1",
     "wear_max": 0.44,
     "wear_min": 0.0
   },
   "826": {
     "name": "Sienna Damask",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "827": {
     "name": "Humidor",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "828": {
     "name": "Verdant Growth",
+    "rarity": "2",
     "wear_max": 0.47,
     "wear_min": 0.0
   },
   "829": {
     "name": "Anolis",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "83": {
     "name": "Orange DDPAT",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "835": {
     "name": "Crypsis",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "836": {
     "name": "Uncharted",
+    "rarity": "2",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "837": {
     "name": "Angry Mob",
+    "rarity": "6",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "838": {
     "name": "Atheris",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "839": {
     "name": "Bamboozle",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "84": {
     "name": "Pink DDPAT",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "840": {
     "name": "Whitefish",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "841": {
     "name": "Light Rail",
+    "rarity": "3",
     "wear_max": 0.9,
     "wear_min": 0.0
   },
   "842": {
     "name": "Akoben",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "843": {
     "name": "Skull Crusher",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.25
   },
   "844": {
     "name": "The Emperor",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "845": {
     "name": "Momentum",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.05
   },
   "846": {
     "name": "Gauss",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "847": {
     "name": "Mischief",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.1
   },
   "848": {
     "name": "Verdigris",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "849": {
     "name": "Off World",
+    "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "850": {
     "name": "Incinegator",
+    "rarity": "5",
     "wear_max": 0.65,
     "wear_min": 0.14
   },
   "851": {
     "name": "Moonrise",
+    "rarity": "4",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "852": {
     "name": "Doppler",
     "phase": "1",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "853": {
     "name": "Doppler",
     "phase": "2",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "854": {
     "name": "Doppler",
     "phase": "3",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "855": {
     "name": "Doppler",
     "phase": "4",
+    "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "856": {
     "name": "Marble Fade",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "857": {
     "name": "Damascus Steel",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "858": {
     "name": "Damascus Steel",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "859": {
     "name": "Emerald Quartz",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "860": {
     "name": "Pyre",
+    "rarity": "2",
     "wear_max": 0.55,
     "wear_min": 0.06
   },
   "861": {
     "name": "Barricade",
+    "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "862": {
     "name": "Moss Quartz",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "863": {
     "name": "Night Borre",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "864": {
     "name": "Candy Apple",
+    "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "865": {
     "name": "Stone Mosaico",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.06
   },
   "866": {
     "name": "Canal Spray",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.06
   },
   "867": {
     "name": "Stained Glass",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "868": {
     "name": "Sea Calico",
+    "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "869": {
     "name": "Sundown",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "870": {
     "name": "Jungle Thicket",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "871": {
     "name": "Surfwood",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "872": {
     "name": "Bamboo Garden",
+    "rarity": "1",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "873": {
     "name": "Seabird",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "879": {
     "name": "Fade",
+    "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "880": {
     "name": "Parched",
+    "rarity": "1",
     "wear_max": 0.49,
     "wear_min": 0.0
   },
   "884": {
     "name": "Embargo",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "885": {
     "name": "Rat Rod",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "886": {
     "name": "Arctic Wolf",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "887": {
     "name": "Containment Breach",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "888": {
     "name": "Acid Wash",
+    "rarity": "3",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "889": {
     "name": "Decimator",
+    "rarity": "5",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "890": {
     "name": "Plume",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "891": {
     "name": "Black Sand",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "892": {
     "name": "Memento",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "893": {
     "name": "Neon Ply",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "894": {
     "name": "Obsidian",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "895": {
     "name": "Balance",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "896": {
     "name": "Torn",
+    "rarity": "3",
     "wear_max": 0.45,
     "wear_min": 0.0
   },
   "897": {
     "name": "Colony IV",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "898": {
     "name": "Stalker",
+    "rarity": "6",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "899": {
     "name": "Bloodshot",
+    "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.14
   },
   "9": {
     "name": "Bengal Tiger",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "90": {
     "name": "Mudder",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "900": {
     "name": "Warbird",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.05
   },
   "902": {
     "name": "Aztec",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "903": {
     "name": "Elite 1.6",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "904": {
     "name": "Decommissioned",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "905": {
     "name": "Flash Out",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "906": {
     "name": "Buddy",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "907": {
     "name": "Inferno",
+    "rarity": "4",
     "wear_max": 0.68,
     "wear_min": 0.0
   },
   "908": {
     "name": "Classic Crate",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "909": {
     "name": "Popdog",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "910": {
     "name": "Hydra",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "911": {
     "name": "Nostalgia",
+    "rarity": "5",
     "wear_max": 0.57,
     "wear_min": 0.0
   },
   "913": {
     "name": "Death by Puppy",
+    "rarity": "5",
     "wear_max": 0.4,
     "wear_min": 0.0
   },
   "914": {
     "name": "Assault",
+    "rarity": "3",
     "wear_max": 0.62,
     "wear_min": 0.0
   },
   "915": {
     "name": "Agent",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "916": {
     "name": "Plastique",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "917": {
     "name": "Wildfire",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.01
   },
   "918": {
     "name": "Sacrifice",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "919": {
     "name": "Commemoration",
+    "rarity": "6",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "92": {
     "name": "Cyanospatter",
+    "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "920": {
     "name": "Boroque Sand",
+    "rarity": "1",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "921": {
     "name": "Gold Arabesque",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "922": {
     "name": "Orange Anolis",
+    "rarity": "3",
     "wear_max": 0.37,
     "wear_min": 0.0
   },
   "923": {
     "name": "Oxide Oasis",
+    "rarity": "5",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "924": {
     "name": "Desert Brush",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "925": {
     "name": "Desert DDPAT",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "926": {
     "name": "Red DDPAT",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "927": {
     "name": "Spalted Wood",
+    "rarity": "2",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "928": {
     "name": "Black & Tan",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "929": {
     "name": "Quick Sand",
+    "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "93": {
     "name": "Caramel",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "930": {
     "name": "New Roots",
+    "rarity": "3",
     "wear_max": 0.55,
     "wear_min": 0.0
   },
   "931": {
     "name": "Old Roots",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "932": {
     "name": "Withered Vine",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "933": {
     "name": "Midnight Palm",
+    "rarity": "2",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "934": {
     "name": "Bleached",
+    "rarity": "1",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "935": {
     "name": "Prey",
+    "rarity": "1",
     "wear_max": 0.48,
     "wear_min": 0.0
   },
   "941": {
     "name": "Phantom Disruptor",
+    "rarity": "4",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "942": {
     "name": "Tom Cat",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "943": {
     "name": "Capillary",
+    "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.05
   },
   "944": {
     "name": "Distressed",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "945": {
     "name": "Blue Ply",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "946": {
     "name": "Player Two",
+    "rarity": "5",
     "wear_max": 0.84,
     "wear_min": 0.0
   },
   "947": {
     "name": "Disco Tech",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "948": {
     "name": "Justice",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "949": {
     "name": "Desert Strike",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "95": {
     "name": "Grassland",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "950": {
     "name": "Prototype",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "951": {
     "name": "Acid Etched",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "952": {
     "name": "Bone Forged",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "953": {
     "name": "Apocalypto",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "954": {
     "name": "Enforcer",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "955": {
     "name": "Darkwing",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "956": {
     "name": "Fever Dream",
+    "rarity": "4",
     "wear_max": 0.72,
     "wear_min": 0.0
   },
   "957": {
     "name": "Bullet Queen",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "958": {
     "name": "Ultralight",
+    "rarity": "3",
     "wear_max": 0.79,
     "wear_min": 0.0
   },
   "959": {
     "name": "Legion of Anubis",
+    "rarity": "5",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "96": {
     "name": "Blue Spruce",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "960": {
     "name": "Gnarled",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "961": {
     "name": "Monster Call",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "962": {
     "name": "Printstream",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "963": {
     "name": "Vogue",
+    "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
   },
   "964": {
     "name": "Brother",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "965": {
     "name": "Allure",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "966": {
     "name": "Ol' Rusty",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "967": {
     "name": "Mainframe 001",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "968": {
     "name": "Cassette",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "969": {
     "name": "Freight",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "970": {
     "name": "Entombed",
+    "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "971": {
     "name": "Tooth Fairy",
+    "rarity": "4",
     "wear_max": 0.73,
     "wear_min": 0.0
   },
   "972": {
     "name": "Connexion",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "973": {
     "name": "Runic",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "974": {
     "name": "Kitbash",
+    "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "975": {
     "name": "Exoskeleton",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "976": {
     "name": "Vendetta",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "977": {
     "name": "Cocoa Rampage",
+    "rarity": "3",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "978": {
     "name": "Dezastre",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "979": {
     "name": "Fairy Tale",
+    "rarity": "5",
     "wear_max": 0.9,
     "wear_min": 0.02
   },
   "98": {
     "name": "Ultraviolet",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "980": {
     "name": "Digital Mesh",
+    "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "981": {
     "name": "Vandal",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "982": {
     "name": "Contaminant",
+    "rarity": "3",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "983": {
     "name": "Deep Relief",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "984": {
     "name": "Printstream",
+    "rarity": "5",
     "wear_max": 0.8,
     "wear_min": 0.0
   },
   "985": {
     "name": "Cyber Security",
+    "rarity": "4",
     "wear_max": 0.98,
     "wear_min": 0.0
   },
   "986": {
     "name": "Condition Zero",
+    "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "987": {
     "name": "Clear Polymer",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "988": {
     "name": "Neo-Noir",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "989": {
     "name": "Parallax",
+    "rarity": "4",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
   "99": {
     "name": "Sand Dune",
+    "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
   "990": {
     "name": "Gold Bismuth",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "991": {
     "name": "Monster Mashup",
+    "rarity": "4",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "992": {
     "name": "The Bronze",
+    "rarity": "1",
     "wear_max": 0.3,
     "wear_min": 0.0
   },
   "993": {
     "name": "Global Offensive",
+    "rarity": "2",
     "wear_max": 0.7,
     "wear_min": 0.0
   },
   "994": {
     "name": "Charter",
+    "rarity": "1",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "995": {
     "name": "Surveillance",
+    "rarity": "1",
     "wear_max": 0.6,
     "wear_min": 0.0
   },
   "996": {
     "name": "Threat Detected",
+    "rarity": "3",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "997": {
     "name": "Dispatch",
+    "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "998": {
     "name": "Switch Board",
+    "rarity": "2",
     "wear_max": 0.65,
     "wear_min": 0.0
   },
   "999": {
     "name": "Prime Conspiracy",
+    "rarity": "4",
     "wear_max": 0.55,
     "wear_min": 0.0
   }

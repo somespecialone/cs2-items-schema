@@ -1,4 +1,10 @@
 {
+  "0": {
+    "character": "Default",
+    "color": "#ded6cc",
+    "nonweapon": "Default",
+    "weapon": "Stock"
+  },
   "1": {
     "color": "#b0c3d9",
     "nonweapon": "Base Grade",

@@ -1,0 +1,502 @@
+{
+  "20020": {
+    "musics": [
+      "3"
+    ],
+    "name": "Music Kit | Daniel Sadowski, Crimson Assault"
+  },
+  "20021": {
+    "musics": [
+      "4"
+    ],
+    "name": "Music Kit | Noisia, Sharpened"
+  },
+  "20022": {
+    "musics": [
+      "5"
+    ],
+    "name": "Music Kit | Robert Allaire, Insurgency"
+  },
+  "20023": {
+    "musics": [
+      "6"
+    ],
+    "name": "Music Kit | Sean Murray, A*D*8"
+  },
+  "20024": {
+    "musics": [
+      "7"
+    ],
+    "name": "Music Kit | Feed Me, High Noon"
+  },
+  "20025": {
+    "musics": [
+      "8"
+    ],
+    "name": "Music Kit | Dren, Death's Head Demolition"
+  },
+  "20026": {
+    "musics": [
+      "9"
+    ],
+    "name": "Music Kit | Austin Wintory, Desert Fire"
+  },
+  "20027": {
+    "musics": [
+      "10"
+    ],
+    "name": "Music Kit | Sasha, LNOE"
+  },
+  "20028": {
+    "musics": [
+      "11"
+    ],
+    "name": "Music Kit | Skog, Metal"
+  },
+  "20051": {
+    "musics": [
+      "16"
+    ],
+    "name": "Music Kit | Daniel Sadowski, Total Domination"
+  },
+  "20052": {
+    "musics": [
+      "15"
+    ],
+    "name": "Music Kit | Various Artists, Hotline Miami"
+  },
+  "20053": {
+    "musics": [
+      "13"
+    ],
+    "name": "Music Kit | Matt Lange, IsoRhythm"
+  },
+  "20054": {
+    "musics": [
+      "14"
+    ],
+    "name": "Music Kit | Mateo Messina, For No Mankind"
+  },
+  "20055": {
+    "musics": [
+      "17"
+    ],
+    "name": "Music Kit | Damjan Mravunac, The Talos Principle"
+  },
+  "20069": {
+    "musics": [
+      "18"
+    ],
+    "name": "Music Kit | Proxy, Battlepack"
+  },
+  "20070": {
+    "musics": [
+      "19"
+    ],
+    "name": "Music Kit | Ki:Theory, MOLOTOV"
+  },
+  "20071": {
+    "musics": [
+      "20"
+    ],
+    "name": "Music Kit | Troels Folmann, Uber Blasto Phone"
+  },
+  "20072": {
+    "musics": [
+      "21"
+    ],
+    "name": "Music Kit | Kelly Bailey, Hazardous Environments"
+  },
+  "20073": {
+    "musics": [
+      "22"
+    ],
+    "name": "Music Kit | Skog, II-Headshot"
+  },
+  "20085": {
+    "musics": [
+      "23"
+    ],
+    "name": "Music Kit | Daniel Sadowski, The 8-Bit Kit"
+  },
+  "20086": {
+    "musics": [
+      "24"
+    ],
+    "name": "Music Kit | AWOLNATION, I Am"
+  },
+  "20087": {
+    "musics": [
+      "25"
+    ],
+    "name": "Music Kit | Mord Fustang, Diamonds"
+  },
+  "20088": {
+    "musics": [
+      "26"
+    ],
+    "name": "Music Kit | Michael Bross, Invasion!"
+  },
+  "20089": {
+    "musics": [
+      "27"
+    ],
+    "name": "Music Kit | Ian Hultquist, Lion's Mouth"
+  },
+  "20090": {
+    "musics": [
+      "28"
+    ],
+    "name": "Music Kit | New Beat Fund, Sponge Fingerz"
+  },
+  "20091": {
+    "musics": [
+      "29"
+    ],
+    "name": "Music Kit | Beartooth, Disgusting"
+  },
+  "20092": {
+    "musics": [
+      "30"
+    ],
+    "name": "Music Kit | Lennie Moore, Java Havana Funkaloo"
+  },
+  "20093": {
+    "musics": [
+      "31"
+    ],
+    "name": "Music Kit | Darude, Moments CS:GO"
+  },
+  "20094": {
+    "musics": [
+      "18"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Proxy, Battlepack"
+  },
+  "20095": {
+    "musics": [
+      "19"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Ki:Theory, MOLOTOV"
+  },
+  "20096": {
+    "musics": [
+      "20"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Troels Folmann, Uber Blasto Phone"
+  },
+  "20097": {
+    "musics": [
+      "21"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Kelly Bailey, Hazardous Environments"
+  },
+  "20098": {
+    "musics": [
+      "22"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Skog, II-Headshot"
+  },
+  "20099": {
+    "musics": [
+      "23"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, The 8-Bit Kit"
+  },
+  "20100": {
+    "musics": [
+      "24"
+    ],
+    "name": "StatTrak\u2122 Music Kit | AWOLNATION, I Am"
+  },
+  "20101": {
+    "musics": [
+      "25"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Mord Fustang, Diamonds"
+  },
+  "20102": {
+    "musics": [
+      "26"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Michael Bross, Invasion!"
+  },
+  "20103": {
+    "musics": [
+      "27"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Ian Hultquist, Lion's Mouth"
+  },
+  "20104": {
+    "musics": [
+      "28"
+    ],
+    "name": "StatTrak\u2122 Music Kit | New Beat Fund, Sponge Fingerz"
+  },
+  "20105": {
+    "musics": [
+      "29"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Beartooth, Disgusting"
+  },
+  "20106": {
+    "musics": [
+      "30"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Lennie Moore, Java Havana Funkaloo"
+  },
+  "20107": {
+    "musics": [
+      "31"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Darude, Moments CS:GO"
+  },
+  "20108": {
+    "musics": [
+      "3"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Crimson Assault"
+  },
+  "20109": {
+    "musics": [
+      "4"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Noisia, Sharpened"
+  },
+  "20110": {
+    "musics": [
+      "5"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Robert Allaire, Insurgency"
+  },
+  "20111": {
+    "musics": [
+      "6"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Sean Murray, A*D*8"
+  },
+  "20112": {
+    "musics": [
+      "7"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Feed Me, High Noon"
+  },
+  "20113": {
+    "musics": [
+      "8"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Dren, Death's Head Demolition"
+  },
+  "20114": {
+    "musics": [
+      "9"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Austin Wintory, Desert Fire"
+  },
+  "20115": {
+    "musics": [
+      "10"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Sasha, LNOE"
+  },
+  "20116": {
+    "musics": [
+      "11"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Skog, Metal"
+  },
+  "20118": {
+    "musics": [
+      "16"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Total Domination"
+  },
+  "20119": {
+    "musics": [
+      "15"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Various Artists, Hotline Miami"
+  },
+  "20120": {
+    "musics": [
+      "13"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Matt Lange, IsoRhythm"
+  },
+  "20121": {
+    "musics": [
+      "14"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Mateo Messina, For No Mankind"
+  },
+  "20122": {
+    "musics": [
+      "17"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Damjan Mravunac, The Talos Principle"
+  },
+  "20147": {
+    "musics": [
+      "41"
+    ],
+    "name": "Music Kit | Scarlxrd: King, Scar"
+  },
+  "20148": {
+    "musics": [
+      "41"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Scarlxrd: King, Scar"
+  },
+  "20175": {
+    "musics": [
+      "52"
+    ],
+    "name": "Music Kit | Neck Deep, The Lowlife Pack"
+  },
+  "20176": {
+    "musics": [
+      "52"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Neck Deep, The Lowlife Pack"
+  },
+  "20177": {
+    "musics": [
+      "53"
+    ],
+    "name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+  },
+  "20178": {
+    "musics": [
+      "53"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Scarlxrd, CHAIN$AW.LXADXUT."
+  },
+  "20183": {
+    "musics": [
+      "60"
+    ],
+    "name": "Music Kit | bbno$, u mad!"
+  },
+  "20184": {
+    "musics": [
+      "60"
+    ],
+    "name": "StatTrak\u2122 Music Kit | bbno$, u mad!"
+  },
+  "20185": {
+    "musics": [
+      "61"
+    ],
+    "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance"
+  },
+  "20186": {
+    "musics": [
+      "61"
+    ],
+    "name": "StatTrak\u2122 Music Kit | The Verkkars & n0thing, Flashbang Dance"
+  },
+  "20191": {
+    "musics": [
+      "68"
+    ],
+    "name": "Music Kit | Perfect World, \u82b1\u8138 Hua Lian (Painted Face)"
+  },
+  "20192": {
+    "musics": [
+      "68"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Perfect World, \u82b1\u8138 Hua Lian (Painted Face)"
+  },
+  "20194": {
+    "musics": [
+      "69"
+    ],
+    "name": "Music Kit | Denzel Curry, ULTIMATE"
+  },
+  "20195": {
+    "musics": [
+      "69"
+    ],
+    "name": "StatTrak\u2122 Music Kit | Denzel Curry, ULTIMATE"
+  },
+  "4287": {
+    "musics": [
+      "32",
+      "33",
+      "34",
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "name": "StatTrak\u2122 Radicals Box"
+  },
+  "4696": {
+    "musics": [
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "name": "Masterminds Music Kit Box"
+  },
+  "4697": {
+    "musics": [
+      "43",
+      "44",
+      "45",
+      "46",
+      "47",
+      "48",
+      "49"
+    ],
+    "name": "StatTrak\u2122 Masterminds Music Kit Box"
+  },
+  "4754": {
+    "musics": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59"
+    ],
+    "name": "Tacticians Music Kit Box"
+  },
+  "4755": {
+    "musics": [
+      "54",
+      "55",
+      "56",
+      "57",
+      "58",
+      "59"
+    ],
+    "name": "StatTrak\u2122 Tacticians Music Kit Box"
+  },
+  "4848": {
+    "musics": [
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67"
+    ],
+    "name": "Initiators Music Kit Box"
+  },
+  "4849": {
+    "musics": [
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67"
+    ],
+    "name": "StatTrak\u2122 Initiators Music Kit Box"
+  }
+}
