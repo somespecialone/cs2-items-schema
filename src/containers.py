@@ -65,14 +65,9 @@ class ContainersCollector:
             if not self._check_case_prefab(item_data):
                 continue
 
-            try:
-                container = {"name": self.csgo_english[item_data["item_name"][1:]]}
-            except KeyError:
-                continue
+            container = {}
 
             # there can be image pointer for containers a la 'econ/weapon_cases/...'
-
-            containers_to_add = {}
 
             if item_set_tag := item_data.get("tags", {}).get("ItemSet"):
                 # if item set in tags we can bypass lookup and get items directly from set

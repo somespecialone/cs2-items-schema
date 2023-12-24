@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "cs2-items-schema"
 version = "1.0.0"
-description = "Schema of CS2 items."
+description = "Schema of CS2 items"
 authors = ["Dmytro Tkachenko <itsme@somespecial.one>"]
 readme = "README.md"
 

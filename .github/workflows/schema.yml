@@ -2,22 +2,52 @@ name: Schema
 
 on:
   schedule:
-    #    - cron: "0 0 */2 * *"
     - cron: "0 0 * * *"
 
   workflow_dispatch:
 
 jobs:
-  create:
+  manifest:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      local: ${{ steps.manifest.outputs.local }}
+      remote: ${{ steps.manifest.outputs.local }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Load remote & local manifest ids
+        id: manifest
+        run: |
+          echo "remote=$(curl -s https://raw.githubusercontent.com/csfloat/cs-files/master/static/manifestId.txt)" >> $GITHUB_OUTPUT
+          echo "local=$(cat manifest)" >> $GITHUB_OUTPUT
+
+  collect:
+    needs: manifest
+    if: needs.manifest.outputs.local != needs.manifest.outputs.remote
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      - uses: snok/install-poetry@v1
+        with:
+          virtualenvs-create: true
+          virtualenvs-in-project: true
+      - uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: poetry
+      - run: poetry install
 
-        # run program, return from it something somehow and check here if we need to commit and push
+      - name: Collect data and create schemas
+        run: poetry run python collect.py
+
+      - name: Update local manifest id
+        run: echo "${{ needs.manifest.outputs.remote }}" > manifest
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
-#        with:
-#          commit_message: "manifest ${{ steps.manifestId.outputs.content }}"
+        with:
+          commit_message: "manifest ${{ needs.manifest.outputs.remote }}"
