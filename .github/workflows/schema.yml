@@ -2,7 +2,9 @@ name: Schema
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # avoid delaying or even cancelling job & addressing github advice 
+    # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+    - cron: "19 23 * * *"
 
   workflow_dispatch:
 
