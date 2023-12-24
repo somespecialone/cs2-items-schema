@@ -5,10 +5,13 @@
 [![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![steam](https://shields.io/badge/steam-1b2838?logo=steam)](https://store.steampowered.com/)
 
-This is storage repo of CS2 (ex. CSGO) items schema with attempt to create more understandable format
-Feel free to used it if you need 😊
+This is storage repo of CS2 (ex. CSGO) items schema with attempt to create more understandable format 
+of Steam Economy CS2 items and their relations.
+
+Feel free to use it if you need 😊
 
 > [!NOTE]
+> Contains data extracted from game files only.
 > Includes not all items, **but almost all tradable items - must be inside** 📦
 
 ## Integrity schema 🧾
