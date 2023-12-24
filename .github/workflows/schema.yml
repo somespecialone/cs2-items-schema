@@ -12,7 +12,7 @@ jobs:
     timeout-minutes: 5
     outputs:
       local: ${{ steps.manifest.outputs.local }}
-      remote: ${{ steps.manifest.outputs.local }}
+      remote: ${{ steps.manifest.outputs.remote }}
     steps:
       - uses: actions/checkout@v4
 
