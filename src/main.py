@@ -122,5 +122,5 @@ class ResourceCollector:
         )
         sql_dumps = sql_creator.create()
 
-        # self.dump_json_files(*to_json_dump, dir=self.resource_dir)
+        self.dump_json_files(*to_json_dump, dir=self.resource_dir)
         self.dump_files(*sql_dumps, dir=self.sql_dir)
