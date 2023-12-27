@@ -38,7 +38,7 @@ class ItemsCollector:
 
             if not self._check_paintable(item_data):  # non-paintable
                 item = {
-                    "type": defindex,
+                    "def": defindex,
                 }
 
                 items[defindex] = item

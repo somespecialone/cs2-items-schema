@@ -78,7 +78,7 @@ class ContainersCollector:
                 container["items"] = list(self._find_item_indexes(i) for i in loot_list)
 
                 if "associated_items" in item_data:
-                    container["associated"] = list(item_data["associated_items"].keys())
+                    container["associated"] = list(item_data["associated_items"].keys())[0]
 
                 if item_data["prefab"] == "weapon_case_souvenirpkg":
                     containers_to_add = souvenir_cases

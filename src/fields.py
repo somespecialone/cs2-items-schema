@@ -103,6 +103,8 @@ class FieldsCollector:
             except KeyError:
                 pass
 
+        del paints["0"]  # remove unused
+
         return paints
 
     def _parse_rarities(self) -> dict[str, dict[str, str]]:
