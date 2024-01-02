@@ -10,7 +10,7 @@ of Steam Economy CS2 items and their relations.
 
 Feel free to use it if you need 😊
 
-> [!NOTE]
+> [!IMPORTANT]
 > Contains data extracted from game files only.
 > Includes not all items, **but almost all tradable items - must be inside** 📦
 
