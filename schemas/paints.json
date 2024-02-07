@@ -1408,11 +1408,113 @@
     "wear_max": 1.0,
     "wear_min": 0.0
   },
+  "1159": {
+    "name": "Slag",
+    "rarity": "3",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
   "116": {
     "name": "Sand Mesh",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
+  },
+  "1160": {
+    "name": "Analog Input",
+    "rarity": "4",
+    "wear_max": 0.61886,
+    "wear_min": 0.0
+  },
+  "1161": {
+    "name": "Dezastre",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1162": {
+    "name": "Dark Sigil",
+    "rarity": "3",
+    "wear_max": 0.698529,
+    "wear_min": 0.0
+  },
+  "1163": {
+    "name": "Just Smile",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1164": {
+    "name": "Light Box",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1165": {
+    "name": "Etch Lord",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1166": {
+    "name": "Black Lotus",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1167": {
+    "name": "Block-18",
+    "rarity": "3",
+    "wear_max": 0.671875,
+    "wear_min": 0.0
+  },
+  "1168": {
+    "name": "Hybrid",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1169": {
+    "name": "Hideout",
+    "rarity": "3",
+    "wear_max": 0.698529,
+    "wear_min": 0.0
+  },
+  "1170": {
+    "name": "Chrome Cannon",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1171": {
+    "name": "Inheritance",
+    "rarity": "5",
+    "wear_max": 0.797346,
+    "wear_min": 0.0
+  },
+  "1172": {
+    "name": "Olympus",
+    "rarity": "5",
+    "wear_max": 0.67,
+    "wear_min": 0.0
+  },
+  "1173": {
+    "name": "Jawbreaker",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1174": {
+    "name": "Irezumi",
+    "rarity": "3",
+    "wear_max": 0.799353,
+    "wear_min": 0.0
+  },
+  "1175": {
+    "name": "Motorized",
+    "rarity": "3",
+    "wear_max": 0.801418,
+    "wear_min": 0.0
   },
   "119": {
     "name": "Sage Spray",
