@@ -2594,16 +2594,16 @@
   },
   "1382": {
     "containers": [
-      "4255",
-      "4254"
+      "4254",
+      "4255"
     ],
     "name": "ESL (Holo) | Cologne 2016",
     "rarity": "4"
   },
   "1383": {
     "containers": [
-      "4255",
-      "4254"
+      "4254",
+      "4255"
     ],
     "name": "ESL (Foil) | Cologne 2016",
     "rarity": "5"
@@ -5379,16 +5379,16 @@
   },
   "1803": {
     "containers": [
-      "4323",
-      "4324"
+      "4324",
+      "4323"
     ],
     "name": "ELEAGUE (Holo) | Atlanta 2017",
     "rarity": "4"
   },
   "1804": {
     "containers": [
-      "4323",
-      "4324"
+      "4324",
+      "4323"
     ],
     "name": "ELEAGUE (Foil) | Atlanta 2017",
     "rarity": "5"
@@ -10621,22 +10621,22 @@
   },
   "2533": {
     "containers": [
+      "4457",
       "4478",
-      "4458",
       "4456",
-      "4474",
-      "4457"
+      "4458",
+      "4474"
     ],
     "name": "ELEAGUE (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2534": {
     "containers": [
+      "4457",
       "4478",
-      "4458",
       "4456",
-      "4474",
-      "4457"
+      "4458",
+      "4474"
     ],
     "name": "ELEAGUE (Foil) | Boston 2018",
     "rarity": "5"
@@ -14732,18 +14732,18 @@
   },
   "3052": {
     "containers": [
+      "4535",
       "4534",
-      "4533",
-      "4535"
+      "4533"
     ],
     "name": "FACEIT (Holo) | London 2018",
     "rarity": "4"
   },
   "3053": {
     "containers": [
+      "4535",
       "4534",
-      "4533",
-      "4535"
+      "4533"
     ],
     "name": "FACEIT (Foil) | London 2018",
     "rarity": "5"
@@ -18532,8 +18532,8 @@
   "3557": {
     "containers": [
       "4586",
-      "4584",
-      "4585"
+      "4585",
+      "4584"
     ],
     "name": "IEM (Holo) | Katowice 2019",
     "rarity": "4"
@@ -18541,8 +18541,8 @@
   "3558": {
     "containers": [
       "4586",
-      "4584",
-      "4585"
+      "4585",
+      "4584"
     ],
     "name": "IEM (Foil) | Katowice 2019",
     "rarity": "5"
@@ -22685,8 +22685,8 @@
   "4116": {
     "containers": [
       "4656",
-      "4654",
-      "4655"
+      "4655",
+      "4654"
     ],
     "name": "StarLadder (Holo) | Berlin 2019",
     "rarity": "4"
@@ -22694,8 +22694,8 @@
   "4117": {
     "containers": [
       "4656",
-      "4654",
-      "4655"
+      "4655",
+      "4654"
     ],
     "name": "StarLadder (Foil) | Berlin 2019",
     "rarity": "5"
@@ -26931,72 +26931,72 @@
   },
   "4681": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Beast",
     "rarity": "3"
   },
   "4682": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Marauder",
     "rarity": "3"
   },
   "4683": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Protector",
     "rarity": "3"
   },
   "4684": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Badge of Service",
     "rarity": "3"
   },
   "4685": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Battle Scarred",
     "rarity": "3"
   },
   "4686": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Broken Fang",
     "rarity": "3"
   },
   "4687": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Coiled Strike",
     "rarity": "3"
   },
   "4688": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Enemy Spotted",
     "rarity": "3"
   },
   "4689": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stalking Prey",
     "rarity": "3"
@@ -27007,56 +27007,56 @@
   },
   "4690": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stone Scales",
     "rarity": "3"
   },
   "4691": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Battle Scarred (Holo)",
     "rarity": "4"
   },
   "4692": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Broken Fang (Holo)",
     "rarity": "4"
   },
   "4693": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Coiled Strike (Holo)",
     "rarity": "4"
   },
   "4694": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Enemy Spotted (Holo)",
     "rarity": "4"
   },
   "4695": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Beast (Foil)",
     "rarity": "5"
   },
   "4696": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stone Scales (Foil)",
     "rarity": "5"
@@ -27982,24 +27982,24 @@
   },
   "4817": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Orange Gnar",
     "rarity": "3"
   },
   "4818": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blue Gnar",
     "rarity": "3"
   },
   "4819": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Green Gnar",
     "rarity": "3"
@@ -28013,80 +28013,80 @@
   },
   "4820": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Purple Gnar",
     "rarity": "3"
   },
   "4821": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Yellow Jaggyfish",
     "rarity": "3"
   },
   "4822": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Pink Jaggyfish",
     "rarity": "3"
   },
   "4823": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Purple Jaggyfish",
     "rarity": "3"
   },
   "4824": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Black Jaggyfish",
     "rarity": "3"
   },
   "4825": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blue Lethal",
     "rarity": "3"
   },
   "4826": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Green Lethal",
     "rarity": "3"
   },
   "4827": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Fade Lethal",
     "rarity": "3"
   },
   "4828": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Yellow Lethal",
     "rarity": "3"
   },
   "4829": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Green Shark Shooter",
     "rarity": "3"
@@ -28100,80 +28100,80 @@
   },
   "4830": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Black Shark Shooter",
     "rarity": "3"
   },
   "4831": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blue Shark Shooter",
     "rarity": "3"
   },
   "4832": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Red Shark Shooter",
     "rarity": "3"
   },
   "4833": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Green Cyclawps",
     "rarity": "3"
   },
   "4834": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Red Cyclawps",
     "rarity": "3"
   },
   "4835": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Purple Cyclawps",
     "rarity": "3"
   },
   "4836": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Yellow Cyclawps",
     "rarity": "3"
   },
   "4837": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Purple Bombster",
     "rarity": "3"
   },
   "4838": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "White Bombster",
     "rarity": "3"
   },
   "4839": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Green Bombster",
     "rarity": "3"
@@ -28184,80 +28184,80 @@
   },
   "4840": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Yellow Bombster",
     "rarity": "3"
   },
   "4841": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Tentaskull",
     "rarity": "3"
   },
   "4842": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blood Moon Tentaskull",
     "rarity": "3"
   },
   "4843": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Sunset Ocean Tentaskull",
     "rarity": "3"
   },
   "4844": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Toxic Tentaskull",
     "rarity": "3"
   },
   "4845": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Stabbyfish",
     "rarity": "3"
   },
   "4846": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Stabbyfish",
     "rarity": "3"
   },
   "4847": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "After Hours Stabbyfish",
     "rarity": "3"
   },
   "4848": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Ocean Sunset Stabbyfish",
     "rarity": "3"
   },
   "4849": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Wave Rider",
     "rarity": "3"
@@ -28271,80 +28271,80 @@
   },
   "4850": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blood Moon Wave Rider",
     "rarity": "3"
   },
   "4851": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Toxic Wave Rider",
     "rarity": "3"
   },
   "4852": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Fools Gold Wave Rider",
     "rarity": "3"
   },
   "4853": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Candy Buttery (Holo)",
     "rarity": "4"
   },
   "4854": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Flame Buttery (Holo)",
     "rarity": "4"
   },
   "4855": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Buttery (Holo)",
     "rarity": "4"
   },
   "4856": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Buttery (Holo)",
     "rarity": "4"
   },
   "4857": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Opal Flick (Holo)",
     "rarity": "4"
   },
   "4858": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Ocean Sunset Flick (Holo)",
     "rarity": "4"
   },
   "4859": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Mercury Flick (Holo)",
     "rarity": "4"
@@ -28358,80 +28358,80 @@
   },
   "4860": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Flick (Holo)",
     "rarity": "4"
   },
   "4861": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Flow (Holo)",
     "rarity": "4"
   },
   "4862": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Toxic Flow (Holo)",
     "rarity": "4"
   },
   "4863": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Cotton Candy Flow (Holo)",
     "rarity": "4"
   },
   "4864": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Flow (Holo)",
     "rarity": "4"
   },
   "4865": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Skill Surf (Holo)",
     "rarity": "4"
   },
   "4866": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Ocean Sunset Skill Surf (Holo)",
     "rarity": "4"
   },
   "4867": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Coral Skill Surf (Holo)",
     "rarity": "4"
   },
   "4868": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Bubble Gum Skill Surf (Holo)",
     "rarity": "4"
   },
   "4869": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Abalone Strafe (Holo)",
     "rarity": "4"
@@ -28442,80 +28442,80 @@
   },
   "4870": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Strafe (Holo)",
     "rarity": "4"
   },
   "4871": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Mood Ring Strafe (Holo)",
     "rarity": "4"
   },
   "4872": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Neon Opal Strafe (Holo)",
     "rarity": "4"
   },
   "4873": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Flame Tier6 (Holo)",
     "rarity": "4"
   },
   "4874": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Watermelon Tier6 (Holo)",
     "rarity": "4"
   },
   "4875": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Miami Tier6 (Holo)",
     "rarity": "4"
   },
   "4876": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Forge Tier6 (Holo)",
     "rarity": "4"
   },
   "4877": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Sticker Bomb Surf Ava (Foil)",
     "rarity": "5"
   },
   "4878": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Dragon Lore Surf Ava (Foil)",
     "rarity": "5"
   },
   "4879": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Akihabara Accept Surf Ava (Foil)",
     "rarity": "5"
@@ -28529,16 +28529,16 @@
   },
   "4880": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Dark Water Surf Ava (Foil)",
     "rarity": "5"
   },
   "4881": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Ultraviolet Poison Frog (Foil)",
     "rarity": "5"
@@ -28843,24 +28843,24 @@
   },
   "4920": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Lore Poison Frog (Foil)",
     "rarity": "5"
   },
   "4921": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Crimson Web Poison Frog (Foil)",
     "rarity": "5"
   },
   "4922": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Doppler Poison Frog (Foil)",
     "rarity": "5"
@@ -29074,32 +29074,32 @@
   },
   "4950": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Sticker Bomb Surf K (Foil)",
     "rarity": "5"
   },
   "4951": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Hypnotic Surf K (Foil)",
     "rarity": "5"
   },
   "4952": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Fire Serpent Surf K (Foil)",
     "rarity": "5"
   },
   "4953": {
     "containers": [
-      "4779",
-      "4791"
+      "4791",
+      "4779"
     ],
     "name": "Blaze Surf K (Foil)",
     "rarity": "5"
@@ -29846,36 +29846,36 @@
   },
   "5050": {
     "containers": [
+      "4803",
       "4804",
-      "4805",
-      "4803"
+      "4805"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5051": {
     "containers": [
+      "4803",
       "4804",
-      "4805",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Holo) | Stockholm 2021",
     "rarity": "4"
   },
   "5052": {
     "containers": [
+      "4803",
       "4804",
-      "4805",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Foil) | Stockholm 2021",
     "rarity": "5"
   },
   "5053": {
     "containers": [
+      "4803",
       "4804",
-      "4805",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "6"
@@ -30368,18 +30368,18 @@
   },
   "5127": {
     "containers": [
-      "4808",
+      "4806",
       "4807",
-      "4806"
+      "4808"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5128": {
     "containers": [
-      "4808",
+      "4806",
       "4807",
-      "4806"
+      "4808"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "4"
@@ -38351,8 +38351,8 @@
   },
   "669": {
     "containers": [
-      "4110",
-      "4109"
+      "4109",
+      "4110"
     ],
     "name": "ESL (Foil) | Cologne 2015",
     "rarity": "5"
@@ -41056,6 +41056,30 @@
     "name": "On An Eco (Foil)",
     "rarity": "5"
   },
+  "7254": {
+    "name": "Natus Vincere | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7255": {
+    "name": "Natus Vincere (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7256": {
+    "name": "Natus Vincere (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7257": {
+    "name": "Natus Vincere (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7258": {
+    "name": "Virtus.pro | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7259": {
+    "name": "Virtus.pro (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
   "726": {
     "containers": [
       "4158"
@@ -41063,9 +41087,89 @@
     "name": "markeloff (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7260": {
+    "name": "Virtus.pro (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7261": {
+    "name": "Virtus.pro (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7262": {
+    "name": "G2 Esports | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7263": {
+    "name": "G2 Esports (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7264": {
+    "name": "G2 Esports (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7265": {
+    "name": "G2 Esports (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7266": {
+    "name": "FaZe Clan | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7267": {
+    "name": "FaZe Clan (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7268": {
+    "name": "FaZe Clan (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7269": {
+    "name": "FaZe Clan (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
   "727": {
     "name": "markeloff (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7270": {
+    "name": "Team Spirit | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7271": {
+    "name": "Team Spirit (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7272": {
+    "name": "Team Spirit (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7273": {
+    "name": "Team Spirit (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7274": {
+    "name": "Vitality | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7275": {
+    "name": "Vitality (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7276": {
+    "name": "Vitality (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7277": {
+    "name": "Vitality (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7278": {
+    "name": "MOUZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7279": {
+    "name": "MOUZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
   },
   "728": {
     "containers": [
@@ -41074,12 +41178,92 @@
     "name": "WorldEdit | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7280": {
+    "name": "MOUZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7281": {
+    "name": "MOUZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7282": {
+    "name": "Complexity Gaming | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7283": {
+    "name": "Complexity Gaming (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7284": {
+    "name": "Complexity Gaming (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7285": {
+    "name": "Complexity Gaming (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7286": {
+    "name": "Cloud9 | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7287": {
+    "name": "Cloud9 (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7288": {
+    "name": "Cloud9 (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7289": {
+    "name": "Cloud9 (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
   "729": {
     "containers": [
       "4158"
     ],
     "name": "WorldEdit (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7290": {
+    "name": "ENCE | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7291": {
+    "name": "ENCE (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7292": {
+    "name": "ENCE (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7293": {
+    "name": "ENCE (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7294": {
+    "name": "FURIA | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7295": {
+    "name": "FURIA (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7296": {
+    "name": "FURIA (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7297": {
+    "name": "FURIA (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7298": {
+    "name": "Heroic | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7299": {
+    "name": "Heroic (Glitter) | Copenhagen 2024",
+    "rarity": "4"
   },
   "73": {
     "containers": [
@@ -41092,12 +41276,92 @@
     "name": "WorldEdit (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7300": {
+    "name": "Heroic (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7301": {
+    "name": "Heroic (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7302": {
+    "name": "Eternal Fire | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7303": {
+    "name": "Eternal Fire (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7304": {
+    "name": "Eternal Fire (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7305": {
+    "name": "Eternal Fire (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7306": {
+    "name": "Apeks | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7307": {
+    "name": "Apeks (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7308": {
+    "name": "Apeks (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7309": {
+    "name": "Apeks (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
   "731": {
     "containers": [
       "4174"
     ],
     "name": "flusha | Cluj-Napoca 2015",
     "rarity": "3"
+  },
+  "7310": {
+    "name": "9Pandas | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7311": {
+    "name": "9Pandas (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7312": {
+    "name": "9Pandas (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7313": {
+    "name": "9Pandas (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7314": {
+    "name": "SAW | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7315": {
+    "name": "SAW (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7316": {
+    "name": "SAW (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7317": {
+    "name": "SAW (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7318": {
+    "name": "paiN Gaming | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7319": {
+    "name": "paiN Gaming (Glitter) | Copenhagen 2024",
+    "rarity": "4"
   },
   "732": {
     "containers": [
@@ -41106,9 +41370,89 @@
     "name": "flusha (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7320": {
+    "name": "paiN Gaming (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7321": {
+    "name": "paiN Gaming (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7322": {
+    "name": "Imperial Esports | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7323": {
+    "name": "Imperial Esports (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7324": {
+    "name": "Imperial Esports (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7325": {
+    "name": "Imperial Esports (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7326": {
+    "name": "The MongolZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7327": {
+    "name": "The MongolZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7328": {
+    "name": "The MongolZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7329": {
+    "name": "The MongolZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
   "733": {
     "name": "flusha (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7330": {
+    "name": "AMKAL ESPORTS | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7331": {
+    "name": "AMKAL ESPORTS (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7332": {
+    "name": "AMKAL ESPORTS (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7333": {
+    "name": "AMKAL ESPORTS (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7334": {
+    "name": "ECSTATIC | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7335": {
+    "name": "ECSTATIC (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7336": {
+    "name": "ECSTATIC (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7337": {
+    "name": "ECSTATIC (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7338": {
+    "name": "KOI | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7339": {
+    "name": "KOI (Glitter) | Copenhagen 2024",
+    "rarity": "4"
   },
   "734": {
     "containers": [
@@ -41117,6 +41461,46 @@
     "name": "JW | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7340": {
+    "name": "KOI (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7341": {
+    "name": "KOI (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7342": {
+    "name": "Legacy | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7343": {
+    "name": "Legacy (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7344": {
+    "name": "Legacy (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7345": {
+    "name": "Legacy (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7346": {
+    "name": "Lynn Vision | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7347": {
+    "name": "Lynn Vision (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7348": {
+    "name": "Lynn Vision (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7349": {
+    "name": "Lynn Vision (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
   "735": {
     "containers": [
       "4159"
@@ -41124,15 +41508,135 @@
     "name": "JW (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7350": {
+    "name": "PGL | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7351": {
+    "name": "PGL (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7352": {
+    "name": "PGL (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7353": {
+    "name": "PGL (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7354": {
+    "name": "Natus Vincere | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7355": {
+    "name": "Virtus.pro | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7356": {
+    "name": "G2 Esports | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7357": {
+    "name": "FaZe Clan | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7358": {
+    "name": "Team Spirit | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7359": {
+    "name": "Vitality | Copenhagen 2024",
+    "rarity": "3"
+  },
   "736": {
     "name": "JW (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7360": {
+    "name": "MOUZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7361": {
+    "name": "Complexity Gaming | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7362": {
+    "name": "Cloud9 | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7363": {
+    "name": "ENCE | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7364": {
+    "name": "FURIA | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7365": {
+    "name": "Heroic | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7366": {
+    "name": "Eternal Fire | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7367": {
+    "name": "Apeks | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7368": {
+    "name": "9Pandas | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7369": {
+    "name": "SAW | Copenhagen 2024",
+    "rarity": "3"
   },
   "737": {
     "containers": [
       "4174"
     ],
     "name": "KRIMZ | Cluj-Napoca 2015",
+    "rarity": "3"
+  },
+  "7370": {
+    "name": "paiN Gaming | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7371": {
+    "name": "Imperial Esports | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7372": {
+    "name": "The MongolZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7373": {
+    "name": "AMKAL ESPORTS | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7374": {
+    "name": "ECSTATIC | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7375": {
+    "name": "KOI | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7376": {
+    "name": "Legacy | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7377": {
+    "name": "Lynn Vision | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7378": {
+    "name": "PGL | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7379": {
+    "name": "jL | Copenhagen 2024",
     "rarity": "3"
   },
   "738": {
@@ -41142,9 +41646,89 @@
     "name": "KRIMZ (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7380": {
+    "name": "jL (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7381": {
+    "name": "jL (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7382": {
+    "name": "jL (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7383": {
+    "name": "Aleksib | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7384": {
+    "name": "Aleksib (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7385": {
+    "name": "Aleksib (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7386": {
+    "name": "Aleksib (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7387": {
+    "name": "b1t | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7388": {
+    "name": "b1t (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7389": {
+    "name": "b1t (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "739": {
     "name": "KRIMZ (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7390": {
+    "name": "b1t (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7391": {
+    "name": "iM | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7392": {
+    "name": "iM (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7393": {
+    "name": "iM (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7394": {
+    "name": "iM (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7395": {
+    "name": "w0nderful | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7396": {
+    "name": "w0nderful (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7397": {
+    "name": "w0nderful (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7398": {
+    "name": "w0nderful (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7399": {
+    "name": "fame | Copenhagen 2024",
+    "rarity": "3"
   },
   "74": {
     "containers": [
@@ -41160,6 +41744,46 @@
     "name": "olofmeister | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7400": {
+    "name": "fame (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7401": {
+    "name": "fame (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7402": {
+    "name": "fame (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7403": {
+    "name": "FL1T | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7404": {
+    "name": "FL1T (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7405": {
+    "name": "FL1T (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7406": {
+    "name": "FL1T (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7407": {
+    "name": "Jame | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7408": {
+    "name": "Jame (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7409": {
+    "name": "Jame (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "741": {
     "containers": [
       "4159"
@@ -41167,8 +41791,88 @@
     "name": "olofmeister (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7410": {
+    "name": "Jame (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7411": {
+    "name": "mir | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7412": {
+    "name": "mir (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7413": {
+    "name": "mir (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7414": {
+    "name": "mir (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7415": {
+    "name": "n0rb3r7 | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7416": {
+    "name": "n0rb3r7 (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7417": {
+    "name": "n0rb3r7 (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7418": {
+    "name": "n0rb3r7 (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7419": {
+    "name": "HooXi | Copenhagen 2024",
+    "rarity": "3"
+  },
   "742": {
     "name": "olofmeister (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7420": {
+    "name": "HooXi (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7421": {
+    "name": "HooXi (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7422": {
+    "name": "HooXi (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7423": {
+    "name": "huNter- | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7424": {
+    "name": "huNter- (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7425": {
+    "name": "huNter- (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7426": {
+    "name": "huNter- (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7427": {
+    "name": "m0NESY | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7428": {
+    "name": "m0NESY (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7429": {
+    "name": "m0NESY (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "743": {
@@ -41178,6 +41882,46 @@
     "name": "pronax | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7430": {
+    "name": "m0NESY (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7431": {
+    "name": "nexa | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7432": {
+    "name": "nexa (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7433": {
+    "name": "nexa (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7434": {
+    "name": "nexa (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7435": {
+    "name": "NiKo | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7436": {
+    "name": "NiKo (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7437": {
+    "name": "NiKo (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7438": {
+    "name": "NiKo (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7439": {
+    "name": "broky | Copenhagen 2024",
+    "rarity": "3"
+  },
   "744": {
     "containers": [
       "4159"
@@ -41185,9 +41929,89 @@
     "name": "pronax (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7440": {
+    "name": "broky (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7441": {
+    "name": "broky (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7442": {
+    "name": "broky (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7443": {
+    "name": "frozen | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7444": {
+    "name": "frozen (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7445": {
+    "name": "frozen (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7446": {
+    "name": "frozen (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7447": {
+    "name": "karrigan | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7448": {
+    "name": "karrigan (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7449": {
+    "name": "karrigan (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "745": {
     "name": "pronax (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7450": {
+    "name": "karrigan (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7451": {
+    "name": "rain | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7452": {
+    "name": "rain (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7453": {
+    "name": "rain (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7454": {
+    "name": "rain (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7455": {
+    "name": "ropz | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7456": {
+    "name": "ropz (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7457": {
+    "name": "ropz (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7458": {
+    "name": "ropz (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7459": {
+    "name": "chopper | Copenhagen 2024",
+    "rarity": "3"
   },
   "746": {
     "containers": [
@@ -41196,6 +42020,46 @@
     "name": "dennis | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7460": {
+    "name": "chopper (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7461": {
+    "name": "chopper (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7462": {
+    "name": "chopper (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7463": {
+    "name": "donk | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7464": {
+    "name": "donk (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7465": {
+    "name": "donk (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7466": {
+    "name": "donk (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7467": {
+    "name": "magixx | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7468": {
+    "name": "magixx (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7469": {
+    "name": "magixx (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "747": {
     "containers": [
       "4159"
@@ -41203,8 +42067,88 @@
     "name": "dennis (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7470": {
+    "name": "magixx (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7471": {
+    "name": "sh1ro | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7472": {
+    "name": "sh1ro (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7473": {
+    "name": "sh1ro (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7474": {
+    "name": "sh1ro (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7475": {
+    "name": "zont1x | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7476": {
+    "name": "zont1x (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7477": {
+    "name": "zont1x (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7478": {
+    "name": "zont1x (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7479": {
+    "name": "apEX | Copenhagen 2024",
+    "rarity": "3"
+  },
   "748": {
     "name": "dennis (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7480": {
+    "name": "apEX (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7481": {
+    "name": "apEX (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7482": {
+    "name": "apEX (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7483": {
+    "name": "FlameZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7484": {
+    "name": "FlameZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7485": {
+    "name": "FlameZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7486": {
+    "name": "FlameZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7487": {
+    "name": "mezii | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7488": {
+    "name": "mezii (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7489": {
+    "name": "mezii (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "749": {
@@ -41212,6 +42156,46 @@
       "4170"
     ],
     "name": "fox | Cluj-Napoca 2015",
+    "rarity": "3"
+  },
+  "7490": {
+    "name": "mezii (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7491": {
+    "name": "Spinx | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7492": {
+    "name": "Spinx (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7493": {
+    "name": "Spinx (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7494": {
+    "name": "Spinx (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7495": {
+    "name": "ZywOo | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7496": {
+    "name": "ZywOo (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7497": {
+    "name": "ZywOo (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7498": {
+    "name": "ZywOo (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7499": {
+    "name": "Brollan | Copenhagen 2024",
     "rarity": "3"
   },
   "75": {
@@ -41228,9 +42212,89 @@
     "name": "fox (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7500": {
+    "name": "Brollan (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7501": {
+    "name": "Brollan (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7502": {
+    "name": "Brollan (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7503": {
+    "name": "Jimpphat | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7504": {
+    "name": "Jimpphat (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7505": {
+    "name": "Jimpphat (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7506": {
+    "name": "Jimpphat (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7507": {
+    "name": "siuhy | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7508": {
+    "name": "siuhy (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7509": {
+    "name": "siuhy (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "751": {
     "name": "fox (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7510": {
+    "name": "siuhy (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7511": {
+    "name": "torzsi | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7512": {
+    "name": "torzsi (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7513": {
+    "name": "torzsi (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7514": {
+    "name": "torzsi (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7515": {
+    "name": "xertioN | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7516": {
+    "name": "xertioN (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7517": {
+    "name": "xertioN (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7518": {
+    "name": "xertioN (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7519": {
+    "name": "hallzerk | Copenhagen 2024",
+    "rarity": "3"
   },
   "752": {
     "containers": [
@@ -41239,6 +42303,46 @@
     "name": "Maikelele | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7520": {
+    "name": "hallzerk (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7521": {
+    "name": "hallzerk (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7522": {
+    "name": "hallzerk (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7523": {
+    "name": "EliGE | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7524": {
+    "name": "EliGE (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7525": {
+    "name": "EliGE (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7526": {
+    "name": "EliGE (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7527": {
+    "name": "floppy | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7528": {
+    "name": "floppy (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7529": {
+    "name": "floppy (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "753": {
     "containers": [
       "4159"
@@ -41246,8 +42350,88 @@
     "name": "Maikelele (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7530": {
+    "name": "floppy (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7531": {
+    "name": "Grim | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7532": {
+    "name": "Grim (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7533": {
+    "name": "Grim (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7534": {
+    "name": "Grim (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7535": {
+    "name": "JT | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7536": {
+    "name": "JT (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7537": {
+    "name": "JT (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7538": {
+    "name": "JT (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7539": {
+    "name": "Ax1Le | Copenhagen 2024",
+    "rarity": "3"
+  },
   "754": {
     "name": "Maikelele (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7540": {
+    "name": "Ax1Le (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7541": {
+    "name": "Ax1Le (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7542": {
+    "name": "Ax1Le (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7543": {
+    "name": "Boombl4 | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7544": {
+    "name": "Boombl4 (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7545": {
+    "name": "Boombl4 (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7546": {
+    "name": "Boombl4 (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7547": {
+    "name": "electronic | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7548": {
+    "name": "electronic (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7549": {
+    "name": "electronic (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "755": {
@@ -41257,6 +42441,46 @@
     "name": "rain | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7550": {
+    "name": "electronic (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7551": {
+    "name": "Hobbit | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7552": {
+    "name": "Hobbit (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7553": {
+    "name": "Hobbit (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7554": {
+    "name": "Hobbit (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7555": {
+    "name": "Perfecto | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7556": {
+    "name": "Perfecto (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7557": {
+    "name": "Perfecto (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7558": {
+    "name": "Perfecto (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7559": {
+    "name": "Goofy | Copenhagen 2024",
+    "rarity": "3"
+  },
   "756": {
     "containers": [
       "4159"
@@ -41264,9 +42488,89 @@
     "name": "rain (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7560": {
+    "name": "Goofy (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7561": {
+    "name": "Goofy (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7562": {
+    "name": "Goofy (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7563": {
+    "name": "Kylar | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7564": {
+    "name": "Kylar (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7565": {
+    "name": "Kylar (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7566": {
+    "name": "Kylar (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7567": {
+    "name": "Dycha | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7568": {
+    "name": "Dycha (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7569": {
+    "name": "Dycha (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "757": {
     "name": "rain (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7570": {
+    "name": "Dycha (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7571": {
+    "name": "gla1ve | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7572": {
+    "name": "gla1ve (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7573": {
+    "name": "gla1ve (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7574": {
+    "name": "gla1ve (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7575": {
+    "name": "hades | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7576": {
+    "name": "hades (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7577": {
+    "name": "hades (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7578": {
+    "name": "hades (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7579": {
+    "name": "arT | Copenhagen 2024",
+    "rarity": "3"
   },
   "758": {
     "containers": [
@@ -41275,12 +42579,92 @@
     "name": "jkaem | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7580": {
+    "name": "arT (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7581": {
+    "name": "arT (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7582": {
+    "name": "arT (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7583": {
+    "name": "chelo | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7584": {
+    "name": "chelo (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7585": {
+    "name": "chelo (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7586": {
+    "name": "chelo (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7587": {
+    "name": "FalleN | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7588": {
+    "name": "FalleN (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7589": {
+    "name": "FalleN (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "759": {
     "containers": [
       "4159"
     ],
     "name": "jkaem (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7590": {
+    "name": "FalleN (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7591": {
+    "name": "KSCERATO | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7592": {
+    "name": "KSCERATO (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7593": {
+    "name": "KSCERATO (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7594": {
+    "name": "KSCERATO (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7595": {
+    "name": "yuurih | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7596": {
+    "name": "yuurih (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7597": {
+    "name": "yuurih (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7598": {
+    "name": "yuurih (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7599": {
+    "name": "kyxsan | Copenhagen 2024",
+    "rarity": "3"
   },
   "76": {
     "containers": [
@@ -41293,11 +42677,91 @@
     "name": "jkaem (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7600": {
+    "name": "kyxsan (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7601": {
+    "name": "kyxsan (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7602": {
+    "name": "kyxsan (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7603": {
+    "name": "NertZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7604": {
+    "name": "NertZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7605": {
+    "name": "NertZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7606": {
+    "name": "NertZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7607": {
+    "name": "nicoodoz | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7608": {
+    "name": "nicoodoz (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7609": {
+    "name": "nicoodoz (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "761": {
     "containers": [
       "4175"
     ],
     "name": "boltz | Cluj-Napoca 2015",
+    "rarity": "3"
+  },
+  "7610": {
+    "name": "nicoodoz (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7611": {
+    "name": "sjuush | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7612": {
+    "name": "sjuush (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7613": {
+    "name": "sjuush (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7614": {
+    "name": "sjuush (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7615": {
+    "name": "TeSeS | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7616": {
+    "name": "TeSeS (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7617": {
+    "name": "TeSeS (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7618": {
+    "name": "TeSeS (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7619": {
+    "name": "Calyx | Copenhagen 2024",
     "rarity": "3"
   },
   "762": {
@@ -41307,9 +42771,89 @@
     "name": "boltz (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7620": {
+    "name": "Calyx (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7621": {
+    "name": "Calyx (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7622": {
+    "name": "Calyx (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7623": {
+    "name": "MAJ3R | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7624": {
+    "name": "MAJ3R (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7625": {
+    "name": "MAJ3R (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7626": {
+    "name": "MAJ3R (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7627": {
+    "name": "Wicadia | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7628": {
+    "name": "Wicadia (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7629": {
+    "name": "Wicadia (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "763": {
     "name": "boltz (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7630": {
+    "name": "Wicadia (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7631": {
+    "name": "woxic | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7632": {
+    "name": "woxic (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7633": {
+    "name": "woxic (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7634": {
+    "name": "woxic (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7635": {
+    "name": "XANTARES | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7636": {
+    "name": "XANTARES (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7637": {
+    "name": "XANTARES (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7638": {
+    "name": "XANTARES (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7639": {
+    "name": "nawwk | Copenhagen 2024",
+    "rarity": "3"
   },
   "764": {
     "containers": [
@@ -41318,6 +42862,46 @@
     "name": "coldzera | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7640": {
+    "name": "nawwk (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7641": {
+    "name": "nawwk (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7642": {
+    "name": "nawwk (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7643": {
+    "name": "CacaNito | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7644": {
+    "name": "CacaNito (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7645": {
+    "name": "CacaNito (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7646": {
+    "name": "CacaNito (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7647": {
+    "name": "jkaem | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7648": {
+    "name": "jkaem (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7649": {
+    "name": "jkaem (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "765": {
     "containers": [
       "4159"
@@ -41325,8 +42909,88 @@
     "name": "coldzera (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7650": {
+    "name": "jkaem (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7651": {
+    "name": "sense | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7652": {
+    "name": "sense (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7653": {
+    "name": "sense (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7654": {
+    "name": "sense (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7655": {
+    "name": "STYKO | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7656": {
+    "name": "STYKO (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7657": {
+    "name": "STYKO (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7658": {
+    "name": "STYKO (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7659": {
+    "name": "clax | Copenhagen 2024",
+    "rarity": "3"
+  },
   "766": {
     "name": "coldzera (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7660": {
+    "name": "clax (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7661": {
+    "name": "clax (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7662": {
+    "name": "clax (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7663": {
+    "name": "d1Ledez | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7664": {
+    "name": "d1Ledez (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7665": {
+    "name": "d1Ledez (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7666": {
+    "name": "d1Ledez (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7667": {
+    "name": "glowiing | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7668": {
+    "name": "glowiing (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7669": {
+    "name": "glowiing (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "767": {
@@ -41336,6 +43000,46 @@
     "name": "FalleN | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7670": {
+    "name": "glowiing (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7671": {
+    "name": "iDISBALANCE | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7672": {
+    "name": "iDISBALANCE (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7673": {
+    "name": "iDISBALANCE (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7674": {
+    "name": "iDISBALANCE (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7675": {
+    "name": "seized | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7676": {
+    "name": "seized (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7677": {
+    "name": "seized (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7678": {
+    "name": "seized (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7679": {
+    "name": "arrozdoce | Copenhagen 2024",
+    "rarity": "3"
+  },
   "768": {
     "containers": [
       "4159"
@@ -41343,9 +43047,89 @@
     "name": "FalleN (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7680": {
+    "name": "arrozdoce (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7681": {
+    "name": "arrozdoce (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7682": {
+    "name": "arrozdoce (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7683": {
+    "name": "ewjerkz | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7684": {
+    "name": "ewjerkz (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7685": {
+    "name": "ewjerkz (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7686": {
+    "name": "ewjerkz (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7687": {
+    "name": "MUTiRiS | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7688": {
+    "name": "MUTiRiS (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7689": {
+    "name": "MUTiRiS (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "769": {
     "name": "FalleN (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7690": {
+    "name": "MUTiRiS (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7691": {
+    "name": "roman | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7692": {
+    "name": "roman (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7693": {
+    "name": "roman (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7694": {
+    "name": "roman (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7695": {
+    "name": "story | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7696": {
+    "name": "story (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7697": {
+    "name": "story (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7698": {
+    "name": "story (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7699": {
+    "name": "biguzera | Copenhagen 2024",
+    "rarity": "3"
   },
   "77": {
     "containers": [
@@ -41361,6 +43145,46 @@
     "name": "fer | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7700": {
+    "name": "biguzera (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7701": {
+    "name": "biguzera (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7702": {
+    "name": "biguzera (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7703": {
+    "name": "kauez | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7704": {
+    "name": "kauez (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7705": {
+    "name": "kauez (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7706": {
+    "name": "kauez (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7707": {
+    "name": "lux | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7708": {
+    "name": "lux (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7709": {
+    "name": "lux (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "771": {
     "containers": [
       "4159"
@@ -41368,8 +43192,88 @@
     "name": "fer (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7710": {
+    "name": "lux (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7711": {
+    "name": "n1ssim | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7712": {
+    "name": "n1ssim (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7713": {
+    "name": "n1ssim (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7714": {
+    "name": "n1ssim (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7715": {
+    "name": "NQZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7716": {
+    "name": "NQZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7717": {
+    "name": "NQZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7718": {
+    "name": "NQZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7719": {
+    "name": "decenty | Copenhagen 2024",
+    "rarity": "3"
+  },
   "772": {
     "name": "fer (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7720": {
+    "name": "decenty (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7721": {
+    "name": "decenty (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7722": {
+    "name": "decenty (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7723": {
+    "name": "felps | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7724": {
+    "name": "felps (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7725": {
+    "name": "felps (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7726": {
+    "name": "felps (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7727": {
+    "name": "HEN1 | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7728": {
+    "name": "HEN1 (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7729": {
+    "name": "HEN1 (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "773": {
@@ -41379,6 +43283,46 @@
     "name": "steel | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7730": {
+    "name": "HEN1 (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7731": {
+    "name": "noway | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7732": {
+    "name": "noway (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7733": {
+    "name": "noway (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7734": {
+    "name": "noway (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7735": {
+    "name": "VINI | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7736": {
+    "name": "VINI (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7737": {
+    "name": "VINI (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7738": {
+    "name": "VINI (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7739": {
+    "name": "910 | Copenhagen 2024",
+    "rarity": "3"
+  },
   "774": {
     "containers": [
       "4159"
@@ -41386,9 +43330,89 @@
     "name": "steel (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7740": {
+    "name": "910 (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7741": {
+    "name": "910 (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7742": {
+    "name": "910 (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7743": {
+    "name": "bLitz | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7744": {
+    "name": "bLitz (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7745": {
+    "name": "bLitz (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7746": {
+    "name": "bLitz (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7747": {
+    "name": "mzinho | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7748": {
+    "name": "mzinho (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7749": {
+    "name": "mzinho (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "775": {
     "name": "steel (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7750": {
+    "name": "mzinho (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7751": {
+    "name": "Senzu | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7752": {
+    "name": "Senzu (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7753": {
+    "name": "Senzu (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7754": {
+    "name": "Senzu (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7755": {
+    "name": "Techno4K | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7756": {
+    "name": "Techno4K (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7757": {
+    "name": "Techno4K (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7758": {
+    "name": "Techno4K (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7759": {
+    "name": "Forester | Copenhagen 2024",
+    "rarity": "3"
   },
   "776": {
     "containers": [
@@ -41397,6 +43421,46 @@
     "name": "chrisJ | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7760": {
+    "name": "Forester (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7761": {
+    "name": "Forester (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7762": {
+    "name": "Forester (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7763": {
+    "name": "ICY | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7764": {
+    "name": "ICY (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7765": {
+    "name": "ICY (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7766": {
+    "name": "ICY (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7767": {
+    "name": "Krad | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7768": {
+    "name": "Krad (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7769": {
+    "name": "Krad (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "777": {
     "containers": [
       "4158"
@@ -41404,8 +43468,88 @@
     "name": "chrisJ (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7770": {
+    "name": "Krad (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7771": {
+    "name": "NickelBack | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7772": {
+    "name": "NickelBack (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7773": {
+    "name": "NickelBack (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7774": {
+    "name": "NickelBack (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7775": {
+    "name": "TRAVIS | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7776": {
+    "name": "TRAVIS (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7777": {
+    "name": "TRAVIS (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7778": {
+    "name": "TRAVIS (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7779": {
+    "name": "kraghen | Copenhagen 2024",
+    "rarity": "3"
+  },
   "778": {
     "name": "chrisJ (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7780": {
+    "name": "kraghen (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7781": {
+    "name": "kraghen (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7782": {
+    "name": "kraghen (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7783": {
+    "name": "Nodios | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7784": {
+    "name": "Nodios (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7785": {
+    "name": "Nodios (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7786": {
+    "name": "Nodios (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7787": {
+    "name": "Patti | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7788": {
+    "name": "Patti (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7789": {
+    "name": "Patti (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "779": {
@@ -41413,6 +43557,46 @@
       "4166"
     ],
     "name": "denis | Cluj-Napoca 2015",
+    "rarity": "3"
+  },
+  "7790": {
+    "name": "Patti (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7791": {
+    "name": "Queenix | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7792": {
+    "name": "Queenix (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7793": {
+    "name": "Queenix (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7794": {
+    "name": "Queenix (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7795": {
+    "name": "salazar | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7796": {
+    "name": "salazar (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7797": {
+    "name": "salazar (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7798": {
+    "name": "salazar (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7799": {
+    "name": "adamS | Copenhagen 2024",
     "rarity": "3"
   },
   "78": {
@@ -41429,9 +43613,89 @@
     "name": "denis (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7800": {
+    "name": "adamS (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7801": {
+    "name": "adamS (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7802": {
+    "name": "adamS (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7803": {
+    "name": "dav1g | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7804": {
+    "name": "dav1g (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7805": {
+    "name": "dav1g (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7806": {
+    "name": "dav1g (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7807": {
+    "name": "JUST | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7808": {
+    "name": "JUST (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7809": {
+    "name": "JUST (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "781": {
     "name": "denis (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "7810": {
+    "name": "JUST (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7811": {
+    "name": "mopoz | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7812": {
+    "name": "mopoz (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7813": {
+    "name": "mopoz (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7814": {
+    "name": "mopoz (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7815": {
+    "name": "stadodo | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7816": {
+    "name": "stadodo (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7817": {
+    "name": "stadodo (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7818": {
+    "name": "stadodo (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7819": {
+    "name": "b4rtiN | Copenhagen 2024",
+    "rarity": "3"
   },
   "782": {
     "containers": [
@@ -41440,6 +43704,46 @@
     "name": "gob b | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "7820": {
+    "name": "b4rtiN (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7821": {
+    "name": "b4rtiN (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7822": {
+    "name": "b4rtiN (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7823": {
+    "name": "coldzera | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7824": {
+    "name": "coldzera (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7825": {
+    "name": "coldzera (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7826": {
+    "name": "coldzera (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7827": {
+    "name": "dumau | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7828": {
+    "name": "dumau (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7829": {
+    "name": "dumau (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
   "783": {
     "containers": [
       "4158"
@@ -41447,8 +43751,88 @@
     "name": "gob b (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "7830": {
+    "name": "dumau (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7831": {
+    "name": "latto | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7832": {
+    "name": "latto (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7833": {
+    "name": "latto (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7834": {
+    "name": "latto (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7835": {
+    "name": "NEKiZ | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7836": {
+    "name": "NEKiZ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7837": {
+    "name": "NEKiZ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7838": {
+    "name": "NEKiZ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7839": {
+    "name": "EmiliaQAQ | Copenhagen 2024",
+    "rarity": "3"
+  },
   "784": {
     "name": "gob b (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "7840": {
+    "name": "EmiliaQAQ (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7841": {
+    "name": "EmiliaQAQ (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7842": {
+    "name": "EmiliaQAQ (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7843": {
+    "name": "Jee | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7844": {
+    "name": "Jee (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7845": {
+    "name": "Jee (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7846": {
+    "name": "Jee (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7847": {
+    "name": "Starry | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7848": {
+    "name": "Starry (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7849": {
+    "name": "Starry (Holo) | Copenhagen 2024",
     "rarity": "5"
   },
   "785": {
@@ -41457,6 +43841,42 @@
     ],
     "name": "nex | Cluj-Napoca 2015",
     "rarity": "3"
+  },
+  "7850": {
+    "name": "Starry (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7851": {
+    "name": "westmelon | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7852": {
+    "name": "westmelon (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7853": {
+    "name": "westmelon (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7854": {
+    "name": "westmelon (Gold) | Copenhagen 2024",
+    "rarity": "6"
+  },
+  "7855": {
+    "name": "z4KR | Copenhagen 2024",
+    "rarity": "3"
+  },
+  "7856": {
+    "name": "z4KR (Glitter) | Copenhagen 2024",
+    "rarity": "4"
+  },
+  "7857": {
+    "name": "z4KR (Holo) | Copenhagen 2024",
+    "rarity": "5"
+  },
+  "7858": {
+    "name": "z4KR (Gold) | Copenhagen 2024",
+    "rarity": "6"
   },
   "786": {
     "containers": [
