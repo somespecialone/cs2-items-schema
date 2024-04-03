@@ -2,368 +2,368 @@
   "1": {
     "name": "Desert Eagle",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "10": {
     "name": "FAMAS",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "1000": {
     "name": "Operation Payback Pass",
-    "type": "22"
+    "type": "20"
   },
   "1001": {
     "name": "Operation Payback Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1002": {
     "name": "Silver Operation Payback Coin",
-    "type": "14"
+    "type": "9"
   },
   "1003": {
     "name": "Gold Operation Payback Coin",
-    "type": "14"
+    "type": "9"
   },
   "1004": {
     "name": "Museum Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1005": {
     "name": "Downtown Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1006": {
     "name": "Thunder Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1007": {
     "name": "Favela Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1008": {
     "name": "Motel Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1009": {
     "name": "Seaside Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1010": {
     "name": "Library Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1012": {
     "name": "Operation Bravo Pass",
-    "type": "22"
+    "type": "20"
   },
   "1013": {
     "name": "Operation Bravo Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1014": {
     "name": "Silver Operation Bravo Coin",
-    "type": "14"
+    "type": "9"
   },
   "1015": {
     "name": "Gold Operation Bravo Coin",
-    "type": "14"
+    "type": "9"
   },
   "1016": {
     "name": "Agency Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1017": {
     "name": "Ali Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1018": {
     "name": "Cache Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1019": {
     "name": "Chinatown Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1020": {
     "name": "Gwalior Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1021": {
     "name": "Ruins Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1022": {
     "name": "Siege Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1023": {
     "name": "Operation Phoenix Pass",
-    "type": "22"
+    "type": "20"
   },
   "1024": {
     "name": "Operation Phoenix Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1025": {
     "name": "Silver Operation Phoenix Coin",
-    "type": "14"
+    "type": "9"
   },
   "1026": {
     "name": "Gold Operation Phoenix Coin",
-    "type": "14"
+    "type": "9"
   },
   "1027": {
     "name": "Operation Breakout All Access Pass",
-    "type": "22"
+    "type": "20"
   },
   "1028": {
     "name": "Operation Breakout Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1029": {
     "name": "Silver Operation Breakout Coin",
-    "type": "14"
+    "type": "9"
   },
   "1030": {
     "name": "Gold Operation Breakout Coin",
-    "type": "14"
+    "type": "9"
   },
   "1031": {
     "name": "Castle Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1032": {
     "name": "Black Gold Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1033": {
     "name": "Rush Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1034": {
     "name": "Mist Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1035": {
     "name": "Insertion Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1036": {
     "name": "Overgrown Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1037": {
     "name": "Marquis Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1038": {
     "name": "Workout Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1039": {
     "name": "Backalley Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1040": {
     "name": "Season Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1041": {
     "name": "Bazaar Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1042": {
     "name": "Facade Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1043": {
     "name": "Log Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1044": {
     "name": "Rails Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1045": {
     "name": "Resort Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1046": {
     "name": "Zoo Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1047": {
     "name": "Santorini Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1048": {
     "name": "Coast Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1049": {
     "name": "Mikla Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1050": {
     "name": "Royal Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1051": {
     "name": "Empire Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1052": {
     "name": "Tulip Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1053": {
     "name": "Cruise Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1054": {
     "name": "Subzero Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1055": {
     "name": "Biome Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1056": {
     "name": "Abbey Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1057": {
     "name": "Ruby Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1058": {
     "name": "Breach Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1059": {
     "name": "Studio Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1060": {
     "name": "Jungle Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1061": {
     "name": "Anubis Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1062": {
     "name": "Chlorine Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1063": {
     "name": "Mutiny Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1064": {
     "name": "Swamp Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1065": {
     "name": "Frostbite Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1066": {
     "name": "Engage Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1067": {
     "name": "Apollo Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1068": {
     "name": "Guard Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1069": {
     "name": "Elysion Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1070": {
     "name": "Grind Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1071": {
     "name": "Mocha Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1072": {
     "name": "Calavera Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1073": {
     "name": "Pitstop Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1074": {
     "name": "Basalt Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1075": {
     "name": "Insertion II Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1076": {
     "name": "Ravine Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1077": {
     "name": "Extraction Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1078": {
     "name": "County Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1079": {
     "name": "Iris Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1080": {
     "name": "Climb Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1081": {
     "name": "Crete Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1082": {
     "name": "Hive Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1083": {
     "name": "Vineyard Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1084": {
     "name": "Ember Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1085": {
     "name": "Tuscan Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1086": {
     "name": "Cascade Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1087": {
     "name": "Blagai Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1088": {
     "name": "Boyard Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "1089": {
     "name": "Chalice Map Coin",
-    "type": "14"
+    "type": "9"
   },
   "11": {
     "name": "G3SG1",
@@ -372,19 +372,19 @@
   },
   "1200": {
     "name": "Name Tag",
-    "type": "26"
+    "type": "19"
   },
   "1201": {
     "name": "Storage Unit",
-    "type": "21"
+    "type": "25"
   },
   "1203": {
     "name": "CS:GO Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1204": {
     "name": "eSports Key",
-    "type": "25"
+    "type": "8"
   },
   "1209": {
     "name": "Sticker",
@@ -392,68 +392,68 @@
   },
   "1210": {
     "name": "Gift Package",
-    "type": "10"
+    "type": "13"
   },
   "1211": {
     "name": "Pallet of Presents",
-    "type": "10"
+    "type": "13"
   },
   "1212": {
     "name": "CS:GO Capsule Key",
-    "type": "25"
+    "type": "8"
   },
   "1214": {
     "name": "Winter Offensive Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1215": {
     "name": "Audience Participation Parcel",
-    "type": "10"
+    "type": "13"
   },
   "13": {
     "name": "Galil AR",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "1303": {
     "name": "Operation Phoenix Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1304": {
     "name": "Community Sticker Capsule 1 Key",
-    "type": "25"
+    "type": "8"
   },
   "1305": {
     "name": "Huntsman Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1306": {
     "name": "Mission",
-    "type": "2"
+    "type": "22"
   },
   "1307": {
     "name": "Huntsman Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1308": {
     "name": "Community Sticker Capsule 1 Key",
-    "type": "25"
+    "type": "8"
   },
   "1309": {
     "name": "Operation Breakout Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1310": {
     "name": "Operation Breakout Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1311": {
     "name": "Operation Breakout Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1313": {
     "name": "Operation Breakout Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1314": {
     "name": "Music Kit",
@@ -461,1141 +461,1141 @@
   },
   "1315": {
     "name": "Operation Vanguard Access Pass",
-    "type": "22"
+    "type": "20"
   },
   "1316": {
     "name": "Operation Vanguard Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1317": {
     "name": "Silver Operation Vanguard Coin",
-    "type": "14"
+    "type": "9"
   },
   "1318": {
     "name": "Gold Operation Vanguard Coin",
-    "type": "14"
+    "type": "9"
   },
   "1320": {
     "name": "Campaign Maghreb",
-    "type": "15"
+    "type": "6"
   },
   "1321": {
     "name": "Campaign Eurasia",
-    "type": "15"
+    "type": "6"
   },
   "1322": {
     "name": "Operation Vanguard Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1323": {
     "name": "Chroma Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1324": {
     "name": "StatTrak\u2122 Swap Tool",
-    "type": "21"
+    "type": "25"
   },
   "1325": {
     "name": "Chroma 2 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1326": {
     "name": "Operation Bloodhound Access Pass",
-    "type": "22"
+    "type": "20"
   },
   "1327": {
     "name": "Operation Bloodhound Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1328": {
     "name": "Silver Operation Bloodhound Coin",
-    "type": "14"
+    "type": "9"
   },
   "1329": {
     "name": "Gold Operation Bloodhound Coin",
-    "type": "14"
+    "type": "9"
   },
   "1330": {
     "name": "Falchion Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1331": {
     "name": "2015 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1332": {
     "name": "2015 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1333": {
     "name": "Shadow Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1334": {
     "name": "Revolver Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1335": {
     "name": "Operation Wildfire Access Pass",
-    "type": "22"
+    "type": "20"
   },
   "1336": {
     "name": "Operation Wildfire Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "1337": {
     "name": "Silver Operation Wildfire Coin",
-    "type": "14"
+    "type": "9"
   },
   "1338": {
     "name": "Gold Operation Wildfire Coin",
-    "type": "14"
+    "type": "9"
   },
   "1339": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1340": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1341": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1342": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1343": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1344": {
     "name": "2016 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1347": {
     "name": "Chroma 3 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1348": {
     "name": "Sealed Graffiti",
-    "type": "19"
+    "type": "18"
   },
   "1349": {
     "name": "Graffiti",
-    "type": "19"
+    "type": "18"
   },
   "1350": {
     "name": "Gamma Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1351": {
     "name": "Gamma 2 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1352": {
     "name": "Operation Hydra Access Pass",
-    "type": "22"
+    "type": "20"
   },
   "1353": {
     "name": "Counter-Strike Game License",
     "rarity": "1",
-    "type": "14"
+    "type": "9"
   },
   "1356": {
     "name": "Glove Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1357": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1358": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1359": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1360": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1361": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1362": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1363": {
     "name": "2017 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1364": {
     "name": "Spectrum Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1365": {
     "name": "Operation Hydra Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1366": {
     "name": "Spectrum 2 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1367": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1368": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1369": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1370": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1371": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1372": {
     "name": "2018 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1373": {
     "name": "Clutch Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1374": {
     "name": "Horizon Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1375": {
     "name": "Danger Zone Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1376": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1377": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1378": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1379": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1380": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1381": {
     "name": "2019 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "1383": {
     "name": "Prisma Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1384": {
     "name": "Shattered Web Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1385": {
     "name": "CS20 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1386": {
     "name": "Prisma 2 Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1387": {
     "name": "Fracture Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1388": {
     "name": "Operation Broken Fang Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1389": {
     "name": "Snakebite Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1390": {
     "name": "Operation Riptide Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1391": {
     "name": "Dreams & Nightmares Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1392": {
     "name": "Recoil Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1393": {
     "name": "Revolution Case Key",
-    "type": "25"
+    "type": "8"
   },
   "1394": {
     "name": "Kilowatt Case Key",
-    "type": "25"
+    "type": "8"
   },
   "14": {
     "name": "M249",
     "quality": "0",
-    "type": "3"
+    "type": "2"
   },
   "16": {
     "name": "M4A4",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "17": {
     "name": "MAC-10",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "19": {
     "name": "P90",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "2": {
     "name": "Dual Berettas",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "20": {
     "name": "Repulsor Device",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "20000": {
     "name": "Sticker | Bossy Burger",
-    "type": "24"
+    "type": "14"
   },
   "20001": {
     "name": "Sticker | Cat Call",
-    "type": "24"
+    "type": "14"
   },
   "20002": {
     "name": "Sticker | Chicken Strike",
-    "type": "24"
+    "type": "14"
   },
   "20003": {
     "name": "Sticker | CT in Banana",
-    "type": "24"
+    "type": "14"
   },
   "20004": {
     "name": "Sticker | Don't Worry, I'm Pro",
-    "type": "24"
+    "type": "14"
   },
   "20005": {
     "name": "Sticker | Fight like a Girl",
-    "type": "24"
+    "type": "14"
   },
   "20006": {
     "name": "Sticker | Flashbang",
-    "type": "24"
+    "type": "14"
   },
   "20007": {
     "name": "Sticker | Kawaii Killer CT",
-    "type": "24"
+    "type": "14"
   },
   "20008": {
     "name": "Sticker | Nelu the Bear",
-    "type": "24"
+    "type": "14"
   },
   "20009": {
     "name": "Sticker | One Shot One Kill",
-    "type": "24"
+    "type": "14"
   },
   "20010": {
     "name": "Sticker | Shooting Star Return",
-    "type": "24"
+    "type": "14"
   },
   "20012": {
     "name": "Sticker | War Penguin",
-    "type": "24"
+    "type": "14"
   },
   "20013": {
     "name": "Sticker | Windy Walking Club",
-    "type": "24"
+    "type": "14"
   },
   "20014": {
     "name": "Sticker | Blitzkrieg",
-    "type": "24"
+    "type": "14"
   },
   "20015": {
     "name": "Sticker | Pigeon Master",
-    "type": "24"
+    "type": "14"
   },
   "20016": {
     "name": "Sticker | Terrorized",
-    "type": "24"
+    "type": "14"
   },
   "20017": {
     "name": "Sticker | Till Death Do Us Part",
-    "type": "24"
+    "type": "14"
   },
   "20018": {
     "name": "Sticker | Stay Frosty",
-    "type": "24"
+    "type": "14"
   },
   "20019": {
     "name": "Sticker | T On Cat",
-    "type": "24"
+    "type": "14"
   },
   "20020": {
     "name": "Music Kit | Daniel Sadowski, Crimson Assault",
-    "type": "24"
+    "type": "14"
   },
   "20021": {
     "name": "Music Kit | Noisia, Sharpened",
-    "type": "24"
+    "type": "14"
   },
   "20022": {
     "name": "Music Kit | Robert Allaire, Insurgency",
-    "type": "24"
+    "type": "14"
   },
   "20023": {
     "name": "Music Kit | Sean Murray, A*D*8",
-    "type": "24"
+    "type": "14"
   },
   "20024": {
     "name": "Music Kit | Feed Me, High Noon",
-    "type": "24"
+    "type": "14"
   },
   "20025": {
     "name": "Music Kit | Dren, Death's Head Demolition",
-    "type": "24"
+    "type": "14"
   },
   "20026": {
     "name": "Music Kit | Austin Wintory, Desert Fire",
-    "type": "24"
+    "type": "14"
   },
   "20027": {
     "name": "Music Kit | Sasha, LNOE",
-    "type": "24"
+    "type": "14"
   },
   "20028": {
     "name": "Music Kit | Skog, Metal",
-    "type": "24"
+    "type": "14"
   },
   "20029": {
     "name": "Sticker | Doomed",
-    "type": "24"
+    "type": "14"
   },
   "20030": {
     "name": "Sticker | Queen Of Pain",
-    "type": "24"
+    "type": "14"
   },
   "20031": {
     "name": "Sticker | Trick Or Threat",
-    "type": "24"
+    "type": "14"
   },
   "20032": {
     "name": "Sticker | Trick Or Treat",
-    "type": "24"
+    "type": "14"
   },
   "20033": {
     "name": "Sticker | Witch",
-    "type": "24"
+    "type": "14"
   },
   "20034": {
     "name": "Sticker | Zombie Lover",
-    "type": "24"
+    "type": "14"
   },
   "20035": {
     "name": "Sticker | Blood Boiler",
-    "type": "24"
+    "type": "14"
   },
   "20036": {
     "name": "Sticker | Dinked",
-    "type": "24"
+    "type": "14"
   },
   "20037": {
     "name": "Sticker | Drug War Veteran",
-    "type": "24"
+    "type": "14"
   },
   "20038": {
     "name": "Sticker | Ho Ho Ho",
-    "type": "24"
+    "type": "14"
   },
   "20039": {
     "name": "Sticker | Massive Pear",
-    "type": "24"
+    "type": "14"
   },
   "20040": {
     "name": "Sticker | My Little Friend",
-    "type": "24"
+    "type": "14"
   },
   "20041": {
     "name": "Sticker | Pandamonium",
-    "type": "24"
+    "type": "14"
   },
   "20042": {
     "name": "Sticker | Piece Of Cake",
-    "type": "24"
+    "type": "14"
   },
   "20043": {
     "name": "Sticker | SAS Chicken",
-    "type": "24"
+    "type": "14"
   },
   "20044": {
     "name": "Sticker | Thug Life",
-    "type": "24"
+    "type": "14"
   },
   "20045": {
     "name": "Sticker | T-Rekt",
-    "type": "24"
+    "type": "14"
   },
   "20046": {
     "name": "Sticker | Warowl",
-    "type": "24"
+    "type": "14"
   },
   "20047": {
     "name": "Sticker | Work For Ammo",
-    "type": "24"
+    "type": "14"
   },
   "20048": {
     "name": "Sticker | Phoenix (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "20049": {
     "name": "Sticker | Bomb Squad (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "20050": {
     "name": "Music Kit | Midnight Riders, All I Want for Christmas",
-    "type": "24"
+    "type": "14"
   },
   "20051": {
     "name": "Music Kit | Daniel Sadowski, Total Domination",
-    "type": "24"
+    "type": "14"
   },
   "20052": {
     "name": "Music Kit | Various Artists, Hotline Miami",
-    "type": "24"
+    "type": "14"
   },
   "20053": {
     "name": "Music Kit | Matt Lange, IsoRhythm",
-    "type": "24"
+    "type": "14"
   },
   "20054": {
     "name": "Music Kit | Mateo Messina, For No Mankind",
-    "type": "24"
+    "type": "14"
   },
   "20055": {
     "name": "Music Kit | Damjan Mravunac, The Talos Principle",
-    "type": "24"
+    "type": "14"
   },
   "20056": {
     "name": "Sticker | Flickshot",
-    "type": "24"
+    "type": "14"
   },
   "20057": {
     "name": "Sticker | Headshot Guarantee",
-    "type": "24"
+    "type": "14"
   },
   "20058": {
     "name": "Sticker | Eco Rush",
-    "type": "24"
+    "type": "14"
   },
   "20059": {
     "name": "Sticker | Just Trolling",
-    "type": "24"
+    "type": "14"
   },
   "20061": {
     "name": "Sticker | Firestarter (Holo)",
-    "type": "24"
+    "type": "14"
   },
   "20062": {
     "name": "Sticker | Lucky Cat (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "20063": {
     "name": "Sticker | Robo",
-    "type": "24"
+    "type": "14"
   },
   "20064": {
     "name": "Sticker | Witchcraft",
-    "type": "24"
+    "type": "14"
   },
   "20065": {
     "name": "Sticker | Wanna Fight",
-    "type": "24"
+    "type": "14"
   },
   "20066": {
     "name": "Sticker | Hostage Rescue",
-    "type": "24"
+    "type": "14"
   },
   "20067": {
     "name": "Sticker | Hamster Hawk",
-    "type": "24"
+    "type": "14"
   },
   "20068": {
     "name": "Sticker | Headless Chicken",
-    "type": "24"
+    "type": "14"
   },
   "20069": {
     "name": "Music Kit | Proxy, Battlepack",
-    "type": "24"
+    "type": "14"
   },
   "20070": {
     "name": "Music Kit | Ki:Theory, MOLOTOV",
-    "type": "24"
+    "type": "14"
   },
   "20071": {
     "name": "Music Kit | Troels Folmann, Uber Blasto Phone",
-    "type": "24"
+    "type": "14"
   },
   "20072": {
     "name": "Music Kit | Kelly Bailey, Hazardous Environments",
-    "type": "24"
+    "type": "14"
   },
   "20073": {
     "name": "Music Kit | Skog, II-Headshot",
-    "type": "24"
+    "type": "14"
   },
   "20074": {
     "name": "Enfu Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20075": {
     "name": "Sticker | Awp Country",
-    "type": "24"
+    "type": "14"
   },
   "20076": {
     "name": "Sticker | Chi Bomb",
-    "type": "24"
+    "type": "14"
   },
   "20077": {
     "name": "Sticker | Doru The Fox",
-    "type": "24"
+    "type": "14"
   },
   "20078": {
     "name": "Sticker | Knife Club",
-    "type": "24"
+    "type": "14"
   },
   "20079": {
     "name": "Sticker | CS On The Mind",
-    "type": "24"
+    "type": "14"
   },
   "20080": {
     "name": "Sticker | Ninja Defuse",
-    "type": "24"
+    "type": "14"
   },
   "20081": {
     "name": "Sticker | Pros Don't Fake",
-    "type": "24"
+    "type": "14"
   },
   "20082": {
     "name": "Sticker | Kawaii Killer Terrorist",
-    "type": "24"
+    "type": "14"
   },
   "20083": {
     "name": "Sticker | Baaa-ckstabber!",
-    "type": "24"
+    "type": "14"
   },
   "20084": {
     "name": "Sticker | Delicious Tears",
-    "type": "24"
+    "type": "14"
   },
   "20085": {
     "name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
-    "type": "24"
+    "type": "14"
   },
   "20086": {
     "name": "Music Kit | AWOLNATION, I Am",
-    "type": "24"
+    "type": "14"
   },
   "20087": {
     "name": "Music Kit | Mord Fustang, Diamonds",
-    "type": "24"
+    "type": "14"
   },
   "20088": {
     "name": "Music Kit | Michael Bross, Invasion!",
-    "type": "24"
+    "type": "14"
   },
   "20089": {
     "name": "Music Kit | Ian Hultquist, Lion's Mouth",
-    "type": "24"
+    "type": "14"
   },
   "20090": {
     "name": "Music Kit | New Beat Fund, Sponge Fingerz",
-    "type": "24"
+    "type": "14"
   },
   "20091": {
     "name": "Music Kit | Beartooth, Disgusting",
-    "type": "24"
+    "type": "14"
   },
   "20092": {
     "name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
-    "type": "24"
+    "type": "14"
   },
   "20093": {
     "name": "Music Kit | Darude, Moments CS:GO",
-    "type": "24"
+    "type": "14"
   },
   "20094": {
     "name": "StatTrak\u2122 Music Kit | Proxy, Battlepack",
-    "type": "24"
+    "type": "14"
   },
   "20095": {
     "name": "StatTrak\u2122 Music Kit | Ki:Theory, MOLOTOV",
-    "type": "24"
+    "type": "14"
   },
   "20096": {
     "name": "StatTrak\u2122 Music Kit | Troels Folmann, Uber Blasto Phone",
-    "type": "24"
+    "type": "14"
   },
   "20097": {
     "name": "StatTrak\u2122 Music Kit | Kelly Bailey, Hazardous Environments",
-    "type": "24"
+    "type": "14"
   },
   "20098": {
     "name": "StatTrak\u2122 Music Kit | Skog, II-Headshot",
-    "type": "24"
+    "type": "14"
   },
   "20099": {
     "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, The 8-Bit Kit",
-    "type": "24"
+    "type": "14"
   },
   "20100": {
     "name": "StatTrak\u2122 Music Kit | AWOLNATION, I Am",
-    "type": "24"
+    "type": "14"
   },
   "20101": {
     "name": "StatTrak\u2122 Music Kit | Mord Fustang, Diamonds",
-    "type": "24"
+    "type": "14"
   },
   "20102": {
     "name": "StatTrak\u2122 Music Kit | Michael Bross, Invasion!",
-    "type": "24"
+    "type": "14"
   },
   "20103": {
     "name": "StatTrak\u2122 Music Kit | Ian Hultquist, Lion's Mouth",
-    "type": "24"
+    "type": "14"
   },
   "20104": {
     "name": "StatTrak\u2122 Music Kit | New Beat Fund, Sponge Fingerz",
-    "type": "24"
+    "type": "14"
   },
   "20105": {
     "name": "StatTrak\u2122 Music Kit | Beartooth, Disgusting",
-    "type": "24"
+    "type": "14"
   },
   "20106": {
     "name": "StatTrak\u2122 Music Kit | Lennie Moore, Java Havana Funkaloo",
-    "type": "24"
+    "type": "14"
   },
   "20107": {
     "name": "StatTrak\u2122 Music Kit | Darude, Moments CS:GO",
-    "type": "24"
+    "type": "14"
   },
   "20108": {
     "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Crimson Assault",
-    "type": "24"
+    "type": "14"
   },
   "20109": {
     "name": "StatTrak\u2122 Music Kit | Noisia, Sharpened",
-    "type": "24"
+    "type": "14"
   },
   "20110": {
     "name": "StatTrak\u2122 Music Kit | Robert Allaire, Insurgency",
-    "type": "24"
+    "type": "14"
   },
   "20111": {
     "name": "StatTrak\u2122 Music Kit | Sean Murray, A*D*8",
-    "type": "24"
+    "type": "14"
   },
   "20112": {
     "name": "StatTrak\u2122 Music Kit | Feed Me, High Noon",
-    "type": "24"
+    "type": "14"
   },
   "20113": {
     "name": "StatTrak\u2122 Music Kit | Dren, Death's Head Demolition",
-    "type": "24"
+    "type": "14"
   },
   "20114": {
     "name": "StatTrak\u2122 Music Kit | Austin Wintory, Desert Fire",
-    "type": "24"
+    "type": "14"
   },
   "20115": {
     "name": "StatTrak\u2122 Music Kit | Sasha, LNOE",
-    "type": "24"
+    "type": "14"
   },
   "20116": {
     "name": "StatTrak\u2122 Music Kit | Skog, Metal",
-    "type": "24"
+    "type": "14"
   },
   "20117": {
     "name": "StatTrak\u2122 Music Kit | Midnight Riders, All I Want for Christmas",
-    "type": "24"
+    "type": "14"
   },
   "20118": {
     "name": "StatTrak\u2122 Music Kit | Daniel Sadowski, Total Domination",
-    "type": "24"
+    "type": "14"
   },
   "20119": {
     "name": "StatTrak\u2122 Music Kit | Various Artists, Hotline Miami",
-    "type": "24"
+    "type": "14"
   },
   "20120": {
     "name": "StatTrak\u2122 Music Kit | Matt Lange, IsoRhythm",
-    "type": "24"
+    "type": "14"
   },
   "20121": {
     "name": "StatTrak\u2122 Music Kit | Mateo Messina, For No Mankind",
-    "type": "24"
+    "type": "14"
   },
   "20122": {
     "name": "StatTrak\u2122 Music Kit | Damjan Mravunac, The Talos Principle",
-    "type": "24"
+    "type": "14"
   },
   "20123": {
     "name": "Pinups Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20124": {
     "name": "Slid3 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20125": {
     "name": "Team Roles Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20126": {
     "name": "Collectible Pins Capsule Series 1",
-    "type": "24"
+    "type": "14"
   },
   "20127": {
     "name": "Sugarface Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20128": {
     "name": "Bestiary Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20129": {
     "name": "CS:GO Graffiti Box",
-    "type": "24"
+    "type": "14"
   },
   "20130": {
     "name": "Community Graffiti Box 1",
-    "type": "24"
+    "type": "14"
   },
   "20131": {
     "name": "Collectible Pins Capsule Series 2",
-    "type": "24"
+    "type": "14"
   },
   "20133": {
     "name": "StatTrak\u2122 Radicals Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20134": {
     "name": "Perfect World Sticker Capsule 1",
-    "type": "24"
+    "type": "14"
   },
   "20135": {
     "name": "Perfect World Sticker Capsule 2",
-    "type": "24"
+    "type": "14"
   },
   "20136": {
     "name": "Perfect World Graffiti Box",
-    "type": "24"
+    "type": "14"
   },
   "20137": {
     "name": "Community Capsule 2018",
-    "type": "24"
+    "type": "14"
   },
   "20138": {
     "name": "Collectible Pins Capsule Series 3",
-    "type": "24"
+    "type": "14"
   },
   "20139": {
     "name": "Skill Groups Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20140": {
     "name": "Music Kit | The Verkkars, EZ4ENCE",
-    "type": "24"
+    "type": "14"
   },
   "20141": {
     "name": "StatTrak\u2122 Music Kit | The Verkkars, EZ4ENCE",
-    "type": "24"
+    "type": "14"
   },
   "20142": {
     "name": "Feral Predators Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20143": {
     "name": "Chicken Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20144": {
     "name": "X-Ray P250 Package",
-    "type": "24"
+    "type": "14"
   },
   "20145": {
     "name": "CS20 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20146": {
     "name": "Halo Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20147": {
     "name": "Music Kit | Scarlxrd: King, Scar",
-    "type": "24"
+    "type": "14"
   },
   "20148": {
     "name": "StatTrak\u2122 Music Kit | Scarlxrd: King, Scar",
-    "type": "24"
+    "type": "14"
   },
   "20149": {
     "name": "CS:GO Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "20152": {
     "name": "Half-Life: Alyx Collectible Pins Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20153": {
     "name": "Half-Life: Alyx Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20154": {
     "name": "Half-Life: Alyx Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "20169": {
     "name": "Masterminds Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20170": {
     "name": "StatTrak\u2122 Masterminds Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20171": {
     "name": "Warhammer 40,000 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20172": {
     "name": "Music Kit | Amon Tobin, All for Dust",
-    "type": "24"
+    "type": "14"
   },
   "20173": {
     "name": "StatTrak\u2122 Music Kit | Amon Tobin, All for Dust",
-    "type": "24"
+    "type": "14"
   },
   "20174": {
     "name": "Poorly Drawn Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20175": {
     "name": "Music Kit | Neck Deep, The Lowlife Pack",
-    "type": "24"
+    "type": "14"
   },
   "20176": {
     "name": "StatTrak\u2122 Music Kit | Neck Deep, The Lowlife Pack",
-    "type": "24"
+    "type": "14"
   },
   "20177": {
     "name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
-    "type": "24"
+    "type": "14"
   },
   "20178": {
     "name": "StatTrak\u2122 Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
-    "type": "24"
+    "type": "14"
   },
   "20179": {
     "name": "Tacticians Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20180": {
     "name": "StatTrak\u2122 Tacticians Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20181": {
     "name": "2021 Community Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20182": {
     "name": "Battlefield 2042 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20183": {
     "name": "Music Kit | bbno$, u mad!",
-    "type": "24"
+    "type": "14"
   },
   "20184": {
     "name": "StatTrak\u2122 Music Kit | bbno$, u mad!",
-    "type": "24"
+    "type": "14"
   },
   "20185": {
     "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
-    "type": "24"
+    "type": "14"
   },
   "20186": {
     "name": "StatTrak\u2122 Music Kit | The Verkkars & n0thing, Flashbang Dance",
-    "type": "24"
+    "type": "14"
   },
   "20187": {
     "name": "The Boardroom Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20188": {
     "name": "10 Year Birthday Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20189": {
     "name": "Initiators Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20190": {
     "name": "StatTrak\u2122 Initiators Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20191": {
     "name": "Music Kit | Perfect World, \u82b1\u8138 Hua Lian (Painted Face)",
-    "type": "24"
+    "type": "14"
   },
   "20192": {
     "name": "StatTrak\u2122 Music Kit | Perfect World, \u82b1\u8138 Hua Lian (Painted Face)",
-    "type": "24"
+    "type": "14"
   },
   "20193": {
     "name": "Espionage Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "20194": {
     "name": "Music Kit | Denzel Curry, ULTIMATE",
-    "type": "24"
+    "type": "14"
   },
   "20195": {
     "name": "StatTrak\u2122 Music Kit | Denzel Curry, ULTIMATE",
-    "type": "24"
+    "type": "14"
   },
   "20197": {
     "name": "Anubis Collection Package",
-    "type": "24"
+    "type": "14"
   },
   "20198": {
     "name": "NIGHTMODE Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20199": {
     "name": "StatTrak\u2122 NIGHTMODE Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "20200": {
     "name": "Ambush Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "23": {
     "name": "MP5-SD",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "24": {
     "name": "UMP-45",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "25": {
     "name": "XM1014",
     "quality": "0",
-    "type": "7"
+    "type": "17"
   },
   "26": {
     "name": "PP-Bizon",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "27": {
     "name": "MAG-7",
     "quality": "0",
-    "type": "7"
+    "type": "17"
   },
   "28": {
     "name": "Negev",
     "quality": "0",
-    "type": "3"
+    "type": "2"
   },
   "29": {
     "name": "Sawed-Off",
     "quality": "0",
-    "type": "7"
+    "type": "17"
   },
   "3": {
     "name": "Five-SeveN",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "30": {
     "name": "Tec-9",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "30050": {
     "name": "Dreams & Nightmares Contest Winner",
-    "type": "25"
+    "type": "8"
   },
   "30092": {
     "name": "Anubis Collection Workshop Contributor",
-    "type": "25"
+    "type": "8"
   },
   "31": {
     "name": "Zeus x27",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "32": {
     "name": "P2000",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "33": {
     "name": "MP7",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "34": {
     "name": "MP9",
     "quality": "0",
-    "type": "9"
+    "type": "11"
   },
   "35": {
     "name": "Nova",
     "quality": "0",
-    "type": "7"
+    "type": "17"
   },
   "36": {
     "name": "P250",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "37": {
     "name": "Riot Shield",
-    "type": "11"
+    "type": "3"
   },
   "38": {
     "name": "SCAR-20",
@@ -1605,12 +1605,12 @@
   "39": {
     "name": "SG 553",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "4": {
     "name": "Glock-18",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "40": {
     "name": "SSG 08",
@@ -1619,4120 +1619,4120 @@
   },
   "4001": {
     "name": "CS:GO Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4002": {
     "name": "eSports 2013 Case",
-    "type": "24"
+    "type": "14"
   },
   "4003": {
     "name": "Operation Bravo Case",
-    "type": "24"
+    "type": "14"
   },
   "4004": {
     "name": "CS:GO Weapon Case 2",
-    "type": "24"
+    "type": "14"
   },
   "4005": {
     "name": "eSports 2013 Winter Case",
-    "type": "24"
+    "type": "14"
   },
   "4006": {
     "name": "DreamHack 2013 Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4007": {
     "name": "Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4009": {
     "name": "Winter Offensive Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4010": {
     "name": "CS:GO Weapon Case 3",
-    "type": "24"
+    "type": "14"
   },
   "4011": {
     "name": "Operation Phoenix Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4012": {
     "name": "Sticker Capsule 2",
-    "type": "24"
+    "type": "14"
   },
   "4013": {
     "name": "EMS One 2014 Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4014": {
     "name": "EMS Katowice 2014 Challengers",
-    "type": "24"
+    "type": "14"
   },
   "4015": {
     "name": "EMS Katowice 2014 Legends",
-    "type": "24"
+    "type": "14"
   },
   "4016": {
     "name": "Community Sticker Capsule 1",
-    "type": "24"
+    "type": "14"
   },
   "4017": {
     "name": "Huntsman Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4018": {
     "name": "Operation Breakout Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4019": {
     "name": "eSports 2014 Summer Case",
-    "type": "24"
+    "type": "14"
   },
   "4020": {
     "name": "ESL One Cologne 2014 Legends",
-    "type": "24"
+    "type": "14"
   },
   "4021": {
     "name": "ESL One Cologne 2014 Challengers",
-    "type": "24"
+    "type": "14"
   },
   "4022": {
     "name": "ESL One Cologne 2014 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4023": {
     "name": "ESL One Cologne 2014 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4024": {
     "name": "ESL One Cologne 2014 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4025": {
     "name": "ESL One Cologne 2014 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4026": {
     "name": "ESL One Cologne 2014 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4027": {
     "name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4028": {
     "name": "ESL One Cologne 2014 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4029": {
     "name": "Operation Vanguard Weapon Case",
-    "type": "24"
+    "type": "14"
   },
   "4030": {
     "name": "DreamHack 2014 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4031": {
     "name": "DreamHack 2014 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4032": {
     "name": "DreamHack 2014 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4033": {
     "name": "DreamHack 2014 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4034": {
     "name": "DreamHack 2014 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4035": {
     "name": "DreamHack 2014 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4036": {
     "name": "DreamHack 2014 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4037": {
     "name": "DreamHack 2014 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4038": {
     "name": "Fnatic | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4039": {
     "name": "Cloud9 | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4041": {
     "name": "Ninjas in Pyjamas | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4042": {
     "name": "Virtus.Pro | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4043": {
     "name": "Natus Vincere | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4045": {
     "name": "Team Dignitas | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4046": {
     "name": "Bravado Gaming | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4047": {
     "name": "ESC Gaming | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4048": {
     "name": "HellRaisers | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4049": {
     "name": "myXMG | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4050": {
     "name": "iBUYPOWER | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4051": {
     "name": "Team LDLC.com | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4052": {
     "name": "PENTA Sports | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4053": {
     "name": "Planetkey Dynamics | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4054": {
     "name": "DreamHack Winter 2014",
-    "type": "24"
+    "type": "14"
   },
   "4055": {
     "name": "3DMAX | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4056": {
     "name": "Copenhagen Wolves | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4057": {
     "name": "dAT team | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4058": {
     "name": "London Conspiracy | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4059": {
     "name": "mousesports | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4060": {
     "name": "Flipsid3 Tactics | DreamHack 2014",
-    "type": "24"
+    "type": "14"
   },
   "4061": {
     "name": "Chroma Case",
-    "type": "24"
+    "type": "14"
   },
   "4062": {
     "name": "3DMAX | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4063": {
     "name": "Cloud9 G2A | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4064": {
     "name": "Counter Logic Gaming | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4065": {
     "name": "Flipsid3 Tactics | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4066": {
     "name": "Fnatic | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4067": {
     "name": "HellRaisers | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4068": {
     "name": "Keyd Stars | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4069": {
     "name": "LGB eSports | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4070": {
     "name": "Natus Vincere | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4071": {
     "name": "Ninjas in Pyjamas  | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4072": {
     "name": "PENTA Sports  | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4073": {
     "name": "Team EnVyUs | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4074": {
     "name": "TSM Kinguin | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4075": {
     "name": "Titan | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4076": {
     "name": "Virtus.pro | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4077": {
     "name": "Vox Eminor  | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4078": {
     "name": "ESL One | Katowice 2015",
-    "type": "24"
+    "type": "14"
   },
   "4079": {
     "name": "ESL One Katowice 2015 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4080": {
     "name": "ESL One Katowice 2015 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4081": {
     "name": "ESL One Katowice 2015 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4082": {
     "name": "ESL One Katowice 2015 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4083": {
     "name": "ESL One Katowice 2015 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4084": {
     "name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4085": {
     "name": "ESL One Katowice 2015 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4086": {
     "name": "ESL One Katowice 2015 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4087": {
     "name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4088": {
     "name": "StatTrak\u2122 Swap Tool Two-pack",
-    "type": "24"
+    "type": "14"
   },
   "4089": {
     "name": "Chroma 2 Case",
-    "type": "24"
+    "type": "14"
   },
   "4090": {
     "name": "Enfu Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4091": {
     "name": "Falchion Case",
-    "type": "24"
+    "type": "14"
   },
   "4092": {
     "name": "Fnatic | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4093": {
     "name": "Virtus.Pro | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4094": {
     "name": "mousesports | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4095": {
     "name": "Natus Vincere | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4096": {
     "name": "Renegades | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4097": {
     "name": "Team Kinguin | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4098": {
     "name": "Team eBettle | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4099": {
     "name": "Cloud9 G2A | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "41": {
     "name": "Knife",
     "quality": "0",
-    "type": "4"
+    "type": "7"
   },
   "4100": {
     "name": "Ninjas in Pyjamas | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4101": {
     "name": "Team EnVyUs | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4102": {
     "name": "Luminosity Gaming | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4103": {
     "name": "Team SoloMid | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4104": {
     "name": "Team Immunity | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4105": {
     "name": "Flipsid3 Tactics | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4106": {
     "name": "Titan | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4107": {
     "name": "Counter Logic Gaming | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4108": {
     "name": "ESL | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4109": {
     "name": "ESL One Cologne 2015 Legends (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4110": {
     "name": "ESL One Cologne 2015 Challengers (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4111": {
     "name": "Autograph Capsule | Group A (Foil) | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4112": {
     "name": "Autograph Capsule | Group B (Foil) | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4113": {
     "name": "Autograph Capsule | Group C (Foil) | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4114": {
     "name": "Autograph Capsule | Group D (Foil) | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4115": {
     "name": "Autograph Capsule | Fnatic | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4116": {
     "name": "Autograph Capsule | Luminosity Gaming | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4117": {
     "name": "Autograph Capsule | Natus Vincere | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4118": {
     "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4119": {
     "name": "Autograph Capsule | Team EnVyUs | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4120": {
     "name": "Autograph Capsule | Titan | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4121": {
     "name": "Autograph Capsule | Team SoloMid | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4122": {
     "name": "Autograph Capsule | Virtus.Pro | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4123": {
     "name": "Autograph Capsule | mousesports | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4124": {
     "name": "Autograph Capsule | Renegades | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4125": {
     "name": "Autograph Capsule | Team Immunity | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4126": {
     "name": "Autograph Capsule | Team eBettle | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4127": {
     "name": "Autograph Capsule | Team Kinguin | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4128": {
     "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4129": {
     "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4130": {
     "name": "Autograph Capsule | Cloud9 G2A | Cologne 2015",
-    "type": "24"
+    "type": "14"
   },
   "4131": {
     "name": "ESL One Cologne 2015 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4132": {
     "name": "ESL One Cologne 2015 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4133": {
     "name": "ESL One Cologne 2015 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4134": {
     "name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4135": {
     "name": "ESL One Cologne 2015 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4136": {
     "name": "ESL One Cologne 2015 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4137": {
     "name": "ESL One Cologne 2015 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4138": {
     "name": "Shadow Case",
-    "type": "24"
+    "type": "14"
   },
   "4139": {
     "name": "Ninjas in Pyjamas | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4140": {
     "name": "Team Dignitas | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4141": {
     "name": "Counter Logic Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4142": {
     "name": "Vexed Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4143": {
     "name": "Flipsid3 Tactics | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4144": {
     "name": "Team Liquid | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4145": {
     "name": "mousesports | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4146": {
     "name": "Natus Vincere | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4147": {
     "name": "Virtus.Pro | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4148": {
     "name": "Cloud9 | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4149": {
     "name": "G2 Esports | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4150": {
     "name": "Titan | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4151": {
     "name": "Team SoloMid | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4152": {
     "name": "Team EnVyUs | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4153": {
     "name": "Fnatic | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4154": {
     "name": "Luminosity Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4155": {
     "name": "DreamHack | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4156": {
     "name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4157": {
     "name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4158": {
     "name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4159": {
     "name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4160": {
     "name": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4161": {
     "name": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4162": {
     "name": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4163": {
     "name": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4164": {
     "name": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4165": {
     "name": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4166": {
     "name": "Autograph Capsule | mousesports | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4167": {
     "name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4168": {
     "name": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4169": {
     "name": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4170": {
     "name": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4171": {
     "name": "Autograph Capsule | Titan | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4172": {
     "name": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4173": {
     "name": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4174": {
     "name": "Autograph Capsule | Fnatic | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4175": {
     "name": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015",
-    "type": "24"
+    "type": "14"
   },
   "4176": {
     "name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4177": {
     "name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4178": {
     "name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4179": {
     "name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4180": {
     "name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4181": {
     "name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4182": {
     "name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4183": {
     "name": "Pinups Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4184": {
     "name": "Slid3 Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4185": {
     "name": "Team Roles Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4186": {
     "name": "Revolver Case",
-    "type": "24"
+    "type": "14"
   },
   "4187": {
     "name": "Operation Wildfire Case",
-    "type": "24"
+    "type": "14"
   },
   "4188": {
     "name": "Ninjas in Pyjamas | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4189": {
     "name": "Splyce | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4190": {
     "name": "Counter Logic Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4191": {
     "name": "Gambit Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4192": {
     "name": "Flipsid3 Tactics | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4193": {
     "name": "Team Liquid | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4194": {
     "name": "mousesports | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4195": {
     "name": "Natus Vincere | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4196": {
     "name": "Virtus.Pro | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4197": {
     "name": "Cloud9 | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4198": {
     "name": "G2 Esports | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4199": {
     "name": "FaZe Clan | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "42": {
     "name": "Knife",
     "quality": "0",
-    "type": "4"
+    "type": "7"
   },
   "4200": {
     "name": "Astralis | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4201": {
     "name": "Team EnVyUs | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4202": {
     "name": "Fnatic | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4203": {
     "name": "Luminosity Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4204": {
     "name": "MLG | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4205": {
     "name": "MLG Columbus 2016 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4206": {
     "name": "MLG Columbus 2016 Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4207": {
     "name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4208": {
     "name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4209": {
     "name": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4210": {
     "name": "Autograph Capsule | Splyce | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4211": {
     "name": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4212": {
     "name": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4213": {
     "name": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4214": {
     "name": "Autograph Capsule | Team Liquid | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4215": {
     "name": "Autograph Capsule | mousesports | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4216": {
     "name": "Autograph Capsule | Natus Vincere | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4217": {
     "name": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4218": {
     "name": "Autograph Capsule | Cloud9 | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4219": {
     "name": "Autograph Capsule | G2 Esports | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4220": {
     "name": "Autograph Capsule | FaZe Clan | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4221": {
     "name": "Autograph Capsule | Astralis | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4222": {
     "name": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4223": {
     "name": "Autograph Capsule | Fnatic | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4224": {
     "name": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016",
-    "type": "24"
+    "type": "14"
   },
   "4225": {
     "name": "MLG Columbus 2016 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4226": {
     "name": "MLG Columbus 2016 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4227": {
     "name": "MLG Columbus 2016 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4228": {
     "name": "MLG Columbus 2016 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4229": {
     "name": "MLG Columbus 2016 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4230": {
     "name": "MLG Columbus 2016 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4231": {
     "name": "MLG Columbus 2016 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4232": {
     "name": "MLG Columbus 2016 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4233": {
     "name": "Chroma 3 Case",
-    "type": "24"
+    "type": "14"
   },
   "4234": {
     "name": "Community Graffiti Box 1",
-    "type": "24"
+    "type": "14"
   },
   "4235": {
     "name": "Collectible Pins Capsule Series 1",
-    "type": "24"
+    "type": "14"
   },
   "4236": {
     "name": "Gamma Case",
-    "type": "24"
+    "type": "14"
   },
   "4237": {
     "name": "Ninjas in Pyjamas | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4238": {
     "name": "OpTic Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4239": {
     "name": "Counter Logic Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4240": {
     "name": "Gambit Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4241": {
     "name": "Flipsid3 Tactics | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4242": {
     "name": "Team Liquid | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4243": {
     "name": "mousesports | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4244": {
     "name": "Natus Vincere | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4245": {
     "name": "Virtus.Pro | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4246": {
     "name": "SK Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4247": {
     "name": "G2 Esports | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4248": {
     "name": "FaZe Clan | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4249": {
     "name": "Astralis | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4250": {
     "name": "Team EnVyUs | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4251": {
     "name": "Fnatic | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4252": {
     "name": "Team Dignitas | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4253": {
     "name": "ESL | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4254": {
     "name": "Cologne 2016 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4255": {
     "name": "Cologne 2016 Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4256": {
     "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4257": {
     "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4258": {
     "name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4259": {
     "name": "Autograph Capsule | OpTic Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4260": {
     "name": "Autograph Capsule | Counter Logic Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4261": {
     "name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4262": {
     "name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4263": {
     "name": "Autograph Capsule | Team Liquid | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4264": {
     "name": "Autograph Capsule | mousesports | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4265": {
     "name": "Autograph Capsule | Natus Vincere | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4266": {
     "name": "Autograph Capsule | Virtus.Pro | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4267": {
     "name": "Autograph Capsule | SK Gaming | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4268": {
     "name": "Autograph Capsule | G2 Esports | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4269": {
     "name": "Autograph Capsule | FaZe Clan | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4270": {
     "name": "Autograph Capsule | Astralis | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4271": {
     "name": "Autograph Capsule | Team EnVyUs | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4272": {
     "name": "Autograph Capsule | Fnatic | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4273": {
     "name": "Autograph Capsule | Team Dignitas | Cologne 2016",
-    "type": "24"
+    "type": "14"
   },
   "4274": {
     "name": "Cologne 2016 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4275": {
     "name": "Cologne 2016 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4276": {
     "name": "Cologne 2016 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4277": {
     "name": "Cologne 2016 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4278": {
     "name": "Cologne 2016 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4279": {
     "name": "Cologne 2016 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4280": {
     "name": "Cologne 2016 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4281": {
     "name": "Gamma 2 Case",
-    "type": "24"
+    "type": "14"
   },
   "4282": {
     "name": "Sugarface Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4283": {
     "name": "Bestiary Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4284": {
     "name": "Collectible Pins Capsule Series 2",
-    "type": "24"
+    "type": "14"
   },
   "4285": {
     "name": "CS:GO Graffiti Box",
-    "type": "24"
+    "type": "14"
   },
   "4286": {
     "name": "Perfect World Graffiti Box",
-    "type": "24"
+    "type": "14"
   },
   "4287": {
     "name": "StatTrak\u2122 Radicals Box",
-    "type": "24"
+    "type": "14"
   },
   "4288": {
     "name": "Glove Case",
-    "type": "24"
+    "type": "14"
   },
   "4289": {
     "name": "Sticker | Astralis | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4290": {
     "name": "Sticker | Team EnVyUs | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4291": {
     "name": "Sticker | FaZe Clan | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4292": {
     "name": "Sticker | Flipsid3 Tactics | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4293": {
     "name": "Sticker | Fnatic | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4294": {
     "name": "Sticker | G2 Esports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4295": {
     "name": "Sticker | Gambit Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4296": {
     "name": "Sticker | GODSENT | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4297": {
     "name": "Sticker | HellRaisers | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4298": {
     "name": "Sticker | mousesports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4299": {
     "name": "Sticker | Natus Vincere | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "43": {
     "name": "Flashbang",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4300": {
     "name": "Sticker | North | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4301": {
     "name": "Sticker | OpTic Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4302": {
     "name": "Sticker | SK Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4303": {
     "name": "Sticker | Team Liquid | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4304": {
     "name": "Sticker | Virtus.Pro | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4305": {
     "name": "Sticker | ELEAGUE | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4306": {
     "name": "Sealed Graffiti | Astralis | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4307": {
     "name": "Sealed Graffiti | Team EnVyUs | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4308": {
     "name": "Sealed Graffiti | FaZe Clan | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4309": {
     "name": "Sealed Graffiti | Flipsid3 Tactics | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4310": {
     "name": "Sealed Graffiti | Fnatic | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4311": {
     "name": "Sealed Graffiti | G2 Esports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4312": {
     "name": "Sealed Graffiti | Gambit Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4313": {
     "name": "Sealed Graffiti | GODSENT | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4314": {
     "name": "Sealed Graffiti | HellRaisers | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4315": {
     "name": "Sealed Graffiti | mousesports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4316": {
     "name": "Sealed Graffiti | Natus Vincere | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4317": {
     "name": "Sealed Graffiti | North | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4318": {
     "name": "Sealed Graffiti | OpTic Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4319": {
     "name": "Sealed Graffiti | SK Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4320": {
     "name": "Sealed Graffiti | Team Liquid | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4321": {
     "name": "Sealed Graffiti | Virtus.Pro | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4322": {
     "name": "Sealed Graffiti | ELEAGUE | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4323": {
     "name": "Atlanta 2017 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4324": {
     "name": "Atlanta 2017 Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4325": {
     "name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4326": {
     "name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4327": {
     "name": "Autograph Capsule | Astralis | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4328": {
     "name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4329": {
     "name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4330": {
     "name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4331": {
     "name": "Autograph Capsule | Fnatic | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4332": {
     "name": "Autograph Capsule | G2 Esports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4333": {
     "name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4334": {
     "name": "Autograph Capsule | GODSENT | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4335": {
     "name": "Autograph Capsule | HellRaisers | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4336": {
     "name": "Autograph Capsule | mousesports | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4337": {
     "name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4338": {
     "name": "Autograph Capsule | North | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4339": {
     "name": "Autograph Capsule | OpTic Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4340": {
     "name": "Autograph Capsule | SK Gaming | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4341": {
     "name": "Autograph Capsule | Team Liquid | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4342": {
     "name": "Autograph Capsule | Virtus.Pro | Atlanta 2017",
-    "type": "24"
+    "type": "14"
   },
   "4343": {
     "name": "Atlanta 2017 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4344": {
     "name": "Atlanta 2017 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4345": {
     "name": "Atlanta 2017 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4346": {
     "name": "Atlanta 2017 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4347": {
     "name": "Atlanta 2017 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4348": {
     "name": "Atlanta 2017 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4349": {
     "name": "Atlanta 2017 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4350": {
     "name": "Atlanta 2017 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4351": {
     "name": "Spectrum Case",
-    "type": "24"
+    "type": "14"
   },
   "4352": {
     "name": "Operation Hydra Case",
-    "type": "24"
+    "type": "14"
   },
   "4353": {
     "name": "Operation Hydra Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "4354": {
     "name": "Silver Operation Hydra Coin",
-    "type": "14"
+    "type": "9"
   },
   "4355": {
     "name": "Gold Operation Hydra Coin",
-    "type": "14"
+    "type": "9"
   },
   "4356": {
     "name": "Diamond Operation Hydra Coin",
-    "type": "14"
+    "type": "9"
   },
   "4357": {
     "name": "Sticker | Astralis | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4358": {
     "name": "Sticker | Virtus.Pro | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4359": {
     "name": "Sticker | Fnatic | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4360": {
     "name": "Sticker | SK Gaming | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4361": {
     "name": "Sticker | Natus Vincere | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4362": {
     "name": "Sticker | Gambit | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4363": {
     "name": "Sticker | North | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4364": {
     "name": "Sticker | FaZe Clan | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4365": {
     "name": "Sticker | mousesports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4366": {
     "name": "Sticker | G2 Esports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4367": {
     "name": "Sticker | BIG | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4368": {
     "name": "Sticker | Cloud9 | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4369": {
     "name": "Sticker | PENTA Sports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4370": {
     "name": "Sticker | Flipsid3 Tactics | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4371": {
     "name": "Sticker | Immortals | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4372": {
     "name": "Sticker | Vega Squadron | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4373": {
     "name": "Sticker | PGL | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4374": {
     "name": "Sealed Graffiti | Astralis | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4375": {
     "name": "Sealed Graffiti | Virtus.Pro | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4376": {
     "name": "Sealed Graffiti | Fnatic | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4377": {
     "name": "Sealed Graffiti | SK Gaming | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4378": {
     "name": "Sealed Graffiti | Natus Vincere | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4379": {
     "name": "Sealed Graffiti | Gambit | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4380": {
     "name": "Sealed Graffiti | North | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4381": {
     "name": "Sealed Graffiti | FaZe Clan | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4382": {
     "name": "Sealed Graffiti | mousesports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4383": {
     "name": "Sealed Graffiti | G2 Esports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4384": {
     "name": "Sealed Graffiti | BIG | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4385": {
     "name": "Sealed Graffiti | Cloud9 | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4386": {
     "name": "Sealed Graffiti | PENTA Sports | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4387": {
     "name": "Sealed Graffiti | Flipsid3 Tactics | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4388": {
     "name": "Sealed Graffiti | Immortals | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4389": {
     "name": "Sealed Graffiti | Vega Squadron | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4390": {
     "name": "Sealed Graffiti | PGL | Krakow 2017",
-    "type": "24"
+    "type": "14"
   },
   "4391": {
     "name": "Krakow 2017 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4392": {
     "name": "Krakow 2017 Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4393": {
     "name": "Krakow 2017 Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4394": {
     "name": "Krakow 2017 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4395": {
     "name": "Krakow 2017 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4396": {
     "name": "Krakow 2017 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4397": {
     "name": "Krakow 2017 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4398": {
     "name": "Krakow 2017 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4399": {
     "name": "Krakow 2017 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "44": {
     "name": "High Explosive Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4400": {
     "name": "Krakow 2017 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4401": {
     "name": "Krakow 2017 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4402": {
     "name": "Krakow 2017 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4403": {
     "name": "Spectrum 2 Case",
-    "type": "24"
+    "type": "14"
   },
   "4404": {
     "name": "Perfect World Sticker Capsule 1",
-    "type": "24"
+    "type": "14"
   },
   "4405": {
     "name": "Perfect World Sticker Capsule 2",
-    "type": "24"
+    "type": "14"
   },
   "4406": {
     "name": "Sticker | Gambit Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4407": {
     "name": "Sticker | 100 Thieves | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4408": {
     "name": "Sticker | Astralis | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4409": {
     "name": "Sticker | Virtus.Pro | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4410": {
     "name": "Sticker | Fnatic | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4411": {
     "name": "Sticker | SK Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4412": {
     "name": "Sticker | BIG | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4413": {
     "name": "Sticker | North | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4414": {
     "name": "Sticker | G2 Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4415": {
     "name": "Sticker | Cloud9 | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4416": {
     "name": "Sticker | Flipsid3 Tactics | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4417": {
     "name": "Sticker | Natus Vincere | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4418": {
     "name": "Sticker | mousesports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4419": {
     "name": "Sticker | Sprout Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4420": {
     "name": "Sticker | FaZe Clan | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4421": {
     "name": "Sticker | Vega Squadron | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4422": {
     "name": "Sticker | Space Soldiers | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4423": {
     "name": "Sticker | Team Liquid | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4424": {
     "name": "Sticker | Avangar | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4425": {
     "name": "Sticker | Renegades | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4426": {
     "name": "Sticker | Team EnVyUs | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4427": {
     "name": "Sticker | Misfits Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4428": {
     "name": "Sticker | Quantum Bellator Fire | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4429": {
     "name": "Sticker | Tyloo | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4430": {
     "name": "Sticker | ELEAGUE | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4431": {
     "name": "Sealed Graffiti | Gambit Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4432": {
     "name": "Sealed Graffiti | 100 Thieves | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4433": {
     "name": "Sealed Graffiti | Astralis | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4434": {
     "name": "Sealed Graffiti | Virtus.Pro | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4435": {
     "name": "Sealed Graffiti | Fnatic | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4436": {
     "name": "Sealed Graffiti | SK Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4437": {
     "name": "Sealed Graffiti | BIG | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4438": {
     "name": "Sealed Graffiti | North | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4439": {
     "name": "Sealed Graffiti | G2 Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4440": {
     "name": "Sealed Graffiti | Cloud9 | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4441": {
     "name": "Sealed Graffiti | Flipsid3 Tactics | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4442": {
     "name": "Sealed Graffiti | Natus Vincere | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4443": {
     "name": "Sealed Graffiti | mousesports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4444": {
     "name": "Sealed Graffiti | Sprout Esports | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4445": {
     "name": "Sealed Graffiti | FaZe Clan | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4446": {
     "name": "Sealed Graffiti | Vega Squadron | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4447": {
     "name": "Sealed Graffiti | Space Soldiers | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4448": {
     "name": "Sealed Graffiti | Team Liquid | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4449": {
     "name": "Sealed Graffiti | Avangar | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4450": {
     "name": "Sealed Graffiti | Renegades | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4451": {
     "name": "Sealed Graffiti | Team EnVyUs | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4452": {
     "name": "Sealed Graffiti | Misfits Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4453": {
     "name": "Sealed Graffiti | Quantum Bellator Fire | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4454": {
     "name": "Sealed Graffiti | Tyloo | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4455": {
     "name": "Sealed Graffiti | ELEAGUE | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4456": {
     "name": "Boston 2018 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4457": {
     "name": "Boston 2018 Returning Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4458": {
     "name": "Boston 2018 Minor Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4459": {
     "name": "Boston 2018 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4460": {
     "name": "Boston 2018 Returning Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4461": {
     "name": "Boston 2018 Minor Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4462": {
     "name": "Boston 2018 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4463": {
     "name": "Boston 2018 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4464": {
     "name": "Boston 2018 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4465": {
     "name": "Boston 2018 Cobblestone Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4466": {
     "name": "Boston 2018 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4467": {
     "name": "Boston 2018 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4468": {
     "name": "Boston 2018 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4469": {
     "name": "Boston 2018 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4470": {
     "name": "Community Capsule 2018",
-    "type": "24"
+    "type": "14"
   },
   "4471": {
     "name": "Clutch Case",
-    "type": "24"
+    "type": "14"
   },
   "4472": {
     "name": "Sticker | Flash Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4473": {
     "name": "Sealed Graffiti | Flash Gaming | Boston 2018",
-    "type": "24"
+    "type": "14"
   },
   "4474": {
     "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4475": {
     "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4476": {
     "name": "Boston 2018 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4477": {
     "name": "Chicken Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4478": {
     "name": "Boston 2018 Attending Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4479": {
     "name": "Boston 2018 Attending Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4480": {
     "name": "Boston 2018 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4481": {
     "name": "Collectible Pins Capsule Series 3",
-    "type": "24"
+    "type": "14"
   },
   "4482": {
     "name": "Horizon Case",
-    "type": "24"
+    "type": "14"
   },
   "4483": {
     "name": "Sticker | Cloud9 | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4484": {
     "name": "Sticker | FaZe Clan | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4485": {
     "name": "Sticker | Natus Vincere | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4486": {
     "name": "Sticker | MIBR | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4487": {
     "name": "Sticker | mousesports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4488": {
     "name": "Sticker | Winstrike Team | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4489": {
     "name": "Sticker | G2 Esports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4490": {
     "name": "Sticker | Fnatic | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4491": {
     "name": "Sticker | Gambit Esports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4492": {
     "name": "Sticker | Vega Squadron | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4493": {
     "name": "Sticker | Space Soldiers | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4494": {
     "name": "Sticker | BIG | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4495": {
     "name": "Sticker | Astralis | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4496": {
     "name": "Sticker | Team Liquid | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4497": {
     "name": "Sticker | North | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4498": {
     "name": "Sticker | Virtus.Pro | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4499": {
     "name": "Sticker | Ninjas in Pyjamas | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "45": {
     "name": "Smoke Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4500": {
     "name": "Sticker | compLexity Gaming | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4501": {
     "name": "Sticker | HellRaisers | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4502": {
     "name": "Sticker | Renegades | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4503": {
     "name": "Sticker | OpTic Gaming | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4504": {
     "name": "Sticker | Rogue | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4505": {
     "name": "Sticker | Team Spirit | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4506": {
     "name": "Sticker | Tyloo | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4507": {
     "name": "Sticker | FACEIT | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4508": {
     "name": "Sealed Graffiti | Cloud9 | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4509": {
     "name": "Sealed Graffiti | FaZe Clan | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4510": {
     "name": "Sealed Graffiti | Natus Vincere | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4511": {
     "name": "Sealed Graffiti | MIBR | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4512": {
     "name": "Sealed Graffiti | mousesports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4513": {
     "name": "Sealed Graffiti | Winstrike Team | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4514": {
     "name": "Sealed Graffiti | G2 Esports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4515": {
     "name": "Sealed Graffiti | Fnatic | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4516": {
     "name": "Sealed Graffiti | Gambit Esports | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4517": {
     "name": "Sealed Graffiti | Vega Squadron | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4518": {
     "name": "Sealed Graffiti | Space Soldiers | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4519": {
     "name": "Sealed Graffiti | BIG | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4520": {
     "name": "Sealed Graffiti | Astralis | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4521": {
     "name": "Sealed Graffiti | Team Liquid | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4522": {
     "name": "Sealed Graffiti | North | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4523": {
     "name": "Sealed Graffiti | Virtus.Pro | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4524": {
     "name": "Sealed Graffiti | Ninjas in Pyjamas | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4525": {
     "name": "Sealed Graffiti | compLexity Gaming | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4526": {
     "name": "Sealed Graffiti | HellRaisers | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4527": {
     "name": "Sealed Graffiti | Renegades | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4528": {
     "name": "Sealed Graffiti | OpTic Gaming | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4529": {
     "name": "Sealed Graffiti | Rogue | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4530": {
     "name": "Sealed Graffiti | Team Spirit | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4531": {
     "name": "Sealed Graffiti | Tyloo | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4532": {
     "name": "Sealed Graffiti | FACEIT | London 2018",
-    "type": "24"
+    "type": "14"
   },
   "4533": {
     "name": "London 2018 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4534": {
     "name": "London 2018 Returning Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4535": {
     "name": "London 2018 Minor Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4536": {
     "name": "London 2018 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4537": {
     "name": "London 2018 Returning Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4538": {
     "name": "London 2018 Minor Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4539": {
     "name": "London 2018 Mega Bundle",
-    "type": "24"
+    "type": "14"
   },
   "4540": {
     "name": "London 2018 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4541": {
     "name": "London 2018 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4542": {
     "name": "London 2018 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4543": {
     "name": "London 2018 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4544": {
     "name": "London 2018 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4545": {
     "name": "London 2018 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4546": {
     "name": "London 2018 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4547": {
     "name": "Skill Groups Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4548": {
     "name": "Danger Zone Case",
-    "type": "24"
+    "type": "14"
   },
   "4549": {
     "name": "Operation Shattered Web Premium Pass",
-    "type": "22"
+    "type": "20"
   },
   "4550": {
     "name": "Operation Shattered Web Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "4551": {
     "name": "Silver Operation Shattered Web Coin",
-    "type": "14"
+    "type": "9"
   },
   "4552": {
     "name": "Gold Operation Shattered Web Coin",
-    "type": "14"
+    "type": "9"
   },
   "4553": {
     "name": "Diamond Operation Shattered Web Coin",
-    "type": "14"
+    "type": "9"
   },
   "4554": {
     "name": "Katowice 2019 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4555": {
     "name": "Katowice 2019 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4556": {
     "name": "Katowice 2019 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4557": {
     "name": "Katowice 2019 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4558": {
     "name": "Katowice 2019 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4559": {
     "name": "Sticker | Astralis | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4560": {
     "name": "Sticker | Avangar | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4561": {
     "name": "Sticker | BIG | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4562": {
     "name": "Sticker | Cloud9 | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4563": {
     "name": "Sticker | compLexity Gaming | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4564": {
     "name": "Sticker | ENCE | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4565": {
     "name": "Sticker | FaZe Clan | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4566": {
     "name": "Sticker | Fnatic | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4567": {
     "name": "Sticker | FURIA | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4568": {
     "name": "Sticker | G2 Esports | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4569": {
     "name": "Sticker | Grayhound Gaming | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4570": {
     "name": "Sticker | HellRaisers | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4571": {
     "name": "Sticker | MIBR | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4572": {
     "name": "Sticker | Natus Vincere | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4573": {
     "name": "Sticker | Ninjas in Pyjamas | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4574": {
     "name": "Sticker | NRG | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4575": {
     "name": "Sticker | Renegades | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4576": {
     "name": "Sticker | Team Liquid | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4577": {
     "name": "Sticker | Team Spirit | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4578": {
     "name": "Sticker | Tyloo | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4579": {
     "name": "Sticker | Vega Squadron | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4580": {
     "name": "Sticker | ViCi Gaming | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4581": {
     "name": "Sticker | Vitality | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4582": {
     "name": "Sticker | Winstrike Team | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4583": {
     "name": "Sticker | IEM | Katowice 2019",
-    "type": "24"
+    "type": "14"
   },
   "4584": {
     "name": "Katowice 2019 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4585": {
     "name": "Katowice 2019 Returning Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4586": {
     "name": "Katowice 2019 Minor Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4587": {
     "name": "Katowice 2019 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4588": {
     "name": "Katowice 2019 Returning Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4589": {
     "name": "Katowice 2019 Minor Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4590": {
     "name": "Katowice 2019 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4591": {
     "name": "Katowice 2019 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4592": {
     "name": "Katowice 2019 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4593": {
     "name": "Katowice 2019 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4594": {
     "name": "Katowice 2019 Cache Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4595": {
     "name": "Katowice 2019 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4596": {
     "name": "Katowice 2019 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4597": {
     "name": "Halo Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4598": {
     "name": "Prisma Case",
-    "type": "24"
+    "type": "14"
   },
   "4599": {
     "name": "Feral Predators Capsule",
-    "type": "24"
+    "type": "14"
   },
   "46": {
     "name": "Molotov",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4600": {
     "name": "Shattered Web Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4601": {
     "name": "The Overpass Collection",
-    "type": "24"
+    "type": "14"
   },
   "4602": {
     "name": "The Cobblestone Collection",
-    "type": "24"
+    "type": "14"
   },
   "4603": {
     "name": "The Cache Collection",
-    "type": "24"
+    "type": "14"
   },
   "4604": {
     "name": "The Gods and Monsters Collection",
-    "type": "24"
+    "type": "14"
   },
   "4605": {
     "name": "The Chop Shop Collection",
-    "type": "24"
+    "type": "14"
   },
   "4606": {
     "name": "The Rising Sun Collection",
-    "type": "24"
+    "type": "14"
   },
   "4607": {
     "name": "Bonus Rank",
     "quality": "4",
     "rarity": "1",
-    "type": "22"
+    "type": "20"
   },
   "4608": {
     "name": "The Canals Collection",
-    "type": "24"
+    "type": "14"
   },
   "4609": {
     "name": "Patch",
-    "type": "17"
+    "type": "0"
   },
   "4610": {
     "name": "CS:GO Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "4611": {
     "name": "The Norse Collection",
-    "type": "24"
+    "type": "14"
   },
   "4612": {
     "name": "The St. Marc Collection",
-    "type": "24"
+    "type": "14"
   },
   "4613": {
     "name": "Bloody Darryl The Strapped | The Professionals",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4614": {
     "name": "Metal Skill Group Patch Collection",
-    "type": "24"
+    "type": "14"
   },
   "4615": {
     "name": "Half-Life: Alyx Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "4616": {
     "name": "Warhammer 40,000 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4617": {
     "name": "CS:GO Graffiti #3 Collection",
-    "type": "24"
+    "type": "14"
   },
   "4618": {
     "name": "Trolling Graffiti Collection",
-    "type": "24"
+    "type": "14"
   },
   "4619": {
     "name": "'Blueberries' Buckshot | NSWC SEAL",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4620": {
     "name": "Shattered Web Case",
-    "type": "24"
+    "type": "14"
   },
   "4621": {
     "name": "CS:GO Graffiti #2 Collection",
-    "type": "24"
+    "type": "14"
   },
   "4622": {
     "name": "Berlin 2019 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4623": {
     "name": "Berlin 2019 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4624": {
     "name": "Berlin 2019 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4625": {
     "name": "Berlin 2019 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4626": {
     "name": "Berlin 2019 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4627": {
     "name": "Berlin 2019 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4628": {
     "name": "Berlin 2019 Souvenir Token",
-    "type": "22"
+    "type": "20"
   },
   "4629": {
     "name": "Sticker | Astralis | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4630": {
     "name": "Sticker | ENCE | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4631": {
     "name": "Sticker | MIBR | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4632": {
     "name": "Sticker | Natus Vincere | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4633": {
     "name": "Sticker | Ninjas in Pyjamas | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4634": {
     "name": "Sticker | FaZe Clan | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4635": {
     "name": "Sticker | Team Liquid | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4636": {
     "name": "Sticker | Renegades | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4637": {
     "name": "Sticker | compLexity Gaming | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4638": {
     "name": "Sticker | HellRaisers | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4639": {
     "name": "Sticker | Avangar | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4640": {
     "name": "Sticker | G2 Esports | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4641": {
     "name": "Sticker | Vitality | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4642": {
     "name": "Sticker | Grayhound Gaming | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4643": {
     "name": "Sticker | mousesports | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4644": {
     "name": "Sticker | forZe eSports | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4645": {
     "name": "Sticker | NRG | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4646": {
     "name": "Sticker | Tyloo | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4647": {
     "name": "Sticker | FURIA | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4648": {
     "name": "Sticker | CR4ZY | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4649": {
     "name": "Sticker | Syman Gaming | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4650": {
     "name": "Sticker | North | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4651": {
     "name": "Sticker | DreamEaters | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4652": {
     "name": "Sticker | INTZ E-SPORTS CLUB | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4653": {
     "name": "Sticker | StarLadder | Berlin 2019",
-    "type": "24"
+    "type": "14"
   },
   "4654": {
     "name": "Berlin 2019 Legends (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4655": {
     "name": "Berlin 2019 Returning Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4656": {
     "name": "Berlin 2019 Minor Challengers (Holo/Foil)",
-    "type": "24"
+    "type": "14"
   },
   "4657": {
     "name": "Berlin 2019 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4658": {
     "name": "Berlin 2019 Returning Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4659": {
     "name": "Berlin 2019 Minor Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4660": {
     "name": "Berlin 2019 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4661": {
     "name": "Berlin 2019 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4662": {
     "name": "Berlin 2019 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4663": {
     "name": "Berlin 2019 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4664": {
     "name": "Berlin 2019 Train Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4665": {
     "name": "Berlin 2019 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4666": {
     "name": "Berlin 2019 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4667": {
     "name": "Shattered Web Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4668": {
     "name": "X-Ray P250 Package",
-    "type": "24"
+    "type": "14"
   },
   "4669": {
     "name": "CS20 Case",
-    "type": "24"
+    "type": "14"
   },
   "4670": {
     "name": "CS20 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4671": {
     "name": "1 Star for Operation Shattered Web",
-    "type": "22"
+    "type": "20"
   },
   "4672": {
     "name": "10 Stars for Operation Shattered Web",
-    "type": "22"
+    "type": "20"
   },
   "4673": {
     "name": "100 Stars for Operation Shattered Web",
-    "type": "22"
+    "type": "20"
   },
   "4674": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4675": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4676": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4677": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4678": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4679": {
     "name": "2020 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4680": {
     "name": "'Two Times' McCoy | TACP Cavalry",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4682": {
     "name": "Civil Protection Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "4683": {
     "name": "Sustenance! Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "4684": {
     "name": "Vortigaunt Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "4685": {
     "name": "Headcrab Glyph Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "4686": {
     "name": "Health Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "4687": {
     "name": "Lambda Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "4688": {
     "name": "Copper Lambda Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "4689": {
     "name": "CMB Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "4690": {
     "name": "Black Mesa Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "4691": {
     "name": "Combine Helmet Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "4692": {
     "name": "City 17 Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "4693": {
     "name": "Half-Life: Alyx Collectible Pins Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4694": {
     "name": "Half-Life: Alyx Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4695": {
     "name": "Prisma 2 Case",
-    "type": "24"
+    "type": "14"
   },
   "4696": {
     "name": "Masterminds Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4697": {
     "name": "StatTrak\u2122 Masterminds Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4698": {
     "name": "Fracture Case",
-    "type": "24"
+    "type": "14"
   },
   "4699": {
     "name": "Operation Broken Fang Premium Pass",
-    "type": "22"
+    "type": "20"
   },
   "47": {
     "name": "Decoy Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4700": {
     "name": "Operation Broken Fang Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "4701": {
     "name": "Silver Operation Broken Fang Coin",
-    "type": "14"
+    "type": "9"
   },
   "4702": {
     "name": "Gold Operation Broken Fang Coin",
-    "type": "14"
+    "type": "9"
   },
   "4703": {
     "name": "Diamond Operation Broken Fang Coin",
-    "type": "14"
+    "type": "9"
   },
   "4704": {
     "name": "1 Star for Operation Broken Fang",
-    "type": "22"
+    "type": "20"
   },
   "4705": {
     "name": "10 Stars for Operation Broken Fang",
-    "type": "22"
+    "type": "20"
   },
   "4706": {
     "name": "100 Stars for Operation Broken Fang",
-    "type": "22"
+    "type": "20"
   },
   "4707": {
     "name": "Distinguished Agents",
-    "type": "24"
+    "type": "14"
   },
   "4708": {
     "name": "Exceptional Agents",
-    "type": "24"
+    "type": "14"
   },
   "4709": {
     "name": "Superior Agents",
-    "type": "24"
+    "type": "14"
   },
   "4710": {
     "name": "Master Agent - Commander Mae",
-    "type": "24"
+    "type": "14"
   },
   "4711": {
     "name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4712": {
     "name": "1st Lieutenant Farlow | SWAT",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4713": {
     "name": "John 'Van Healen' Kask | SWAT",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4714": {
     "name": "Bio-Haz Specialist | SWAT",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "4715": {
     "name": "Sergeant Bombson | SWAT",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4716": {
     "name": "Chem-Haz Specialist | SWAT",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "4717": {
     "name": "Operation Broken Fang Case",
-    "type": "24"
+    "type": "14"
   },
   "4718": {
     "name": "Rezan the Redshirt | Sabre",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4719": {
     "name": "Recoil Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4720": {
     "name": "The Control Collection",
-    "type": "24"
+    "type": "14"
   },
   "4721": {
     "name": "The Havoc Collection",
-    "type": "24"
+    "type": "14"
   },
   "4722": {
     "name": "The Ancient Collection",
-    "type": "24"
+    "type": "14"
   },
   "4723": {
     "name": "Recoil Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4724": {
     "name": "Master Agents - Sir Bloody Darryl",
-    "type": "24"
+    "type": "14"
   },
   "4725": {
     "name": "Broken Fang Gloves",
-    "type": "18"
+    "type": "21"
   },
   "4726": {
     "name": "Sir Bloody Miami Darryl | The Professionals",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4727": {
     "name": "Safecracker Voltzmann | The Professionals",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4728": {
     "name": "Little Kev | The Professionals",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4729": {
     "name": "Broken Fang Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4730": {
     "name": "Getaway Sally | The Professionals",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4731": {
     "name": "Broken Fang Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4732": {
     "name": "Number K | The Professionals",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4733": {
     "name": "Sir Bloody Silent Darryl | The Professionals",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4734": {
     "name": "Sir Bloody Skullhead Darryl | The Professionals",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4735": {
     "name": "Sir Bloody Darryl Royale | The Professionals",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4736": {
     "name": "Sir Bloody Loudmouth Darryl | The Professionals",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4737": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4738": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4739": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4740": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4741": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4742": {
     "name": "2021 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4743": {
     "name": "2020 RMR Legends",
-    "type": "24"
+    "type": "14"
   },
   "4744": {
     "name": "2020 RMR Challengers",
-    "type": "24"
+    "type": "14"
   },
   "4745": {
     "name": "2020 RMR Contenders",
-    "type": "24"
+    "type": "14"
   },
   "4746": {
     "name": "Poorly Drawn Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4747": {
     "name": "Snakebite Case",
-    "type": "24"
+    "type": "14"
   },
   "4748": {
     "name": "Counter-Strike Subscription Service",
     "quality": "4",
     "rarity": "1",
-    "type": "22"
+    "type": "20"
   },
   "4749": {
     "name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4750": {
     "name": "Chem-Haz Capitaine | Gendarmerie Nationale",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4751": {
     "name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4752": {
     "name": "Aspirant | Gendarmerie Nationale",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "4753": {
     "name": "Officer Jacques Beltram | Gendarmerie Nationale",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4754": {
     "name": "Tacticians Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4755": {
     "name": "StatTrak\u2122 Tacticians Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4756": {
     "name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4757": {
     "name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4758": {
     "name": "Operation Riptide Premium Pass",
-    "type": "22"
+    "type": "20"
   },
   "4759": {
     "name": "Operation Riptide Challenge Coin",
-    "type": "14"
+    "type": "9"
   },
   "4760": {
     "name": "Silver Operation Riptide Coin",
-    "type": "14"
+    "type": "9"
   },
   "4761": {
     "name": "Gold Operation Riptide Coin",
-    "type": "14"
+    "type": "9"
   },
   "4762": {
     "name": "Diamond Operation Riptide Coin",
-    "type": "14"
+    "type": "9"
   },
   "4763": {
     "name": "1 Star for Operation Riptide",
-    "type": "22"
+    "type": "20"
   },
   "4764": {
     "name": "10 Stars for Operation Riptide",
-    "type": "22"
+    "type": "20"
   },
   "4765": {
     "name": "100 Stars for Operation Riptide",
-    "type": "22"
+    "type": "20"
   },
   "4766": {
     "name": "Distinguished Agents",
-    "type": "24"
+    "type": "14"
   },
   "4767": {
     "name": "Exceptional Agents",
-    "type": "24"
+    "type": "14"
   },
   "4768": {
     "name": "Superior Agents",
-    "type": "24"
+    "type": "14"
   },
   "4769": {
     "name": "CT Master Agents",
-    "type": "24"
+    "type": "14"
   },
   "4770": {
     "name": "T Master Agents",
-    "type": "24"
+    "type": "14"
   },
   "4771": {
     "name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4772": {
     "name": "Lieutenant Rex Krikey | SEAL Frogman",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4773": {
     "name": "Elite Trapper Solman | Guerrilla Warfare",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4774": {
     "name": "Crasswater The Forgotten | Guerrilla Warfare",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4775": {
     "name": "Arno The Overgrown | Guerrilla Warfare",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "4776": {
     "name": "Col. Mangos Dabisi | Guerrilla Warfare",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4777": {
     "name": "Vypa Sista of the Revolution | Guerrilla Warfare",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4778": {
     "name": "Trapper Aggressor | Guerrilla Warfare",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "4779": {
     "name": "Riptide Surf Shop Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4780": {
     "name": "'Medium Rare' Crasswater | Guerrilla Warfare",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "4781": {
     "name": "Trapper | Guerrilla Warfare",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "4782": {
     "name": "2021 Community Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4783": {
     "name": "Operation Riptide Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4784": {
     "name": "The Boardroom Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4785": {
     "name": "The 2021 Train Collection",
-    "type": "24"
+    "type": "14"
   },
   "4786": {
     "name": "The 2021 Train Collection",
-    "type": "24"
+    "type": "14"
   },
   "4787": {
     "name": "The 2021 Train Collection",
-    "type": "24"
+    "type": "14"
   },
   "4788": {
     "name": "The 2021 Train Collection",
-    "type": "24"
+    "type": "14"
   },
   "4789": {
     "name": "Battlefield 2042 Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4790": {
     "name": "Operation Riptide Case",
-    "type": "24"
+    "type": "14"
   },
   "4791": {
     "name": "Riptide Surf Shop Sticker Collection",
-    "type": "24"
+    "type": "14"
   },
   "4792": {
     "name": "The 2021 Vertigo Collection",
-    "type": "24"
+    "type": "14"
   },
   "4793": {
     "name": "The 2021 Dust 2 Collection",
-    "type": "24"
+    "type": "14"
   },
   "4794": {
     "name": "The 2021 Mirage Collection",
-    "type": "24"
+    "type": "14"
   },
   "4795": {
     "name": "Operation Riptide Patch Collection",
-    "type": "24"
+    "type": "14"
   },
   "4796": {
     "name": "Stockholm 2021 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4797": {
     "name": "Stockholm 2021 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4798": {
     "name": "Stockholm 2021 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4799": {
     "name": "Stockholm 2021 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "48": {
     "name": "Incendiary Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "4800": {
     "name": "Stockholm 2021 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4801": {
     "name": "Stockholm 2021 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4802": {
     "name": "Stockholm 2021 Souvenir Token",
-    "type": "22"
+    "type": "20"
   },
   "4803": {
     "name": "Stockholm 2021 Legends Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4804": {
     "name": "Stockholm 2021 Challengers Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4805": {
     "name": "Stockholm 2021 Contenders Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4806": {
     "name": "Stockholm 2021 Legends Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "4807": {
     "name": "Stockholm 2021 Challengers Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "4808": {
     "name": "Stockholm 2021 Contenders Patch Pack",
-    "type": "24"
+    "type": "14"
   },
   "4809": {
     "name": "Stockholm 2021 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4810": {
     "name": "Stockholm 2021 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4811": {
     "name": "Stockholm 2021 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4812": {
     "name": "Stockholm 2021 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4813": {
     "name": "Stockholm 2021 Ancient Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4814": {
     "name": "Stockholm 2021 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4815": {
     "name": "Stockholm 2021 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4816": {
     "name": "Stockholm 2021 Champions Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4817": {
     "name": "Stockholm 2021 Finalists Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4818": {
     "name": "Dreams & Nightmares Case",
-    "type": "24"
+    "type": "14"
   },
   "4819": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4820": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4821": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4822": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4823": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4824": {
     "name": "2022 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4825": {
     "name": "Antwerp 2022 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4826": {
     "name": "Antwerp 2022 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4827": {
     "name": "Antwerp 2022 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4828": {
     "name": "Antwerp 2022 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4829": {
     "name": "Antwerp 2022 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4830": {
     "name": "Antwerp 2022 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4831": {
     "name": "Antwerp 2022 Souvenir Token",
-    "type": "22"
+    "type": "20"
   },
   "4832": {
     "name": "Antwerp 2022 Legends Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4833": {
     "name": "Antwerp 2022 Challengers Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4834": {
     "name": "Antwerp 2022 Contenders Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4835": {
     "name": "Antwerp 2022 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4836": {
     "name": "Antwerp 2022 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4837": {
     "name": "Antwerp 2022 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4838": {
     "name": "Antwerp 2022 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4839": {
     "name": "Antwerp 2022 Ancient Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4840": {
     "name": "Antwerp 2022 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4841": {
     "name": "Antwerp 2022 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4842": {
     "name": "Antwerp 2022 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4843": {
     "name": "Antwerp 2022 Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4844": {
     "name": "Antwerp 2022 Contenders Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4845": {
     "name": "Antwerp 2022 Champions Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4846": {
     "name": "Recoil Case",
-    "type": "24"
+    "type": "14"
   },
   "4847": {
     "name": "10 Year Birthday Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4848": {
     "name": "Initiators Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4849": {
     "name": "StatTrak\u2122 Initiators Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4850": {
     "name": "Rio 2022 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4851": {
     "name": "Rio 2022 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4852": {
     "name": "Rio 2022 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4853": {
     "name": "Rio 2022 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4854": {
     "name": "Rio 2022 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4855": {
     "name": "Rio 2022 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4856": {
     "name": "Rio 2022 Souvenir Token",
-    "type": "22"
+    "type": "20"
   },
   "4857": {
     "name": "Rio 2022 Legends Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4858": {
     "name": "Rio 2022 Challengers Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4859": {
     "name": "Rio 2022 Contenders Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4860": {
     "name": "Rio 2022 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4861": {
     "name": "Rio 2022 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4862": {
     "name": "Rio 2022 Dust II Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4863": {
     "name": "Rio 2022 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4864": {
     "name": "Rio 2022 Ancient Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4865": {
     "name": "Rio 2022 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4866": {
     "name": "Rio 2022 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4867": {
     "name": "Rio 2022 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4868": {
     "name": "Rio 2022 Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4869": {
     "name": "Rio 2022 Contenders Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4870": {
     "name": "Rio 2022 Champions Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4871": {
     "name": "Rio 2022 Storage Unit with Paper Stickers",
-    "type": "24"
+    "type": "14"
   },
   "4872": {
     "name": "Rio 2022 Storage Unit with Glitter Stickers",
-    "type": "24"
+    "type": "14"
   },
   "4873": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4874": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4875": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4876": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4877": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4878": {
     "name": "2023 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4879": {
     "name": "Espionage Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4880": {
     "name": "Revolution Case",
-    "type": "24"
+    "type": "14"
   },
   "4882": {
     "name": "Anubis Collection Package",
-    "type": "24"
+    "type": "14"
   },
   "4883": {
     "name": "Paris 2023 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4884": {
     "name": "Paris 2023 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4885": {
     "name": "Paris 2023 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4886": {
     "name": "Paris 2023 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4887": {
     "name": "Paris 2023 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4888": {
     "name": "Paris 2023 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4889": {
     "name": "Paris 2023 Souvenir Token",
-    "type": "22"
+    "type": "20"
   },
   "4890": {
     "name": "Paris 2023 Legends Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4891": {
     "name": "Paris 2023 Challengers Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4892": {
     "name": "Paris 2023 Contenders Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4893": {
     "name": "Paris 2023 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4894": {
     "name": "Paris 2023 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4895": {
     "name": "Paris 2023 Anubis Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4896": {
     "name": "Paris 2023 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4897": {
     "name": "Paris 2023 Ancient Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4898": {
     "name": "Paris 2023 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4899": {
     "name": "Paris 2023 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "49": {
     "name": "C4 Explosive",
     "quality": "0",
-    "type": "12"
+    "type": "26"
   },
   "4900": {
     "name": "Paris 2023 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4901": {
     "name": "Paris 2023 Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4902": {
     "name": "Paris 2023 Contenders Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4903": {
     "name": "Paris 2023 Champions Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4904": {
     "name": "Kilowatt Case",
-    "type": "24"
+    "type": "14"
   },
   "4905": {
     "name": "Ambush Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4906": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4907": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4908": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4909": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4910": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4911": {
     "name": "2024 Service Medal",
-    "type": "14"
+    "type": "9"
   },
   "4914": {
     "name": "NIGHTMODE Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4915": {
     "name": "StatTrak\u2122 NIGHTMODE Music Kit Box",
-    "type": "24"
+    "type": "14"
   },
   "4916": {
     "name": "Copenhagen 2024 Viewer Pass",
-    "type": "22"
+    "type": "20"
   },
   "4917": {
     "name": "Copenhagen 2024 Coin",
-    "type": "14"
+    "type": "9"
   },
   "4918": {
     "name": "Copenhagen 2024 Silver Coin",
-    "type": "14"
+    "type": "9"
   },
   "4919": {
     "name": "Copenhagen 2024 Gold Coin",
-    "type": "14"
+    "type": "9"
   },
   "4920": {
     "name": "Copenhagen 2024 Diamond Coin",
-    "type": "14"
+    "type": "9"
   },
   "4921": {
     "name": "Copenhagen 2024 Viewer Pass + 3 Souvenir Tokens",
-    "type": "22"
+    "type": "20"
   },
   "4922": {
     "name": "Copenhagen 2024 Souvenir Package",
-    "type": "22"
+    "type": "20"
   },
   "4923": {
     "name": "Copenhagen 2024 Legends Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4924": {
     "name": "Copenhagen 2024 Challengers Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4925": {
     "name": "Copenhagen 2024 Contenders Sticker Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4926": {
     "name": "Copenhagen 2024 Inferno Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4927": {
     "name": "Copenhagen 2024 Mirage Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4928": {
     "name": "Copenhagen 2024 Anubis Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4929": {
     "name": "Copenhagen 2024 Overpass Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4930": {
     "name": "Copenhagen 2024 Ancient Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4931": {
     "name": "Copenhagen 2024 Nuke Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4932": {
     "name": "Copenhagen 2024 Vertigo Souvenir Package",
-    "type": "24"
+    "type": "14"
   },
   "4933": {
     "name": "Champion at PGL Copenhagen 2024",
-    "type": "14"
+    "type": "9"
   },
   "4934": {
     "name": "Finalist at PGL Copenhagen 2024",
-    "type": "14"
+    "type": "9"
   },
   "4935": {
     "name": "Semifinalist at PGL Copenhagen 2024",
-    "type": "14"
+    "type": "9"
   },
   "4936": {
     "name": "Quarterfinalist at PGL Copenhagen 2024",
-    "type": "14"
+    "type": "9"
   },
   "4937": {
     "name": "Copenhagen 2024 Legends Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4938": {
     "name": "Copenhagen 2024 Challengers Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4939": {
     "name": "Copenhagen 2024 Contenders Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "4940": {
     "name": "Copenhagen 2024 Champions Autograph Capsule",
-    "type": "24"
+    "type": "14"
   },
   "50": {
     "name": "Kevlar Vest",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "500": {
     "name": "Bayonet",
-    "type": "4"
+    "type": "7"
   },
   "5027": {
     "name": "Bloodhound Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5028": {
     "name": "Default T Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5029": {
     "name": "Default CT Gloves",
-    "type": "18"
+    "type": "21"
   },
   "503": {
     "name": "Classic Knife",
-    "type": "4"
+    "type": "7"
   },
   "5030": {
     "name": "Sport Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5031": {
     "name": "Driver Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5032": {
     "name": "Hand Wraps",
-    "type": "18"
+    "type": "21"
   },
   "5033": {
     "name": "Moto Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5034": {
     "name": "Specialist Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5035": {
     "name": "Hydra Gloves",
-    "type": "18"
+    "type": "21"
   },
   "5036": {
     "name": "Default T Agent",
-    "type": "16"
+    "type": "15"
   },
   "5037": {
     "name": "Default CT Agent",
-    "type": "16"
+    "type": "15"
   },
   "505": {
     "name": "Flip Knife",
-    "type": "4"
+    "type": "7"
   },
   "506": {
     "name": "Gut Knife",
-    "type": "4"
+    "type": "7"
   },
   "507": {
     "name": "Karambit",
-    "type": "4"
+    "type": "7"
   },
   "508": {
     "name": "M9 Bayonet",
-    "type": "4"
+    "type": "7"
   },
   "509": {
     "name": "Huntsman Knife",
-    "type": "4"
+    "type": "7"
   },
   "51": {
     "name": "Kevlar & Helmet",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "5105": {
     "name": "Ground Rebel  | Elite Crew",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5106": {
     "name": "Osiris | Elite Crew",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5107": {
     "name": "Prof. Shahmat | Elite Crew",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "5108": {
     "name": "The Elite Mr. Muhlik | Elite Crew",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "5109": {
     "name": "Jungle Rebel | Elite Crew",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "512": {
     "name": "Falchion Knife",
-    "type": "4"
+    "type": "7"
   },
   "514": {
     "name": "Bowie Knife",
-    "type": "4"
+    "type": "7"
   },
   "515": {
     "name": "Butterfly Knife",
-    "type": "4"
+    "type": "7"
   },
   "516": {
     "name": "Shadow Daggers",
-    "type": "4"
+    "type": "7"
   },
   "517": {
     "name": "Paracord Knife",
-    "type": "4"
+    "type": "7"
   },
   "518": {
     "name": "Survival Knife",
-    "type": "4"
+    "type": "7"
   },
   "519": {
     "name": "Ursus Knife",
-    "type": "4"
+    "type": "7"
   },
   "52": {
     "name": "Heavy Assault Suit",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "520": {
     "name": "Navaja Knife",
-    "type": "4"
+    "type": "7"
   },
   "5205": {
     "name": "Soldier | Phoenix",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5206": {
     "name": "Enforcer | Phoenix",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5207": {
     "name": "Slingshot | Phoenix",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5208": {
     "name": "Street Soldier | Phoenix",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "521": {
     "name": "Nomad Knife",
-    "type": "4"
+    "type": "7"
   },
   "522": {
     "name": "Stiletto Knife",
-    "type": "4"
+    "type": "7"
   },
   "523": {
     "name": "Talon Knife",
-    "type": "4"
+    "type": "7"
   },
   "525": {
     "name": "Skeleton Knife",
-    "type": "4"
+    "type": "7"
   },
   "526": {
     "name": "Kukri Knife",
-    "type": "4"
+    "type": "7"
   },
   "5305": {
     "name": "Operator | FBI SWAT",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5306": {
     "name": "Markus Delrow | FBI HRT",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5307": {
     "name": "Michael Syfers  | FBI Sniper",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "5308": {
     "name": "Special Agent Ava | FBI",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "5400": {
     "name": "3rd Commando Company | KSK",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5401": {
     "name": "Seal Team 6 Soldier | NSWC SEAL",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5402": {
     "name": "Buckshot | NSWC SEAL",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5403": {
     "name": "'Two Times' McCoy | USAF TACP",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "5404": {
     "name": "Lt. Commander Ricksaw | NSWC SEAL",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "5405": {
     "name": "Primeiro Tenente | Brazilian 1st Battalion",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "55": {
     "name": "Defuse Kit",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "5500": {
     "name": "Dragomir | Sabre",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5501": {
     "name": "Maximus | Sabre",
     "rarity": "4",
-    "type": "16"
+    "type": "15"
   },
   "5502": {
     "name": "Rezan The Ready | Sabre",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "5503": {
     "name": "Blackwolf | Sabre",
     "rarity": "5",
-    "type": "16"
+    "type": "15"
   },
   "5504": {
     "name": "'The Doctor' Romanov | Sabre",
     "rarity": "6",
-    "type": "16"
+    "type": "15"
   },
   "5505": {
     "name": "Dragomir | Sabre Footsoldier",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "56": {
     "name": "Rescue Kit",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "5601": {
     "name": "B Squadron Officer | SAS",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "5602": {
     "name": "D Squadron Officer | NZSAS",
     "rarity": "3",
-    "type": "16"
+    "type": "15"
   },
   "57": {
     "name": "Medi-Shot",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "58": {
     "name": "Music Kit",
@@ -5742,574 +5742,574 @@
   "59": {
     "name": "Knife",
     "quality": "0",
-    "type": "4"
+    "type": "7"
   },
   "60": {
     "name": "M4A1-S",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "6001": {
     "name": "Dust II Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6002": {
     "name": "Guardian Elite Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6003": {
     "name": "Mirage Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6004": {
     "name": "Inferno Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6005": {
     "name": "Italy Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6006": {
     "name": "Victory Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6007": {
     "name": "Militia Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6008": {
     "name": "Nuke Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6009": {
     "name": "Train Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6010": {
     "name": "Guardian Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6011": {
     "name": "Tactics Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6012": {
     "name": "Guardian 2 Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6013": {
     "name": "Bravo Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6014": {
     "name": "Baggage Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6015": {
     "name": "Phoenix Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6016": {
     "name": "Office Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6017": {
     "name": "Cobblestone Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6018": {
     "name": "Overpass Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6019": {
     "name": "Bloodhound Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6020": {
     "name": "Cache Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6021": {
     "name": "Valeria Phoenix Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6022": {
     "name": "Chroma Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6023": {
     "name": "Guardian 3 Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6024": {
     "name": "Canals Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6025": {
     "name": "Welcome to the Clutch Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6026": {
     "name": "Death Sentence Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6027": {
     "name": "Inferno 2 Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6028": {
     "name": "Wildfire Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6029": {
     "name": "Easy Peasy Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6030": {
     "name": "Aces High Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6031": {
     "name": "Hydra Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6032": {
     "name": "Howl Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6033": {
     "name": "Brigadier General Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6034": {
     "name": "Alyx Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "61": {
     "name": "USP-S",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "6101": {
     "name": "Dust II Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6102": {
     "name": "Guardian Elite Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6103": {
     "name": "Mirage Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6104": {
     "name": "Inferno Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6105": {
     "name": "Italy Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6106": {
     "name": "Victory Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6107": {
     "name": "Militia Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6108": {
     "name": "Nuke Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6109": {
     "name": "Train Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6110": {
     "name": "Guardian Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6111": {
     "name": "Tactics Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6112": {
     "name": "Guardian 2 Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6113": {
     "name": "Bravo Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6114": {
     "name": "Baggage Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6115": {
     "name": "Phoenix Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6116": {
     "name": "Office Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6117": {
     "name": "Cobblestone Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6118": {
     "name": "Overpass Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6119": {
     "name": "Bloodhound Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6120": {
     "name": "Cache Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6121": {
     "name": "Valeria Phoenix Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6122": {
     "name": "Chroma Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6123": {
     "name": "Guardian 3 Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6124": {
     "name": "Canals Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6125": {
     "name": "Welcome to the Clutch Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6126": {
     "name": "Death Sentence Pin",
     "rarity": "3",
-    "type": "14"
+    "type": "9"
   },
   "6127": {
     "name": "Inferno 2 Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6128": {
     "name": "Wildfire Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6129": {
     "name": "Easy Peasy Pin",
     "rarity": "4",
-    "type": "14"
+    "type": "9"
   },
   "6130": {
     "name": "Aces High Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6131": {
     "name": "Hydra Pin",
     "rarity": "5",
-    "type": "14"
+    "type": "9"
   },
   "6132": {
     "name": "Howl Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6133": {
     "name": "Brigadier General Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "6134": {
     "name": "Alyx Pin",
     "rarity": "6",
-    "type": "14"
+    "type": "9"
   },
   "62": {
     "name": "Trade Up Contract",
-    "type": "13"
+    "type": "12"
   },
   "63": {
     "name": "CZ75-Auto",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "64": {
     "name": "R8 Revolver",
     "quality": "0",
-    "type": "6"
+    "type": "10"
   },
   "6404": {
     "name": "Distinguished Agents",
-    "type": "24"
+    "type": "14"
   },
   "6405": {
     "name": "Exceptional Agents",
-    "type": "24"
+    "type": "14"
   },
   "6406": {
     "name": "Superior Agents",
-    "type": "24"
+    "type": "14"
   },
   "6407": {
     "name": "Master Agents",
-    "type": "24"
+    "type": "14"
   },
   "68": {
     "name": "Tactical Awareness Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "69": {
     "name": "Bare Hands",
     "quality": "0",
-    "type": "4"
+    "type": "7"
   },
   "7": {
     "name": "AK-47",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "70": {
     "name": "Breach Charge",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "7000": {
     "name": "Operation Wildfire Case Key",
-    "type": "25"
+    "type": "8"
   },
   "72": {
     "name": "Tablet",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "74": {
     "name": "Knife",
-    "type": "0"
+    "type": "24"
   },
   "75": {
     "name": "Axe",
     "quality": "0",
-    "type": "0"
+    "type": "24"
   },
   "76": {
     "name": "Hammer",
     "quality": "0",
-    "type": "0"
+    "type": "24"
   },
   "78": {
     "name": "Wrench",
     "quality": "0",
-    "type": "0"
+    "type": "24"
   },
   "8": {
     "name": "AUG",
     "quality": "0",
-    "type": "8"
+    "type": "16"
   },
   "80": {
     "name": "Spectral Shiv",
     "quality": "0",
-    "type": "4"
+    "type": "7"
   },
   "81": {
     "name": "Fire Bomb",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "82": {
     "name": "Diversion Device",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "83": {
     "name": "Frag Grenade",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "84": {
     "name": "Snowball",
     "quality": "0",
-    "type": "20"
+    "type": "4"
   },
   "85": {
     "name": "Bump Mine",
     "quality": "0",
-    "type": "11"
+    "type": "3"
   },
   "874": {
     "name": "5 Year Veteran Coin",
-    "type": "14"
+    "type": "9"
   },
   "875": {
     "name": "Champion at DreamHack 2013",
-    "type": "14"
+    "type": "9"
   },
   "876": {
     "name": "Finalist at DreamHack 2013",
-    "type": "14"
+    "type": "9"
   },
   "877": {
     "name": "Semifinalist at DreamHack 2013",
-    "type": "14"
+    "type": "9"
   },
   "878": {
     "name": "Quarterfinalist at DreamHack 2013",
-    "type": "14"
+    "type": "9"
   },
   "879": {
     "name": "Champion at EMS One Katowice 2014",
-    "type": "14"
+    "type": "9"
   },
   "880": {
     "name": "Finalist at EMS One Katowice 2014",
-    "type": "14"
+    "type": "9"
   },
   "881": {
     "name": "Semifinalist at EMS One Katowice 2014",
-    "type": "14"
+    "type": "9"
   },
   "882": {
     "name": "Quarterfinalist at EMS One Katowice 2014",
-    "type": "14"
+    "type": "9"
   },
   "883": {
     "name": "Champion at ESL One Cologne 2014",
-    "type": "14"
+    "type": "9"
   },
   "884": {
     "name": "Finalist at ESL One Cologne 2014",
-    "type": "14"
+    "type": "9"
   },
   "885": {
     "name": "Semifinalist at ESL One Cologne 2014",
-    "type": "14"
+    "type": "9"
   },
   "886": {
     "name": "Quarterfinalist at ESL One Cologne 2014",
-    "type": "14"
+    "type": "9"
   },
   "887": {
     "name": "Bronze Cologne 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "888": {
     "name": "Silver Cologne 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "889": {
     "name": "Gold Cologne 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "890": {
     "name": "Champion at DreamHack Winter 2014",
-    "type": "14"
+    "type": "9"
   },
   "891": {
     "name": "Finalist at DreamHack Winter 2014",
-    "type": "14"
+    "type": "9"
   },
   "892": {
     "name": "Semifinalist at DreamHack Winter 2014",
-    "type": "14"
+    "type": "9"
   },
   "893": {
     "name": "Quarterfinalist at DreamHack Winter 2014",
-    "type": "14"
+    "type": "9"
   },
   "894": {
     "name": "Bronze DreamHack 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "895": {
     "name": "Silver DreamHack 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "896": {
     "name": "Gold DreamHack 2014 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "897": {
     "name": "Champion at ESL One Katowice 2015",
-    "type": "14"
+    "type": "9"
   },
   "898": {
     "name": "Finalist at ESL One Katowice 2015",
-    "type": "14"
+    "type": "9"
   },
   "899": {
     "name": "Semifinalist at ESL One Katowice 2015",
-    "type": "14"
+    "type": "9"
   },
   "9": {
     "name": "AWP",
@@ -6318,390 +6318,390 @@
   },
   "900": {
     "name": "Quarterfinalist at ESL One Katowice 2015",
-    "type": "14"
+    "type": "9"
   },
   "901": {
     "name": "Bronze Katowice 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "902": {
     "name": "Silver Katowice 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "903": {
     "name": "Gold Katowice 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "904": {
     "name": "Champion at ESL One Cologne 2015",
-    "type": "14"
+    "type": "9"
   },
   "905": {
     "name": "Finalist at ESL One Cologne 2015",
-    "type": "14"
+    "type": "9"
   },
   "906": {
     "name": "Semifinalist at ESL One Cologne 2015",
-    "type": "14"
+    "type": "9"
   },
   "907": {
     "name": "Quarterfinalist at ESL One Cologne 2015",
-    "type": "14"
+    "type": "9"
   },
   "908": {
     "name": "Bronze Cologne 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "909": {
     "name": "Silver Cologne 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "910": {
     "name": "Gold Cologne 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "911": {
     "name": "Bronze Cluj-Napoca 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "912": {
     "name": "Silver Cluj-Napoca 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "913": {
     "name": "Gold Cluj-Napoca 2015 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "914": {
     "name": "Bronze Cluj-Napoca 2015 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "915": {
     "name": "Silver Cluj-Napoca 2015 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "916": {
     "name": "Gold Cluj-Napoca 2015 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "917": {
     "name": "Champion at DreamHack Cluj-Napoca 2015",
-    "type": "14"
+    "type": "9"
   },
   "918": {
     "name": "Finalist at DreamHack Cluj-Napoca 2015",
-    "type": "14"
+    "type": "9"
   },
   "919": {
     "name": "Semifinalist at DreamHack Cluj-Napoca 2015",
-    "type": "14"
+    "type": "9"
   },
   "920": {
     "name": "Quarterfinalist at DreamHack Cluj-Napoca 2015",
-    "type": "14"
+    "type": "9"
   },
   "921": {
     "name": "Bronze Columbus 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "922": {
     "name": "Silver Columbus 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "923": {
     "name": "Gold Columbus 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "924": {
     "name": "Bronze Columbus 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "925": {
     "name": "Silver Columbus 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "926": {
     "name": "Gold Columbus 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "927": {
     "name": "Champion at MLG Columbus 2016",
-    "type": "14"
+    "type": "9"
   },
   "928": {
     "name": "Finalist at MLG Columbus 2016",
-    "type": "14"
+    "type": "9"
   },
   "929": {
     "name": "Semifinalist at MLG Columbus 2016",
-    "type": "14"
+    "type": "9"
   },
   "930": {
     "name": "Quarterfinalist at MLG Columbus 2016",
-    "type": "14"
+    "type": "9"
   },
   "931": {
     "name": "Champion at ESL One Cologne 2016",
-    "type": "14"
+    "type": "9"
   },
   "932": {
     "name": "Finalist at ESL One Cologne 2016",
-    "type": "14"
+    "type": "9"
   },
   "933": {
     "name": "Semifinalist at ESL One Cologne 2016",
-    "type": "14"
+    "type": "9"
   },
   "934": {
     "name": "Quarterfinalist at ESL One Cologne 2016",
-    "type": "14"
+    "type": "9"
   },
   "935": {
     "name": "Bronze Cologne 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "936": {
     "name": "Silver Cologne 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "937": {
     "name": "Gold Cologne 2016 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "938": {
     "name": "Bronze Cologne 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "939": {
     "name": "Silver Cologne 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "940": {
     "name": "Gold Cologne 2016 Fantasy Trophy",
-    "type": "14"
+    "type": "9"
   },
   "941": {
     "name": "Champion at ELEAGUE Atlanta 2017",
-    "type": "14"
+    "type": "9"
   },
   "942": {
     "name": "Finalist at ELEAGUE Atlanta 2017",
-    "type": "14"
+    "type": "9"
   },
   "943": {
     "name": "Semifinalist at ELEAGUE Atlanta 2017",
-    "type": "14"
+    "type": "9"
   },
   "944": {
     "name": "Quarterfinalist at ELEAGUE Atlanta 2017",
-    "type": "14"
+    "type": "9"
   },
   "945": {
     "name": "Bronze Atlanta 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "946": {
     "name": "Silver Atlanta 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "947": {
     "name": "Gold Atlanta 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "948": {
     "name": "Champion at PGL Krakow 2017",
-    "type": "14"
+    "type": "9"
   },
   "949": {
     "name": "Finalist at PGL Krakow 2017",
-    "type": "14"
+    "type": "9"
   },
   "950": {
     "name": "Semifinalist at PGL Krakow 2017",
-    "type": "14"
+    "type": "9"
   },
   "951": {
     "name": "Quarterfinalist at PGL Krakow 2017",
-    "type": "14"
+    "type": "9"
   },
   "952": {
     "name": "Bronze Krakow 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "953": {
     "name": "Silver Krakow 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "954": {
     "name": "Gold Krakow 2017 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "955": {
     "name": "Champion at ELEAGUE Boston 2018",
-    "type": "14"
+    "type": "9"
   },
   "956": {
     "name": "Finalist at ELEAGUE Boston 2018",
-    "type": "14"
+    "type": "9"
   },
   "957": {
     "name": "Semifinalist at ELEAGUE Boston 2018",
-    "type": "14"
+    "type": "9"
   },
   "958": {
     "name": "Quarterfinalist at ELEAGUE Boston 2018",
-    "type": "14"
+    "type": "9"
   },
   "959": {
     "name": "Bronze Boston 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "960": {
     "name": "Silver Boston 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "961": {
     "name": "Gold Boston 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "962": {
     "name": "Champion at FACEIT London 2018",
-    "type": "14"
+    "type": "9"
   },
   "963": {
     "name": "Finalist at FACEIT London 2018",
-    "type": "14"
+    "type": "9"
   },
   "964": {
     "name": "Semifinalist at FACEIT London 2018",
-    "type": "14"
+    "type": "9"
   },
   "965": {
     "name": "Quarterfinalist at FACEIT London 2018",
-    "type": "14"
+    "type": "9"
   },
   "966": {
     "name": "Bronze London 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "967": {
     "name": "Silver London 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "968": {
     "name": "Gold London 2018 Pick'Em Trophy",
-    "type": "14"
+    "type": "9"
   },
   "969": {
     "name": "10 Year Veteran Coin",
-    "type": "14"
+    "type": "9"
   },
   "970": {
     "name": "Loyalty Badge",
-    "type": "14"
+    "type": "9"
   },
   "971": {
     "name": "Champion at IEM Katowice 2019",
-    "type": "14"
+    "type": "9"
   },
   "972": {
     "name": "Finalist at IEM Katowice 2019",
-    "type": "14"
+    "type": "9"
   },
   "973": {
     "name": "Semifinalist at IEM Katowice 2019",
-    "type": "14"
+    "type": "9"
   },
   "974": {
     "name": "Quarterfinalist at IEM Katowice 2019",
-    "type": "14"
+    "type": "9"
   },
   "975": {
     "name": "Champion at StarLadder Berlin 2019",
-    "type": "14"
+    "type": "9"
   },
   "976": {
     "name": "Finalist at StarLadder Berlin 2019",
-    "type": "14"
+    "type": "9"
   },
   "977": {
     "name": "Semifinalist at StarLadder Berlin 2019",
-    "type": "14"
+    "type": "9"
   },
   "978": {
     "name": "Quarterfinalist at StarLadder Berlin 2019",
-    "type": "14"
+    "type": "9"
   },
   "979": {
     "name": "Champion at PGL Stockholm 2021",
-    "type": "14"
+    "type": "9"
   },
   "980": {
     "name": "Finalist at PGL Stockholm 2021",
-    "type": "14"
+    "type": "9"
   },
   "981": {
     "name": "Semifinalist at PGL Stockholm 2021",
-    "type": "14"
+    "type": "9"
   },
   "982": {
     "name": "Quarterfinalist at PGL Stockholm 2021",
-    "type": "14"
+    "type": "9"
   },
   "983": {
     "name": "Champion at PGL Antwerp 2022",
-    "type": "14"
+    "type": "9"
   },
   "984": {
     "name": "Finalist at PGL Antwerp 2022",
-    "type": "14"
+    "type": "9"
   },
   "985": {
     "name": "Semifinalist at PGL Antwerp 2022",
-    "type": "14"
+    "type": "9"
   },
   "986": {
     "name": "Quarterfinalist at PGL Antwerp 2022",
-    "type": "14"
+    "type": "9"
   },
   "987": {
     "name": "10 Year Birthday Coin",
-    "type": "14"
+    "type": "9"
   },
   "988": {
     "name": "Champion at IEM Rio 2022",
-    "type": "14"
+    "type": "9"
   },
   "989": {
     "name": "Finalist at IEM Rio 2022",
-    "type": "14"
+    "type": "9"
   },
   "990": {
     "name": "Semifinalist at IEM Rio 2022",
-    "type": "14"
+    "type": "9"
   },
   "991": {
     "name": "Quarterfinalist at IEM Rio 2022",
-    "type": "14"
+    "type": "9"
   },
   "992": {
     "name": "Champion at BLAST.tv Paris 2023",
-    "type": "14"
+    "type": "9"
   },
   "993": {
     "name": "Finalist at BLAST.tv Paris 2023",
-    "type": "14"
+    "type": "9"
   },
   "994": {
     "name": "Semifinalist at BLAST.tv Paris 2023",
-    "type": "14"
+    "type": "9"
   },
   "995": {
     "name": "Quarterfinalist at BLAST.tv Paris 2023",
-    "type": "14"
+    "type": "9"
   },
   "996": {
     "name": "Global Offensive Badge",
-    "type": "14"
+    "type": "9"
   }
 }
