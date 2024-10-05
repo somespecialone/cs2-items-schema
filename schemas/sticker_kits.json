@@ -492,16 +492,16 @@
   },
   "1072": {
     "containers": [
-      "4205",
-      "4206"
+      "4206",
+      "4205"
     ],
     "name": "MLG (Holo) | MLG Columbus 2016",
     "rarity": "4"
   },
   "1073": {
     "containers": [
-      "4205",
-      "4206"
+      "4206",
+      "4205"
     ],
     "name": "MLG (Foil) | MLG Columbus 2016",
     "rarity": "5"
@@ -7592,16 +7592,16 @@
   },
   "2128": {
     "containers": [
-      "4392",
-      "4391"
+      "4391",
+      "4392"
     ],
     "name": "PGL (Holo) | Krakow 2017",
     "rarity": "4"
   },
   "2129": {
     "containers": [
-      "4392",
-      "4391"
+      "4391",
+      "4392"
     ],
     "name": "PGL (Foil) | Krakow 2017",
     "rarity": "5"
@@ -10395,16 +10395,16 @@
   },
   "2501": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2502": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Foil) | Boston 2018",
     "rarity": "5"
@@ -10422,16 +10422,16 @@
   },
   "2505": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2506": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Foil) | Boston 2018",
     "rarity": "5"
@@ -10449,8 +10449,8 @@
   },
   "2509": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Holo) | Boston 2018",
     "rarity": "4"
@@ -10461,8 +10461,8 @@
   },
   "2510": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Foil) | Boston 2018",
     "rarity": "5"
@@ -10480,16 +10480,16 @@
   },
   "2513": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2514": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Foil) | Boston 2018",
     "rarity": "5"
@@ -10507,16 +10507,16 @@
   },
   "2517": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2518": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Foil) | Boston 2018",
     "rarity": "5"
@@ -10538,16 +10538,16 @@
   },
   "2521": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2522": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Foil) | Boston 2018",
     "rarity": "5"
@@ -10565,16 +10565,16 @@
   },
   "2525": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2526": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Foil) | Boston 2018",
     "rarity": "5"
@@ -10621,22 +10621,22 @@
   },
   "2533": {
     "containers": [
+      "4458",
       "4457",
       "4474",
       "4478",
-      "4456",
-      "4458"
+      "4456"
     ],
     "name": "ELEAGUE (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2534": {
     "containers": [
+      "4458",
       "4457",
       "4474",
       "4478",
-      "4456",
-      "4458"
+      "4456"
     ],
     "name": "ELEAGUE (Foil) | Boston 2018",
     "rarity": "5"
@@ -14732,18 +14732,18 @@
   },
   "3052": {
     "containers": [
-      "4535",
+      "4533",
       "4534",
-      "4533"
+      "4535"
     ],
     "name": "FACEIT (Holo) | London 2018",
     "rarity": "4"
   },
   "3053": {
     "containers": [
-      "4535",
+      "4533",
       "4534",
-      "4533"
+      "4535"
     ],
     "name": "FACEIT (Foil) | London 2018",
     "rarity": "5"
@@ -22684,18 +22684,18 @@
   },
   "4116": {
     "containers": [
-      "4655",
       "4656",
-      "4654"
+      "4654",
+      "4655"
     ],
     "name": "StarLadder (Holo) | Berlin 2019",
     "rarity": "4"
   },
   "4117": {
     "containers": [
-      "4655",
       "4656",
-      "4654"
+      "4654",
+      "4655"
     ],
     "name": "StarLadder (Foil) | Berlin 2019",
     "rarity": "5"
@@ -25581,48 +25581,48 @@
   },
   "4504": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Counter-Tech",
     "rarity": "3"
   },
   "4505": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Gold Web",
     "rarity": "3"
   },
   "4506": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Mastermind",
     "rarity": "3"
   },
   "4507": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Shattered Web",
     "rarity": "3"
   },
   "4508": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Terrorist-Tech",
     "rarity": "3"
   },
   "4509": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Web Stuck",
     "rarity": "3"
@@ -25633,24 +25633,24 @@
   },
   "4510": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Mastermind (Holo)",
     "rarity": "4"
   },
   "4511": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Web Stuck (Holo)",
     "rarity": "4"
   },
   "4512": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Gold Web (Foil)",
     "rarity": "5"
@@ -26947,72 +26947,72 @@
   },
   "4681": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Beast",
     "rarity": "3"
   },
   "4682": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Marauder",
     "rarity": "3"
   },
   "4683": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Protector",
     "rarity": "3"
   },
   "4684": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Badge of Service",
     "rarity": "3"
   },
   "4685": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Battle Scarred",
     "rarity": "3"
   },
   "4686": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Broken Fang",
     "rarity": "3"
   },
   "4687": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Coiled Strike",
     "rarity": "3"
   },
   "4688": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Enemy Spotted",
     "rarity": "3"
   },
   "4689": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stalking Prey",
     "rarity": "3"
@@ -27023,56 +27023,56 @@
   },
   "4690": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stone Scales",
     "rarity": "3"
   },
   "4691": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Battle Scarred (Holo)",
     "rarity": "4"
   },
   "4692": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Broken Fang (Holo)",
     "rarity": "4"
   },
   "4693": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Coiled Strike (Holo)",
     "rarity": "4"
   },
   "4694": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Enemy Spotted (Holo)",
     "rarity": "4"
   },
   "4695": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Ancient Beast (Foil)",
     "rarity": "5"
   },
   "4696": {
     "containers": [
-      "4729",
-      "4731"
+      "4731",
+      "4729"
     ],
     "name": "Stone Scales (Foil)",
     "rarity": "5"
@@ -29866,36 +29866,36 @@
   },
   "5050": {
     "containers": [
-      "4804",
       "4803",
-      "4805"
+      "4805",
+      "4804"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5051": {
     "containers": [
-      "4804",
       "4803",
-      "4805"
+      "4805",
+      "4804"
     ],
     "name": "PGL (Holo) | Stockholm 2021",
     "rarity": "4"
   },
   "5052": {
     "containers": [
-      "4804",
       "4803",
-      "4805"
+      "4805",
+      "4804"
     ],
     "name": "PGL (Foil) | Stockholm 2021",
     "rarity": "5"
   },
   "5053": {
     "containers": [
-      "4804",
       "4803",
-      "4805"
+      "4805",
+      "4804"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "6"
@@ -30389,8 +30389,8 @@
   "5127": {
     "containers": [
       "4806",
-      "4808",
-      "4807"
+      "4807",
+      "4808"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
@@ -30398,8 +30398,8 @@
   "5128": {
     "containers": [
       "4806",
-      "4808",
-      "4807"
+      "4807",
+      "4808"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "4"
@@ -45302,8 +45302,8 @@
   },
   "960": {
     "containers": [
-      "4156",
-      "4157"
+      "4157",
+      "4156"
     ],
     "name": "DreamHack (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
