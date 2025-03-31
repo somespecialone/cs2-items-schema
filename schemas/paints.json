@@ -1552,17 +1552,233 @@
     "wear_max": 1.0,
     "wear_min": 0.0
   },
+  "1181": {
+    "name": "Sure Grip",
+    "rarity": "2",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1182": {
+    "name": "Mockingbird",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1183": {
+    "name": "Tosai",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1184": {
+    "name": "Bad Trip",
+    "rarity": "6",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1185": {
+    "name": "Control",
+    "rarity": "4",
+    "wear_max": 0.798995,
+    "wear_min": 0.0
+  },
+  "1186": {
+    "name": "PC-GRN",
+    "rarity": "2",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1187": {
+    "name": "Memorial",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1188": {
+    "name": "Resupply",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1189": {
+    "name": "Serpent Strike",
+    "rarity": "3",
+    "wear_max": 0.57,
+    "wear_min": 0.0
+  },
   "119": {
     "name": "Sage Spray",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1190": {
+    "name": "Wave Breaker",
+    "rarity": "4",
+    "wear_max": 0.950549,
+    "wear_min": 0.0
+  },
+  "1192": {
+    "name": "Rising Sun",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1193": {
+    "name": "Nexus",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1194": {
+    "name": "K.O. Factory",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1195": {
+    "name": "Copper Fiber",
+    "rarity": "2",
+    "wear_max": 0.563291,
+    "wear_min": 0.0
+  },
+  "1198": {
+    "name": "Steel Sentinel",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1199": {
+    "name": "Straight Dimes",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "12": {
     "name": "Crimson Web",
     "rarity": "3",
     "wear_max": 0.8,
     "wear_min": 0.06
+  },
+  "1200": {
+    "name": "Green Line",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1201": {
+    "name": "Run Run Run",
+    "rarity": "3",
+    "wear_max": 0.746575,
+    "wear_min": 0.0
+  },
+  "1202": {
+    "name": "2A2F",
+    "rarity": "3",
+    "wear_max": 0.86,
+    "wear_min": 0.0
+  },
+  "1203": {
+    "name": "Late Night Transit",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1204": {
+    "name": "Derailment",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1205": {
+    "name": "Charged Up",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1206": {
+    "name": "Printstream",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1207": {
+    "name": "Searing Rage",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1208": {
+    "name": "Shinobu",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1209": {
+    "name": "Hellish",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1210": {
+    "name": "Choppa",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1211": {
+    "name": "Latte Rush",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1212": {
+    "name": "Constructivist",
+    "rarity": "2",
+    "wear_max": 0.35,
+    "wear_min": 0.0
+  },
+  "1213": {
+    "name": "LongDog",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1214": {
+    "name": "Whiteout",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.06
+  },
+  "1215": {
+    "name": "Solitude",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1216": {
+    "name": "Stratosphere",
+    "rarity": "4",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1217": {
+    "name": "Royal Guard",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1218": {
+    "name": "Midnight Laminate",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1219": {
+    "name": "Yeti Camo",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
   },
   "122": {
     "name": "Jungle Spray",
@@ -1798,16 +2014,508 @@
     "wear_max": 0.7,
     "wear_min": 0.0
   },
+  "1256": {
+    "name": "Reef Grief",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1257": {
+    "name": "Mint Fan",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1258": {
+    "name": "Cobalt Paisley",
+    "rarity": "3",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1259": {
+    "name": "Royal Baroque",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1260": {
+    "name": "Sour Grapes",
+    "rarity": "2",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1261": {
+    "name": "Turquoise Pour",
+    "rarity": "2",
+    "wear_max": 0.678431,
+    "wear_min": 0.0
+  },
+  "1262": {
+    "name": "Sky Blue",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1263": {
+    "name": "Rose Nacre",
+    "rarity": "2",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1264": {
+    "name": "Robin's Egg",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1265": {
+    "name": "Ocean Topo",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1266": {
+    "name": "Naval Shred Camo",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1267": {
+    "name": "Gum Wall Camo",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1268": {
+    "name": "Electric Blue",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1269": {
+    "name": "Storm Camo",
+    "rarity": "1",
+    "wear_max": 0.637288,
+    "wear_min": 0.0
+  },
+  "1270": {
+    "name": "Night Camo",
+    "rarity": "1",
+    "wear_max": 0.795222,
+    "wear_min": 0.0
+  },
+  "1271": {
+    "name": "Grey Smoke",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1272": {
+    "name": "Runoff",
+    "rarity": "1",
+    "wear_max": 0.780822,
+    "wear_min": 0.0
+  },
+  "1273": {
+    "name": "Plum Netting",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1274": {
+    "name": "Lime Hex",
+    "rarity": "1",
+    "wear_max": 0.638225,
+    "wear_min": 0.0
+  },
+  "1275": {
+    "name": "Grey Smoke",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1276": {
+    "name": "Cobalt Grip",
+    "rarity": "1",
+    "wear_max": 0.80339,
+    "wear_min": 0.0
+  },
+  "1277": {
+    "name": "Blue Tac",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1278": {
+    "name": "Buff Blue",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1279": {
+    "name": "Blue Blast",
+    "rarity": "1",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1280": {
+    "name": "Green Energy",
+    "rarity": "4",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1281": {
+    "name": "Sheet Lightning",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1282": {
+    "name": "Glockingbird",
+    "rarity": "3",
+    "wear_max": 0.67,
+    "wear_min": 0.0
+  },
+  "1283": {
+    "name": "Wintergreen",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1284": {
+    "name": "Tropical Breeze",
+    "rarity": "2",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1285": {
+    "name": "Poplar Thicket",
+    "rarity": "3",
+    "wear_max": 0.68,
+    "wear_min": 0.0
+  },
+  "1286": {
+    "name": "Garter-9",
+    "rarity": "2",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1287": {
+    "name": "Copperflage",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1288": {
+    "name": "VariCamo Grey",
+    "rarity": "1",
+    "wear_max": 0.671875,
+    "wear_min": 0.0
+  },
+  "1289": {
+    "name": "Tiger Tear",
+    "rarity": "2",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1290": {
+    "name": "Polished Malachite",
+    "rarity": "2",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1291": {
+    "name": "Mustard Gas",
+    "rarity": "2",
+    "wear_max": 0.63,
+    "wear_min": 0.0
+  },
+  "1292": {
+    "name": "Marsh",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1293": {
+    "name": "Leafhopper",
+    "rarity": "2",
+    "wear_max": 0.65098,
+    "wear_min": 0.0
+  },
+  "1294": {
+    "name": "Gold Leaf",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1295": {
+    "name": "Acid Hex",
+    "rarity": "2",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "1296": {
+    "name": "Acid Dart",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1297": {
+    "name": "Swamp DDPAT",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1298": {
+    "name": "Sage Camo",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1299": {
+    "name": "Raw Ceramic",
+    "rarity": "1",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
   "13": {
     "name": "Blue Streak",
     "rarity": "4",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1300": {
+    "name": "Raw Ceramic",
+    "rarity": "1",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1301": {
+    "name": "Pine",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1302": {
+    "name": "Palm",
+    "rarity": "1",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1303": {
+    "name": "Green Swirl",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1304": {
+    "name": "Green Ceramic",
+    "rarity": "1",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1305": {
+    "name": "Green Cell",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1306": {
+    "name": "Copper Oxide",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1307": {
+    "name": "Copper Oxide",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1308": {
+    "name": "Commando Company",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1309": {
+    "name": "Nouveau Rouge",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1310": {
+    "name": "Shredded",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1311": {
+    "name": "Glitched Paint",
+    "rarity": "3",
+    "wear_max": 0.67,
+    "wear_min": 0.0
+  },
+  "1312": {
+    "name": "Coral Bloom",
+    "rarity": "2",
+    "wear_max": 0.752941,
+    "wear_min": 0.0
+  },
+  "1313": {
+    "name": "Steel Work",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1314": {
+    "name": "O-Ranger",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1315": {
+    "name": "Red Tide",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1316": {
+    "name": "Blush Pour",
+    "rarity": "3",
+    "wear_max": 0.678431,
+    "wear_min": 0.0
+  },
+  "1317": {
+    "name": "Sedimentary",
+    "rarity": "2",
+    "wear_max": 0.68,
+    "wear_min": 0.0
+  },
+  "1318": {
+    "name": "Mulberry",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1319": {
+    "name": "Rose Hex",
+    "rarity": "2",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1320": {
+    "name": "Basket Halftone",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1321": {
+    "name": "Grey Ghost",
+    "rarity": "2",
+    "wear_max": 0.637288,
+    "wear_min": 0.0
+  },
+  "1322": {
+    "name": "Citric Acid",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1323": {
+    "name": "Bleeding Edge",
+    "rarity": "3",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1324": {
+    "name": "Arsenic Spill",
+    "rarity": "2",
+    "wear_max": 0.501961,
+    "wear_min": 0.0
+  },
+  "1325": {
+    "name": "Wood Block Camo",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1326": {
+    "name": "Short Ochre",
+    "rarity": "1",
+    "wear_max": 0.746575,
+    "wear_min": 0.0
+  },
+  "1327": {
+    "name": "Short Ochre",
+    "rarity": "1",
+    "wear_max": 0.746575,
+    "wear_min": 0.0
+  },
+  "1328": {
+    "name": "Red Jasper",
+    "rarity": "1",
+    "wear_max": 0.637288,
+    "wear_min": 0.0
+  },
+  "1329": {
+    "name": "Pink Pearl",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
   "133": {
     "name": "Wash me",
     "rarity": "2",
     "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1330": {
+    "name": "Multi-Terrain",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1331": {
+    "name": "Marsh Grass",
+    "rarity": "1",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1332": {
+    "name": "Desert Halftone",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1333": {
+    "name": "Canvas Cloud",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1334": {
+    "name": "Bronzer",
+    "rarity": "1",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1335": {
+    "name": "BorDeux",
+    "rarity": "1",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1336": {
+    "name": "Autumn Thicket",
+    "rarity": "1",
+    "wear_max": 0.636986,
+    "wear_min": 0.0
+  },
+  "1337": {
+    "name": "Rain Station",
+    "rarity": "2",
+    "wear_max": 0.35,
     "wear_min": 0.0
   },
   "134": {
