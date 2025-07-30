@@ -492,16 +492,16 @@
   },
   "1072": {
     "containers": [
-      "4205",
-      "4206"
+      "4206",
+      "4205"
     ],
     "name": "MLG (Holo) | MLG Columbus 2016",
     "rarity": "4"
   },
   "1073": {
     "containers": [
-      "4205",
-      "4206"
+      "4206",
+      "4205"
     ],
     "name": "MLG (Foil) | MLG Columbus 2016",
     "rarity": "5"
@@ -2594,16 +2594,16 @@
   },
   "1382": {
     "containers": [
-      "4255",
-      "4254"
+      "4254",
+      "4255"
     ],
     "name": "ESL (Holo) | Cologne 2016",
     "rarity": "4"
   },
   "1383": {
     "containers": [
-      "4255",
-      "4254"
+      "4254",
+      "4255"
     ],
     "name": "ESL (Foil) | Cologne 2016",
     "rarity": "5"
@@ -10395,16 +10395,16 @@
   },
   "2501": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2502": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Foil) | Boston 2018",
     "rarity": "5"
@@ -10422,16 +10422,16 @@
   },
   "2505": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2506": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Foil) | Boston 2018",
     "rarity": "5"
@@ -10449,8 +10449,8 @@
   },
   "2509": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Holo) | Boston 2018",
     "rarity": "4"
@@ -10461,8 +10461,8 @@
   },
   "2510": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Foil) | Boston 2018",
     "rarity": "5"
@@ -10480,16 +10480,16 @@
   },
   "2513": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2514": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Foil) | Boston 2018",
     "rarity": "5"
@@ -10507,16 +10507,16 @@
   },
   "2517": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2518": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Foil) | Boston 2018",
     "rarity": "5"
@@ -10538,16 +10538,16 @@
   },
   "2521": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2522": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Foil) | Boston 2018",
     "rarity": "5"
@@ -10565,16 +10565,16 @@
   },
   "2525": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2526": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Foil) | Boston 2018",
     "rarity": "5"
@@ -10621,22 +10621,22 @@
   },
   "2533": {
     "containers": [
-      "4474",
-      "4478",
       "4458",
-      "4456",
-      "4457"
+      "4478",
+      "4457",
+      "4474",
+      "4456"
     ],
     "name": "ELEAGUE (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2534": {
     "containers": [
-      "4474",
-      "4478",
       "4458",
-      "4456",
-      "4457"
+      "4478",
+      "4457",
+      "4474",
+      "4456"
     ],
     "name": "ELEAGUE (Foil) | Boston 2018",
     "rarity": "5"
@@ -12795,72 +12795,72 @@
   },
   "2801": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Calyx | Boston 2018",
     "rarity": "3"
   },
   "2802": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Calyx (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2803": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Calyx (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2804": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "MAJ3R | Boston 2018",
     "rarity": "3"
   },
   "2805": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "MAJ3R (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2806": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "MAJ3R (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2807": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ngiN | Boston 2018",
     "rarity": "3"
   },
   "2808": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ngiN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2809": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ngiN (Gold) | Boston 2018",
     "rarity": "6"
@@ -12874,80 +12874,80 @@
   },
   "2810": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "paz | Boston 2018",
     "rarity": "3"
   },
   "2811": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "paz (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2812": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "paz (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2813": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "XANTARES | Boston 2018",
     "rarity": "3"
   },
   "2814": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "XANTARES (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2815": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "XANTARES (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2816": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "EliGE | Boston 2018",
     "rarity": "3"
   },
   "2817": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "EliGE (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2818": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "EliGE (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2819": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jdm64 | Boston 2018",
     "rarity": "3"
@@ -12961,80 +12961,80 @@
   },
   "2820": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jdm64 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2821": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jdm64 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2822": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "nitr0 | Boston 2018",
     "rarity": "3"
   },
   "2823": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "nitr0 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2824": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "nitr0 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2825": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "stanislaw | Boston 2018",
     "rarity": "3"
   },
   "2826": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "stanislaw (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2827": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "stanislaw (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2828": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Twistzz | Boston 2018",
     "rarity": "3"
   },
   "2829": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Twistzz (Foil) | Boston 2018",
     "rarity": "4"
@@ -13048,80 +13048,80 @@
   },
   "2830": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Twistzz (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2831": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "buster | Boston 2018",
     "rarity": "3"
   },
   "2832": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "buster (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2833": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "buster (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2834": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "dimasick | Boston 2018",
     "rarity": "3"
   },
   "2835": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "dimasick (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2836": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "dimasick (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2837": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Jame | Boston 2018",
     "rarity": "3"
   },
   "2838": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Jame (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2839": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Jame (Gold) | Boston 2018",
     "rarity": "6"
@@ -13135,80 +13135,80 @@
   },
   "2840": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "KrizzeN | Boston 2018",
     "rarity": "3"
   },
   "2841": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "KrizzeN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2842": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "KrizzeN (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2843": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "qikert | Boston 2018",
     "rarity": "3"
   },
   "2844": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "qikert (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2845": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "qikert (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2846": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AZR | Boston 2018",
     "rarity": "3"
   },
   "2847": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AZR (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2848": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AZR (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2849": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jks | Boston 2018",
     "rarity": "3"
@@ -13222,80 +13222,80 @@
   },
   "2850": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jks (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2851": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jks (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2852": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "NAF | Boston 2018",
     "rarity": "3"
   },
   "2853": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "NAF (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2854": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "NAF (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2855": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Nifty | Boston 2018",
     "rarity": "3"
   },
   "2856": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Nifty (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2857": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Nifty (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2858": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "USTILO | Boston 2018",
     "rarity": "3"
   },
   "2859": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "USTILO (Foil) | Boston 2018",
     "rarity": "4"
@@ -13309,80 +13309,80 @@
   },
   "2860": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "USTILO (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2861": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Happy | Boston 2018",
     "rarity": "3"
   },
   "2862": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Happy (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2863": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Happy (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2864": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "RpK | Boston 2018",
     "rarity": "3"
   },
   "2865": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "RpK (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2866": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "RpK (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2867": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ScreaM | Boston 2018",
     "rarity": "3"
   },
   "2868": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ScreaM (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2869": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ScreaM (Gold) | Boston 2018",
     "rarity": "6"
@@ -13396,80 +13396,80 @@
   },
   "2870": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SIXER | Boston 2018",
     "rarity": "3"
   },
   "2871": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SIXER (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2872": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SIXER (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2873": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "xms | Boston 2018",
     "rarity": "3"
   },
   "2874": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "xms (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2875": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "xms (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2876": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AmaNEk | Boston 2018",
     "rarity": "3"
   },
   "2877": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AmaNEk (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2878": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "AmaNEk (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2879": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "devoduvek | Boston 2018",
     "rarity": "3"
@@ -13483,80 +13483,80 @@
   },
   "2880": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "devoduvek (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2881": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "devoduvek (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2882": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "seang@res | Boston 2018",
     "rarity": "3"
   },
   "2883": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "seang@res (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2884": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "seang@res (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2885": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ShahZaM | Boston 2018",
     "rarity": "3"
   },
   "2886": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ShahZaM (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2887": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "ShahZaM (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2888": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SicK | Boston 2018",
     "rarity": "3"
   },
   "2889": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SicK (Foil) | Boston 2018",
     "rarity": "4"
@@ -13567,80 +13567,80 @@
   },
   "2890": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "SicK (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2891": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "balblna | Boston 2018",
     "rarity": "3"
   },
   "2892": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "balblna (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2893": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "balblna (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2894": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Boombl4 | Boston 2018",
     "rarity": "3"
   },
   "2895": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Boombl4 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2896": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Boombl4 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2897": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jmqa | Boston 2018",
     "rarity": "3"
   },
   "2898": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jmqa (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2899": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "jmqa (Gold) | Boston 2018",
     "rarity": "6"
@@ -13654,48 +13654,48 @@
   },
   "2900": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Kvik | Boston 2018",
     "rarity": "3"
   },
   "2901": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Kvik (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2902": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "Kvik (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2903": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "waterfaLLZ | Boston 2018",
     "rarity": "3"
   },
   "2904": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "waterfaLLZ (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2905": {
     "containers": [
-      "4475",
-      "4461"
+      "4461",
+      "4475"
     ],
     "name": "waterfaLLZ (Gold) | Boston 2018",
     "rarity": "6"
@@ -14370,8 +14370,8 @@
   },
   "300": {
     "containers": [
-      "4087",
-      "4086"
+      "4086",
+      "4087"
     ],
     "name": "ESL One (Foil) | Katowice 2015",
     "rarity": "5"
@@ -14732,18 +14732,18 @@
   },
   "3052": {
     "containers": [
-      "4534",
       "4535",
-      "4533"
+      "4533",
+      "4534"
     ],
     "name": "FACEIT (Holo) | London 2018",
     "rarity": "4"
   },
   "3053": {
     "containers": [
-      "4534",
       "4535",
-      "4533"
+      "4533",
+      "4534"
     ],
     "name": "FACEIT (Foil) | London 2018",
     "rarity": "5"
@@ -18531,18 +18531,18 @@
   },
   "3557": {
     "containers": [
+      "4584",
       "4586",
-      "4585",
-      "4584"
+      "4585"
     ],
     "name": "IEM (Holo) | Katowice 2019",
     "rarity": "4"
   },
   "3558": {
     "containers": [
+      "4584",
       "4586",
-      "4585",
-      "4584"
+      "4585"
     ],
     "name": "IEM (Foil) | Katowice 2019",
     "rarity": "5"
@@ -22685,8 +22685,8 @@
   "4116": {
     "containers": [
       "4654",
-      "4655",
-      "4656"
+      "4656",
+      "4655"
     ],
     "name": "StarLadder (Holo) | Berlin 2019",
     "rarity": "4"
@@ -22694,8 +22694,8 @@
   "4117": {
     "containers": [
       "4654",
-      "4655",
-      "4656"
+      "4656",
+      "4655"
     ],
     "name": "StarLadder (Foil) | Berlin 2019",
     "rarity": "5"
@@ -30388,8 +30388,8 @@
   },
   "5127": {
     "containers": [
-      "4807",
       "4808",
+      "4807",
       "4806"
     ],
     "name": "PGL | Stockholm 2021",
@@ -30397,8 +30397,8 @@
   },
   "5128": {
     "containers": [
-      "4807",
       "4808",
+      "4807",
       "4806"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
@@ -51106,8 +51106,8 @@
   },
   "960": {
     "containers": [
-      "4157",
-      "4156"
+      "4156",
+      "4157"
     ],
     "name": "DreamHack (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
