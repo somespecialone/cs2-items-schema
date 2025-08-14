@@ -2518,6 +2518,12 @@
     "wear_max": 0.35,
     "wear_min": 0.0
   },
+  "1338": {
+    "name": "Solitude",
+    "rarity": "4",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
   "134": {
     "name": "Eye of Zapems",
     "rarity": "4",
