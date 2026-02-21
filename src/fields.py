@@ -42,7 +42,7 @@ class FieldsCollector:
             return data
         else:
             # normalize special key
-            if "valve" in data["prefab"]:
+            if " " in data["prefab"] and "valve" in data["prefab"]:
                 prefab_key = data["prefab"].split(" ")[1]
             elif " " in data["prefab"]:  # ex. 'berlin2019_tournament_pass_prefab berlin2019_tournament_steamtv_items'
                 prefab_key = data["prefab"].split(" ")[0]
