@@ -1,23 +1,28 @@
-[tool.poetry]
+[project]
 name = "cs2-items-schema"
 version = "1.0.0"
 description = "Schema of CS2 items"
-authors = ["Dmytro Tkachenko <itsme@somespecial.one>"]
+authors = [{ name = "somespecialone", email = "itsme@somespecial.one" }]
 readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "sqlalchemy (>=2.0.46,<3.0.0)",
+    "aiohttp (>=3.13.3,<4.0.0)",
+    "vdf (>=3.4,<4.0)"
+]
+
+[dependency-groups]
+dev = [
+    "ruff (>=0.15.2,<0.16.0)"
+]
+
+[tool.poetry]
+requires-poetry = ">=2.0"
 package-mode = false
 
-[tool.poetry.dependencies]
-python = "^3.10"
-sqlalchemy = "^2.0.23"
-aiohttp = "^3.9.1"
-vdf = "^3.4"
-
-[tool.poetry.group.dev.dependencies]
-black = "*"
-
-[tool.black]
+[tool.ruff]
 line-length = 120
 
 [build-system]
-requires = ["poetry-core"]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"

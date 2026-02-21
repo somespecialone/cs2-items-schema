@@ -16,7 +16,7 @@ jobs:
       local: ${{ steps.manifest.outputs.local }}
       remote: ${{ steps.manifest.outputs.remote }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Load remote & local manifest ids
         id: manifest
@@ -32,16 +32,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: snok/install-poetry@v1
         with:
           virtualenvs-create: true
           virtualenvs-in-project: true
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
-          python-version: "3.10"
+          python-version: 3.x
           cache: poetry
-      - run: poetry install
+      - run: poetry sync
 
       - name: Collect data and create schemas
         run: poetry run python collect.py
@@ -50,6 +50,6 @@ jobs:
         run: echo "${{ needs.manifest.outputs.remote }}" > manifest
 
       - name: Commit & push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "manifest ${{ needs.manifest.outputs.remote }}"
