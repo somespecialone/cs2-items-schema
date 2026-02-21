@@ -16,21 +16,221 @@
     "name": "The Bomber (Foil)",
     "rarity": "5"
   },
+  "10000": {
+    "name": "frozen (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10001": {
+    "name": "frozen (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10002": {
+    "name": "jcobbb | Budapest 2025",
+    "rarity": "3"
+  },
+  "10003": {
+    "name": "jcobbb (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10004": {
+    "name": "jcobbb (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10005": {
+    "name": "jcobbb (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10006": {
+    "name": "karrigan | Budapest 2025",
+    "rarity": "3"
+  },
+  "10007": {
+    "name": "karrigan (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10008": {
+    "name": "karrigan (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10009": {
+    "name": "karrigan (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1001": {
     "name": "The Fragger (Foil)",
     "rarity": "5"
+  },
+  "10010": {
+    "name": "rain | Budapest 2025",
+    "rarity": "3"
+  },
+  "10011": {
+    "name": "rain (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10012": {
+    "name": "rain (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10013": {
+    "name": "rain (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10014": {
+    "name": "alex666 | Budapest 2025",
+    "rarity": "3"
+  },
+  "10015": {
+    "name": "alex666 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10016": {
+    "name": "alex666 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10017": {
+    "name": "alex666 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10018": {
+    "name": "esenthial | Budapest 2025",
+    "rarity": "3"
+  },
+  "10019": {
+    "name": "esenthial (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "1002": {
     "name": "The Leader (Foil)",
     "rarity": "5"
   },
+  "10020": {
+    "name": "esenthial (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10021": {
+    "name": "esenthial (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10022": {
+    "name": "headtr1ck | Budapest 2025",
+    "rarity": "3"
+  },
+  "10023": {
+    "name": "headtr1ck (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10024": {
+    "name": "headtr1ck (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10025": {
+    "name": "headtr1ck (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10026": {
+    "name": "kensizor | Budapest 2025",
+    "rarity": "3"
+  },
+  "10027": {
+    "name": "kensizor (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10028": {
+    "name": "kensizor (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10029": {
+    "name": "kensizor (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1003": {
     "name": "The Nader (Foil)",
     "rarity": "5"
   },
+  "10030": {
+    "name": "npl | Budapest 2025",
+    "rarity": "3"
+  },
+  "10031": {
+    "name": "npl (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10032": {
+    "name": "npl (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10033": {
+    "name": "npl (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10034": {
+    "name": "Kursy | Budapest 2025",
+    "rarity": "3"
+  },
+  "10035": {
+    "name": "Kursy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10036": {
+    "name": "Kursy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10037": {
+    "name": "Kursy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10038": {
+    "name": "PR | Budapest 2025",
+    "rarity": "3"
+  },
+  "10039": {
+    "name": "PR (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1004": {
     "name": "Ninja (Foil)",
     "rarity": "5"
+  },
+  "10040": {
+    "name": "PR (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10041": {
+    "name": "PR (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10042": {
+    "name": "REZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "10043": {
+    "name": "REZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10044": {
+    "name": "REZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10045": {
+    "name": "REZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10046": {
+    "name": "Tauson | Budapest 2025",
+    "rarity": "3"
+  },
+  "10047": {
+    "name": "Tauson (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10048": {
+    "name": "Tauson (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10049": {
+    "name": "Tauson (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1005": {
     "containers": [
@@ -39,9 +239,89 @@
     "name": "The Pro (Foil)",
     "rarity": "5"
   },
+  "10050": {
+    "name": "ztr | Budapest 2025",
+    "rarity": "3"
+  },
+  "10051": {
+    "name": "ztr (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10052": {
+    "name": "ztr (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10053": {
+    "name": "ztr (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10054": {
+    "name": "blameF | Budapest 2025",
+    "rarity": "3"
+  },
+  "10055": {
+    "name": "blameF (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10056": {
+    "name": "blameF (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10057": {
+    "name": "blameF (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10058": {
+    "name": "Cypher | Budapest 2025",
+    "rarity": "3"
+  },
+  "10059": {
+    "name": "Cypher (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1006": {
     "name": "Support (Foil)",
     "rarity": "5"
+  },
+  "10060": {
+    "name": "Cypher (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10061": {
+    "name": "Cypher (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10062": {
+    "name": "fEAR | Budapest 2025",
+    "rarity": "3"
+  },
+  "10063": {
+    "name": "fEAR (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10064": {
+    "name": "fEAR (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10065": {
+    "name": "fEAR (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10066": {
+    "name": "jambo | Budapest 2025",
+    "rarity": "3"
+  },
+  "10067": {
+    "name": "jambo (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10068": {
+    "name": "jambo (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10069": {
+    "name": "jambo (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1007": {
     "containers": [
@@ -50,6 +330,46 @@
     "name": "Ninjas in Pyjamas | MLG Columbus 2016",
     "rarity": "3"
   },
+  "10070": {
+    "name": "KRIMZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "10071": {
+    "name": "KRIMZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10072": {
+    "name": "KRIMZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10073": {
+    "name": "KRIMZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10074": {
+    "name": "AW | Budapest 2025",
+    "rarity": "3"
+  },
+  "10075": {
+    "name": "AW (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10076": {
+    "name": "AW (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10077": {
+    "name": "AW (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10078": {
+    "name": "BELCHONOKK | Budapest 2025",
+    "rarity": "3"
+  },
+  "10079": {
+    "name": "BELCHONOKK (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1008": {
     "containers": [
       "4205"
@@ -57,12 +377,92 @@
     "name": "Ninjas in Pyjamas (Holo) | MLG Columbus 2016",
     "rarity": "4"
   },
+  "10080": {
+    "name": "BELCHONOKK (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10081": {
+    "name": "BELCHONOKK (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10082": {
+    "name": "Jame | Budapest 2025",
+    "rarity": "3"
+  },
+  "10083": {
+    "name": "Jame (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10084": {
+    "name": "Jame (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10085": {
+    "name": "Jame (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10086": {
+    "name": "nota | Budapest 2025",
+    "rarity": "3"
+  },
+  "10087": {
+    "name": "nota (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10088": {
+    "name": "nota (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10089": {
+    "name": "nota (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1009": {
     "containers": [
       "4205"
     ],
     "name": "Ninjas in Pyjamas (Foil) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10090": {
+    "name": "xiELO | Budapest 2025",
+    "rarity": "3"
+  },
+  "10091": {
+    "name": "xiELO (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10092": {
+    "name": "xiELO (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10093": {
+    "name": "xiELO (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10094": {
+    "name": "ewjerkz | Budapest 2025",
+    "rarity": "3"
+  },
+  "10095": {
+    "name": "ewjerkz (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10096": {
+    "name": "ewjerkz (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10097": {
+    "name": "ewjerkz (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10098": {
+    "name": "r1nkle | Budapest 2025",
+    "rarity": "3"
+  },
+  "10099": {
+    "name": "r1nkle (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "101": {
     "containers": [
@@ -75,12 +475,92 @@
     "name": "Ninjas in Pyjamas (Gold) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10100": {
+    "name": "r1nkle (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10101": {
+    "name": "r1nkle (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10102": {
+    "name": "sjuush | Budapest 2025",
+    "rarity": "3"
+  },
+  "10103": {
+    "name": "sjuush (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10104": {
+    "name": "sjuush (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10105": {
+    "name": "sjuush (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10106": {
+    "name": "Snappi | Budapest 2025",
+    "rarity": "3"
+  },
+  "10107": {
+    "name": "Snappi (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10108": {
+    "name": "Snappi (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10109": {
+    "name": "Snappi (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1011": {
     "containers": [
       "4189"
     ],
     "name": "Splyce | MLG Columbus 2016",
     "rarity": "3"
+  },
+  "10110": {
+    "name": "xKacpersky | Budapest 2025",
+    "rarity": "3"
+  },
+  "10111": {
+    "name": "xKacpersky (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10112": {
+    "name": "xKacpersky (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10113": {
+    "name": "xKacpersky (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10114": {
+    "name": "chelo | Budapest 2025",
+    "rarity": "3"
+  },
+  "10115": {
+    "name": "chelo (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10116": {
+    "name": "chelo (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10117": {
+    "name": "chelo (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10118": {
+    "name": "noway | Budapest 2025",
+    "rarity": "3"
+  },
+  "10119": {
+    "name": "noway (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "1012": {
     "containers": [
@@ -89,6 +569,46 @@
     "name": "Splyce (Holo) | MLG Columbus 2016",
     "rarity": "4"
   },
+  "10120": {
+    "name": "noway (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10121": {
+    "name": "noway (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10122": {
+    "name": "skullz | Budapest 2025",
+    "rarity": "3"
+  },
+  "10123": {
+    "name": "skullz (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10124": {
+    "name": "skullz (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10125": {
+    "name": "skullz (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10126": {
+    "name": "TRY | Budapest 2025",
+    "rarity": "3"
+  },
+  "10127": {
+    "name": "TRY (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10128": {
+    "name": "TRY (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10129": {
+    "name": "TRY (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1013": {
     "containers": [
       "4206"
@@ -96,9 +616,89 @@
     "name": "Splyce (Foil) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10130": {
+    "name": "VINI | Budapest 2025",
+    "rarity": "3"
+  },
+  "10131": {
+    "name": "VINI (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10132": {
+    "name": "VINI (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10133": {
+    "name": "VINI (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10134": {
+    "name": "INS | Budapest 2025",
+    "rarity": "3"
+  },
+  "10135": {
+    "name": "INS (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10136": {
+    "name": "INS (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10137": {
+    "name": "INS (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10138": {
+    "name": "jks | Budapest 2025",
+    "rarity": "3"
+  },
+  "10139": {
+    "name": "jks (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1014": {
     "name": "Splyce (Gold) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10140": {
+    "name": "jks (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10141": {
+    "name": "jks (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10142": {
+    "name": "nettik | Budapest 2025",
+    "rarity": "3"
+  },
+  "10143": {
+    "name": "nettik (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10144": {
+    "name": "nettik (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10145": {
+    "name": "nettik (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10146": {
+    "name": "regali | Budapest 2025",
+    "rarity": "3"
+  },
+  "10147": {
+    "name": "regali (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10148": {
+    "name": "regali (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10149": {
+    "name": "regali (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1015": {
     "containers": [
@@ -107,12 +707,92 @@
     "name": "Counter Logic Gaming | MLG Columbus 2016",
     "rarity": "3"
   },
+  "10150": {
+    "name": "vexite | Budapest 2025",
+    "rarity": "3"
+  },
+  "10151": {
+    "name": "vexite (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10152": {
+    "name": "vexite (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10153": {
+    "name": "vexite (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10154": {
+    "name": "C4LLM3SU3 | Budapest 2025",
+    "rarity": "3"
+  },
+  "10155": {
+    "name": "C4LLM3SU3 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10156": {
+    "name": "C4LLM3SU3 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10157": {
+    "name": "C4LLM3SU3 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10158": {
+    "name": "EmiliaQAQ | Budapest 2025",
+    "rarity": "3"
+  },
+  "10159": {
+    "name": "EmiliaQAQ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1016": {
     "containers": [
       "4206"
     ],
     "name": "Counter Logic Gaming (Holo) | MLG Columbus 2016",
     "rarity": "4"
+  },
+  "10160": {
+    "name": "EmiliaQAQ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10161": {
+    "name": "EmiliaQAQ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10162": {
+    "name": "Starry | Budapest 2025",
+    "rarity": "3"
+  },
+  "10163": {
+    "name": "Starry (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10164": {
+    "name": "Starry (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10165": {
+    "name": "Starry (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10166": {
+    "name": "westmelon | Budapest 2025",
+    "rarity": "3"
+  },
+  "10167": {
+    "name": "westmelon (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10168": {
+    "name": "westmelon (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10169": {
+    "name": "westmelon (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1017": {
     "containers": [
@@ -121,9 +801,89 @@
     "name": "Counter Logic Gaming (Foil) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10170": {
+    "name": "z4KR | Budapest 2025",
+    "rarity": "3"
+  },
+  "10171": {
+    "name": "z4KR (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10172": {
+    "name": "z4KR (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10173": {
+    "name": "z4KR (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10174": {
+    "name": "HexT | Budapest 2025",
+    "rarity": "3"
+  },
+  "10175": {
+    "name": "HexT (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10176": {
+    "name": "HexT (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10177": {
+    "name": "HexT (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10178": {
+    "name": "Lake | Budapest 2025",
+    "rarity": "3"
+  },
+  "10179": {
+    "name": "Lake (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1018": {
     "name": "Counter Logic Gaming (Gold) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10180": {
+    "name": "Lake (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10181": {
+    "name": "Lake (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10182": {
+    "name": "s1n | Budapest 2025",
+    "rarity": "3"
+  },
+  "10183": {
+    "name": "s1n (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10184": {
+    "name": "s1n (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10185": {
+    "name": "s1n (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10186": {
+    "name": "slaxz- | Budapest 2025",
+    "rarity": "3"
+  },
+  "10187": {
+    "name": "slaxz- (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10188": {
+    "name": "slaxz- (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10189": {
+    "name": "slaxz- (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1019": {
     "containers": [
@@ -131,6 +891,46 @@
     ],
     "name": "Gambit Gaming | MLG Columbus 2016",
     "rarity": "3"
+  },
+  "10190": {
+    "name": "Swisher | Budapest 2025",
+    "rarity": "3"
+  },
+  "10191": {
+    "name": "Swisher (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10192": {
+    "name": "Swisher (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10193": {
+    "name": "Swisher (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10194": {
+    "name": "arT | Budapest 2025",
+    "rarity": "3"
+  },
+  "10195": {
+    "name": "arT (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10196": {
+    "name": "arT (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10197": {
+    "name": "arT (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10198": {
+    "name": "decenty | Budapest 2025",
+    "rarity": "3"
+  },
+  "10199": {
+    "name": "decenty (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "102": {
     "name": "King on the Field",
@@ -143,6 +943,46 @@
     "name": "Gambit Gaming (Holo) | MLG Columbus 2016",
     "rarity": "4"
   },
+  "10200": {
+    "name": "decenty (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10201": {
+    "name": "decenty (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10202": {
+    "name": "kye | Budapest 2025",
+    "rarity": "3"
+  },
+  "10203": {
+    "name": "kye (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10204": {
+    "name": "kye (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10205": {
+    "name": "kye (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10206": {
+    "name": "Lucaozy | Budapest 2025",
+    "rarity": "3"
+  },
+  "10207": {
+    "name": "Lucaozy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10208": {
+    "name": "Lucaozy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10209": {
+    "name": "Lucaozy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "1021": {
     "containers": [
       "4206"
@@ -150,9 +990,89 @@
     "name": "Gambit Gaming (Foil) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10210": {
+    "name": "zevy | Budapest 2025",
+    "rarity": "3"
+  },
+  "10211": {
+    "name": "zevy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10212": {
+    "name": "zevy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10213": {
+    "name": "zevy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10214": {
+    "name": "chayJESUS | Budapest 2025",
+    "rarity": "3"
+  },
+  "10215": {
+    "name": "chayJESUS (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10216": {
+    "name": "chayJESUS (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10217": {
+    "name": "chayJESUS (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10218": {
+    "name": "drop | Budapest 2025",
+    "rarity": "3"
+  },
+  "10219": {
+    "name": "drop (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1022": {
     "name": "Gambit Gaming (Gold) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10220": {
+    "name": "drop (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10221": {
+    "name": "drop (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10222": {
+    "name": "History | Budapest 2025",
+    "rarity": "3"
+  },
+  "10223": {
+    "name": "History (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10224": {
+    "name": "History (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10225": {
+    "name": "History (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10226": {
+    "name": "kauez | Budapest 2025",
+    "rarity": "3"
+  },
+  "10227": {
+    "name": "kauez (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10228": {
+    "name": "kauez (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10229": {
+    "name": "kauez (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1023": {
     "containers": [
@@ -161,12 +1081,92 @@
     "name": "Flipsid3 Tactics | MLG Columbus 2016",
     "rarity": "3"
   },
+  "10230": {
+    "name": "venomzera | Budapest 2025",
+    "rarity": "3"
+  },
+  "10231": {
+    "name": "venomzera (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10232": {
+    "name": "venomzera (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10233": {
+    "name": "venomzera (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10234": {
+    "name": "Bart4k | Budapest 2025",
+    "rarity": "3"
+  },
+  "10235": {
+    "name": "Bart4k (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10236": {
+    "name": "Bart4k (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10237": {
+    "name": "Bart4k (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10238": {
+    "name": "cobra | Budapest 2025",
+    "rarity": "3"
+  },
+  "10239": {
+    "name": "cobra (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1024": {
     "containers": [
       "4206"
     ],
     "name": "Flipsid3 Tactics (Holo) | MLG Columbus 2016",
     "rarity": "4"
+  },
+  "10240": {
+    "name": "cobra (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10241": {
+    "name": "cobra (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10242": {
+    "name": "nin9 | Budapest 2025",
+    "rarity": "3"
+  },
+  "10243": {
+    "name": "nin9 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10244": {
+    "name": "nin9 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10245": {
+    "name": "nin9 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10246": {
+    "name": "sk0R | Budapest 2025",
+    "rarity": "3"
+  },
+  "10247": {
+    "name": "sk0R (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10248": {
+    "name": "sk0R (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10249": {
+    "name": "sk0R (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1025": {
     "containers": [
@@ -175,9 +1175,89 @@
     "name": "Flipsid3 Tactics (Foil) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10250": {
+    "name": "xerolte | Budapest 2025",
+    "rarity": "3"
+  },
+  "10251": {
+    "name": "xerolte (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10252": {
+    "name": "xerolte (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10253": {
+    "name": "xerolte (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10254": {
+    "name": "br0 | Budapest 2025",
+    "rarity": "3"
+  },
+  "10255": {
+    "name": "br0 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10256": {
+    "name": "br0 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10257": {
+    "name": "br0 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10258": {
+    "name": "jeorge | Budapest 2025",
+    "rarity": "3"
+  },
+  "10259": {
+    "name": "jeorge (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1026": {
     "name": "Flipsid3 Tactics (Gold) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10260": {
+    "name": "jeorge (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10261": {
+    "name": "jeorge (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10262": {
+    "name": "nitr0 | Budapest 2025",
+    "rarity": "3"
+  },
+  "10263": {
+    "name": "nitr0 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10264": {
+    "name": "nitr0 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10265": {
+    "name": "nitr0 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10266": {
+    "name": "Sonic | Budapest 2025",
+    "rarity": "3"
+  },
+  "10267": {
+    "name": "Sonic (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10268": {
+    "name": "Sonic (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10269": {
+    "name": "Sonic (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1027": {
     "containers": [
@@ -186,12 +1266,92 @@
     "name": "Team Liquid | MLG Columbus 2016",
     "rarity": "3"
   },
+  "10270": {
+    "name": "XotiC | Budapest 2025",
+    "rarity": "3"
+  },
+  "10271": {
+    "name": "XotiC (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10272": {
+    "name": "XotiC (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10273": {
+    "name": "XotiC (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10274": {
+    "name": "ChildKing | Budapest 2025",
+    "rarity": "3"
+  },
+  "10275": {
+    "name": "ChildKing (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10276": {
+    "name": "ChildKing (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10277": {
+    "name": "ChildKing (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10278": {
+    "name": "L1haNg | Budapest 2025",
+    "rarity": "3"
+  },
+  "10279": {
+    "name": "L1haNg (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
   "1028": {
     "containers": [
       "4206"
     ],
     "name": "Team Liquid (Holo) | MLG Columbus 2016",
     "rarity": "4"
+  },
+  "10280": {
+    "name": "L1haNg (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10281": {
+    "name": "L1haNg (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10282": {
+    "name": "Marek | Budapest 2025",
+    "rarity": "3"
+  },
+  "10283": {
+    "name": "Marek (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10284": {
+    "name": "Marek (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10285": {
+    "name": "Marek (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10286": {
+    "name": "Summer | Budapest 2025",
+    "rarity": "3"
+  },
+  "10287": {
+    "name": "Summer (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10288": {
+    "name": "Summer (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10289": {
+    "name": "Summer (Gold) | Budapest 2025",
+    "rarity": "6"
   },
   "1029": {
     "containers": [
@@ -200,13 +1360,93 @@
     "name": "Team Liquid (Foil) | MLG Columbus 2016",
     "rarity": "5"
   },
+  "10290": {
+    "name": "Tiger | Budapest 2025",
+    "rarity": "3"
+  },
+  "10291": {
+    "name": "Tiger (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10292": {
+    "name": "Tiger (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10293": {
+    "name": "Tiger (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10294": {
+    "name": "apEX (Champion) | Budapest 2025",
+    "rarity": "3"
+  },
+  "10295": {
+    "name": "apEX (Embroidered, Champion) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10296": {
+    "name": "apEX (Holo, Champion) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10297": {
+    "name": "apEX (Gold, Champion) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10298": {
+    "name": "FlameZ (Champion) | Budapest 2025",
+    "rarity": "3"
+  },
+  "10299": {
+    "name": "FlameZ (Embroidered, Champion) | Budapest 2025",
+    "rarity": "4"
+  },
   "103": {
     "name": "Howling Dawn",
-    "rarity": "3"
+    "rarity": "7"
   },
   "1030": {
     "name": "Team Liquid (Gold) | MLG Columbus 2016",
     "rarity": "5"
+  },
+  "10300": {
+    "name": "FlameZ (Holo, Champion) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10301": {
+    "name": "FlameZ (Gold, Champion) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10302": {
+    "name": "mezii (Champion) | Budapest 2025",
+    "rarity": "3"
+  },
+  "10303": {
+    "name": "mezii (Embroidered, Champion) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10304": {
+    "name": "mezii (Holo, Champion) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10305": {
+    "name": "mezii (Gold, Champion) | Budapest 2025",
+    "rarity": "6"
+  },
+  "10306": {
+    "name": "ropz (Champion) | Budapest 2025",
+    "rarity": "3"
+  },
+  "10307": {
+    "name": "ropz (Embroidered, Champion) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10308": {
+    "name": "ropz (Holo, Champion) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10309": {
+    "name": "ropz (Gold, Champion) | Budapest 2025",
+    "rarity": "6"
   },
   "1031": {
     "containers": [
@@ -214,6 +1454,22 @@
     ],
     "name": "mousesports | MLG Columbus 2016",
     "rarity": "3"
+  },
+  "10310": {
+    "name": "ZywOo (Champion) | Budapest 2025",
+    "rarity": "3"
+  },
+  "10311": {
+    "name": "ZywOo (Embroidered, Champion) | Budapest 2025",
+    "rarity": "4"
+  },
+  "10312": {
+    "name": "ZywOo (Holo, Champion) | Budapest 2025",
+    "rarity": "5"
+  },
+  "10313": {
+    "name": "ZywOo (Gold, Champion) | Budapest 2025",
+    "rarity": "6"
   },
   "1032": {
     "containers": [
@@ -2594,16 +3850,16 @@
   },
   "1382": {
     "containers": [
-      "4254",
-      "4255"
+      "4255",
+      "4254"
     ],
     "name": "ESL (Holo) | Cologne 2016",
     "rarity": "4"
   },
   "1383": {
     "containers": [
-      "4254",
-      "4255"
+      "4255",
+      "4254"
     ],
     "name": "ESL (Foil) | Cologne 2016",
     "rarity": "5"
@@ -5379,16 +6635,16 @@
   },
   "1803": {
     "containers": [
-      "4323",
-      "4324"
+      "4324",
+      "4323"
     ],
     "name": "ELEAGUE (Holo) | Atlanta 2017",
     "rarity": "4"
   },
   "1804": {
     "containers": [
-      "4323",
-      "4324"
+      "4324",
+      "4323"
     ],
     "name": "ELEAGUE (Foil) | Atlanta 2017",
     "rarity": "5"
@@ -7592,16 +8848,16 @@
   },
   "2128": {
     "containers": [
-      "4391",
-      "4392"
+      "4392",
+      "4391"
     ],
     "name": "PGL (Holo) | Krakow 2017",
     "rarity": "4"
   },
   "2129": {
     "containers": [
-      "4391",
-      "4392"
+      "4392",
+      "4391"
     ],
     "name": "PGL (Foil) | Krakow 2017",
     "rarity": "5"
@@ -9946,16 +11202,16 @@
   },
   "2437": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Gambit Esports (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2438": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Gambit Esports (Foil) | Boston 2018",
     "rarity": "5"
@@ -10002,16 +11258,16 @@
   },
   "2445": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Astralis (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2446": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Astralis (Foil) | Boston 2018",
     "rarity": "5"
@@ -10029,8 +11285,8 @@
   },
   "2449": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Virtus.Pro (Holo) | Boston 2018",
     "rarity": "4"
@@ -10041,8 +11297,8 @@
   },
   "2450": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Virtus.Pro (Foil) | Boston 2018",
     "rarity": "5"
@@ -10060,16 +11316,16 @@
   },
   "2453": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Fnatic (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2454": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "Fnatic (Foil) | Boston 2018",
     "rarity": "5"
@@ -10087,16 +11343,16 @@
   },
   "2457": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "SK Gaming (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2458": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "SK Gaming (Foil) | Boston 2018",
     "rarity": "5"
@@ -10118,16 +11374,16 @@
   },
   "2461": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "BIG (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2462": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "BIG (Foil) | Boston 2018",
     "rarity": "5"
@@ -10145,16 +11401,16 @@
   },
   "2465": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "North (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2466": {
     "containers": [
-      "4456",
-      "4478"
+      "4478",
+      "4456"
     ],
     "name": "North (Foil) | Boston 2018",
     "rarity": "5"
@@ -10395,16 +11651,16 @@
   },
   "2501": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2502": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Space Soldiers (Foil) | Boston 2018",
     "rarity": "5"
@@ -10422,16 +11678,16 @@
   },
   "2505": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2506": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team Liquid (Foil) | Boston 2018",
     "rarity": "5"
@@ -10449,8 +11705,8 @@
   },
   "2509": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Holo) | Boston 2018",
     "rarity": "4"
@@ -10461,8 +11717,8 @@
   },
   "2510": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Avangar (Foil) | Boston 2018",
     "rarity": "5"
@@ -10480,16 +11736,16 @@
   },
   "2513": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2514": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Renegades (Foil) | Boston 2018",
     "rarity": "5"
@@ -10507,16 +11763,16 @@
   },
   "2517": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2518": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Team EnVyUs (Foil) | Boston 2018",
     "rarity": "5"
@@ -10538,16 +11794,16 @@
   },
   "2521": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2522": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Misfits Gaming (Foil) | Boston 2018",
     "rarity": "5"
@@ -10565,16 +11821,16 @@
   },
   "2525": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2526": {
     "containers": [
-      "4458",
-      "4474"
+      "4474",
+      "4458"
     ],
     "name": "Quantum Bellator Fire (Foil) | Boston 2018",
     "rarity": "5"
@@ -10622,10 +11878,10 @@
   "2533": {
     "containers": [
       "4474",
-      "4456",
+      "4478",
       "4458",
       "4457",
-      "4478"
+      "4456"
     ],
     "name": "ELEAGUE (Holo) | Boston 2018",
     "rarity": "4"
@@ -10633,10 +11889,10 @@
   "2534": {
     "containers": [
       "4474",
-      "4456",
+      "4478",
       "4458",
       "4457",
-      "4478"
+      "4456"
     ],
     "name": "ELEAGUE (Foil) | Boston 2018",
     "rarity": "5"
@@ -10837,72 +12093,72 @@
   },
   "2561": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "AdreN | Boston 2018",
     "rarity": "3"
   },
   "2562": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "AdreN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2563": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "AdreN (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2564": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Dosia | Boston 2018",
     "rarity": "3"
   },
   "2565": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Dosia (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2566": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Dosia (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2567": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fitch | Boston 2018",
     "rarity": "3"
   },
   "2568": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fitch (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2569": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fitch (Gold) | Boston 2018",
     "rarity": "6"
@@ -10913,48 +12169,48 @@
   },
   "2570": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Hobbit | Boston 2018",
     "rarity": "3"
   },
   "2571": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Hobbit (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2572": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Hobbit (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2573": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "mou | Boston 2018",
     "rarity": "3"
   },
   "2574": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "mou (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2575": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "mou (Gold) | Boston 2018",
     "rarity": "6"
@@ -11080,72 +12336,72 @@
   },
   "2591": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "device | Boston 2018",
     "rarity": "3"
   },
   "2592": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "device (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2593": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "device (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2594": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "dupreeh | Boston 2018",
     "rarity": "3"
   },
   "2595": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "dupreeh (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2596": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "dupreeh (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2597": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gla1ve | Boston 2018",
     "rarity": "3"
   },
   "2598": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gla1ve (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2599": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gla1ve (Gold) | Boston 2018",
     "rarity": "6"
@@ -11166,80 +12422,80 @@
   },
   "2600": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Kjaerbye | Boston 2018",
     "rarity": "3"
   },
   "2601": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Kjaerbye (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2602": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Kjaerbye (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2603": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Xyp9x | Boston 2018",
     "rarity": "3"
   },
   "2604": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Xyp9x (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2605": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Xyp9x (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2606": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "byali | Boston 2018",
     "rarity": "3"
   },
   "2607": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "byali (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2608": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "byali (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2609": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "NEO | Boston 2018",
     "rarity": "3"
@@ -11253,80 +12509,80 @@
   },
   "2610": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "NEO (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2611": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "NEO (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2612": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "pashaBiceps | Boston 2018",
     "rarity": "3"
   },
   "2613": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "pashaBiceps (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2614": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "pashaBiceps (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2615": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Snax | Boston 2018",
     "rarity": "3"
   },
   "2616": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Snax (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2617": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Snax (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2618": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TaZ | Boston 2018",
     "rarity": "3"
   },
   "2619": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TaZ (Foil) | Boston 2018",
     "rarity": "4"
@@ -11340,80 +12596,80 @@
   },
   "2620": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TaZ (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2621": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "flusha | Boston 2018",
     "rarity": "3"
   },
   "2622": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "flusha (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2623": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "flusha (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2624": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Golden | Boston 2018",
     "rarity": "3"
   },
   "2625": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Golden (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2626": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Golden (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2627": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "JW | Boston 2018",
     "rarity": "3"
   },
   "2628": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "JW (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2629": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "JW (Gold) | Boston 2018",
     "rarity": "6"
@@ -11427,80 +12683,80 @@
   },
   "2630": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "KRIMZ | Boston 2018",
     "rarity": "3"
   },
   "2631": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "KRIMZ (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2632": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "KRIMZ (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2633": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Lekr0 | Boston 2018",
     "rarity": "3"
   },
   "2634": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Lekr0 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2635": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "Lekr0 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2636": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "coldzera | Boston 2018",
     "rarity": "3"
   },
   "2637": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "coldzera (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2638": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "coldzera (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2639": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "FalleN | Boston 2018",
     "rarity": "3"
@@ -11514,80 +12770,80 @@
   },
   "2640": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "FalleN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2641": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "FalleN (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2642": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "felps | Boston 2018",
     "rarity": "3"
   },
   "2643": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "felps (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2644": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "felps (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2645": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fer | Boston 2018",
     "rarity": "3"
   },
   "2646": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fer (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2647": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "fer (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2648": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TACO | Boston 2018",
     "rarity": "3"
   },
   "2649": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TACO (Foil) | Boston 2018",
     "rarity": "4"
@@ -11601,80 +12857,80 @@
   },
   "2650": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "TACO (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2651": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gob b | Boston 2018",
     "rarity": "3"
   },
   "2652": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gob b (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2653": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "gob b (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2654": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "keev | Boston 2018",
     "rarity": "3"
   },
   "2655": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "keev (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2656": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "keev (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2657": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "LEGIJA | Boston 2018",
     "rarity": "3"
   },
   "2658": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "LEGIJA (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2659": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "LEGIJA (Gold) | Boston 2018",
     "rarity": "6"
@@ -11688,80 +12944,80 @@
   },
   "2660": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "nex | Boston 2018",
     "rarity": "3"
   },
   "2661": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "nex (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2662": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "nex (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2663": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "tabseN | Boston 2018",
     "rarity": "3"
   },
   "2664": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "tabseN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2665": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "tabseN (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2666": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "aizy | Boston 2018",
     "rarity": "3"
   },
   "2667": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "aizy (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2668": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "aizy (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2669": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "cajunb | Boston 2018",
     "rarity": "3"
@@ -11775,80 +13031,80 @@
   },
   "2670": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "cajunb (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2671": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "cajunb (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2672": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "k0nfig | Boston 2018",
     "rarity": "3"
   },
   "2673": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "k0nfig (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2674": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "k0nfig (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2675": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "MSL | Boston 2018",
     "rarity": "3"
   },
   "2676": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "MSL (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2677": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "MSL (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2678": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "v4lde | Boston 2018",
     "rarity": "3"
   },
   "2679": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "v4lde (Foil) | Boston 2018",
     "rarity": "4"
@@ -11862,8 +13118,8 @@
   },
   "2680": {
     "containers": [
-      "4479",
-      "4459"
+      "4459",
+      "4479"
     ],
     "name": "v4lde (Gold) | Boston 2018",
     "rarity": "6"
@@ -12795,72 +14051,72 @@
   },
   "2801": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Calyx | Boston 2018",
     "rarity": "3"
   },
   "2802": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Calyx (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2803": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Calyx (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2804": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "MAJ3R | Boston 2018",
     "rarity": "3"
   },
   "2805": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "MAJ3R (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2806": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "MAJ3R (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2807": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ngiN | Boston 2018",
     "rarity": "3"
   },
   "2808": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ngiN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2809": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ngiN (Gold) | Boston 2018",
     "rarity": "6"
@@ -12874,80 +14130,80 @@
   },
   "2810": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "paz | Boston 2018",
     "rarity": "3"
   },
   "2811": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "paz (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2812": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "paz (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2813": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "XANTARES | Boston 2018",
     "rarity": "3"
   },
   "2814": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "XANTARES (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2815": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "XANTARES (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2816": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "EliGE | Boston 2018",
     "rarity": "3"
   },
   "2817": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "EliGE (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2818": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "EliGE (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2819": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jdm64 | Boston 2018",
     "rarity": "3"
@@ -12961,80 +14217,80 @@
   },
   "2820": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jdm64 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2821": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jdm64 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2822": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "nitr0 | Boston 2018",
     "rarity": "3"
   },
   "2823": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "nitr0 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2824": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "nitr0 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2825": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "stanislaw | Boston 2018",
     "rarity": "3"
   },
   "2826": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "stanislaw (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2827": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "stanislaw (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2828": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Twistzz | Boston 2018",
     "rarity": "3"
   },
   "2829": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Twistzz (Foil) | Boston 2018",
     "rarity": "4"
@@ -13048,80 +14304,80 @@
   },
   "2830": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Twistzz (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2831": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "buster | Boston 2018",
     "rarity": "3"
   },
   "2832": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "buster (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2833": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "buster (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2834": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "dimasick | Boston 2018",
     "rarity": "3"
   },
   "2835": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "dimasick (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2836": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "dimasick (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2837": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Jame | Boston 2018",
     "rarity": "3"
   },
   "2838": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Jame (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2839": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Jame (Gold) | Boston 2018",
     "rarity": "6"
@@ -13135,80 +14391,80 @@
   },
   "2840": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "KrizzeN | Boston 2018",
     "rarity": "3"
   },
   "2841": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "KrizzeN (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2842": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "KrizzeN (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2843": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "qikert | Boston 2018",
     "rarity": "3"
   },
   "2844": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "qikert (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2845": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "qikert (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2846": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AZR | Boston 2018",
     "rarity": "3"
   },
   "2847": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AZR (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2848": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AZR (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2849": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jks | Boston 2018",
     "rarity": "3"
@@ -13222,80 +14478,80 @@
   },
   "2850": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jks (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2851": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jks (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2852": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "NAF | Boston 2018",
     "rarity": "3"
   },
   "2853": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "NAF (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2854": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "NAF (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2855": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Nifty | Boston 2018",
     "rarity": "3"
   },
   "2856": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Nifty (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2857": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Nifty (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2858": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "USTILO | Boston 2018",
     "rarity": "3"
   },
   "2859": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "USTILO (Foil) | Boston 2018",
     "rarity": "4"
@@ -13309,80 +14565,80 @@
   },
   "2860": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "USTILO (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2861": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Happy | Boston 2018",
     "rarity": "3"
   },
   "2862": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Happy (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2863": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Happy (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2864": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "RpK | Boston 2018",
     "rarity": "3"
   },
   "2865": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "RpK (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2866": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "RpK (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2867": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ScreaM | Boston 2018",
     "rarity": "3"
   },
   "2868": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ScreaM (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2869": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ScreaM (Gold) | Boston 2018",
     "rarity": "6"
@@ -13396,80 +14652,80 @@
   },
   "2870": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SIXER | Boston 2018",
     "rarity": "3"
   },
   "2871": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SIXER (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2872": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SIXER (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2873": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "xms | Boston 2018",
     "rarity": "3"
   },
   "2874": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "xms (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2875": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "xms (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2876": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AmaNEk | Boston 2018",
     "rarity": "3"
   },
   "2877": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AmaNEk (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2878": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "AmaNEk (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2879": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "devoduvek | Boston 2018",
     "rarity": "3"
@@ -13483,80 +14739,80 @@
   },
   "2880": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "devoduvek (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2881": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "devoduvek (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2882": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "seang@res | Boston 2018",
     "rarity": "3"
   },
   "2883": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "seang@res (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2884": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "seang@res (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2885": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ShahZaM | Boston 2018",
     "rarity": "3"
   },
   "2886": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ShahZaM (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2887": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "ShahZaM (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2888": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SicK | Boston 2018",
     "rarity": "3"
   },
   "2889": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SicK (Foil) | Boston 2018",
     "rarity": "4"
@@ -13567,80 +14823,80 @@
   },
   "2890": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "SicK (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2891": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "balblna | Boston 2018",
     "rarity": "3"
   },
   "2892": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "balblna (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2893": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "balblna (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2894": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Boombl4 | Boston 2018",
     "rarity": "3"
   },
   "2895": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Boombl4 (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2896": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Boombl4 (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2897": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jmqa | Boston 2018",
     "rarity": "3"
   },
   "2898": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jmqa (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2899": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "jmqa (Gold) | Boston 2018",
     "rarity": "6"
@@ -13654,48 +14910,48 @@
   },
   "2900": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Kvik | Boston 2018",
     "rarity": "3"
   },
   "2901": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Kvik (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2902": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "Kvik (Gold) | Boston 2018",
     "rarity": "6"
   },
   "2903": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "waterfaLLZ | Boston 2018",
     "rarity": "3"
   },
   "2904": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "waterfaLLZ (Foil) | Boston 2018",
     "rarity": "4"
   },
   "2905": {
     "containers": [
-      "4461",
-      "4475"
+      "4475",
+      "4461"
     ],
     "name": "waterfaLLZ (Gold) | Boston 2018",
     "rarity": "6"
@@ -14370,8 +15626,8 @@
   },
   "300": {
     "containers": [
-      "4087",
-      "4086"
+      "4086",
+      "4087"
     ],
     "name": "ESL One (Foil) | Katowice 2015",
     "rarity": "5"
@@ -14732,8 +15988,8 @@
   },
   "3052": {
     "containers": [
-      "4533",
       "4534",
+      "4533",
       "4535"
     ],
     "name": "FACEIT (Holo) | London 2018",
@@ -14741,8 +15997,8 @@
   },
   "3053": {
     "containers": [
-      "4533",
       "4534",
+      "4533",
       "4535"
     ],
     "name": "FACEIT (Foil) | London 2018",
@@ -18531,8 +19787,8 @@
   },
   "3557": {
     "containers": [
-      "4586",
       "4585",
+      "4586",
       "4584"
     ],
     "name": "IEM (Holo) | Katowice 2019",
@@ -18540,8 +19796,8 @@
   },
   "3558": {
     "containers": [
-      "4586",
       "4585",
+      "4586",
       "4584"
     ],
     "name": "IEM (Foil) | Katowice 2019",
@@ -22684,18 +23940,18 @@
   },
   "4116": {
     "containers": [
+      "4655",
       "4654",
-      "4656",
-      "4655"
+      "4656"
     ],
     "name": "StarLadder (Holo) | Berlin 2019",
     "rarity": "4"
   },
   "4117": {
     "containers": [
+      "4655",
       "4654",
-      "4656",
-      "4655"
+      "4656"
     ],
     "name": "StarLadder (Foil) | Berlin 2019",
     "rarity": "5"
@@ -25581,48 +26837,48 @@
   },
   "4504": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Counter-Tech",
     "rarity": "3"
   },
   "4505": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Gold Web",
     "rarity": "3"
   },
   "4506": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Mastermind",
     "rarity": "3"
   },
   "4507": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Shattered Web",
     "rarity": "3"
   },
   "4508": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Terrorist-Tech",
     "rarity": "3"
   },
   "4509": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Web Stuck",
     "rarity": "3"
@@ -25633,24 +26889,24 @@
   },
   "4510": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Mastermind (Holo)",
     "rarity": "4"
   },
   "4511": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Web Stuck (Holo)",
     "rarity": "4"
   },
   "4512": {
     "containers": [
-      "4600",
-      "4667"
+      "4667",
+      "4600"
     ],
     "name": "Gold Web (Foil)",
     "rarity": "5"
@@ -26666,8 +27922,8 @@
   },
   "4649": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AK-47",
     "rarity": "3"
@@ -26681,80 +27937,80 @@
   },
   "4650": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AK-47 (Gold)",
     "rarity": "4"
   },
   "4651": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AUG",
     "rarity": "3"
   },
   "4652": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AUG (Gold)",
     "rarity": "4"
   },
   "4653": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AWP",
     "rarity": "3"
   },
   "4654": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello AWP (Gold)",
     "rarity": "4"
   },
   "4655": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello PP-Bizon",
     "rarity": "3"
   },
   "4656": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello PP-Bizon (Gold)",
     "rarity": "4"
   },
   "4657": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello CZ75-Auto",
     "rarity": "3"
   },
   "4658": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello CZ75-Auto (Gold)",
     "rarity": "4"
   },
   "4659": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello FAMAS",
     "rarity": "3"
@@ -26765,80 +28021,80 @@
   },
   "4660": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello FAMAS (Gold)",
     "rarity": "4"
   },
   "4661": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello Galil AR",
     "rarity": "3"
   },
   "4662": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello Galil AR (Gold)",
     "rarity": "4"
   },
   "4663": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello M4A1-S",
     "rarity": "3"
   },
   "4664": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello M4A1-S (Gold)",
     "rarity": "4"
   },
   "4665": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello M4A4",
     "rarity": "3"
   },
   "4666": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello M4A4 (Gold)",
     "rarity": "4"
   },
   "4667": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MAC-10",
     "rarity": "3"
   },
   "4668": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MAC-10 (Gold)",
     "rarity": "4"
   },
   "4669": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MP7",
     "rarity": "3"
@@ -26852,80 +28108,80 @@
   },
   "4670": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MP7 (Gold)",
     "rarity": "4"
   },
   "4671": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MP9",
     "rarity": "3"
   },
   "4672": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello MP9 (Gold)",
     "rarity": "4"
   },
   "4673": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello P90",
     "rarity": "3"
   },
   "4674": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello P90 (Gold)",
     "rarity": "4"
   },
   "4675": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello SG 553",
     "rarity": "3"
   },
   "4676": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello SG 553 (Gold)",
     "rarity": "4"
   },
   "4677": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello UMP-45",
     "rarity": "3"
   },
   "4678": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello UMP-45 (Gold)",
     "rarity": "4"
   },
   "4679": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello XM1014",
     "rarity": "3"
@@ -26939,8 +28195,8 @@
   },
   "4680": {
     "containers": [
-      "4719",
-      "4723"
+      "4723",
+      "4719"
     ],
     "name": "Hello XM1014 (Gold)",
     "rarity": "4"
@@ -28002,24 +29258,24 @@
   },
   "4817": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Orange Gnar",
     "rarity": "3"
   },
   "4818": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blue Gnar",
     "rarity": "3"
   },
   "4819": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Green Gnar",
     "rarity": "3"
@@ -28033,80 +29289,80 @@
   },
   "4820": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Purple Gnar",
     "rarity": "3"
   },
   "4821": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Yellow Jaggyfish",
     "rarity": "3"
   },
   "4822": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Pink Jaggyfish",
     "rarity": "3"
   },
   "4823": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Purple Jaggyfish",
     "rarity": "3"
   },
   "4824": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Black Jaggyfish",
     "rarity": "3"
   },
   "4825": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blue Lethal",
     "rarity": "3"
   },
   "4826": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Green Lethal",
     "rarity": "3"
   },
   "4827": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Fade Lethal",
     "rarity": "3"
   },
   "4828": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Yellow Lethal",
     "rarity": "3"
   },
   "4829": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Green Shark Shooter",
     "rarity": "3"
@@ -28120,80 +29376,80 @@
   },
   "4830": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Black Shark Shooter",
     "rarity": "3"
   },
   "4831": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blue Shark Shooter",
     "rarity": "3"
   },
   "4832": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Red Shark Shooter",
     "rarity": "3"
   },
   "4833": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Green Cyclawps",
     "rarity": "3"
   },
   "4834": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Red Cyclawps",
     "rarity": "3"
   },
   "4835": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Purple Cyclawps",
     "rarity": "3"
   },
   "4836": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Yellow Cyclawps",
     "rarity": "3"
   },
   "4837": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Purple Bombster",
     "rarity": "3"
   },
   "4838": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "White Bombster",
     "rarity": "3"
   },
   "4839": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Green Bombster",
     "rarity": "3"
@@ -28204,80 +29460,80 @@
   },
   "4840": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Yellow Bombster",
     "rarity": "3"
   },
   "4841": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Tentaskull",
     "rarity": "3"
   },
   "4842": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blood Moon Tentaskull",
     "rarity": "3"
   },
   "4843": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Sunset Ocean Tentaskull",
     "rarity": "3"
   },
   "4844": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Toxic Tentaskull",
     "rarity": "3"
   },
   "4845": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Stabbyfish",
     "rarity": "3"
   },
   "4846": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Stabbyfish",
     "rarity": "3"
   },
   "4847": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "After Hours Stabbyfish",
     "rarity": "3"
   },
   "4848": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Ocean Sunset Stabbyfish",
     "rarity": "3"
   },
   "4849": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Wave Rider",
     "rarity": "3"
@@ -28291,80 +29547,80 @@
   },
   "4850": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blood Moon Wave Rider",
     "rarity": "3"
   },
   "4851": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Toxic Wave Rider",
     "rarity": "3"
   },
   "4852": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Fools Gold Wave Rider",
     "rarity": "3"
   },
   "4853": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Candy Buttery (Holo)",
     "rarity": "4"
   },
   "4854": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Flame Buttery (Holo)",
     "rarity": "4"
   },
   "4855": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Buttery (Holo)",
     "rarity": "4"
   },
   "4856": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Buttery (Holo)",
     "rarity": "4"
   },
   "4857": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Opal Flick (Holo)",
     "rarity": "4"
   },
   "4858": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Ocean Sunset Flick (Holo)",
     "rarity": "4"
   },
   "4859": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Mercury Flick (Holo)",
     "rarity": "4"
@@ -28378,80 +29634,80 @@
   },
   "4860": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Flick (Holo)",
     "rarity": "4"
   },
   "4861": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Flow (Holo)",
     "rarity": "4"
   },
   "4862": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Toxic Flow (Holo)",
     "rarity": "4"
   },
   "4863": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Cotton Candy Flow (Holo)",
     "rarity": "4"
   },
   "4864": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Flow (Holo)",
     "rarity": "4"
   },
   "4865": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Skill Surf (Holo)",
     "rarity": "4"
   },
   "4866": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Ocean Sunset Skill Surf (Holo)",
     "rarity": "4"
   },
   "4867": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Coral Skill Surf (Holo)",
     "rarity": "4"
   },
   "4868": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Bubble Gum Skill Surf (Holo)",
     "rarity": "4"
   },
   "4869": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Abalone Strafe (Holo)",
     "rarity": "4"
@@ -28462,80 +29718,80 @@
   },
   "4870": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Strafe (Holo)",
     "rarity": "4"
   },
   "4871": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Mood Ring Strafe (Holo)",
     "rarity": "4"
   },
   "4872": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Neon Opal Strafe (Holo)",
     "rarity": "4"
   },
   "4873": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Flame Tier6 (Holo)",
     "rarity": "4"
   },
   "4874": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Watermelon Tier6 (Holo)",
     "rarity": "4"
   },
   "4875": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Miami Tier6 (Holo)",
     "rarity": "4"
   },
   "4876": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Forge Tier6 (Holo)",
     "rarity": "4"
   },
   "4877": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Sticker Bomb Surf Ava (Foil)",
     "rarity": "5"
   },
   "4878": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Dragon Lore Surf Ava (Foil)",
     "rarity": "5"
   },
   "4879": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Akihabara Accept Surf Ava (Foil)",
     "rarity": "5"
@@ -28549,16 +29805,16 @@
   },
   "4880": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Dark Water Surf Ava (Foil)",
     "rarity": "5"
   },
   "4881": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Ultraviolet Poison Frog (Foil)",
     "rarity": "5"
@@ -28863,24 +30119,24 @@
   },
   "4920": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Lore Poison Frog (Foil)",
     "rarity": "5"
   },
   "4921": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Crimson Web Poison Frog (Foil)",
     "rarity": "5"
   },
   "4922": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Doppler Poison Frog (Foil)",
     "rarity": "5"
@@ -29094,32 +30350,32 @@
   },
   "4950": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Sticker Bomb Surf K (Foil)",
     "rarity": "5"
   },
   "4951": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Hypnotic Surf K (Foil)",
     "rarity": "5"
   },
   "4952": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Fire Serpent Surf K (Foil)",
     "rarity": "5"
   },
   "4953": {
     "containers": [
-      "4791",
-      "4779"
+      "4779",
+      "4791"
     ],
     "name": "Blaze Surf K (Foil)",
     "rarity": "5"
@@ -29866,36 +31122,36 @@
   },
   "5050": {
     "containers": [
-      "4803",
+      "4805",
       "4804",
-      "4805"
+      "4803"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5051": {
     "containers": [
-      "4803",
+      "4805",
       "4804",
-      "4805"
+      "4803"
     ],
     "name": "PGL (Holo) | Stockholm 2021",
     "rarity": "4"
   },
   "5052": {
     "containers": [
-      "4803",
+      "4805",
       "4804",
-      "4805"
+      "4803"
     ],
     "name": "PGL (Foil) | Stockholm 2021",
     "rarity": "5"
   },
   "5053": {
     "containers": [
-      "4803",
+      "4805",
       "4804",
-      "4805"
+      "4803"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "6"
@@ -30388,8 +31644,8 @@
   },
   "5127": {
     "containers": [
-      "4807",
       "4808",
+      "4807",
       "4806"
     ],
     "name": "PGL | Stockholm 2021",
@@ -30397,8 +31653,8 @@
   },
   "5128": {
     "containers": [
-      "4807",
       "4808",
+      "4807",
       "4806"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
@@ -38371,8 +39627,8 @@
   },
   "669": {
     "containers": [
-      "4110",
-      "4109"
+      "4109",
+      "4110"
     ],
     "name": "ESL (Foil) | Cologne 2015",
     "rarity": "5"
@@ -51031,8 +52287,52 @@
     "name": "Team SoloMid (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "9489": {
+    "name": "FURIA | Budapest 2025",
+    "rarity": "3"
+  },
   "949": {
     "name": "Team SoloMid (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "9490": {
+    "name": "FURIA (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9491": {
+    "name": "FURIA (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9492": {
+    "name": "FURIA (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9493": {
+    "name": "Vitality | Budapest 2025",
+    "rarity": "3"
+  },
+  "9494": {
+    "name": "Vitality (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9495": {
+    "name": "Vitality (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9496": {
+    "name": "Vitality (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9497": {
+    "name": "Falcons | Budapest 2025",
+    "rarity": "3"
+  },
+  "9498": {
+    "name": "Falcons (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9499": {
+    "name": "Falcons (Holo) | Budapest 2025",
     "rarity": "5"
   },
   "95": {
@@ -51046,6 +52346,46 @@
     "name": "Team EnVyUs | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "9500": {
+    "name": "Falcons (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9501": {
+    "name": "The Mongolz | Budapest 2025",
+    "rarity": "3"
+  },
+  "9502": {
+    "name": "The Mongolz (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9503": {
+    "name": "The Mongolz (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9504": {
+    "name": "The Mongolz (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9505": {
+    "name": "MOUZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "9506": {
+    "name": "MOUZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9507": {
+    "name": "MOUZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9508": {
+    "name": "MOUZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9509": {
+    "name": "Team Spirit | Budapest 2025",
+    "rarity": "3"
+  },
   "951": {
     "containers": [
       "4156"
@@ -51053,9 +52393,89 @@
     "name": "Team EnVyUs (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "9510": {
+    "name": "Team Spirit (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9511": {
+    "name": "Team Spirit (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9512": {
+    "name": "Team Spirit (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9513": {
+    "name": "G2 esports | Budapest 2025",
+    "rarity": "3"
+  },
+  "9514": {
+    "name": "G2 esports (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9515": {
+    "name": "G2 esports (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9516": {
+    "name": "G2 esports (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9517": {
+    "name": "paiN Gaming | Budapest 2025",
+    "rarity": "3"
+  },
+  "9518": {
+    "name": "paiN Gaming (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9519": {
+    "name": "paiN Gaming (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
   "952": {
     "name": "Team EnVyUs (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "9520": {
+    "name": "paiN Gaming (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9521": {
+    "name": "Aurora | Budapest 2025",
+    "rarity": "3"
+  },
+  "9522": {
+    "name": "Aurora (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9523": {
+    "name": "Aurora (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9524": {
+    "name": "Aurora (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9525": {
+    "name": "Natus Vincere | Budapest 2025",
+    "rarity": "3"
+  },
+  "9526": {
+    "name": "Natus Vincere (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9527": {
+    "name": "Natus Vincere (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9528": {
+    "name": "Natus Vincere (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9529": {
+    "name": "Team Liquid | Budapest 2025",
+    "rarity": "3"
   },
   "953": {
     "containers": [
@@ -51064,6 +52484,46 @@
     "name": "Fnatic | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "9530": {
+    "name": "Team Liquid (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9531": {
+    "name": "Team Liquid (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9532": {
+    "name": "Team Liquid (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9533": {
+    "name": "3DMAX | Budapest 2025",
+    "rarity": "3"
+  },
+  "9534": {
+    "name": "3DMAX (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9535": {
+    "name": "3DMAX (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9536": {
+    "name": "3DMAX (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9537": {
+    "name": "Astralis | Budapest 2025",
+    "rarity": "3"
+  },
+  "9538": {
+    "name": "Astralis (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9539": {
+    "name": "Astralis (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
   "954": {
     "containers": [
       "4156"
@@ -51071,8 +52531,88 @@
     "name": "Fnatic (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "9540": {
+    "name": "Astralis (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9541": {
+    "name": "TYLOO | Budapest 2025",
+    "rarity": "3"
+  },
+  "9542": {
+    "name": "TYLOO (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9543": {
+    "name": "TYLOO (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9544": {
+    "name": "TYLOO (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9545": {
+    "name": "MIBR | Budapest 2025",
+    "rarity": "3"
+  },
+  "9546": {
+    "name": "MIBR (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9547": {
+    "name": "MIBR (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9548": {
+    "name": "MIBR (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9549": {
+    "name": "Passion UA | Budapest 2025",
+    "rarity": "3"
+  },
   "955": {
     "name": "Fnatic (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "9550": {
+    "name": "Passion UA (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9551": {
+    "name": "Passion UA (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9552": {
+    "name": "Passion UA (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9553": {
+    "name": "Legacy | Budapest 2025",
+    "rarity": "3"
+  },
+  "9554": {
+    "name": "Legacy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9555": {
+    "name": "Legacy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9556": {
+    "name": "Legacy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9557": {
+    "name": "FaZe Clan | Budapest 2025",
+    "rarity": "3"
+  },
+  "9558": {
+    "name": "FaZe Clan (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9559": {
+    "name": "FaZe Clan (Holo) | Budapest 2025",
     "rarity": "5"
   },
   "956": {
@@ -51082,6 +52622,46 @@
     "name": "Luminosity Gaming | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "9560": {
+    "name": "FaZe Clan (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9561": {
+    "name": "B8 | Budapest 2025",
+    "rarity": "3"
+  },
+  "9562": {
+    "name": "B8 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9563": {
+    "name": "B8 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9564": {
+    "name": "B8 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9565": {
+    "name": "GamerLegion | Budapest 2025",
+    "rarity": "3"
+  },
+  "9566": {
+    "name": "GamerLegion (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9567": {
+    "name": "GamerLegion (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9568": {
+    "name": "GamerLegion (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9569": {
+    "name": "fnatic | Budapest 2025",
+    "rarity": "3"
+  },
   "957": {
     "containers": [
       "4156"
@@ -51089,9 +52669,89 @@
     "name": "Luminosity Gaming (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "9570": {
+    "name": "fnatic (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9571": {
+    "name": "fnatic (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9572": {
+    "name": "fnatic (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9573": {
+    "name": "PARIVISION | Budapest 2025",
+    "rarity": "3"
+  },
+  "9574": {
+    "name": "PARIVISION (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9575": {
+    "name": "PARIVISION (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9576": {
+    "name": "PARIVISION (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9577": {
+    "name": "Ninjas in Pyjamas | Budapest 2025",
+    "rarity": "3"
+  },
+  "9578": {
+    "name": "Ninjas in Pyjamas (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9579": {
+    "name": "Ninjas in Pyjamas (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
   "958": {
     "name": "Luminosity Gaming (Gold) | Cluj-Napoca 2015",
     "rarity": "5"
+  },
+  "9580": {
+    "name": "Ninjas in Pyjamas (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9581": {
+    "name": "Imperial Esports | Budapest 2025",
+    "rarity": "3"
+  },
+  "9582": {
+    "name": "Imperial Esports (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9583": {
+    "name": "Imperial Esports (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9584": {
+    "name": "Imperial Esports (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9585": {
+    "name": "FlyQuest | Budapest 2025",
+    "rarity": "3"
+  },
+  "9586": {
+    "name": "FlyQuest (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9587": {
+    "name": "FlyQuest (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9588": {
+    "name": "FlyQuest (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9589": {
+    "name": "Lynn Vision | Budapest 2025",
+    "rarity": "3"
   },
   "959": {
     "containers": [
@@ -51100,20 +52760,140 @@
     "name": "DreamHack | Cluj-Napoca 2015",
     "rarity": "3"
   },
+  "9590": {
+    "name": "Lynn Vision (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9591": {
+    "name": "Lynn Vision (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9592": {
+    "name": "Lynn Vision (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9593": {
+    "name": "M80 | Budapest 2025",
+    "rarity": "3"
+  },
+  "9594": {
+    "name": "M80 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9595": {
+    "name": "M80 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9596": {
+    "name": "M80 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9597": {
+    "name": "Fluxo | Budapest 2025",
+    "rarity": "3"
+  },
+  "9598": {
+    "name": "Fluxo (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9599": {
+    "name": "Fluxo (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
   "96": {
     "name": "Titan (Foil) | Katowice 2014",
     "rarity": "5"
   },
   "960": {
     "containers": [
-      "4156",
-      "4157"
+      "4157",
+      "4156"
     ],
     "name": "DreamHack (Foil) | Cluj-Napoca 2015",
     "rarity": "5"
   },
+  "9600": {
+    "name": "Fluxo (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9601": {
+    "name": "RED Canids | Budapest 2025",
+    "rarity": "3"
+  },
+  "9602": {
+    "name": "RED Canids (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9603": {
+    "name": "RED Canids (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9604": {
+    "name": "RED Canids (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9605": {
+    "name": "The Huns | Budapest 2025",
+    "rarity": "3"
+  },
+  "9606": {
+    "name": "The Huns (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9607": {
+    "name": "The Huns (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9608": {
+    "name": "The Huns (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9609": {
+    "name": "NRG | Budapest 2025",
+    "rarity": "3"
+  },
   "961": {
     "name": "DreamHack (Gold) | Cluj-Napoca 2015",
+    "rarity": "5"
+  },
+  "9610": {
+    "name": "NRG (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9611": {
+    "name": "NRG (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9612": {
+    "name": "NRG (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9613": {
+    "name": "Rare Atom | Budapest 2025",
+    "rarity": "3"
+  },
+  "9614": {
+    "name": "Rare Atom (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9615": {
+    "name": "Rare Atom (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9616": {
+    "name": "Rare Atom (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9617": {
+    "name": "StarLadder | Budapest 2025",
+    "rarity": "3"
+  },
+  "9618": {
+    "name": "StarLadder (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9619": {
+    "name": "StarLadder (Holo) | Budapest 2025",
     "rarity": "5"
   },
   "962": {
@@ -51123,11 +52903,91 @@
     "name": "Ivette",
     "rarity": "3"
   },
+  "9620": {
+    "name": "StarLadder (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9621": {
+    "name": "FURIA | Budapest 2025",
+    "rarity": "3"
+  },
+  "9622": {
+    "name": "Vitality | Budapest 2025",
+    "rarity": "3"
+  },
+  "9623": {
+    "name": "Falcons | Budapest 2025",
+    "rarity": "3"
+  },
+  "9624": {
+    "name": "The Mongolz | Budapest 2025",
+    "rarity": "3"
+  },
+  "9625": {
+    "name": "MOUZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "9626": {
+    "name": "Team Spirit | Budapest 2025",
+    "rarity": "3"
+  },
+  "9627": {
+    "name": "G2 esports | Budapest 2025",
+    "rarity": "3"
+  },
+  "9628": {
+    "name": "paiN Gaming | Budapest 2025",
+    "rarity": "3"
+  },
+  "9629": {
+    "name": "Aurora | Budapest 2025",
+    "rarity": "3"
+  },
   "963": {
     "containers": [
       "4183"
     ],
     "name": "Kimberly",
+    "rarity": "3"
+  },
+  "9630": {
+    "name": "Natus Vincere | Budapest 2025",
+    "rarity": "3"
+  },
+  "9631": {
+    "name": "Team Liquid | Budapest 2025",
+    "rarity": "3"
+  },
+  "9632": {
+    "name": "3DMAX | Budapest 2025",
+    "rarity": "3"
+  },
+  "9633": {
+    "name": "Astralis | Budapest 2025",
+    "rarity": "3"
+  },
+  "9634": {
+    "name": "TYLOO | Budapest 2025",
+    "rarity": "3"
+  },
+  "9635": {
+    "name": "MIBR | Budapest 2025",
+    "rarity": "3"
+  },
+  "9636": {
+    "name": "Passion UA | Budapest 2025",
+    "rarity": "3"
+  },
+  "9637": {
+    "name": "Legacy | Budapest 2025",
+    "rarity": "3"
+  },
+  "9638": {
+    "name": "FaZe Clan | Budapest 2025",
+    "rarity": "3"
+  },
+  "9639": {
+    "name": "B8 | Budapest 2025",
     "rarity": "3"
   },
   "964": {
@@ -51137,12 +52997,92 @@
     "name": "Martha",
     "rarity": "3"
   },
+  "9640": {
+    "name": "GamerLegion | Budapest 2025",
+    "rarity": "3"
+  },
+  "9641": {
+    "name": "fnatic | Budapest 2025",
+    "rarity": "3"
+  },
+  "9642": {
+    "name": "PARIVISION | Budapest 2025",
+    "rarity": "3"
+  },
+  "9643": {
+    "name": "Ninjas in Pyjamas | Budapest 2025",
+    "rarity": "3"
+  },
+  "9644": {
+    "name": "Imperial Esports | Budapest 2025",
+    "rarity": "3"
+  },
+  "9645": {
+    "name": "FlyQuest | Budapest 2025",
+    "rarity": "3"
+  },
+  "9646": {
+    "name": "Lynn Vision | Budapest 2025",
+    "rarity": "3"
+  },
+  "9647": {
+    "name": "M80 | Budapest 2025",
+    "rarity": "3"
+  },
+  "9648": {
+    "name": "Fluxo | Budapest 2025",
+    "rarity": "3"
+  },
+  "9649": {
+    "name": "RED Canids | Budapest 2025",
+    "rarity": "3"
+  },
   "965": {
     "containers": [
       "4183"
     ],
     "name": "Merietta",
     "rarity": "3"
+  },
+  "9650": {
+    "name": "The Huns | Budapest 2025",
+    "rarity": "3"
+  },
+  "9651": {
+    "name": "NRG | Budapest 2025",
+    "rarity": "3"
+  },
+  "9652": {
+    "name": "Rare Atom | Budapest 2025",
+    "rarity": "3"
+  },
+  "9653": {
+    "name": "StarLadder | Budapest 2025",
+    "rarity": "3"
+  },
+  "9654": {
+    "name": "FalleN | Budapest 2025",
+    "rarity": "3"
+  },
+  "9655": {
+    "name": "FalleN (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9656": {
+    "name": "FalleN (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9657": {
+    "name": "FalleN (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9658": {
+    "name": "KSCERATO | Budapest 2025",
+    "rarity": "3"
+  },
+  "9659": {
+    "name": "KSCERATO (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "966": {
     "containers": [
@@ -51151,12 +53091,92 @@
     "name": "Sherry",
     "rarity": "3"
   },
+  "9660": {
+    "name": "KSCERATO (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9661": {
+    "name": "KSCERATO (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9662": {
+    "name": "molodoy | Budapest 2025",
+    "rarity": "3"
+  },
+  "9663": {
+    "name": "molodoy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9664": {
+    "name": "molodoy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9665": {
+    "name": "molodoy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9666": {
+    "name": "YEKINDAR | Budapest 2025",
+    "rarity": "3"
+  },
+  "9667": {
+    "name": "YEKINDAR (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9668": {
+    "name": "YEKINDAR (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9669": {
+    "name": "YEKINDAR (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "967": {
     "containers": [
       "4183"
     ],
     "name": "Tamara",
     "rarity": "3"
+  },
+  "9670": {
+    "name": "yuurih | Budapest 2025",
+    "rarity": "3"
+  },
+  "9671": {
+    "name": "yuurih (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9672": {
+    "name": "yuurih (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9673": {
+    "name": "yuurih (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9674": {
+    "name": "apEX | Budapest 2025",
+    "rarity": "3"
+  },
+  "9675": {
+    "name": "apEX (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9676": {
+    "name": "apEX (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9677": {
+    "name": "apEX (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9678": {
+    "name": "FlameZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "9679": {
+    "name": "FlameZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "968": {
     "containers": [
@@ -51165,11 +53185,91 @@
     "name": "Ivette (Holo)",
     "rarity": "4"
   },
+  "9680": {
+    "name": "FlameZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9681": {
+    "name": "FlameZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9682": {
+    "name": "mezii | Budapest 2025",
+    "rarity": "3"
+  },
+  "9683": {
+    "name": "mezii (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9684": {
+    "name": "mezii (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9685": {
+    "name": "mezii (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9686": {
+    "name": "ropz | Budapest 2025",
+    "rarity": "3"
+  },
+  "9687": {
+    "name": "ropz (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9688": {
+    "name": "ropz (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9689": {
+    "name": "ropz (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "969": {
     "containers": [
       "4183"
     ],
     "name": "Kimberly (Holo)",
+    "rarity": "4"
+  },
+  "9690": {
+    "name": "ZywOo | Budapest 2025",
+    "rarity": "3"
+  },
+  "9691": {
+    "name": "ZywOo (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9692": {
+    "name": "ZywOo (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9693": {
+    "name": "ZywOo (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9694": {
+    "name": "kyousuke | Budapest 2025",
+    "rarity": "3"
+  },
+  "9695": {
+    "name": "kyousuke (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9696": {
+    "name": "kyousuke (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9697": {
+    "name": "kyousuke (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9698": {
+    "name": "kyxsan | Budapest 2025",
+    "rarity": "3"
+  },
+  "9699": {
+    "name": "kyxsan (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "97": {
@@ -51183,11 +53283,91 @@
     "name": "Martha (Holo)",
     "rarity": "4"
   },
+  "9700": {
+    "name": "kyxsan (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9701": {
+    "name": "kyxsan (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9702": {
+    "name": "m0NESY | Budapest 2025",
+    "rarity": "3"
+  },
+  "9703": {
+    "name": "m0NESY (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9704": {
+    "name": "m0NESY (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9705": {
+    "name": "m0NESY (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9706": {
+    "name": "NiKo | Budapest 2025",
+    "rarity": "3"
+  },
+  "9707": {
+    "name": "NiKo (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9708": {
+    "name": "NiKo (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9709": {
+    "name": "NiKo (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "971": {
     "containers": [
       "4183"
     ],
     "name": "Merietta (Holo)",
+    "rarity": "4"
+  },
+  "9710": {
+    "name": "TeSeS | Budapest 2025",
+    "rarity": "3"
+  },
+  "9711": {
+    "name": "TeSeS (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9712": {
+    "name": "TeSeS (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9713": {
+    "name": "TeSeS (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9714": {
+    "name": "910 | Budapest 2025",
+    "rarity": "3"
+  },
+  "9715": {
+    "name": "910 (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9716": {
+    "name": "910 (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9717": {
+    "name": "910 (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9718": {
+    "name": "bLitz | Budapest 2025",
+    "rarity": "3"
+  },
+  "9719": {
+    "name": "bLitz (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "972": {
@@ -51197,11 +53377,91 @@
     "name": "Sherry (Holo)",
     "rarity": "4"
   },
+  "9720": {
+    "name": "bLitz (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9721": {
+    "name": "bLitz (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9722": {
+    "name": "mzinho | Budapest 2025",
+    "rarity": "3"
+  },
+  "9723": {
+    "name": "mzinho (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9724": {
+    "name": "mzinho (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9725": {
+    "name": "mzinho (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9726": {
+    "name": "Senzu | Budapest 2025",
+    "rarity": "3"
+  },
+  "9727": {
+    "name": "Senzu (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9728": {
+    "name": "Senzu (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9729": {
+    "name": "Senzu (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "973": {
     "containers": [
       "4183"
     ],
     "name": "Tamara (Holo)",
+    "rarity": "4"
+  },
+  "9730": {
+    "name": "Techno4K | Budapest 2025",
+    "rarity": "3"
+  },
+  "9731": {
+    "name": "Techno4K (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9732": {
+    "name": "Techno4K (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9733": {
+    "name": "Techno4K (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9734": {
+    "name": "Brollan | Budapest 2025",
+    "rarity": "3"
+  },
+  "9735": {
+    "name": "Brollan (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9736": {
+    "name": "Brollan (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9737": {
+    "name": "Brollan (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9738": {
+    "name": "Jimpphat | Budapest 2025",
+    "rarity": "3"
+  },
+  "9739": {
+    "name": "Jimpphat (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "974": {
@@ -51211,11 +53471,91 @@
     "name": "Boom",
     "rarity": "3"
   },
+  "9740": {
+    "name": "Jimpphat (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9741": {
+    "name": "Jimpphat (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9742": {
+    "name": "Spinx | Budapest 2025",
+    "rarity": "3"
+  },
+  "9743": {
+    "name": "Spinx (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9744": {
+    "name": "Spinx (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9745": {
+    "name": "Spinx (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9746": {
+    "name": "torzsi | Budapest 2025",
+    "rarity": "3"
+  },
+  "9747": {
+    "name": "torzsi (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9748": {
+    "name": "torzsi (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9749": {
+    "name": "torzsi (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "975": {
     "containers": [
       "4184"
     ],
     "name": "Boom (Holo)",
+    "rarity": "4"
+  },
+  "9750": {
+    "name": "xertioN | Budapest 2025",
+    "rarity": "3"
+  },
+  "9751": {
+    "name": "xertioN (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9752": {
+    "name": "xertioN (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9753": {
+    "name": "xertioN (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9754": {
+    "name": "chopper | Budapest 2025",
+    "rarity": "3"
+  },
+  "9755": {
+    "name": "chopper (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9756": {
+    "name": "chopper (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9757": {
+    "name": "chopper (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9758": {
+    "name": "donk | Budapest 2025",
+    "rarity": "3"
+  },
+  "9759": {
+    "name": "donk (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "976": {
@@ -51225,12 +53565,92 @@
     "name": "Boom (Foil)",
     "rarity": "5"
   },
+  "9760": {
+    "name": "donk (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9761": {
+    "name": "donk (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9762": {
+    "name": "sh1ro | Budapest 2025",
+    "rarity": "3"
+  },
+  "9763": {
+    "name": "sh1ro (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9764": {
+    "name": "sh1ro (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9765": {
+    "name": "sh1ro (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9766": {
+    "name": "zont1x | Budapest 2025",
+    "rarity": "3"
+  },
+  "9767": {
+    "name": "zont1x (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9768": {
+    "name": "zont1x (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9769": {
+    "name": "zont1x (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "977": {
     "containers": [
       "4184"
     ],
     "name": "Countdown",
     "rarity": "3"
+  },
+  "9770": {
+    "name": "zweih | Budapest 2025",
+    "rarity": "3"
+  },
+  "9771": {
+    "name": "zweih (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9772": {
+    "name": "zweih (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9773": {
+    "name": "zweih (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9774": {
+    "name": "Heavygod | Budapest 2025",
+    "rarity": "3"
+  },
+  "9775": {
+    "name": "Heavygod (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9776": {
+    "name": "Heavygod (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9777": {
+    "name": "Heavygod (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9778": {
+    "name": "huNter- | Budapest 2025",
+    "rarity": "3"
+  },
+  "9779": {
+    "name": "huNter- (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "978": {
     "containers": [
@@ -51239,12 +53659,92 @@
     "name": "Countdown (Holo)",
     "rarity": "4"
   },
+  "9780": {
+    "name": "huNter- (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9781": {
+    "name": "huNter- (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9782": {
+    "name": "malbsMd | Budapest 2025",
+    "rarity": "3"
+  },
+  "9783": {
+    "name": "malbsMd (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9784": {
+    "name": "malbsMd (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9785": {
+    "name": "malbsMd (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9786": {
+    "name": "MATYS | Budapest 2025",
+    "rarity": "3"
+  },
+  "9787": {
+    "name": "MATYS (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9788": {
+    "name": "MATYS (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9789": {
+    "name": "MATYS (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "979": {
     "containers": [
       "4184"
     ],
     "name": "Countdown (Foil)",
     "rarity": "5"
+  },
+  "9790": {
+    "name": "SunPayus | Budapest 2025",
+    "rarity": "3"
+  },
+  "9791": {
+    "name": "SunPayus (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9792": {
+    "name": "SunPayus (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9793": {
+    "name": "SunPayus (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9794": {
+    "name": "biguzera | Budapest 2025",
+    "rarity": "3"
+  },
+  "9795": {
+    "name": "biguzera (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9796": {
+    "name": "biguzera (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9797": {
+    "name": "biguzera (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9798": {
+    "name": "dav1deuS | Budapest 2025",
+    "rarity": "3"
+  },
+  "9799": {
+    "name": "dav1deuS (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "98": {
     "name": "Vox Eminor (Foil) | Katowice 2014",
@@ -51257,11 +53757,91 @@
     "name": "Don't Worry",
     "rarity": "3"
   },
+  "9800": {
+    "name": "dav1deuS (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9801": {
+    "name": "dav1deuS (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9802": {
+    "name": "dgt | Budapest 2025",
+    "rarity": "3"
+  },
+  "9803": {
+    "name": "dgt (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9804": {
+    "name": "dgt (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9805": {
+    "name": "dgt (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9806": {
+    "name": "NQZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "9807": {
+    "name": "NQZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9808": {
+    "name": "NQZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9809": {
+    "name": "NQZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "981": {
     "containers": [
       "4184"
     ],
     "name": "Don't Worry (Holo)",
+    "rarity": "4"
+  },
+  "9810": {
+    "name": "snow | Budapest 2025",
+    "rarity": "3"
+  },
+  "9811": {
+    "name": "snow (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9812": {
+    "name": "snow (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9813": {
+    "name": "snow (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9814": {
+    "name": "jottAAA | Budapest 2025",
+    "rarity": "3"
+  },
+  "9815": {
+    "name": "jottAAA (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9816": {
+    "name": "jottAAA (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9817": {
+    "name": "jottAAA (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9818": {
+    "name": "MAJ3R | Budapest 2025",
+    "rarity": "3"
+  },
+  "9819": {
+    "name": "MAJ3R (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "982": {
@@ -51271,12 +53851,92 @@
     "name": "Don't Worry (Foil)",
     "rarity": "5"
   },
+  "9820": {
+    "name": "MAJ3R (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9821": {
+    "name": "MAJ3R (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9822": {
+    "name": "Wicadia | Budapest 2025",
+    "rarity": "3"
+  },
+  "9823": {
+    "name": "Wicadia (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9824": {
+    "name": "Wicadia (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9825": {
+    "name": "Wicadia (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9826": {
+    "name": "woxic | Budapest 2025",
+    "rarity": "3"
+  },
+  "9827": {
+    "name": "woxic (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9828": {
+    "name": "woxic (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9829": {
+    "name": "woxic (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "983": {
     "containers": [
       "4184"
     ],
     "name": "Hard Cluck Life",
     "rarity": "3"
+  },
+  "9830": {
+    "name": "XANTARES | Budapest 2025",
+    "rarity": "3"
+  },
+  "9831": {
+    "name": "XANTARES (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9832": {
+    "name": "XANTARES (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9833": {
+    "name": "XANTARES (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9834": {
+    "name": "Aleksib | Budapest 2025",
+    "rarity": "3"
+  },
+  "9835": {
+    "name": "Aleksib (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9836": {
+    "name": "Aleksib (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9837": {
+    "name": "Aleksib (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9838": {
+    "name": "b1t | Budapest 2025",
+    "rarity": "3"
+  },
+  "9839": {
+    "name": "b1t (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "984": {
     "containers": [
@@ -51285,12 +53945,92 @@
     "name": "Hard Cluck Life (Holo)",
     "rarity": "4"
   },
+  "9840": {
+    "name": "b1t (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9841": {
+    "name": "b1t (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9842": {
+    "name": "iM | Budapest 2025",
+    "rarity": "3"
+  },
+  "9843": {
+    "name": "iM (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9844": {
+    "name": "iM (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9845": {
+    "name": "iM (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9846": {
+    "name": "makazze | Budapest 2025",
+    "rarity": "3"
+  },
+  "9847": {
+    "name": "makazze (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9848": {
+    "name": "makazze (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9849": {
+    "name": "makazze (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "985": {
     "containers": [
       "4184"
     ],
     "name": "Hard Cluck Life (Foil)",
     "rarity": "5"
+  },
+  "9850": {
+    "name": "w0nderful | Budapest 2025",
+    "rarity": "3"
+  },
+  "9851": {
+    "name": "w0nderful (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9852": {
+    "name": "w0nderful (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9853": {
+    "name": "w0nderful (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9854": {
+    "name": "EliGE | Budapest 2025",
+    "rarity": "3"
+  },
+  "9855": {
+    "name": "EliGE (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9856": {
+    "name": "EliGE (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9857": {
+    "name": "EliGE (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9858": {
+    "name": "NAF | Budapest 2025",
+    "rarity": "3"
+  },
+  "9859": {
+    "name": "NAF (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "986": {
     "containers": [
@@ -51299,11 +54039,91 @@
     "name": "Move It",
     "rarity": "3"
   },
+  "9860": {
+    "name": "NAF (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9861": {
+    "name": "NAF (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9862": {
+    "name": "NertZ | Budapest 2025",
+    "rarity": "3"
+  },
+  "9863": {
+    "name": "NertZ (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9864": {
+    "name": "NertZ (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9865": {
+    "name": "NertZ (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9866": {
+    "name": "siuhy | Budapest 2025",
+    "rarity": "3"
+  },
+  "9867": {
+    "name": "siuhy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9868": {
+    "name": "siuhy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9869": {
+    "name": "siuhy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "987": {
     "containers": [
       "4184"
     ],
     "name": "Move It (Holo)",
+    "rarity": "4"
+  },
+  "9870": {
+    "name": "ultimate | Budapest 2025",
+    "rarity": "3"
+  },
+  "9871": {
+    "name": "ultimate (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9872": {
+    "name": "ultimate (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9873": {
+    "name": "ultimate (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9874": {
+    "name": "bodyy | Budapest 2025",
+    "rarity": "3"
+  },
+  "9875": {
+    "name": "bodyy (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9876": {
+    "name": "bodyy (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9877": {
+    "name": "bodyy (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9878": {
+    "name": "Ex3rcice | Budapest 2025",
+    "rarity": "3"
+  },
+  "9879": {
+    "name": "Ex3rcice (Embroidered) | Budapest 2025",
     "rarity": "4"
   },
   "988": {
@@ -51313,12 +54133,92 @@
     "name": "Move It (Foil)",
     "rarity": "5"
   },
+  "9880": {
+    "name": "Ex3rcice (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9881": {
+    "name": "Ex3rcice (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9882": {
+    "name": "Graviti | Budapest 2025",
+    "rarity": "3"
+  },
+  "9883": {
+    "name": "Graviti (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9884": {
+    "name": "Graviti (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9885": {
+    "name": "Graviti (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9886": {
+    "name": "Lucky | Budapest 2025",
+    "rarity": "3"
+  },
+  "9887": {
+    "name": "Lucky (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9888": {
+    "name": "Lucky (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9889": {
+    "name": "Lucky (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "989": {
     "containers": [
       "4185"
     ],
     "name": "The Awper",
     "rarity": "3"
+  },
+  "9890": {
+    "name": "Maka | Budapest 2025",
+    "rarity": "3"
+  },
+  "9891": {
+    "name": "Maka (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9892": {
+    "name": "Maka (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9893": {
+    "name": "Maka (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9894": {
+    "name": "device | Budapest 2025",
+    "rarity": "3"
+  },
+  "9895": {
+    "name": "device (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9896": {
+    "name": "device (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9897": {
+    "name": "device (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9898": {
+    "name": "HooXi | Budapest 2025",
+    "rarity": "3"
+  },
+  "9899": {
+    "name": "HooXi (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "99": {
     "name": "Gold ESL Wolf (Foil) | Katowice 2014",
@@ -51331,12 +54231,92 @@
     "name": "The Baiter",
     "rarity": "3"
   },
+  "9900": {
+    "name": "HooXi (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9901": {
+    "name": "HooXi (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9902": {
+    "name": "jabbi | Budapest 2025",
+    "rarity": "3"
+  },
+  "9903": {
+    "name": "jabbi (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9904": {
+    "name": "jabbi (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9905": {
+    "name": "jabbi (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9906": {
+    "name": "Magisk | Budapest 2025",
+    "rarity": "3"
+  },
+  "9907": {
+    "name": "Magisk (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9908": {
+    "name": "Magisk (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9909": {
+    "name": "Magisk (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "991": {
     "containers": [
       "4185"
     ],
     "name": "The Bomber",
     "rarity": "3"
+  },
+  "9910": {
+    "name": "Staehr | Budapest 2025",
+    "rarity": "3"
+  },
+  "9911": {
+    "name": "Staehr (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9912": {
+    "name": "Staehr (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9913": {
+    "name": "Staehr (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9914": {
+    "name": "Attacker | Budapest 2025",
+    "rarity": "3"
+  },
+  "9915": {
+    "name": "Attacker (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9916": {
+    "name": "Attacker (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9917": {
+    "name": "Attacker (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9918": {
+    "name": "JamYoung | Budapest 2025",
+    "rarity": "3"
+  },
+  "9919": {
+    "name": "JamYoung (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "992": {
     "containers": [
@@ -51345,12 +54325,92 @@
     "name": "The Bot",
     "rarity": "3"
   },
+  "9920": {
+    "name": "JamYoung (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9921": {
+    "name": "JamYoung (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9922": {
+    "name": "Jee | Budapest 2025",
+    "rarity": "3"
+  },
+  "9923": {
+    "name": "Jee (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9924": {
+    "name": "Jee (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9925": {
+    "name": "Jee (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9926": {
+    "name": "Mercury | Budapest 2025",
+    "rarity": "3"
+  },
+  "9927": {
+    "name": "Mercury (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9928": {
+    "name": "Mercury (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9929": {
+    "name": "Mercury (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "993": {
     "containers": [
       "4185"
     ],
     "name": "The Fragger",
     "rarity": "3"
+  },
+  "9930": {
+    "name": "Moseyuh | Budapest 2025",
+    "rarity": "3"
+  },
+  "9931": {
+    "name": "Moseyuh (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9932": {
+    "name": "Moseyuh (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9933": {
+    "name": "Moseyuh (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9934": {
+    "name": "brnz4n | Budapest 2025",
+    "rarity": "3"
+  },
+  "9935": {
+    "name": "brnz4n (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9936": {
+    "name": "brnz4n (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9937": {
+    "name": "brnz4n (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9938": {
+    "name": "exit | Budapest 2025",
+    "rarity": "3"
+  },
+  "9939": {
+    "name": "exit (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "994": {
     "containers": [
@@ -51359,12 +54419,92 @@
     "name": "The Leader",
     "rarity": "3"
   },
+  "9940": {
+    "name": "exit (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9941": {
+    "name": "exit (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9942": {
+    "name": "insani | Budapest 2025",
+    "rarity": "3"
+  },
+  "9943": {
+    "name": "insani (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9944": {
+    "name": "insani (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9945": {
+    "name": "insani (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9946": {
+    "name": "kl1m | Budapest 2025",
+    "rarity": "3"
+  },
+  "9947": {
+    "name": "kl1m (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9948": {
+    "name": "kl1m (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9949": {
+    "name": "kl1m (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "995": {
     "containers": [
       "4185"
     ],
     "name": "The Lurker",
     "rarity": "3"
+  },
+  "9950": {
+    "name": "qikert | Budapest 2025",
+    "rarity": "3"
+  },
+  "9951": {
+    "name": "qikert (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9952": {
+    "name": "qikert (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9953": {
+    "name": "qikert (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9954": {
+    "name": "Grim | Budapest 2025",
+    "rarity": "3"
+  },
+  "9955": {
+    "name": "Grim (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9956": {
+    "name": "Grim (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9957": {
+    "name": "Grim (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9958": {
+    "name": "hallzerk | Budapest 2025",
+    "rarity": "3"
+  },
+  "9959": {
+    "name": "hallzerk (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "996": {
     "containers": [
@@ -51373,12 +54513,92 @@
     "name": "The 'Nader",
     "rarity": "3"
   },
+  "9960": {
+    "name": "hallzerk (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9961": {
+    "name": "hallzerk (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9962": {
+    "name": "JT | Budapest 2025",
+    "rarity": "3"
+  },
+  "9963": {
+    "name": "JT (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9964": {
+    "name": "JT (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9965": {
+    "name": "JT (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9966": {
+    "name": "Kvem | Budapest 2025",
+    "rarity": "3"
+  },
+  "9967": {
+    "name": "Kvem (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9968": {
+    "name": "Kvem (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9969": {
+    "name": "Kvem (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "997": {
     "containers": [
       "4185"
     ],
     "name": "The Ninja",
     "rarity": "3"
+  },
+  "9970": {
+    "name": "nicx | Budapest 2025",
+    "rarity": "3"
+  },
+  "9971": {
+    "name": "nicx (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9972": {
+    "name": "nicx (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9973": {
+    "name": "nicx (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9974": {
+    "name": "dumau | Budapest 2025",
+    "rarity": "3"
+  },
+  "9975": {
+    "name": "dumau (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9976": {
+    "name": "dumau (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9977": {
+    "name": "dumau (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9978": {
+    "name": "latto | Budapest 2025",
+    "rarity": "3"
+  },
+  "9979": {
+    "name": "latto (Embroidered) | Budapest 2025",
+    "rarity": "4"
   },
   "998": {
     "containers": [
@@ -51387,8 +54607,88 @@
     "name": "Support",
     "rarity": "3"
   },
+  "9980": {
+    "name": "latto (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9981": {
+    "name": "latto (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9982": {
+    "name": "lux | Budapest 2025",
+    "rarity": "3"
+  },
+  "9983": {
+    "name": "lux (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9984": {
+    "name": "lux (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9985": {
+    "name": "lux (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9986": {
+    "name": "n1ssim | Budapest 2025",
+    "rarity": "3"
+  },
+  "9987": {
+    "name": "n1ssim (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9988": {
+    "name": "n1ssim (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9989": {
+    "name": "n1ssim (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
   "999": {
     "name": "The Awper (Foil)",
     "rarity": "5"
+  },
+  "9990": {
+    "name": "saadzin | Budapest 2025",
+    "rarity": "3"
+  },
+  "9991": {
+    "name": "saadzin (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9992": {
+    "name": "saadzin (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9993": {
+    "name": "saadzin (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9994": {
+    "name": "broky | Budapest 2025",
+    "rarity": "3"
+  },
+  "9995": {
+    "name": "broky (Embroidered) | Budapest 2025",
+    "rarity": "4"
+  },
+  "9996": {
+    "name": "broky (Holo) | Budapest 2025",
+    "rarity": "5"
+  },
+  "9997": {
+    "name": "broky (Gold) | Budapest 2025",
+    "rarity": "6"
+  },
+  "9998": {
+    "name": "frozen | Budapest 2025",
+    "rarity": "3"
+  },
+  "9999": {
+    "name": "frozen (Embroidered) | Budapest 2025",
+    "rarity": "4"
   }
 }

@@ -2524,10 +2524,76 @@
     "wear_max": 0.7,
     "wear_min": 0.0
   },
+  "1339": {
+    "name": "Trigger Discipline",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "134": {
     "name": "Eye of Zapems",
     "rarity": "4",
     "wear_max": 0.85,
+    "wear_min": 0.0
+  },
+  "1340": {
+    "name": "Liquidation",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1341": {
+    "name": "Broken Record",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1342": {
+    "name": "Red Wing",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1343": {
+    "name": "Caged",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1344": {
+    "name": "Focus",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1345": {
+    "name": "Bullfrog",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1346": {
+    "name": "Ice Coaled",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1347": {
+    "name": "Angel Eyes",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1348": {
+    "name": "Mirror Mosaic",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1349": {
+    "name": "Cat Fight",
+    "rarity": "4",
+    "wear_max": 1.0,
     "wear_min": 0.0
   },
   "135": {
@@ -2536,15 +2602,195 @@
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1350": {
+    "name": "Ocular",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1351": {
+    "name": "Continuum",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1352": {
+    "name": "The Oligarch",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1353": {
+    "name": "Full Throttle",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1354": {
+    "name": "Smoking Kills",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1355": {
+    "name": "MAGnitude",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1356": {
+    "name": "The End",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1357": {
+    "name": "Trace Lock",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1358": {
+    "name": "Breakthrough",
+    "rarity": "3",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1359": {
+    "name": "Grip Tape",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
   "136": {
     "name": "Waves Perforated",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1360": {
+    "name": "The Daily Deagle",
+    "rarity": "2",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "1361": {
+    "name": "Aeolian Light",
+    "rarity": "3",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1362": {
+    "name": "Creep",
+    "rarity": "3",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1363": {
+    "name": "Dark Chamber",
+    "rarity": "2",
+    "wear_max": 0.80339,
+    "wear_min": 0.0
+  },
+  "1364": {
+    "name": "Aeolian Dark",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1365": {
+    "name": "Vendetta",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1366": {
+    "name": "Snow Splash",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1367": {
+    "name": "Snow Splash",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1368": {
+    "name": "Currents",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1369": {
+    "name": "Sleet",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
   "137": {
     "name": "Crakow!",
     "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1370": {
+    "name": "Sleet",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1371": {
+    "name": "Zinc",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1372": {
+    "name": "Sans Comic",
+    "rarity": "1",
+    "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "1373": {
+    "name": "Silver Pour",
+    "rarity": "1",
+    "wear_max": 0.678431,
+    "wear_min": 0.0
+  },
+  "1374": {
+    "name": "Bizoom",
+    "rarity": "1",
+    "wear_max": 0.58,
+    "wear_min": 0.0
+  },
+  "1375": {
+    "name": "Dizzy",
+    "rarity": "1",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1376": {
+    "name": "Party Animal",
+    "rarity": "4",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1377": {
+    "name": "Sleeping Potion",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1378": {
+    "name": "Exothermic",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1379": {
+    "name": "Calligrafaux",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
@@ -2554,10 +2800,106 @@
     "wear_max": 0.75,
     "wear_min": 0.0
   },
+  "1380": {
+    "name": "Fraise Crane",
+    "rarity": "3",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1381": {
+    "name": "XoooM",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1382": {
+    "name": "Earth Mandala",
+    "rarity": "3",
+    "wear_max": 0.66,
+    "wear_min": 0.0
+  },
+  "1383": {
+    "name": "Sky Mandala",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1384": {
+    "name": "Banana Leaf",
+    "rarity": "2",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1385": {
+    "name": "Picnic",
+    "rarity": "2",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
+  "1386": {
+    "name": "Coral Paisley",
+    "rarity": "2",
+    "wear_max": 0.65,
+    "wear_min": 0.0
+  },
+  "1387": {
+    "name": "Warm Blooded",
+    "rarity": "3",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1388": {
+    "name": "Bee-Tron",
+    "rarity": "1",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1389": {
+    "name": "Mauve Aside",
+    "rarity": "1",
+    "wear_max": 0.80339,
+    "wear_min": 0.0
+  },
   "139": {
     "name": "Sweet Little Angels",
     "rarity": "4",
     "wear_max": 0.82,
+    "wear_min": 0.0
+  },
+  "1390": {
+    "name": "Honey Paisley",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1391": {
+    "name": "Crimson Batik",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1392": {
+    "name": "Thermal Currents",
+    "rarity": "1",
+    "wear_max": 0.6,
+    "wear_min": 0.0
+  },
+  "1393": {
+    "name": "Byproduct",
+    "rarity": "1",
+    "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "1394": {
+    "name": "Safari Print",
+    "rarity": "1",
+    "wear_max": 0.7,
+    "wear_min": 0.0
+  },
+  "1397": {
+    "name": "Aphrodite",
+    "rarity": "5",
+    "wear_max": 1.0,
     "wear_min": 0.0
   },
   "14": {
