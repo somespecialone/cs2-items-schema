@@ -2902,6 +2902,18 @@
     "wear_max": 1.0,
     "wear_min": 0.0
   },
+  "1398": {
+    "name": "Wave Chaser",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1399": {
+    "name": "Brocade Crane",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
   "14": {
     "name": "Red Laminate",
     "rarity": "4",
@@ -2914,16 +2926,166 @@
     "wear_max": 0.9,
     "wear_min": 0.0
   },
+  "1400": {
+    "name": "Brocade Flowers",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1401": {
+    "name": "Dragon Fists",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1402": {
+    "name": "Garden",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1404": {
+    "name": "Seigaiha",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1405": {
+    "name": "Violet Beadwork",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1406": {
+    "name": "Frosty",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1408": {
+    "name": "Creme Pinstripe",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1409": {
+    "name": "Red Racer",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
   "141": {
     "name": "Orange Peel",
     "rarity": "2",
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1410": {
+    "name": "Ultra Violent",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1412": {
+    "name": "Plum Quill",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1413": {
+    "name": "Lime Polycam",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1414": {
+    "name": "Blackbook",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1415": {
+    "name": "Chocolate Chesterfield",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1416": {
+    "name": "Sunburst",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1417": {
+    "name": "Occult",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1418": {
+    "name": "RMX",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1419": {
+    "name": "Deathgaze",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "142": {
     "name": "B the Monster",
     "rarity": "5",
     "wear_max": 0.8,
+    "wear_min": 0.0
+  },
+  "1420": {
+    "name": "Kintsugi",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1421": {
+    "name": "Fully Tuned",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1422": {
+    "name": "Queen's Gambit",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1423": {
+    "name": "Urban Sovereign",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1425": {
+    "name": "Crane Flight",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1426": {
+    "name": "Fragment",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1427": {
+    "name": "Fusion",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1429": {
+    "name": "Dark Polymer",
+    "rarity": "3",
+    "wear_max": 1.0,
     "wear_min": 0.0
   },
   "143": {
@@ -2932,11 +3094,77 @@
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1430": {
+    "name": "Firebreathing",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1431": {
+    "name": "Silent Shot",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1432": {
+    "name": "Zubastick",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1433": {
+    "name": "Electrum",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1434": {
+    "name": "Galigator",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1435": {
+    "name": "Bock Blocks",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1436": {
+    "name": "Amberline",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1437": {
+    "name": "Big Swell",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1438": {
+    "name": "Pillow Punchers",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1439": {
+    "name": "Hand Sweaters",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
   "144": {
     "name": "Wall Bang",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
+  },
+  "1440": {
+    "name": "Cloud Chaser",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
   },
   "145": {
     "name": "Wurst H\u00f6lle",
