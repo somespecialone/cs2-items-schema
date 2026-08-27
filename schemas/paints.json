@@ -1397,7 +1397,7 @@
     "wear_min": 0.0
   },
   "1155": {
-    "name": "Kiss\u2665Love",
+    "name": "Kiss♥Love",
     "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
@@ -3209,7 +3209,7 @@
     "wear_min": 0.0
   },
   "145": {
-    "name": "Wurst H\u00f6lle",
+    "name": "Wurst Hölle",
     "rarity": "3",
     "wear_max": 1.0,
     "wear_min": 0.0
@@ -5021,7 +5021,7 @@
     "wear_min": 0.06
   },
   "400": {
-    "name": "\u9f8d\u738b (Dragon King)",
+    "name": "龍王 (Dragon King)",
     "rarity": "4",
     "wear_max": 0.75,
     "wear_min": 0.0
@@ -5466,7 +5466,7 @@
     "wear_min": 0.0
   },
   "469": {
-    "name": "Sunset Storm \u58f1",
+    "name": "Sunset Storm 壱",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
@@ -5478,7 +5478,7 @@
     "wear_min": 0.06
   },
   "470": {
-    "name": "Sunset Storm \u5f10",
+    "name": "Sunset Storm 弐",
     "rarity": "3",
     "wear_max": 0.75,
     "wear_min": 0.0
@@ -7292,19 +7292,19 @@
     "wear_min": 0.0
   },
   "757": {
-    "name": "Emerald J\u00f6rmungandr",
+    "name": "Emerald Jörmungandr",
     "rarity": "3",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "758": {
-    "name": "Flame J\u00f6rmungandr",
+    "name": "Flame Jörmungandr",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "759": {
-    "name": "Astral J\u00f6rmungandr",
+    "name": "Astral Jörmungandr",
     "rarity": "4",
     "wear_max": 0.5,
     "wear_min": 0.0
@@ -7334,7 +7334,7 @@
     "wear_min": 0.06
   },
   "763": {
-    "name": "Mj\u00f6lnir",
+    "name": "Mjölnir",
     "rarity": "5",
     "wear_max": 0.6,
     "wear_min": 0.0

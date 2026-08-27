@@ -78,8 +78,8 @@ class ResourceCollector:
     @staticmethod
     def dump_json_files(*files: tuple[str | Path, dict | list], dir: Path):
         for file_name, file in files:
-            with (dir / file_name).open("w") as f:
-                json.dump(file, f, sort_keys=True, indent=2)
+            with (dir / file_name).open("w", encoding="utf8") as f:
+                json.dump(file, f, ensure_ascii=False, sort_keys=True, indent=2)
 
     @staticmethod
     def dump_files(*files: tuple[str | Path, str], dir: Path):
