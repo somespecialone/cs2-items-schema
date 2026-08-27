@@ -2,7 +2,8 @@
 
 [![license](https://img.shields.io/github/license/somespecialone/cs2-items-schema)](https://github.com/somespecialone/cs2-items-schema/blob/master/LICENSE)
 [![Schema](https://github.com/somespecialone/cs2-items-schema/actions/workflows/schema.yml/badge.svg)](https://github.com/somespecialone/cs2-items-schema/actions/workflows/schema.yml)
-[![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![steam](https://shields.io/badge/steam-1b2838?logo=steam)](https://store.steampowered.com/)
 
 This is storage repo of `CS2` (ex. `CSGO`) items schema with attempt to create more understandable format
@@ -16,7 +17,7 @@ of `CS2` items and their relations.
 
 > [!TIP]
 > If you are looking for an `itemnameid` of items for [Steam Market](https://steamcommunity.com/market/),
-> check out this repo [somespecialone/steam-item-name-ids](https://github.com/somespecialone/steam-item-name-ids)
+> check out this repo [steam-market-ids](https://github.com/somespecialone/steam-market-ids)
 
 > [!NOTE]
 > This repo is configured to auto-update itself using the GitHub Actions `Schema` workflow.
@@ -44,6 +45,6 @@ Diagram for SQL database
 
 ## Credits
 
-* [csfloat/cs-files](https://github.com/csfloat/cs-files)
-* [draw.io](https://draw.io)
-* [dbdiagram.io](https://dbdiagram.io/)
+- [csfloat/cs-files](https://github.com/csfloat/cs-files)
+- [draw.io](https://draw.io)
+- [dbdiagram.io](https://dbdiagram.io/)
