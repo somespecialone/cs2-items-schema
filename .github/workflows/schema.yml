@@ -52,3 +52,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore(schema): manifest ${{ needs.manifest.outputs.remote }}"
+          commit_user_name: "CS2 Items Schema Bot"
