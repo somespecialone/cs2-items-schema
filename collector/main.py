@@ -1,5 +1,6 @@
 import asyncio
 import json
+import logging
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -14,6 +15,8 @@ from .items import ItemsCollector
 from .sticker_kits import StickerKitsCollector
 from .containers import ContainersCollector
 from .sql import SQLCreator
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass(eq=False, repr=False)
@@ -33,6 +36,8 @@ class ResourceCollector:
     _phases_mapping: dict[str, str] = None
 
     def __post_init__(self):
+        logger.info("Loading predefined schemas from %s", self.resource_dir)
+
         with (self.resource_dir / "_phases_mapping.json").open("r") as p:
             self._phases_mapping = json.load(p)
 
@@ -46,6 +51,8 @@ class ResourceCollector:
             self.wears = json.load(p)
 
     async def fetch_data(self) -> tuple[typings.ITEMS_GAME, typings.CSGO_ENGLISH, typings.ITEMS_CDN]:
+        logger.info("Fetching upstream game data")
+
         async with aiohttp.ClientSession() as session:
             tasks = (
                 session.get(self.items_game_url),
@@ -59,6 +66,12 @@ class ResourceCollector:
         items_game = vdf.loads(items_game_raw)["items_game"]
         csgo_english = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
         items_cdn = {k: v for k, v in (l.split("=") for l in items_game_cdn_raw.splitlines()[3:])}
+
+        logger.info(
+            "Fetched %d items and %d localized tokens",
+            len(items_game["items"]),
+            len(csgo_english),
+        )
 
         return items_game, csgo_english, items_cdn
 
@@ -75,6 +88,8 @@ class ResourceCollector:
                 f.write(file)
 
     async def collect(self):
+        logger.info("Starting schema collection")
+
         items_game, csgo_english, items_cdn = await self.fetch_data()
 
         fields_collector = FieldsCollector(items_game, csgo_english, self._phases_mapping)
@@ -99,6 +114,13 @@ class ResourceCollector:
         stickers, patches, graffities = sticker_kit_collector()
         sticker_kits = {**stickers, **patches, **graffities}
 
+        logger.info(
+            "Collected %d definitions, %d items, and %d containers",
+            len(definitions),
+            len(items),
+            len(containers),
+        )
+
         to_json_dump = [
             ("types.json", types),
             ("qualities.json", qualities),
@@ -122,5 +144,8 @@ class ResourceCollector:
         )
         sql_dumps = sql_creator.create()
 
+        logger.info("Writing %d JSON schemas and %d SQL scripts", len(to_json_dump), len(sql_dumps))
+
         self.dump_json_files(*to_json_dump, dir=self.resource_dir)
         self.dump_files(*sql_dumps, dir=self.sql_dir)
+        logger.info("Schema collection completed")
