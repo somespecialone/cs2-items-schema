@@ -3166,9 +3166,105 @@
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "1442": {
+    "name": "Smart Gun",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1443": {
+    "name": "Hydraulics",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1445": {
+    "name": "Monarch",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1446": {
+    "name": "Dark Operative",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1447": {
+    "name": "Perimeter",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1448": {
+    "name": "Video Cam",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1449": {
+    "name": "AUTOEXEC",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "145": {
     "name": "Wurst H\u00f6lle",
     "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1450": {
+    "name": "Ghost Protocol",
+    "rarity": "5",
+    "wear_max": 0.9,
+    "wear_min": 0.0
+  },
+  "1451": {
+    "name": "Spiral Glitch",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1452": {
+    "name": "Signal Scanner",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1453": {
+    "name": "Sirocco Script",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1454": {
+    "name": "Arabesque Mosaic",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1455": {
+    "name": "Lotus Imprint",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1457": {
+    "name": "Desert Seal",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1458": {
+    "name": "Eastern Enigma",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1459": {
+    "name": "Mystic Conjunction",
+    "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
@@ -3178,11 +3274,119 @@
     "wear_max": 0.75,
     "wear_min": 0.0
   },
+  "1460": {
+    "name": "Ifrit Lattice",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1461": {
+    "name": "Snake Song",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1462": {
+    "name": "Sultan",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1463": {
+    "name": "Falak",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1464": {
+    "name": "Lapis Lazuli",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1465": {
+    "name": "Sovereign Flame",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1466": {
+    "name": "Consequence of the Jinn",
+    "rarity": "5",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1467": {
+    "name": "Black Box",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1468": {
+    "name": "Base-2",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1469": {
+    "name": "Spy Prototype",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "147": {
     "name": "Jungle Dashed",
     "rarity": "1",
     "wear_max": 0.8,
     "wear_min": 0.06
+  },
+  "1470": {
+    "name": "Arctic Camo Panels",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1471": {
+    "name": "Black Site",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1472": {
+    "name": "Traitor",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1473": {
+    "name": "Dune Asp",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1474": {
+    "name": "Morning Sun",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1475": {
+    "name": "Lunar Wyrm",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1476": {
+    "name": "Fatal Glitch",
+    "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1477": {
+    "name": "Corp Defense",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
   },
   "148": {
     "name": "Sand Dashed",
