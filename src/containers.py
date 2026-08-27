@@ -66,6 +66,10 @@ class ContainersCollector:
                 continue
 
             container = {}
+            supply_crate_series = item_data.get("attributes", {}).get("set supply crate series")
+            if isinstance(supply_crate_series, dict):
+                supply_crate_series = supply_crate_series.get("value")
+
 
             # there can be image pointer for containers a la 'econ/weapon_cases/...'
 
@@ -95,15 +99,11 @@ class ContainersCollector:
                     loot_dict = self.items_game["client_loot_lists"][item_data["name"]]
 
                 elif (
-                    self.items_game["revolving_loot_lists"].get(
-                        item_data.get("attributes", {}).get("set supply crate series", {}).get("value")
-                    )
+                    self.items_game["revolving_loot_lists"].get(supply_crate_series)
                     in self.items_game["client_loot_lists"]
                 ):
                     loot_dict = self.items_game["client_loot_lists"][
-                        self.items_game["revolving_loot_lists"][
-                            item_data["attributes"]["set supply crate series"]["value"]
-                        ]
+                        self.items_game["revolving_loot_lists"][supply_crate_series]
                     ]
 
                 loot_list = self._get_loot_recursive(loot_dict)
@@ -126,15 +126,12 @@ class ContainersCollector:
                 containers_to_add = patch_capsules
 
             elif (
-                self.items_game["revolving_loot_lists"].get(
-                    item_data.get("attributes", {}).get("set supply crate series", {}).get("value")
-                )
+                self.items_game["revolving_loot_lists"].get(supply_crate_series)
                 in self.items_game["client_loot_lists"]
             ):
                 loot_dict = self.items_game["client_loot_lists"][
-                    self.items_game["revolving_loot_lists"][item_data["attributes"]["set supply crate series"]["value"]]
+                    self.items_game["revolving_loot_lists"][supply_crate_series]
                 ]
-
                 loot_list = self._get_loot_recursive(loot_dict)
 
                 if "musickit" in item_data["name"]:
