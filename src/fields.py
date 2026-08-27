@@ -138,7 +138,7 @@ class FieldsCollector:
             except KeyError:
                 pass
 
-        return {str(i): t for i, t in enumerate(types)}
+        return {str(i): item_type for i, item_type in enumerate(sorted(types))}
 
     def _parse_tints(self):
         tints = {}
