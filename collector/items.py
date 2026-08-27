@@ -24,7 +24,7 @@ class ItemsCollector:
             if "[" + paintindex + "]" + defindex in cont["items"]:
                 containers.add(cont_index)
 
-        return list(containers)
+        return sorted(containers)
 
     def _check_paintable(self, item_data: dict) -> bool:
         return bool(next(filter(lambda k: item_data["name"] in k, self.items_cdn.keys()), None))

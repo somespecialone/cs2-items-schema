@@ -18,7 +18,7 @@ class StickerKitsCollector:
             if sticker_kit_index in cont["kits"]:
                 containers.add(cont_index)
 
-        return list(containers)
+        return sorted(containers)
 
     def __call__(self) -> tuple:
         stickers = {}

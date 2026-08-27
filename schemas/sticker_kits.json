@@ -16364,16 +16364,16 @@
   },
   "1803": {
     "containers": [
-      "4324",
-      "4323"
+      "4323",
+      "4324"
     ],
     "name": "ELEAGUE (Holo) | Atlanta 2017",
     "rarity": "4"
   },
   "1804": {
     "containers": [
-      "4324",
-      "4323"
+      "4323",
+      "4324"
     ],
     "name": "ELEAGUE (Foil) | Atlanta 2017",
     "rarity": "5"
@@ -21606,22 +21606,22 @@
   },
   "2533": {
     "containers": [
-      "4478",
-      "4457",
-      "4474",
       "4456",
-      "4458"
+      "4457",
+      "4458",
+      "4474",
+      "4478"
     ],
     "name": "ELEAGUE (Holo) | Boston 2018",
     "rarity": "4"
   },
   "2534": {
     "containers": [
-      "4478",
-      "4457",
-      "4474",
       "4456",
-      "4458"
+      "4457",
+      "4458",
+      "4474",
+      "4478"
     ],
     "name": "ELEAGUE (Foil) | Boston 2018",
     "rarity": "5"
@@ -25355,8 +25355,8 @@
   },
   "300": {
     "containers": [
-      "4087",
-      "4086"
+      "4086",
+      "4087"
     ],
     "name": "ESL One (Foil) | Katowice 2015",
     "rarity": "5"
@@ -25717,8 +25717,8 @@
   },
   "3052": {
     "containers": [
-      "4534",
       "4533",
+      "4534",
       "4535"
     ],
     "name": "FACEIT (Holo) | London 2018",
@@ -25726,8 +25726,8 @@
   },
   "3053": {
     "containers": [
-      "4534",
       "4533",
+      "4534",
       "4535"
     ],
     "name": "FACEIT (Foil) | London 2018",
@@ -29517,8 +29517,8 @@
   "3557": {
     "containers": [
       "4584",
-      "4586",
-      "4585"
+      "4585",
+      "4586"
     ],
     "name": "IEM (Holo) | Katowice 2019",
     "rarity": "4"
@@ -29526,8 +29526,8 @@
   "3558": {
     "containers": [
       "4584",
-      "4586",
-      "4585"
+      "4585",
+      "4586"
     ],
     "name": "IEM (Foil) | Katowice 2019",
     "rarity": "5"
@@ -36566,48 +36566,48 @@
   },
   "4504": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Counter-Tech",
     "rarity": "3"
   },
   "4505": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Gold Web",
     "rarity": "3"
   },
   "4506": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Mastermind",
     "rarity": "3"
   },
   "4507": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Shattered Web",
     "rarity": "3"
   },
   "4508": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Terrorist-Tech",
     "rarity": "3"
   },
   "4509": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Web Stuck",
     "rarity": "3"
@@ -36618,24 +36618,24 @@
   },
   "4510": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Mastermind (Holo)",
     "rarity": "4"
   },
   "4511": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Web Stuck (Holo)",
     "rarity": "4"
   },
   "4512": {
     "containers": [
-      "4667",
-      "4600"
+      "4600",
+      "4667"
     ],
     "name": "Gold Web (Foil)",
     "rarity": "5"
@@ -40851,36 +40851,36 @@
   },
   "5050": {
     "containers": [
-      "4805",
+      "4803",
       "4804",
-      "4803"
+      "4805"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5051": {
     "containers": [
-      "4805",
+      "4803",
       "4804",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Holo) | Stockholm 2021",
     "rarity": "4"
   },
   "5052": {
     "containers": [
-      "4805",
+      "4803",
       "4804",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Foil) | Stockholm 2021",
     "rarity": "5"
   },
   "5053": {
     "containers": [
-      "4805",
+      "4803",
       "4804",
-      "4803"
+      "4805"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "6"
@@ -41373,18 +41373,18 @@
   },
   "5127": {
     "containers": [
-      "4808",
       "4806",
-      "4807"
+      "4807",
+      "4808"
     ],
     "name": "PGL | Stockholm 2021",
     "rarity": "3"
   },
   "5128": {
     "containers": [
-      "4808",
       "4806",
-      "4807"
+      "4807",
+      "4808"
     ],
     "name": "PGL (Gold) | Stockholm 2021",
     "rarity": "4"
