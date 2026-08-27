@@ -107,8 +107,8 @@ CREATE TABLE items (
 
 ;CREATE UNIQUE INDEX ix_paint_def ON items (def, paint);
 CREATE TABLE containers (
-	defindex SMALLINT NOT NULL, 
-	associated SMALLINT, 
+	defindex VARCHAR(16) NOT NULL, 
+	associated VARCHAR(16), 
 	`set` VARCHAR(60), 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(defindex) REFERENCES items (id), 
@@ -117,14 +117,14 @@ CREATE TABLE containers (
 
 ;
 CREATE TABLE sticker_kit_containers (
-	defindex SMALLINT NOT NULL, 
+	defindex VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(defindex) REFERENCES items (id)
 )
 
 ;
 CREATE TABLE music_kits (
-	defindex SMALLINT NOT NULL, 
+	defindex VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(defindex) REFERENCES items (id)
 )
@@ -132,7 +132,7 @@ CREATE TABLE music_kits (
 ;
 CREATE TABLE items_containers (
 	item VARCHAR(16) NOT NULL, 
-	container SMALLINT NOT NULL, 
+	container VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (item, container), 
 	CONSTRAINT uniq_item_container UNIQUE (item, container), 
 	FOREIGN KEY(item) REFERENCES items (id), 
@@ -142,7 +142,7 @@ CREATE TABLE items_containers (
 ;CREATE UNIQUE INDEX idx_item_container ON items_containers (item, container);
 CREATE TABLE musics_music_kits (
 	music SMALLINT NOT NULL, 
-	container SMALLINT NOT NULL, 
+	container VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (music, container), 
 	CONSTRAINT uniq_music_container UNIQUE (music, container), 
 	FOREIGN KEY(music) REFERENCES musics (id), 
@@ -152,7 +152,7 @@ CREATE TABLE musics_music_kits (
 ;CREATE UNIQUE INDEX idx_music_container ON musics_music_kits (music, container);
 CREATE TABLE sticker_kits_containers (
 	kit SMALLINT NOT NULL, 
-	container SMALLINT NOT NULL, 
+	container VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (kit, container), 
 	CONSTRAINT uniq_kit_container UNIQUE (kit, container), 
 	FOREIGN KEY(kit) REFERENCES sticker_kits (id), 

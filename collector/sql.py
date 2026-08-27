@@ -110,28 +110,28 @@ StickerKits = Table(
 Containers = Table(
     "containers",
     metadata,
-    Column("defindex", SmallInteger, ForeignKey(Items.c.id), primary_key=True),
-    Column("associated", SmallInteger, ForeignKey(Items.c.id)),
+    Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
+    Column("associated", String(16), ForeignKey(Items.c.id)),
     Column("set", String(60)),
 )
 
 StickerKitContainers = Table(
     "sticker_kit_containers",
     metadata,
-    Column("defindex", SmallInteger, ForeignKey(Items.c.id), primary_key=True),
+    Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
 )
 
 MusicKits = Table(
     "music_kits",
     metadata,
-    Column("defindex", SmallInteger, ForeignKey(Items.c.id), primary_key=True),
+    Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
 )
 
 ItemsContainersJunction = Table(
     "items_containers",
     metadata,
     Column("item", String(16), ForeignKey(Items.c.id), primary_key=True, nullable=False),
-    Column("container", SmallInteger, ForeignKey(Containers.c.defindex), primary_key=True, nullable=False),
+    Column("container", String(16), ForeignKey(Containers.c.defindex), primary_key=True, nullable=False),
     UniqueConstraint("item", "container", name="uniq_item_container"),
     Index("idx_item_container", "item", "container", unique=True),
 )
@@ -140,7 +140,7 @@ MusicsMusicKitsJunction = Table(
     "musics_music_kits",
     metadata,
     Column("music", SmallInteger, ForeignKey(Musics.c.id), primary_key=True, nullable=False),
-    Column("container", SmallInteger, ForeignKey(MusicKits.c.defindex), primary_key=True, nullable=False),
+    Column("container", String(16), ForeignKey(MusicKits.c.defindex), primary_key=True, nullable=False),
     UniqueConstraint("music", "container", name="uniq_music_container"),
     Index("idx_music_container", "music", "container", unique=True),
 )
@@ -149,7 +149,7 @@ StickerKitsContainersJunction = Table(
     "sticker_kits_containers",
     metadata,
     Column("kit", SmallInteger, ForeignKey(StickerKits.c.id), primary_key=True, nullable=False),
-    Column("container", SmallInteger, ForeignKey(StickerKitContainers.c.defindex), primary_key=True, nullable=False),
+    Column("container", String(16), ForeignKey(StickerKitContainers.c.defindex), primary_key=True, nullable=False),
     UniqueConstraint("kit", "container", name="uniq_kit_container"),
     Index("idx_kit_container", "kit", "container", unique=True),
 )
@@ -327,9 +327,9 @@ class SQLCreator:
             containers.append(
                 Containers.insert()
                 .values(
-                    defindex=int(defindex),
+                    defindex=str(defindex),
                     set=cont_data.get("set"),
-                    associated=int(cont_data["associated"]) if "associated" in cont_data else None,
+                    associated=str(cont_data["associated"]) if "associated" in cont_data else None,
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
@@ -340,7 +340,7 @@ class SQLCreator:
                     ItemsContainersJunction.insert()
                     .values(
                         item=item_id,
-                        container=int(defindex),
+                        container=str(defindex),
                     )
                     .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                     .string
@@ -355,7 +355,7 @@ class SQLCreator:
             containers.append(
                 StickerKitContainers.insert()
                 .values(
-                    defindex=int(defindex),
+                    defindex=str(defindex),
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
@@ -366,7 +366,7 @@ class SQLCreator:
                     StickerKitsContainersJunction.insert()
                     .values(
                         kit=int(item_id),
-                        container=int(defindex),
+                        container=str(defindex),
                     )
                     .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                     .string
@@ -381,7 +381,7 @@ class SQLCreator:
             containers.append(
                 MusicKits.insert()
                 .values(
-                    defindex=int(defindex),
+                    defindex=str(defindex),
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
@@ -392,7 +392,7 @@ class SQLCreator:
                     MusicsMusicKitsJunction.insert()
                     .values(
                         music=int(item_id),
-                        container=int(defindex),
+                        container=str(defindex),
                     )
                     .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                     .string
