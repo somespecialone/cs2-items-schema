@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository generates and stores a normalized Counter-Strike 2 item schema from upstream game files. Consumers use the checked-in JSON resources in `schemas/` or relational DDL/data in `sql/`. The dataset comes only from game files and is intentionally not guaranteed to contain every market item.
+This repository generates and stores an understandable, deliberately simple & normalized Counter-Strike 2 item schema from upstream game files. Consumers use the checked-in JSON resources in `schemas/` or relational DDL/data in `sql/`. The dataset comes only from game files and is intentionally not guaranteed to contain every item.
 
 ## Architecture & Data Flow
 
@@ -31,9 +31,7 @@ Collectors are callable dataclasses (`collector(...)`) coordinated explicitly by
 Use `uv` from the repository root:
 
 ```bash
-uv sync --dev
 uv run collect.py
-uv run ruff check .
 ```
 
 `uv run collect.py` is the end-to-end generation/smoke path used by CI. It requires network access, downloads upstream assets, and rewrites outputs under `schemas/` and `sql/`; CI updates `manifest` separately after collection. There is no package build, application server, type-check command, or test command. `.vscode/tasks.json` also defines **Run collector** using `.venv/bin/python collect.py`.
@@ -59,20 +57,9 @@ uv run ruff check .
 - `collector/items.py`: item identity and paint/container relationship generation.
 - `collector/sticker_kits.py`: sticker, patch, and graffiti normalization.
 - `collector/sql.py`: SQLAlchemy schema and dialect-specific SQL generation.
-- `pyproject.toml`: Python version, dependencies, dev tools, and Ruff configuration.
-- `uv.lock`: reproducible dependency lock; keep it consistent with `pyproject.toml` despite the broad `*.lock` ignore rule.
 - `.github/workflows/schema.yml`: scheduled/manual generation and automated schema commit.
 - `README.md`: public data-model diagrams, scope limitations, and project purpose.
 - `manifest`: current upstream manifest identifier used to decide whether CI regenerates data.
-
-## Runtime/Tooling Preferences
-
-- Required runtime: Python 3.14 or newer, as declared by `pyproject.toml` and `uv.lock`.
-- Package/environment manager: `uv`; CI uses `astral-sh/setup-uv` with caching.
-- Runtime dependencies: `aiohttp`, `vdf`, `vpk`, and SQLAlchemy 2.x.
-- Do not assume Node.js, Bun, Docker, a build backend, or an installed console script.
-- `pak01_dir.vpk`, `.vscode/`, and lockfiles match ignore patterns even though examples may be present locally/tracked; avoid adding unrelated local artifacts.
-- Output directories must already exist; generation opens output paths directly.
 
 ## Testing & QA
 
