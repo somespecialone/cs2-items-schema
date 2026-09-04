@@ -72,7 +72,7 @@ Definitions = Table(
     metadata,
     Column("defindex", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(60), nullable=False),
-    Column("type", SmallInteger, ForeignKey(Types.c.id), nullable=False),
+    Column("type", SmallInteger, ForeignKey(Types.c.id)),
     Column("quality", SmallInteger, ForeignKey(Qualities.c.id)),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
 )
@@ -94,7 +94,6 @@ Items = Table(
     Column("id", String(16), primary_key=True),
     Column("def", SmallInteger, ForeignKey(Definitions.c.defindex), nullable=False),
     Column("paint", SmallInteger, ForeignKey(Paints.c.paintindex)),
-    Column("image", String(255)),
     UniqueConstraint("def", "paint", name="uniq_paint_def"),
     Index("ix_paint_def", "def", "paint", unique=True),
 )
@@ -257,7 +256,7 @@ class SQLCreator:
                 Definitions.insert()
                 .values(
                     defindex=int(defindex),
-                    type=int(def_data["type"]),
+                    type=int(def_data["type"]) if "type" in def_data else None,
                     quality=int(def_data["quality"]) if "quality" in def_data else None,
                     rarity=int(def_data["rarity"]) if "rarity" in def_data else None,
                     name=def_data["name"],
@@ -287,16 +286,24 @@ class SQLCreator:
 
         return paints
 
+    @staticmethod
+    def _item_indexes(item_id: str) -> tuple[int, int | None]:
+        if item_id.startswith("["):
+            paint_index, defindex = item_id[1:].split("]", maxsplit=1)
+            return int(defindex), int(paint_index)
+
+        return int(item_id), None
+
     def _populate_items(self):
         items = []
-        for item_id, item_data in self.items.items():
+        for item_id in self.items:
+            defindex, paint_index = self._item_indexes(item_id)
             items.append(
                 Items.insert()
                 .values(
                     id=item_id,
-                    **{"def": int(item_data["def"])},  # lol
-                    paint=int(item_data["paint"]) if "paint" in item_data else None,
-                    image=item_data.get("image"),
+                    **{"def": defindex},
+                    paint=paint_index,
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
@@ -415,7 +422,7 @@ class SQLCreator:
 
         containers, items_junc = self._populate_containers()
         sticker_kit_container, stick_junc = self._populate_sticker_kit_containers()
-        music_kits, music_junc = self._populate_sticker_kit_containers()
+        music_kits, music_junc = self._populate_music_kits()
 
         populate = ";\n".join(
             [

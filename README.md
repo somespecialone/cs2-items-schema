@@ -35,8 +35,8 @@ flowchart LR
     definitions --> items[items]
     paints --> items
     containers[containers] --> items
-    sticker_kit_containers[sticker_kit_containers] --> sticker_kits[sticker_kits]
-    music_kits[music_kits] --> musics[musics]
+    items --> sticker_kits[sticker_kits]
+    items --> musics[musics]
 ```
 
 ## SQL schema

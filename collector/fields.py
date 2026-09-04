@@ -34,7 +34,8 @@ class FieldsCollector:
 
     def _find_item_name(self, item_data: dict[str, str]) -> str | None:
         prefab = self._find_top_level_prefab(item_data, "item_name")
-        return self.csgo_english[prefab["item_name"][1:]]
+        item_name = prefab["item_name"]
+        return self.csgo_english[item_name.removeprefix("#")]
 
     def _find_top_level_prefab(self, data: dict[str, str], attr: str):
         # KeyError excepted on upper level of the stack
@@ -58,13 +59,19 @@ class FieldsCollector:
 
     def _parse_definitions(self) -> dict[str, dict[str, str]]:
         definitions = {}
+
         for defindex, item_data in self.items_game["items"].items():
+            if not defindex.isdigit():
+                continue
+
             try:
                 definition = {
-                    # "key": item_data["name"],
                     "name": self._find_item_name(item_data),
-                    "type": self._find_type(item_data),
                 }
+                try:
+                    definition["type"] = self._find_type(item_data)
+                except KeyError:
+                    pass
 
                 # we have quality on inspected item
                 if quality_key := item_data.get("item_quality"):

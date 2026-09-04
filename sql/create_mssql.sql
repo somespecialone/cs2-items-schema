@@ -62,7 +62,7 @@ CREATE TABLE wears (
 CREATE TABLE definitions (
 	defindex SMALLINT NOT NULL, 
 	name VARCHAR(60) NOT NULL, 
-	type SMALLINT NOT NULL, 
+	type SMALLINT NULL, 
 	quality SMALLINT NULL, 
 	rarity SMALLINT NULL, 
 	PRIMARY KEY (defindex), 
@@ -98,7 +98,6 @@ CREATE TABLE items (
 	id VARCHAR(16) NOT NULL, 
 	def SMALLINT NOT NULL, 
 	paint SMALLINT NULL, 
-	image VARCHAR(255) NULL, 
 	PRIMARY KEY (id), 
 	CONSTRAINT uniq_paint_def UNIQUE (def, paint), 
 	FOREIGN KEY(def) REFERENCES definitions (defindex), 

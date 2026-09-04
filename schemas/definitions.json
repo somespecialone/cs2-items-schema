@@ -6508,6 +6508,9 @@
     "name": "Premier Season Three Medal",
     "type": "4"
   },
+  "5176": {
+    "name": "Sealed Genesis Terminal"
+  },
   "5177": {
     "name": "Golden Map Coin",
     "type": "4"
@@ -6527,6 +6530,9 @@
   "5180": {
     "name": "(Redacted) Map Coin",
     "type": "4"
+  },
+  "5181": {
+    "name": "Sealed Dead Hand Terminal"
   },
   "519": {
     "name": "Ursus Knife",
@@ -7696,8 +7702,16 @@
     "name": "Fever Case Key",
     "type": "12"
   },
+  "7011": {
+    "name": "Warhammer 40,000 Traitor Astartes Sticker Capsule",
+    "type": "5"
+  },
   "7012": {
     "name": "Warhammer 40,000 Traitor Astartes Sticker Capsule",
+    "type": "5"
+  },
+  "7013": {
+    "name": "Warhammer 40,000 Adeptus Astartes Sticker Capsule",
     "type": "5"
   },
   "7014": {
@@ -7710,6 +7724,10 @@
   },
   "7016": {
     "name": "Warhammer 40,000 Imperium Sticker Capsule",
+    "type": "5"
+  },
+  "7017": {
+    "name": "Warhammer 40,000 Xenos Sticker Capsule",
     "type": "5"
   },
   "7018": {
@@ -7778,6 +7796,10 @@
   },
   "7040": {
     "name": "Music Kit | ShockOne, Voices",
+    "type": "5"
+  },
+  "7041": {
+    "name": "Jackass Sticker Capsule",
     "type": "5"
   },
   "7042": {
