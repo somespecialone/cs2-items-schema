@@ -90,10 +90,10 @@ class FieldsCollector:
     def _parse_paints(self):
         paints = {}
         for paintindex, paint_data in self.items_game["paint_kits"].items():
-            try:
+            if description_tag := paint_data.get("description_tag"):
                 paint = {
                     # "key": paint_data["name"],
-                    "name": self.csgo_english[paint_data["description_tag"][1:]],
+                    "name": self.csgo_english.get(description_tag.removeprefix("#")),
                     "wear_min": float(paint_data.get("wear_remap_min", 0.06)),
                     "wear_max": float(paint_data.get("wear_remap_max", 0.8)),
                 }
@@ -103,8 +103,6 @@ class FieldsCollector:
                     paint["rarity"] = self._rarities_mapping[rarity_key]
 
                 paints[paintindex] = paint
-            except KeyError:
-                pass
 
         del paints["0"]  # remove unused
 

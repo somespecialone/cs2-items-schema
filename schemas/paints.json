@@ -815,6 +815,12 @@
     "wear_max": 0.57,
     "wear_min": 0.0
   },
+  "106": {
+    "name": "Vaporwave",
+    "rarity": "5",
+    "wear_max": 0.597321,
+    "wear_min": 0.0
+  },
   "1060": {
     "name": "Spring Twilly",
     "rarity": "3",
@@ -1187,6 +1193,12 @@
     "wear_max": 0.5,
     "wear_min": 0.0
   },
+  "112": {
+    "name": "Hydro Strike",
+    "rarity": "4",
+    "wear_max": 0.801418,
+    "wear_min": 0.0
+  },
   "1120": {
     "name": "Gamma Doppler",
     "rarity": "5",
@@ -1239,6 +1251,12 @@
     "name": "Dream Glade",
     "rarity": "4",
     "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "113": {
+    "name": "The Outsiders",
+    "rarity": "4",
+    "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1130": {
@@ -1301,6 +1319,12 @@
     "wear_max": 0.57,
     "wear_min": 0.0
   },
+  "114": {
+    "name": "Calligraffiti",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "1140": {
     "name": "Spirit Board",
     "rarity": "3",
@@ -1357,6 +1381,12 @@
   },
   "1149": {
     "name": "Poly Mag",
+    "rarity": "2",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "115": {
+    "name": "27",
     "rarity": "2",
     "wear_max": 1.0,
     "wear_min": 0.0
@@ -1487,6 +1517,12 @@
     "wear_max": 0.698529,
     "wear_min": 0.0
   },
+  "117": {
+    "name": "Trail Blazer",
+    "rarity": "3",
+    "wear_max": 0.702614,
+    "wear_min": 0.0
+  },
   "1170": {
     "name": "Chrome Cannon",
     "rarity": "5",
@@ -1539,6 +1575,12 @@
     "name": "Olive Polycam",
     "rarity": "1",
     "wear_max": 0.5,
+    "wear_min": 0.0
+  },
+  "118": {
+    "name": "Turbine",
+    "rarity": "3",
+    "wear_max": 0.85,
     "wear_min": 0.0
   },
   "1180": {
@@ -1655,6 +1697,12 @@
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "120": {
+    "name": "Hypnosis",
+    "rarity": "3",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
   "1200": {
     "name": "Green Line",
     "rarity": "2",
@@ -1713,6 +1761,12 @@
     "name": "Hellish",
     "rarity": "4",
     "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "121": {
+    "name": "Luxe Trim",
+    "rarity": "3",
+    "wear_max": 0.9,
     "wear_min": 0.0
   },
   "1210": {
@@ -1840,6 +1894,12 @@
     "rarity": "4",
     "wear_max": 0.79,
     "wear_min": 0.21
+  },
+  "123": {
+    "name": "Tango",
+    "rarity": "3",
+    "wear_max": 0.851064,
+    "wear_min": 0.0
   },
   "1230": {
     "name": "Re.built",
@@ -2033,6 +2093,12 @@
     "wear_max": 0.6,
     "wear_min": 0.0
   },
+  "126": {
+    "name": "Saibā Oni",
+    "rarity": "4",
+    "wear_max": 0.66,
+    "wear_min": 0.0
+  },
   "1260": {
     "name": "Sour Grapes",
     "rarity": "2",
@@ -2091,6 +2157,12 @@
     "name": "Storm Camo",
     "rarity": "1",
     "wear_max": 0.637288,
+    "wear_min": 0.0
+  },
+  "127": {
+    "name": "Randy Rush",
+    "rarity": "4",
+    "wear_max": 0.75,
     "wear_min": 0.0
   },
   "1270": {
@@ -2153,6 +2225,12 @@
     "wear_max": 0.8,
     "wear_min": 0.0
   },
+  "128": {
+    "name": "Rapid Transit",
+    "rarity": "4",
+    "wear_max": 0.75,
+    "wear_min": 0.0
+  },
   "1280": {
     "name": "Green Energy",
     "rarity": "4",
@@ -2211,6 +2289,12 @@
     "name": "Tiger Tear",
     "rarity": "2",
     "wear_max": 0.55,
+    "wear_min": 0.0
+  },
+  "129": {
+    "name": "Gold Toof",
+    "rarity": "5",
+    "wear_max": 0.730496,
     "wear_min": 0.0
   },
   "1290": {
@@ -2279,6 +2363,12 @@
     "wear_max": 0.8,
     "wear_min": 0.06
   },
+  "130": {
+    "name": "Epicenter",
+    "rarity": "5",
+    "wear_max": 0.8,
+    "wear_min": 0.0
+  },
   "1300": {
     "name": "Raw Ceramic",
     "rarity": "1",
@@ -2336,6 +2426,12 @@
   "1309": {
     "name": "Nouveau Rouge",
     "rarity": "4",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "131": {
+    "name": "Neo-Noir",
+    "rarity": "5",
     "wear_max": 1.0,
     "wear_min": 0.0
   },
@@ -2953,6 +3049,12 @@
   },
   "1406": {
     "name": "Frosty",
+    "rarity": "6",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1407": {
+    "name": "Blaze",
     "rarity": "6",
     "wear_max": 0.8,
     "wear_min": 0.06
