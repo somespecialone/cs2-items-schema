@@ -31,10 +31,9 @@ flowchart LR
     qualities[qualities] --> definitions
     rarities[rarities] --> definitions
     rarities --> paints[paints]
-    phases[phases] --> paints
     definitions --> items[items]
     paints --> items
-    containers[containers] --> items
+    containers[containers] <--> items
     items --> sticker_kits[sticker_kits]
     items --> musics[musics]
 ```
@@ -47,7 +46,6 @@ erDiagram
     QUALITIES o|--o{ DEFINITIONS : qualifies
     RARITIES o|--o{ DEFINITIONS : ranks
     RARITIES ||--o{ PAINTS : ranks
-    PHASES o|--o{ PAINTS : groups
     DEFINITIONS ||--o{ ITEMS : defines
     PAINTS o|--o{ ITEMS : decorates
     ITEMS ||--o| CONTAINERS : identifies

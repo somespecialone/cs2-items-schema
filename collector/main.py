@@ -22,7 +22,6 @@ ITEM_IMAGE_PATH_PREFIX = "panorama/images/econ/default_generated/"
 ITEM_IMAGE_PATH_SUFFIX = "_light_png.vtex_c"
 
 
-
 @dataclass(eq=False, repr=False)
 class ResourceCollector:
     resource_dir: Path = field(default_factory=lambda: Path("schemas"))
@@ -31,28 +30,6 @@ class ResourceCollector:
     items_game_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/items_game.txt"
     csgo_english_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/csgo_english.txt"
     items_vpk_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/pak01_dir.vpk"
-
-    # predefined schemas
-    phases: dict[str, str] = None
-    origins: dict[str, str] = None
-    wears: list[dict[str, ...]] = None
-
-    _phases_mapping: dict[str, str] = None
-
-    def __post_init__(self):
-        logger.info("Loading predefined schemas from %s", self.resource_dir)
-
-        with (self.resource_dir / "_phases_mapping.json").open("r") as p:
-            self._phases_mapping = json.load(p)
-
-        with (self.resource_dir / "phases.json").open("r") as p:
-            self.phases = json.load(p)
-
-        with (self.resource_dir / "origins.json").open("r") as p:
-            self.origins = json.load(p)
-
-        with (self.resource_dir / "wears.json").open("r") as p:
-            self.wears = json.load(p)
 
     async def fetch_data(self) -> tuple[typings.ITEMS_GAME, typings.CSGO_ENGLISH, typings.ITEM_IDENTITIES]:
         logger.info("Fetching upstream game data")
@@ -81,7 +58,6 @@ class ResourceCollector:
         if not item_identities:
             raise ValueError("VPK index contains no item identities")
 
-
         logger.info(
             "Fetched %d items, %d localized tokens, and %d item identities",
             len(items_game["items"]),
@@ -108,7 +84,7 @@ class ResourceCollector:
 
         items_game, csgo_english, item_identities = await self.fetch_data()
 
-        fields_collector = FieldsCollector(items_game, csgo_english, self._phases_mapping)
+        fields_collector = FieldsCollector(items_game, csgo_english)
         types, qualities, definitions, paints, rarities, musics, tints = fields_collector()
 
         containers_collector = ContainersCollector(items_game, csgo_english)
@@ -169,9 +145,6 @@ class ResourceCollector:
             sticker_kits=sticker_kits,
             music_kits=music_kits,
             tints=tints,
-            phases=self.phases,
-            wears=self.wears,
-            origins=self.origins,
         )
         sql_dumps = sql_creator.create()
 

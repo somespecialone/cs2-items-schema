@@ -14,12 +14,6 @@ Types = Table(
     Column("name", String(16)),
 )
 
-Origins = Table(
-    "origins",
-    metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(30)),
-)
 
 Qualities = Table(
     "qualities",
@@ -28,12 +22,6 @@ Qualities = Table(
     Column("name", String(16)),
 )
 
-Phases = Table(
-    "phases",
-    metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(16)),
-)
 
 Tints = Table(
     "tints",
@@ -59,13 +47,6 @@ Rarities = Table(
     Column("weapon", String(16), nullable=False),
 )
 
-Wears = Table(
-    "wears",
-    metadata,
-    Column("name", String(30), primary_key=True),
-    Column("from", Float, nullable=False),
-    Column("to", Float, nullable=False),
-)
 
 Definitions = Table(
     "definitions",
@@ -85,7 +66,6 @@ Paints = Table(
     Column("wear_min", Float, nullable=False),
     Column("wear_max", Float, nullable=False),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id), nullable=False),
-    Column("phase", SmallInteger, ForeignKey(Phases.c.id)),
 )
 
 Items = Table(
@@ -168,9 +148,6 @@ class SQLCreator:
     sticker_kits: dict[str, dict]
     music_kits: dict[str, dict]
     tints: dict[str, str]
-    phases: dict[str, str]
-    origins: dict[str, str]
-    wears: list[dict[str, ...]]
 
     dialect: Dialect = field(default_factory=sqlite.dialect)
 
@@ -217,13 +194,11 @@ class SQLCreator:
 
     def _populate_base_fields(self):
         types = self._base_field(Types, self.types)
-        origins = self._base_field(Origins, self.origins)
         musics = self._base_field(Musics, self.musics)
         qualities = self._base_field(Qualities, self.qualities)
-        phases = self._base_field(Phases, self.phases)
         tints = self._base_field(Tints, self.tints)
 
-        return types, origins, musics, qualities, phases, tints
+        return types, musics, qualities, tints
 
     def _populate_rarities(self):
         rarities = []
@@ -236,18 +211,6 @@ class SQLCreator:
             )
 
         return rarities
-
-    def _populate_wears(self):
-        wears = []
-        for wear_data in self.wears:
-            wears.append(
-                Wears.insert()
-                .values(**wear_data)
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
-            )
-
-        return wears
 
     def _populate_defs(self):
         defs = []
@@ -274,7 +237,6 @@ class SQLCreator:
                 Paints.insert()
                 .values(
                     paintindex=int(paintindex),
-                    phase=int(paint_data["phase"]) if "phase" in paint_data else None,
                     rarity=int(paint_data["rarity"]),
                     name=paint_data["name"],
                     wear_min=paint_data["wear_min"],
@@ -410,10 +372,9 @@ class SQLCreator:
     def create(self) -> list[tuple[str, str]]:
         create_scripts = self._create_expression()
 
-        types, origins, musics, qualities, phases, tints = self._populate_base_fields()
+        types, musics, qualities, tints = self._populate_base_fields()
 
         rarities = self._populate_rarities()
-        wears = self._populate_wears()
         defs = self._populate_defs()
         paints = self._populate_paints()
 
@@ -427,13 +388,10 @@ class SQLCreator:
         populate = ";\n".join(
             [
                 *types,
-                *origins,
                 *musics,
                 *qualities,
-                *phases,
                 *tints,
                 *rarities,
-                *wears,
                 *defs,
                 *paints,
                 *items,

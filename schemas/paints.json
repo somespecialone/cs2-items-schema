@@ -1183,35 +1183,30 @@
   },
   "1119": {
     "name": "Gamma Doppler",
-    "phase": "8",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1120": {
     "name": "Gamma Doppler",
-    "phase": "1",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1121": {
     "name": "Gamma Doppler",
-    "phase": "2",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1122": {
     "name": "Gamma Doppler",
-    "phase": "3",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
   },
   "1123": {
     "name": "Gamma Doppler",
-    "phase": "4",
     "rarity": "5",
     "wear_max": 0.5,
     "wear_min": 0.0
@@ -5112,35 +5107,30 @@
   },
   "415": {
     "name": "Doppler",
-    "phase": "5",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "416": {
     "name": "Doppler",
-    "phase": "6",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "417": {
     "name": "Doppler",
-    "phase": "7",
     "rarity": "6",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "418": {
     "name": "Doppler",
-    "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "419": {
     "name": "Doppler",
-    "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
@@ -5153,14 +5143,12 @@
   },
   "420": {
     "name": "Doppler",
-    "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "421": {
     "name": "Doppler",
-    "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
@@ -6079,35 +6067,30 @@
   },
   "568": {
     "name": "Gamma Doppler",
-    "phase": "8",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "569": {
     "name": "Gamma Doppler",
-    "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "570": {
     "name": "Gamma Doppler",
-    "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "571": {
     "name": "Gamma Doppler",
-    "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "572": {
     "name": "Gamma Doppler",
-    "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
@@ -6402,21 +6385,18 @@
   },
   "617": {
     "name": "Doppler",
-    "phase": "7",
     "rarity": "6",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "618": {
     "name": "Doppler",
-    "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "619": {
     "name": "Doppler",
-    "phase": "6",
     "rarity": "5",
     "wear_max": 0.08,
     "wear_min": 0.0
@@ -7869,28 +7849,24 @@
   },
   "852": {
     "name": "Doppler",
-    "phase": "1",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "853": {
     "name": "Doppler",
-    "phase": "2",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "854": {
     "name": "Doppler",
-    "phase": "3",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0
   },
   "855": {
     "name": "Doppler",
-    "phase": "4",
     "rarity": "4",
     "wear_max": 0.08,
     "wear_min": 0.0

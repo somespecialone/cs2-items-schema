@@ -6,21 +6,7 @@ CREATE TABLE types (
 )
 
 ;
-CREATE TABLE origins (
-	id SMALLINT NOT NULL, 
-	name VARCHAR2(30 CHAR), 
-	PRIMARY KEY (id)
-)
-
-;
 CREATE TABLE qualities (
-	id SMALLINT NOT NULL, 
-	name VARCHAR2(16 CHAR), 
-	PRIMARY KEY (id)
-)
-
-;
-CREATE TABLE phases (
 	id SMALLINT NOT NULL, 
 	name VARCHAR2(16 CHAR), 
 	PRIMARY KEY (id)
@@ -51,14 +37,6 @@ CREATE TABLE rarities (
 )
 
 ;
-CREATE TABLE wears (
-	name VARCHAR2(30 CHAR) NOT NULL, 
-	"from" FLOAT NOT NULL, 
-	"to" FLOAT NOT NULL, 
-	PRIMARY KEY (name)
-)
-
-;
 CREATE TABLE definitions (
 	defindex SMALLINT NOT NULL, 
 	name VARCHAR2(60 CHAR) NOT NULL, 
@@ -78,10 +56,8 @@ CREATE TABLE paints (
 	wear_min FLOAT NOT NULL, 
 	wear_max FLOAT NOT NULL, 
 	rarity SMALLINT NOT NULL, 
-	phase SMALLINT, 
 	PRIMARY KEY (paintindex), 
-	FOREIGN KEY(rarity) REFERENCES rarities (id), 
-	FOREIGN KEY(phase) REFERENCES phases (id)
+	FOREIGN KEY(rarity) REFERENCES rarities (id)
 )
 
 ;

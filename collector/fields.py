@@ -6,11 +6,10 @@ from .utils import invert_dict
 
 @dataclass(repr=False, eq=False)
 class FieldsCollector:
-    """Collect origins, qualities, types, paints and rarities from game data."""
+    """Collect qualities, types, paints and rarities from game data."""
 
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
-    phases_mapping: dict[str, str]
 
     _types_mapping: dict[str, str] = None
     _qualities_mapping: dict[str, str] = field(default_factory=dict)
@@ -98,9 +97,6 @@ class FieldsCollector:
                     "wear_min": float(paint_data.get("wear_remap_min", 0.06)),
                     "wear_max": float(paint_data.get("wear_remap_max", 0.8)),
                 }
-
-                if "doppler" in paint["name"].lower() and (phase := self.phases_mapping.get(paintindex)):
-                    paint["phase"] = phase
 
                 # we have rarity on inspected item
                 if rarity_key := self.items_game["paint_kits_rarity"].get(paint_data["name"]):
