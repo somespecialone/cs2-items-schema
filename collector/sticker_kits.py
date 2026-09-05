@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from typing import Any
 
 from . import typings
 
@@ -10,7 +11,7 @@ class StickerKitsCollector:
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
 
-    containers: dict[str, dict]
+    containers: dict[str, dict[str, Any]]
 
     def _find_containers(self, sticker_kit_index: str) -> list[str]:
         containers = set()
@@ -20,15 +21,15 @@ class StickerKitsCollector:
 
         return sorted(containers)
 
-    def __call__(self) -> tuple:
-        stickers = {}
-        patches = {}
-        graffities = {}
+    def __call__(self) -> tuple[dict[str, dict[str, str | list[str]]], ...]:
+        stickers: dict[str, dict[str, str | list[str]]] = {}
+        patches: dict[str, dict[str, str | list[str]]] = {}
+        graffities: dict[str, dict[str, str | list[str]]] = {}
 
         sticker_kit_data: dict[str, str]
         for sticker_kit_index, sticker_kit_data in self.items_game["sticker_kits"].items():
             try:
-                sticker_kit = {
+                sticker_kit: dict[str, str | list[str]] = {
                     "name": self.csgo_english[sticker_kit_data["item_name"][1:]],
                 }
 

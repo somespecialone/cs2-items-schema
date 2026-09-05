@@ -1,7 +1,7 @@
-from typing import Any, TypeAlias
+from typing import Any
 
 from multidict import CIMultiDict
 
-ITEMS_GAME: TypeAlias = "dict[str, dict[str, Any]]"
-CSGO_ENGLISH: TypeAlias = "CIMultiDict[str, str]"
-ITEM_IDENTITIES: TypeAlias = set[str]
+type ITEMS_GAME = dict[str, dict[str, Any]]
+type CSGO_ENGLISH = CIMultiDict[str]
+type ITEM_IDENTITIES = set[str]

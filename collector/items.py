@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+from typing import Any
 
 from . import typings
 
@@ -11,7 +12,7 @@ class ItemsCollector:
 
     paints: dict[str, str]
     definitions: dict[str, dict[str, str]]
-    containers: dict[str, dict[str | list[str]]]
+    containers: dict[str, dict[str, list[str]]]
 
     def _create_painted_item_name(self, defindex: str, paint_index: str) -> str:
         paint_codename = "_" + self.items_game["paint_kits"][paint_index]["name"]
@@ -26,7 +27,7 @@ class ItemsCollector:
 
         return sorted(containers)
 
-    def __call__(self) -> dict[str, dict]:
+    def __call__(self) -> dict[str, dict[str, Any]]:
         items = {}
 
         for defindex in self.items_game["items"]:

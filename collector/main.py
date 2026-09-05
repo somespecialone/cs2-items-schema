@@ -3,6 +3,7 @@ import json
 import logging
 from dataclasses import dataclass, field
 from pathlib import Path
+from typing import Any
 
 import aiohttp
 import vdf
@@ -73,7 +74,7 @@ class ResourceCollector:
         return items_game, csgo_english, item_identities
 
     @staticmethod
-    def dump_json_files(*files: tuple[str | Path, dict | list], dir: Path):
+    def dump_json_files(*files: tuple[str | Path, dict[str, Any] | list[Any]], dir: Path):
         for file_name, file in files:
             with (dir / file_name).open("w", encoding="utf8") as f:
                 json.dump(file, f, ensure_ascii=False, sort_keys=True, indent=2)

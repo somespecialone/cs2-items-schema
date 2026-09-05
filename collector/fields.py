@@ -1,4 +1,5 @@
 from dataclasses import dataclass, field
+from typing import Any
 
 from . import typings
 from .utils import invert_dict
@@ -11,7 +12,7 @@ class FieldsCollector:
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
 
-    _types_mapping: dict[str, str] = None
+    _types_mapping: dict[str, str] = field(default_factory=dict)
     _qualities_mapping: dict[str, str] = field(default_factory=dict)
     _rarities_mapping: dict[str, str] = field(default_factory=dict)
 
@@ -158,7 +159,7 @@ class FieldsCollector:
 
         return music_defs
 
-    def __call__(self) -> tuple[dict, ...]:
+    def __call__(self) -> tuple[dict[str, Any], ...]:
         """Parse all data to indexed format"""
 
         # separate fields

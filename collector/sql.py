@@ -1,9 +1,10 @@
 from dataclasses import dataclass, field
+from typing import Any
 
-from sqlalchemy import create_mock_engine, MetaData, Table, Column, ForeignKey, UniqueConstraint, Index
-from sqlalchemy.types import SmallInteger, String, Float, TypeEngine
-from sqlalchemy.dialects import postgresql, mysql, mssql, oracle, sqlite
+from sqlalchemy import Column, ForeignKey, Index, MetaData, Table, UniqueConstraint, create_mock_engine
+from sqlalchemy.dialects import mssql, mysql, oracle, postgresql, sqlite
 from sqlalchemy.engine.interfaces import Dialect
+from sqlalchemy.types import Float, SmallInteger, String, TypeEngine
 
 metadata = MetaData()
 
@@ -138,15 +139,15 @@ StickerKitsContainersJunction = Table(
 class SQLCreator:
     types: dict[str, str]
     qualities: dict[str, str]
-    definitions: dict[str, dict]
-    paints: dict[str, dict]
+    definitions: dict[str, dict[str, Any]]
+    paints: dict[str, dict[str, Any]]
     musics: dict[str, str]
-    rarities: dict[str, dict]
-    containers: dict[str, dict]
-    sticker_kit_containers: dict[str, dict]
-    items: dict[str, dict]
-    sticker_kits: dict[str, dict]
-    music_kits: dict[str, dict]
+    rarities: dict[str, dict[str, Any]]
+    containers: dict[str, dict[str, Any]]
+    sticker_kit_containers: dict[str, dict[str, Any]]
+    items: dict[str, dict[str, Any]]
+    sticker_kits: dict[str, dict[str, Any]]
+    music_kits: dict[str, dict[str, Any]]
     tints: dict[str, str]
 
     dialect: Dialect = field(default_factory=sqlite.dialect)
@@ -166,7 +167,7 @@ class SQLCreator:
 
             script_arr = []
 
-            def dump(sql: TypeEngine, *multiparams, **params):
+            def dump(sql: TypeEngine[Any], *multiparams, dialect=dialect, script_arr=script_arr, **params):
                 exp = sql.compile(dialect=dialect)
                 script_arr.append(str(exp))
 
