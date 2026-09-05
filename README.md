@@ -9,8 +9,6 @@
 This is storage repo of `CS2` (ex. `CSGO`) items schema with attempt to create more understandable format
 of `CS2` items and their relations.
 
-> Feel free to use it if you need 😊
-
 > [!IMPORTANT]
 > 📦 Contains data extracted from game files only.
 > **Does not include all items**
@@ -69,4 +67,4 @@ erDiagram
 
 ## Credits
 
-- [csfloat/cs-files](https://github.com/csfloat/cs-files)
+- [SteamTracking/GameTracking-CS2](https://github.com/SteamTracking/GameTracking-CS2)

@@ -1,13 +1,11 @@
 import asyncio
 import json
 import logging
-import tempfile
 from dataclasses import dataclass, field
 from pathlib import Path
 
 import aiohttp
 import vdf
-import vpk
 from multidict import CIMultiDict
 
 from . import typings
@@ -27,9 +25,17 @@ class ResourceCollector:
     resource_dir: Path = field(default_factory=lambda: Path("schemas"))
     sql_dir: Path = field(default_factory=lambda: Path("sql"))
 
-    items_game_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/items_game.txt"
-    csgo_english_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/csgo_english.txt"
-    items_vpk_url: str = "https://raw.githubusercontent.com/csfloat/cs-files/master/static/pak01_dir.vpk"
+    items_game_url: str = (
+        "https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/"
+        "game/csgo/pak01_dir/scripts/items/items_game.txt"
+    )
+    csgo_english_url: str = (
+        "https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/"
+        "game/csgo/pak01_dir/resource/csgo_english.txt"
+    )
+    items_index_url: str = (
+        "https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/game/csgo/pak01_dir.txt"
+    )
 
     async def fetch_data(self) -> tuple[typings.ITEMS_GAME, typings.CSGO_ENGLISH, typings.ITEM_IDENTITIES]:
         logger.info("Fetching upstream game data")
@@ -38,25 +44,24 @@ class ResourceCollector:
             tasks = (
                 session.get(self.items_game_url),
                 session.get(self.csgo_english_url),
-                session.get(self.items_vpk_url),
+                session.get(self.items_index_url),
             )
 
             resps = await asyncio.gather(*tasks)
-            items_game_raw, csgo_english_raw = [await resp.text() for resp in resps[:2]]
-            items_vpk_raw = await resps[2].read()
+            items_game_raw, csgo_english_raw, items_index_raw = await asyncio.gather(
+                *(resp.text() for resp in resps)
+            )
 
         items_game = vdf.loads(items_game_raw)["items_game"]
         csgo_english = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
-        with tempfile.NamedTemporaryFile() as items_vpk:
-            items_vpk.write(items_vpk_raw)
-            items_vpk.flush()
-            item_identities = {
-                path.removeprefix(ITEM_IMAGE_PATH_PREFIX).removesuffix(ITEM_IMAGE_PATH_SUFFIX)
-                for path in vpk.open(items_vpk.name)
-                if path.startswith(ITEM_IMAGE_PATH_PREFIX) and path.endswith(ITEM_IMAGE_PATH_SUFFIX)
-            }
+        item_identities = {
+            path.removeprefix(ITEM_IMAGE_PATH_PREFIX).removesuffix(ITEM_IMAGE_PATH_SUFFIX)
+            for line in items_index_raw.splitlines()
+            if (path := line.partition(" ")[0]).startswith(ITEM_IMAGE_PATH_PREFIX)
+            and path.endswith(ITEM_IMAGE_PATH_SUFFIX)
+        }
         if not item_identities:
-            raise ValueError("VPK index contains no item identities")
+            raise ValueError("Item index contains no item identities")
 
         logger.info(
             "Fetched %d items, %d localized tokens, and %d item identities",

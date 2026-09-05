@@ -4,36 +4,45 @@ on:
   schedule:
     # avoid delaying or even cancelling job & addressing github advice
     # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
-    - cron: "19 01 * * *"
+    - cron: "19 */2 * * *"
 
   workflow_dispatch:
 
 jobs:
-  manifest:
+  source:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     outputs:
-      local: ${{ steps.manifest.outputs.local }}
-      remote: ${{ steps.manifest.outputs.remote }}
+      local: ${{ steps.source.outputs.local }}
+      remote: ${{ steps.source.outputs.remote }}
     steps:
       - uses: actions/checkout@v6
 
-      - name: Load remote & local manifest ids
-        id: manifest
+      - name: Load remote and local source fingerprints
+        id: source
         run: |
-          echo "remote=$(curl -s https://raw.githubusercontent.com/csfloat/cs-files/master/static/manifestId.txt)" >> $GITHUB_OUTPUT
-          echo "local=$(cat manifest)" >> $GITHUB_OUTPUT
+          set -o pipefail
+          remote=$(
+            curl --fail --silent --show-error \
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/SteamTracking/GameTracking-CS2/contents/game/csgo/pak01_dir/scripts/items/items_game.txt?ref=master" \
+              "https://api.github.com/repos/SteamTracking/GameTracking-CS2/contents/game/csgo/pak01_dir/resource/csgo_english.txt?ref=master" \
+              "https://api.github.com/repos/SteamTracking/GameTracking-CS2/contents/game/csgo/pak01_dir.txt?ref=master" \
+              | jq -r ".sha" | sha256sum | cut -d " " -f 1
+          )
+          echo "remote=$remote" >> $GITHUB_OUTPUT
+          echo "local=$(cat source_hash)" >> $GITHUB_OUTPUT
 
   collect:
-    needs: manifest
-    if: needs.manifest.outputs.local != needs.manifest.outputs.remote
+    needs: source
+    if: needs.source.outputs.local != needs.source.outputs.remote
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: 3.x
 
@@ -45,11 +54,11 @@ jobs:
       - name: Collect data and create schemas
         run: uv run collect.py
 
-      - name: Update local manifest id
-        run: echo "${{ needs.manifest.outputs.remote }}" > manifest
+      - name: Update local source fingerprint
+        run: echo "${{ needs.source.outputs.remote }}" > source_hash
 
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "chore(schema): manifest ${{ needs.manifest.outputs.remote }}"
+          commit_message: "chore(schema): source ${{ needs.source.outputs.remote }}"
           commit_user_name: "CS2 Items Schema Bot"
