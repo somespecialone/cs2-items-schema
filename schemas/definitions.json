@@ -4584,6 +4584,7 @@
   },
   "4725": {
     "name": "Broken Fang Gloves",
+    "quality": "3",
     "type": "9"
   },
   "4726": {
@@ -5707,6 +5708,7 @@
   },
   "500": {
     "name": "Bayonet",
+    "quality": "3",
     "type": "13"
   },
   "5000": {
@@ -5803,6 +5805,7 @@
   },
   "5027": {
     "name": "Bloodhound Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5028": {
@@ -5815,30 +5818,37 @@
   },
   "503": {
     "name": "Classic Knife",
+    "quality": "3",
     "type": "13"
   },
   "5030": {
     "name": "Sport Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5031": {
     "name": "Driver Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5032": {
     "name": "Hand Wraps",
+    "quality": "3",
     "type": "9"
   },
   "5033": {
     "name": "Moto Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5034": {
     "name": "Specialist Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5035": {
     "name": "Hydra Gloves",
+    "quality": "3",
     "type": "9"
   },
   "5036": {
@@ -5911,6 +5921,7 @@
   },
   "505": {
     "name": "Flip Knife",
+    "quality": "3",
     "type": "13"
   },
   "5050": {
@@ -5965,6 +5976,7 @@
   },
   "506": {
     "name": "Gut Knife",
+    "quality": "3",
     "type": "13"
   },
   "5060": {
@@ -6019,6 +6031,7 @@
   },
   "507": {
     "name": "Karambit",
+    "quality": "3",
     "type": "13"
   },
   "5070": {
@@ -6073,6 +6086,7 @@
   },
   "508": {
     "name": "M9 Bayonet",
+    "quality": "3",
     "type": "13"
   },
   "5080": {
@@ -6127,6 +6141,7 @@
   },
   "509": {
     "name": "Huntsman Knife",
+    "quality": "3",
     "type": "13"
   },
   "5090": {
@@ -6266,6 +6281,7 @@
   },
   "512": {
     "name": "Falchion Knife",
+    "quality": "3",
     "type": "13"
   },
   "5120": {
@@ -6350,6 +6366,7 @@
   },
   "514": {
     "name": "Bowie Knife",
+    "quality": "3",
     "type": "13"
   },
   "5140": {
@@ -6394,6 +6411,7 @@
   },
   "515": {
     "name": "Butterfly Knife",
+    "quality": "3",
     "type": "13"
   },
   "5150": {
@@ -6438,6 +6456,7 @@
   },
   "516": {
     "name": "Shadow Daggers",
+    "quality": "3",
     "type": "13"
   },
   "5160": {
@@ -6482,6 +6501,7 @@
   },
   "517": {
     "name": "Paracord Knife",
+    "quality": "3",
     "type": "13"
   },
   "5170": {
@@ -6525,6 +6545,7 @@
   },
   "518": {
     "name": "Survival Knife",
+    "quality": "3",
     "type": "13"
   },
   "5180": {
@@ -6536,6 +6557,7 @@
   },
   "519": {
     "name": "Ursus Knife",
+    "quality": "3",
     "type": "13"
   },
   "52": {
@@ -6545,6 +6567,7 @@
   },
   "520": {
     "name": "Navaja Knife",
+    "quality": "3",
     "type": "13"
   },
   "5200": {
@@ -6598,6 +6621,7 @@
   },
   "521": {
     "name": "Nomad Knife",
+    "quality": "3",
     "type": "13"
   },
   "5210": {
@@ -6642,6 +6666,7 @@
   },
   "522": {
     "name": "Stiletto Knife",
+    "quality": "3",
     "type": "13"
   },
   "5220": {
@@ -6686,6 +6711,7 @@
   },
   "523": {
     "name": "Talon Knife",
+    "quality": "3",
     "type": "13"
   },
   "5230": {
@@ -6770,6 +6796,7 @@
   },
   "525": {
     "name": "Skeleton Knife",
+    "quality": "3",
     "type": "13"
   },
   "5250": {
@@ -6814,6 +6841,7 @@
   },
   "526": {
     "name": "Kukri Knife",
+    "quality": "3",
     "type": "13"
   },
   "5260": {

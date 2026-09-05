@@ -76,6 +76,14 @@ class FieldsCollector:
                 # we have quality on inspected item
                 if quality_key := item_data.get("item_quality"):
                     definition["quality"] = self._qualities_mapping[quality_key]
+                else:
+                    try:
+                        prefab = self._find_top_level_prefab(item_data, "craft_class")
+                    except KeyError:
+                        pass
+                    else:
+                        if prefab["craft_class"] == "unusual":
+                            definition["quality"] = self._qualities_mapping["unusual"]
 
                 if rarity_key := item_data.get("item_rarity"):
                     definition["rarity"] = self._rarities_mapping[rarity_key]
