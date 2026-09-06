@@ -1,13 +1,13 @@
 
 CREATE TABLE types (
-	id SMALLINT NOT NULL, 
+	id VARCHAR(60) NOT NULL, 
 	name VARCHAR(16) NULL, 
 	PRIMARY KEY (id)
 )
 
 ;
 CREATE TABLE qualities (
-	id SMALLINT NOT NULL, 
+	id VARCHAR(60) NOT NULL, 
 	name VARCHAR(16) NULL, 
 	PRIMARY KEY (id)
 )
@@ -28,7 +28,7 @@ CREATE TABLE musics (
 
 ;
 CREATE TABLE rarities (
-	id SMALLINT NOT NULL, 
+	id VARCHAR(60) NOT NULL, 
 	character VARCHAR(16) NULL, 
 	color VARCHAR(16) NOT NULL, 
 	nonweapon VARCHAR(16) NOT NULL, 
@@ -79,9 +79,9 @@ CREATE TABLE collections (
 CREATE TABLE definitions (
 	defindex SMALLINT NOT NULL, 
 	name VARCHAR(255) NOT NULL, 
-	type SMALLINT NULL, 
-	quality SMALLINT NULL, 
-	rarity SMALLINT NULL, 
+	type VARCHAR(60) NULL, 
+	quality VARCHAR(60) NULL, 
+	rarity VARCHAR(60) NULL, 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(type) REFERENCES types (id), 
 	FOREIGN KEY(quality) REFERENCES qualities (id), 
@@ -94,7 +94,7 @@ CREATE TABLE paints (
 	name VARCHAR(60) NOT NULL, 
 	wear_min FLOAT NOT NULL, 
 	wear_max FLOAT NOT NULL, 
-	rarity SMALLINT NOT NULL, 
+	rarity VARCHAR(60) NOT NULL, 
 	PRIMARY KEY (paintindex), 
 	FOREIGN KEY(rarity) REFERENCES rarities (id)
 )
@@ -119,7 +119,7 @@ CREATE TABLE highlights (
 ;
 CREATE TABLE collection_unusual_sources (
 	collection VARCHAR(60) NOT NULL, 
-	quality SMALLINT NOT NULL, 
+	quality VARCHAR(60) NOT NULL, 
 	loot_list VARCHAR(255) NOT NULL, 
 	PRIMARY KEY (collection, quality), 
 	FOREIGN KEY(collection) REFERENCES collections (id), 
@@ -130,7 +130,7 @@ CREATE TABLE collection_unusual_sources (
 CREATE TABLE sticker_kits (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(60) NULL, 
-	rarity SMALLINT NULL, 
+	rarity VARCHAR(60) NULL, 
 	kind VARCHAR(16) NOT NULL, 
 	event SMALLINT NULL, 
 	team SMALLINT NULL, 
@@ -158,8 +158,8 @@ CREATE TABLE charms (
 	id SMALLINT NOT NULL, 
 	name VARCHAR(255) NULL, 
 	description TEXT NULL, 
-	rarity SMALLINT NULL, 
-	quality SMALLINT NULL, 
+	rarity VARCHAR(60) NULL, 
+	quality VARCHAR(60) NULL, 
 	base SMALLINT NULL, 
 	highlight SMALLINT NULL, 
 	PRIMARY KEY (id), 

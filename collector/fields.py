@@ -2,7 +2,6 @@ from dataclasses import dataclass, field
 from typing import Any
 
 from . import typings
-from .utils import invert_dict
 
 
 @dataclass(repr=False, eq=False)
@@ -12,21 +11,16 @@ class FieldsCollector:
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
 
-    _types_mapping: dict[str, str] = field(default_factory=dict)
+    _types: set[str] = field(default_factory=set)
     _qualities_mapping: dict[str, str] = field(default_factory=dict)
     _rarities_mapping: dict[str, str] = field(default_factory=dict)
 
-    def _parse_qualities(self) -> dict[str, dict[str, str]]:
+    def _parse_qualities(self) -> dict[str, str]:
         qualities = {}
-        for quality_key, quality_data in self.items_game["qualities"].items():
+        for quality_key in self.items_game["qualities"]:
             try:
-                # in csgo_english titled as rarities :)
-                # qualities[quality_data["value"]] = {
-                #     "name": self.csgo_english[quality_key],
-                #     "key": quality_key,
-                # }
-                qualities[quality_data["value"]] = self.csgo_english[quality_key]
-                self._qualities_mapping[quality_key] = quality_data["value"]
+                qualities[quality_key] = self.csgo_english[quality_key]
+                self._qualities_mapping[quality_key] = quality_key
             except KeyError:  # skip qualities that don't have name
                 pass
 
@@ -71,9 +65,11 @@ class FieldsCollector:
         return matches
 
     def _find_type(self, item_data: dict[str, str]) -> str:
-        # find top level prefab with 'item_type_name'
         prefab = self._find_top_level_prefab(item_data, "item_type_name")
-        return self._types_mapping[self.csgo_english[prefab["item_type_name"][1:]]]
+        type_key = prefab["item_type_name"].removeprefix("#")
+        if type_key not in self._types:
+            raise KeyError(type_key)
+        return type_key
 
     def _parse_definitions(self) -> dict[str, dict[str, str]]:
         definitions = {}
@@ -156,30 +152,30 @@ class FieldsCollector:
                     "weapon": self.csgo_english[rarity_data["loc_key_weapon"]],
                     "nonweapon": self.csgo_english[rarity_data["loc_key"]],
                     "color": self.items_game["colors"][rarity_data["color"]]["hex_color"],
-                    # "key": rarity_key,
                 }
                 if character_rarity := self.csgo_english.get(rarity_data["loc_key_character"]):
                     rarity["character"] = character_rarity
 
-                rarities[rarity_data["value"]] = rarity
-                self._rarities_mapping[rarity_key] = rarity_data["value"]
+                rarities[rarity_key] = rarity
+                self._rarities_mapping[rarity_key] = rarity_key
 
-            except KeyError:  # skip rarities that does not have name in csgo_english
+            except KeyError:  # skip rarities that do not have required localized names
                 pass
 
         return rarities
 
     def _parse_types(self) -> dict[str, str]:
-        types = set()
-        # prefabs does not contain all types so iterate over items
+        types = {}
+        # Prefabs do not contain every used type, so inspect all items.
         for item_data in self.items_game["items"].values():
             try:
-                top_prefab = self._find_top_level_prefab(item_data, "item_type_name")
-                types.add(self.csgo_english[top_prefab["item_type_name"][1:]])
+                prefab = self._find_top_level_prefab(item_data, "item_type_name")
+                type_key = prefab["item_type_name"].removeprefix("#")
+                types[type_key] = self.csgo_english[type_key]
             except KeyError:
                 pass
 
-        return {str(i): item_type for i, item_type in enumerate(sorted(types))}
+        return types
 
     def _parse_tints(self):
         tints = {}
@@ -203,7 +199,7 @@ class FieldsCollector:
 
         # separate fields
         types = self._parse_types()
-        self._types_mapping = invert_dict(types)
+        self._types = set(types)
 
         qualities = self._parse_qualities()
         rarities = self._parse_rarities()

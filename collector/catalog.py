@@ -60,11 +60,11 @@ class CatalogCollector:
             if not base_id and (description := self._localized(charm.get("loc_description"))):
                 catalog_charm["description"] = description
 
-            rarity = rarities.get(fields.get("item_rarity"), {}).get("value")
-            if rarity is not None:
+            rarity = fields.get("item_rarity")
+            if rarity in rarities:
                 catalog_charm["rarity"] = rarity
-            quality = qualities.get(fields.get("item_quality"), {}).get("value")
-            if quality is not None:
+            quality = fields.get("item_quality")
+            if quality in qualities:
                 catalog_charm["quality"] = quality
 
             if base_id:

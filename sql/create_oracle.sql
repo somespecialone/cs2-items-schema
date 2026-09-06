@@ -1,13 +1,13 @@
 
 CREATE TABLE types (
-	id SMALLINT NOT NULL, 
+	id VARCHAR2(60 CHAR) NOT NULL, 
 	name VARCHAR2(16 CHAR), 
 	PRIMARY KEY (id)
 )
 
 ;
 CREATE TABLE qualities (
-	id SMALLINT NOT NULL, 
+	id VARCHAR2(60 CHAR) NOT NULL, 
 	name VARCHAR2(16 CHAR), 
 	PRIMARY KEY (id)
 )
@@ -28,7 +28,7 @@ CREATE TABLE musics (
 
 ;
 CREATE TABLE rarities (
-	id SMALLINT NOT NULL, 
+	id VARCHAR2(60 CHAR) NOT NULL, 
 	character VARCHAR2(16 CHAR), 
 	color VARCHAR2(16 CHAR) NOT NULL, 
 	nonweapon VARCHAR2(16 CHAR) NOT NULL, 
@@ -79,9 +79,9 @@ CREATE TABLE collections (
 CREATE TABLE definitions (
 	defindex SMALLINT NOT NULL, 
 	name VARCHAR2(255 CHAR) NOT NULL, 
-	type SMALLINT, 
-	quality SMALLINT, 
-	rarity SMALLINT, 
+	type VARCHAR2(60 CHAR), 
+	quality VARCHAR2(60 CHAR), 
+	rarity VARCHAR2(60 CHAR), 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(type) REFERENCES types (id), 
 	FOREIGN KEY(quality) REFERENCES qualities (id), 
@@ -94,7 +94,7 @@ CREATE TABLE paints (
 	name VARCHAR2(60 CHAR) NOT NULL, 
 	wear_min FLOAT NOT NULL, 
 	wear_max FLOAT NOT NULL, 
-	rarity SMALLINT NOT NULL, 
+	rarity VARCHAR2(60 CHAR) NOT NULL, 
 	PRIMARY KEY (paintindex), 
 	FOREIGN KEY(rarity) REFERENCES rarities (id)
 )
@@ -119,7 +119,7 @@ CREATE TABLE highlights (
 ;
 CREATE TABLE collection_unusual_sources (
 	collection VARCHAR2(60 CHAR) NOT NULL, 
-	quality SMALLINT NOT NULL, 
+	quality VARCHAR2(60 CHAR) NOT NULL, 
 	loot_list VARCHAR2(255 CHAR) NOT NULL, 
 	PRIMARY KEY (collection, quality), 
 	FOREIGN KEY(collection) REFERENCES collections (id), 
@@ -130,7 +130,7 @@ CREATE TABLE collection_unusual_sources (
 CREATE TABLE sticker_kits (
 	id SMALLINT NOT NULL, 
 	name VARCHAR2(60 CHAR), 
-	rarity SMALLINT, 
+	rarity VARCHAR2(60 CHAR), 
 	kind VARCHAR2(16 CHAR) NOT NULL, 
 	event SMALLINT, 
 	team SMALLINT, 
@@ -158,8 +158,8 @@ CREATE TABLE charms (
 	id SMALLINT NOT NULL, 
 	name VARCHAR2(255 CHAR), 
 	description CLOB, 
-	rarity SMALLINT, 
-	quality SMALLINT, 
+	rarity VARCHAR2(60 CHAR), 
+	quality VARCHAR2(60 CHAR), 
 	base SMALLINT, 
 	highlight SMALLINT, 
 	PRIMARY KEY (id), 

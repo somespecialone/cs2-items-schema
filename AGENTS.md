@@ -55,9 +55,9 @@ uv run collect.py
 ## Schema Contracts
 
 - Expose consumer-facing metadata and relationships, not prefab structures, textures, or rendering configuration. Do not infer inventory origin, drop odds, or complete variant eligibility from display names.
-- JSON IDs and references are strings. Optional fields are omitted; an absent boolean is not `false`. Preserve deterministic relationship lists and the distinction between definition rarity and paint rarity.
-- Definition quality precedence is direct `item_quality`, then the inherited `craft_class = "unusual"` normalization to quality `"3"` (`★`), then inherited `item_quality`. Direct rarity overrides inherited rarity. Do not assign `★` to all knives/gloves by type.
-- `collections` uses source set keys and normalized bare/painted item IDs. Its `containers` lists the inverse of `containers.collection`; `unusuals` values are unresolved source loot-list names, not enumerated rare rewards or probabilities.
+- JSON IDs and references are strings. `types`, `qualities`, and `rarities` use stable source keys; their localized values are display text only. Optional fields are omitted; an absent boolean is not `false`. Preserve deterministic relationship lists and the distinction between definition rarity and paint rarity.
+- Definition quality precedence is direct `item_quality`, then the inherited `craft_class = "unusual"` normalization to quality `"unusual"` (`★`), then inherited `item_quality`. Direct rarity overrides inherited rarity. Do not assign `★` to all knives/gloves by type.
+- `collections` uses source set keys and normalized bare/painted item IDs. Its `containers` lists the inverse of `containers.collection`; `unusuals` keys are source quality keys and values are unresolved source loot-list names, not enumerated rare rewards or probabilities.
 - Keep all container kinds in one JSON catalog and SQL table. Preserve `kind`, collection/key associations, and separate `items`, `kits`, `musics`, `charms`, and `highlight_charms` relationships. Use the generic `container` kind when a more specific classification is not established.
 - Source coupons retain `kind = "coupon"`. A coupon awarding another container links to that item; never flatten the awarded container's contents into the coupon.
 - `will_produce_stattrak` comes only from an explicit item or selected root-loot-list flag. A conditional nested reward does not establish a guarantee. Missing contents do not require dropping a known container's metadata.
@@ -71,7 +71,7 @@ uv run collect.py
 
 - `collect.py`: executable entry point; no CLI arguments.
 - `collector/main.py`: upstream URLs, async fetching, pipeline orchestration, and output writes.
-- `collector/fields.py`: multi-prefab inheritance, localization, and indexed field maps.
+- `collector/fields.py`: multi-prefab inheritance, localization, and source-keyed field maps.
 - `collector/collections.py`: collection membership, source set identities, and unusual-reward references.
 - `collector/catalog.py`: charms, highlights, and tournament lookup identities.
 - `collector/containers.py`: container kinds, direct rewards, coupon links, and explicit reward metadata.

@@ -77,11 +77,11 @@ class CollectionsCollector:
             unusuals = {}
             for quality_key, loot_list_name in set_data.get("unusuals", {}).items():
                 try:
-                    quality_id = self.items_game["qualities"][quality_key]["value"]
+                    self.items_game["qualities"][quality_key]
                 except KeyError:
                     self.unresolved_unusuals.append((set_key, quality_key))
                 else:
-                    unusuals[quality_id] = loot_list_name
+                    unusuals[quality_key] = loot_list_name
             if unusuals:
                 collection["unusuals"] = dict(sorted(unusuals.items()))
 

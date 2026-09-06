@@ -20,7 +20,7 @@ metadata = MetaData()
 Types = Table(
     "types",
     metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("id", String(60), primary_key=True),
     Column("name", String(16)),
 )
 
@@ -28,7 +28,7 @@ Types = Table(
 Qualities = Table(
     "qualities",
     metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("id", String(60), primary_key=True),
     Column("name", String(16)),
 )
 
@@ -50,7 +50,7 @@ Musics = Table(
 Rarities = Table(
     "rarities",
     metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("id", String(60), primary_key=True),
     Column("character", String(16)),
     Column("color", String(16), nullable=False),
     Column("nonweapon", String(16), nullable=False),
@@ -63,9 +63,9 @@ Definitions = Table(
     metadata,
     Column("defindex", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(255), nullable=False),
-    Column("type", SmallInteger, ForeignKey(Types.c.id)),
-    Column("quality", SmallInteger, ForeignKey(Qualities.c.id)),
-    Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
+    Column("type", String(60), ForeignKey(Types.c.id)),
+    Column("quality", String(60), ForeignKey(Qualities.c.id)),
+    Column("rarity", String(60), ForeignKey(Rarities.c.id)),
 )
 
 Paints = Table(
@@ -75,7 +75,7 @@ Paints = Table(
     Column("name", String(60), nullable=False),
     Column("wear_min", Float, nullable=False),
     Column("wear_max", Float, nullable=False),
-    Column("rarity", SmallInteger, ForeignKey(Rarities.c.id), nullable=False),
+    Column("rarity", String(60), ForeignKey(Rarities.c.id), nullable=False),
 )
 
 Items = Table(
@@ -137,8 +137,8 @@ Charms = Table(
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(255)),
     Column("description", Text),
-    Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
-    Column("quality", SmallInteger, ForeignKey(Qualities.c.id)),
+    Column("rarity", String(60), ForeignKey(Rarities.c.id)),
+    Column("quality", String(60), ForeignKey(Qualities.c.id)),
     Column("base", SmallInteger, ForeignKey("charms.id")),
     Column("highlight", SmallInteger, ForeignKey(Highlights.c.id)),
 )
@@ -162,7 +162,7 @@ CollectionUnusualSources = Table(
     "collection_unusual_sources",
     metadata,
     Column("collection", String(60), ForeignKey(Collections.c.id), primary_key=True),
-    Column("quality", SmallInteger, ForeignKey(Qualities.c.id), primary_key=True),
+    Column("quality", String(60), ForeignKey(Qualities.c.id), primary_key=True),
     Column("loot_list", String(255), nullable=False),
 )
 
@@ -171,7 +171,7 @@ StickerKits = Table(
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
     Column("name", String(60)),
-    Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
+    Column("rarity", String(60), ForeignKey(Rarities.c.id)),
     Column("kind", String(16), nullable=False),
     Column("event", SmallInteger, ForeignKey(TournamentEvents.c.id)),
     Column("team", SmallInteger, ForeignKey(TournamentTeams.c.id)),
@@ -283,16 +283,14 @@ class SQLCreator:
         return scripts
 
     def _base_field(self, table: Table, source: dict[str, str]):
-        statements = []
-        for type_id, type_name in source.items():
-            statements.append(
-                table.insert()
-                .values(id=int(type_id), name=type_name)
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
-            )
-
-        return statements
+        numeric_ids = isinstance(table.c.id.type, SmallInteger)
+        return [
+            table.insert()
+            .values(id=int(source_id) if numeric_ids else source_id, name=name)
+            .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
+            .string
+            for source_id, name in source.items()
+        ]
 
     def _populate_base_fields(self):
         types = self._base_field(Types, self.types)
@@ -307,7 +305,7 @@ class SQLCreator:
         for rarity_id, rarity_data in self.rarities.items():
             rarities.append(
                 Rarities.insert()
-                .values(id=int(rarity_id), **rarity_data)
+                .values(id=rarity_id, **rarity_data)
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
             )
@@ -321,9 +319,9 @@ class SQLCreator:
                 Definitions.insert()
                 .values(
                     defindex=int(defindex),
-                    type=int(def_data["type"]) if "type" in def_data else None,
-                    quality=int(def_data["quality"]) if "quality" in def_data else None,
-                    rarity=int(def_data["rarity"]) if "rarity" in def_data else None,
+                    type=def_data.get("type"),
+                    quality=def_data.get("quality"),
+                    rarity=def_data.get("rarity"),
                     name=def_data["name"],
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
@@ -339,7 +337,7 @@ class SQLCreator:
                 Paints.insert()
                 .values(
                     paintindex=int(paintindex),
-                    rarity=int(paint_data["rarity"]),
+                    rarity=paint_data["rarity"],
                     name=paint_data["name"],
                     wear_min=paint_data["wear_min"],
                     wear_max=paint_data["wear_max"],
@@ -382,7 +380,7 @@ class SQLCreator:
                 StickerKits.insert()
                 .values(
                     id=int(sticker_kits_id),
-                    rarity=int(sticker_kits_data["rarity"]) if "rarity" in sticker_kits_data else None,
+                    rarity=sticker_kits_data.get("rarity"),
                     name=sticker_kits_data.get("name"),
                     kind=sticker_kits_data["kind"],
                     event=int(sticker_kits_data["event"]) if "event" in sticker_kits_data else None,

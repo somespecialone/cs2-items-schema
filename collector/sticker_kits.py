@@ -35,10 +35,8 @@ class StickerKitsCollector:
             if containers := self._find_containers(sticker_kit_index):
                 sticker_kit["containers"] = containers
 
-            if rarity_key := sticker_kit_data.get("item_rarity"):
-                rarity = self.items_game["rarities"].get(rarity_key)
-                if isinstance(rarity, dict) and isinstance(rarity.get("value"), str):
-                    sticker_kit["rarity"] = rarity["value"]
+            if (rarity_key := sticker_kit_data.get("item_rarity")) and rarity_key in self.items_game["rarities"]:
+                sticker_kit["rarity"] = rarity_key
 
             for source_key, output_key in (
                 ("tournament_event_id", "event"),

@@ -58,15 +58,15 @@ localizations are unavailable; an absent flag does not mean `false`.
 - An `items` key is either a bare definition ID (`"7"`) or `[paint ID]definition ID` (`"[44]7"`). Thus the
   key itself links painted items to `paints` and `definitions`; `items.containers` links back to containers
   that directly reward the item.
-- `definitions.type`, `quality`, and `rarity` are IDs in `types`, `qualities`, and `rarities`. Direct definition
-  quality/rarity takes precedence over inherited values. When quality is absent, inherited
-  `craft_class = "unusual"` maps to quality `"3"` (`★`); this is not inferred for every knife or glove.
-- `paints.rarity` is an ID in `rarities`. Definition rarity and paint rarity remain separate; no final
-  per-item rarity is inferred.
+- `definitions.type`, `quality`, and `rarity` are stable source keys in `types`, `qualities`, and `rarities`;
+  localized catalog values are display text only. Direct definition quality/rarity takes precedence over inherited
+  values. When quality is absent, inherited `craft_class = "unusual"` maps to quality `"unusual"` (`★`); this
+  is not inferred for every knife or glove.
+- `paints.rarity` is a source key in `rarities`. Definition and paint rarity remain separate; no final per-item rarity is inferred.
 - A `collections` key is the source item-set ID. Its `items` are item IDs and its `containers` are container
   IDs; `containers.collection` provides the inverse link. Collections without a container omit `containers`.
-- In `collections.unusuals`, each key is a quality ID from `qualities`; each value is an unresolved source
-  loot-list name, not an entity ID, enumerated reward list, or probability.
+- In `collections.unusuals`, each key is a source quality key from `qualities`; each value is an unresolved
+  source loot-list name, not an entity ID, enumerated reward list, or probability.
 
 ### Containers and sticker kits
 
@@ -97,7 +97,7 @@ tournament catalogs. `items.kits`, `items.musics`, and `items.charms` expose dir
 
 ### Charms, highlights, and tournaments
 
-- `charms.rarity` and `quality` are IDs in `rarities` and `qualities`.
+- `charms.rarity` and `quality` are source keys in `rarities` and `qualities`.
 - `charms.base` is another charm ID: the parent/template of a variant. The variant omits the parent's duplicate
   description and inherits missing rarity and quality from it.
 - `charms.highlight` is an ID in `highlights` for the play represented by that charm.

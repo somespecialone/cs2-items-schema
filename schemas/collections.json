@@ -145,8 +145,8 @@
     ],
     "name": "The Bravo Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_bravo_ii": {
@@ -307,8 +307,8 @@
     ],
     "name": "The Winter Offensive Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_community_10": {
@@ -336,8 +336,8 @@
     ],
     "name": "The Revolver Case Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_community_11": {
@@ -364,8 +364,8 @@
     ],
     "name": "The Wildfire Collection",
     "unusuals": {
-      "4": "community_case_11_unusual",
-      "9": "community_case_11_unusual"
+      "strange": "community_case_11_unusual",
+      "unique": "community_case_11_unusual"
     }
   },
   "set_community_12": {
@@ -393,8 +393,8 @@
     ],
     "name": "The Chroma 3 Collection",
     "unusuals": {
-      "4": "community_case_6_unusual",
-      "9": "community_case_6_unusual"
+      "strange": "community_case_6_unusual",
+      "unique": "community_case_6_unusual"
     }
   },
   "set_community_13": {
@@ -422,8 +422,8 @@
     ],
     "name": "The Gamma Collection",
     "unusuals": {
-      "4": "community_case_13_unusual",
-      "9": "community_case_13_unusual"
+      "strange": "community_case_13_unusual",
+      "unique": "community_case_13_unusual"
     }
   },
   "set_community_15": {
@@ -451,7 +451,7 @@
     ],
     "name": "The Glove Collection",
     "unusuals": {
-      "4": "community_case_15_unusual"
+      "unique": "community_case_15_unusual"
     }
   },
   "set_community_16": {
@@ -479,8 +479,8 @@
     ],
     "name": "The Spectrum Collection",
     "unusuals": {
-      "4": "spectrum_unusual",
-      "9": "spectrum_unusual"
+      "strange": "spectrum_unusual",
+      "unique": "spectrum_unusual"
     }
   },
   "set_community_17": {
@@ -508,7 +508,7 @@
     ],
     "name": "The Operation Hydra Collection",
     "unusuals": {
-      "4": "community_case_15_unusual"
+      "unique": "community_case_15_unusual"
     }
   },
   "set_community_18": {
@@ -536,8 +536,8 @@
     ],
     "name": "The Spectrum 2 Collection",
     "unusuals": {
-      "4": "spectrum_unusual",
-      "9": "spectrum_unusual"
+      "strange": "spectrum_unusual",
+      "unique": "spectrum_unusual"
     }
   },
   "set_community_19": {
@@ -565,7 +565,7 @@
     ],
     "name": "The Clutch Collection",
     "unusuals": {
-      "4": "set_community_19_unusual"
+      "unique": "set_community_19_unusual"
     }
   },
   "set_community_2": {
@@ -589,8 +589,8 @@
     ],
     "name": "The Phoenix Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_community_20": {
@@ -618,8 +618,8 @@
     ],
     "name": "The Horizon Collection",
     "unusuals": {
-      "4": "set_community_20_unusual",
-      "9": "set_community_20_unusual"
+      "strange": "set_community_20_unusual",
+      "unique": "set_community_20_unusual"
     }
   },
   "set_community_21": {
@@ -647,8 +647,8 @@
     ],
     "name": "The Danger Zone Collection",
     "unusuals": {
-      "4": "set_community_20_unusual",
-      "9": "set_community_20_unusual"
+      "strange": "set_community_20_unusual",
+      "unique": "set_community_20_unusual"
     }
   },
   "set_community_22": {
@@ -676,8 +676,8 @@
     ],
     "name": "The Prisma Collection",
     "unusuals": {
-      "4": "set_community_22_unusual",
-      "9": "set_community_22_unusual"
+      "strange": "set_community_22_unusual",
+      "unique": "set_community_22_unusual"
     }
   },
   "set_community_23": {
@@ -705,8 +705,8 @@
     ],
     "name": "The Shattered Web Collection",
     "unusuals": {
-      "4": "set_community_23_unusual",
-      "9": "set_community_23_unusual"
+      "strange": "set_community_23_unusual",
+      "unique": "set_community_23_unusual"
     }
   },
   "set_community_24": {
@@ -734,8 +734,8 @@
     ],
     "name": "The CS20 Collection",
     "unusuals": {
-      "4": "set_community_24_unusual",
-      "9": "set_community_24_unusual"
+      "strange": "set_community_24_unusual",
+      "unique": "set_community_24_unusual"
     }
   },
   "set_community_25": {
@@ -763,8 +763,8 @@
     ],
     "name": "The Prisma 2 Collection",
     "unusuals": {
-      "4": "set_community_22_unusual",
-      "9": "set_community_22_unusual"
+      "strange": "set_community_22_unusual",
+      "unique": "set_community_22_unusual"
     }
   },
   "set_community_26": {
@@ -792,8 +792,8 @@
     ],
     "name": "The Fracture Collection",
     "unusuals": {
-      "4": "set_community_23_unusual",
-      "9": "set_community_23_unusual"
+      "strange": "set_community_23_unusual",
+      "unique": "set_community_23_unusual"
     }
   },
   "set_community_27": {
@@ -821,7 +821,7 @@
     ],
     "name": "The Operation Broken Fang Collection",
     "unusuals": {
-      "4": "set_glove_3_unusual"
+      "unique": "set_glove_3_unusual"
     }
   },
   "set_community_28": {
@@ -849,7 +849,7 @@
     ],
     "name": "The Snakebite Collection",
     "unusuals": {
-      "4": "set_glove_3_unusual"
+      "unique": "set_glove_3_unusual"
     }
   },
   "set_community_29": {
@@ -877,8 +877,8 @@
     ],
     "name": "The Operation Riptide Collection",
     "unusuals": {
-      "4": "gamma2_knives2_unusual",
-      "9": "gamma2_knives2_unusual"
+      "strange": "gamma2_knives2_unusual",
+      "unique": "gamma2_knives2_unusual"
     }
   },
   "set_community_3": {
@@ -909,8 +909,8 @@
     ],
     "name": "The Huntsman Collection",
     "unusuals": {
-      "4": "community_case_3_unusual",
-      "9": "community_case_3_unusual"
+      "strange": "community_case_3_unusual",
+      "unique": "community_case_3_unusual"
     }
   },
   "set_community_30": {
@@ -938,8 +938,8 @@
     ],
     "name": "The Dreams & Nightmares Collection",
     "unusuals": {
-      "4": "gamma2_knives2_unusual",
-      "9": "gamma2_knives2_unusual"
+      "strange": "gamma2_knives2_unusual",
+      "unique": "gamma2_knives2_unusual"
     }
   },
   "set_community_31": {
@@ -967,7 +967,7 @@
     ],
     "name": "The Recoil Collection",
     "unusuals": {
-      "4": "set_glove_3_unusual"
+      "unique": "set_glove_3_unusual"
     }
   },
   "set_community_32": {
@@ -995,7 +995,7 @@
     ],
     "name": "The Revolution Collection",
     "unusuals": {
-      "4": "set_community_19_unusual"
+      "unique": "set_community_19_unusual"
     }
   },
   "set_community_33": {
@@ -1023,8 +1023,8 @@
     ],
     "name": "The Kilowatt Collection",
     "unusuals": {
-      "4": "set_community_33_unusual",
-      "9": "set_community_33_unusual"
+      "strange": "set_community_33_unusual",
+      "unique": "set_community_33_unusual"
     }
   },
   "set_community_34": {
@@ -1052,8 +1052,8 @@
     ],
     "name": "The Gallery Collection",
     "unusuals": {
-      "4": "set_community_33_unusual",
-      "9": "set_community_33_unusual"
+      "strange": "set_community_33_unusual",
+      "unique": "set_community_33_unusual"
     }
   },
   "set_community_35": {
@@ -1081,8 +1081,8 @@
     ],
     "name": "The Fever Collection",
     "unusuals": {
-      "4": "set_community_35_unusual",
-      "9": "set_community_35_unusual"
+      "strange": "set_community_35_unusual",
+      "unique": "set_community_35_unusual"
     }
   },
   "set_community_36": {
@@ -1135,7 +1135,7 @@
     ],
     "name": "The Dead Hand Collection",
     "unusuals": {
-      "4": "set_community_37_unusual"
+      "unique": "set_community_37_unusual"
     }
   },
   "set_community_4": {
@@ -1160,8 +1160,8 @@
     ],
     "name": "The Breakout Collection",
     "unusuals": {
-      "4": "community_case_4_unusual",
-      "9": "community_case_4_unusual"
+      "strange": "community_case_4_unusual",
+      "unique": "community_case_4_unusual"
     }
   },
   "set_community_5": {
@@ -1186,8 +1186,8 @@
     ],
     "name": "The Vanguard Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_community_6": {
@@ -1212,8 +1212,8 @@
     ],
     "name": "The Chroma Collection",
     "unusuals": {
-      "4": "community_case_6_unusual",
-      "9": "community_case_6_unusual"
+      "strange": "community_case_6_unusual",
+      "unique": "community_case_6_unusual"
     }
   },
   "set_community_7": {
@@ -1239,8 +1239,8 @@
     ],
     "name": "The Chroma 2 Collection",
     "unusuals": {
-      "4": "community_case_6_unusual",
-      "9": "community_case_6_unusual"
+      "strange": "community_case_6_unusual",
+      "unique": "community_case_6_unusual"
     }
   },
   "set_community_8": {
@@ -1267,8 +1267,8 @@
     ],
     "name": "The Falchion Collection",
     "unusuals": {
-      "4": "community_case_8_unusual",
-      "9": "community_case_8_unusual"
+      "strange": "community_case_8_unusual",
+      "unique": "community_case_8_unusual"
     }
   },
   "set_community_9": {
@@ -1295,8 +1295,8 @@
     ],
     "name": "The Shadow Collection",
     "unusuals": {
-      "4": "community_case_9_unusual",
-      "9": "community_case_9_unusual"
+      "strange": "community_case_9_unusual",
+      "unique": "community_case_9_unusual"
     }
   },
   "set_dust": {
@@ -1397,8 +1397,8 @@
     ],
     "name": "The eSports 2013 Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_esports_ii": {
@@ -1421,8 +1421,8 @@
     ],
     "name": "The eSports 2013 Winter Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_esports_iii": {
@@ -1450,8 +1450,8 @@
     ],
     "name": "The eSports 2014 Summer Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_gamma_2": {
@@ -1479,8 +1479,8 @@
     ],
     "name": "The Gamma 2 Collection",
     "unusuals": {
-      "4": "community_case_13_unusual",
-      "9": "community_case_13_unusual"
+      "strange": "community_case_13_unusual",
+      "unique": "community_case_13_unusual"
     }
   },
   "set_gods_and_monsters": {
@@ -2453,8 +2453,8 @@
     ],
     "name": "The Arms Deal Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_weapons_ii": {
@@ -2477,8 +2477,8 @@
     ],
     "name": "The Arms Deal 2 Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_weapons_iii": {
@@ -2501,8 +2501,8 @@
     ],
     "name": "The Arms Deal 3 Collection",
     "unusuals": {
-      "4": "unusual_revolving_list",
-      "9": "unusual_revolving_list"
+      "strange": "unusual_revolving_list",
+      "unique": "unusual_revolving_list"
     }
   },
   "set_xpshop_wpn_01": {
