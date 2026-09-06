@@ -21,18 +21,21 @@
     "name": "Operation Payback Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1002": {
     "name": "Silver Operation Payback Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1003": {
     "name": "Gold Operation Payback Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1004": {
@@ -87,18 +90,21 @@
     "name": "Operation Bravo Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1014": {
     "name": "Silver Operation Bravo Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1015": {
     "name": "Gold Operation Bravo Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1016": {
@@ -153,18 +159,21 @@
     "name": "Operation Phoenix Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1025": {
     "name": "Silver Operation Phoenix Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1026": {
     "name": "Gold Operation Phoenix Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1027": {
@@ -177,18 +186,21 @@
     "name": "Operation Breakout Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1029": {
     "name": "Silver Operation Breakout Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1030": {
     "name": "Gold Operation Breakout Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1031": {
@@ -561,6 +573,7 @@
     "name": "Storage Unit",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Tool"
   },
   "1203": {
@@ -639,6 +652,7 @@
     "name": "Mission",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Quest"
   },
   "1307": {
@@ -693,30 +707,35 @@
     "name": "Operation Vanguard Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1317": {
     "name": "Silver Operation Vanguard Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1318": {
     "name": "Gold Operation Vanguard Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1320": {
     "name": "Campaign Maghreb",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "campaign"
   },
   "1321": {
     "name": "Campaign Eurasia",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "campaign"
   },
   "1322": {
@@ -753,18 +772,21 @@
     "name": "Operation Bloodhound Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1328": {
     "name": "Silver Operation Bloodhound Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1329": {
     "name": "Gold Operation Bloodhound Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1330": {
@@ -777,12 +799,14 @@
     "name": "2015 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1332": {
     "name": "2015 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1333": {
@@ -807,54 +831,63 @@
     "name": "Operation Wildfire Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1337": {
     "name": "Silver Operation Wildfire Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1338": {
     "name": "Gold Operation Wildfire Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1339": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1340": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1341": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1342": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1343": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1344": {
     "name": "2016 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1347": {
@@ -873,6 +906,7 @@
     "name": "Graffiti",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Spray"
   },
   "1350": {
@@ -897,12 +931,14 @@
     "name": "Counter-Strike Game License",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1354": {
     "name": "Armory Pass",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "1355": {
@@ -921,42 +957,49 @@
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1358": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1359": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1360": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1361": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1362": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1363": {
     "name": "2017 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1364": {
@@ -981,36 +1024,42 @@
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1368": {
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1369": {
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1370": {
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1371": {
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1372": {
     "name": "2018 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1373": {
@@ -1035,36 +1084,42 @@
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1377": {
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1378": {
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1379": {
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1380": {
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1381": {
     "name": "2019 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "1383": {
@@ -1173,1110 +1228,1295 @@
     "name": "Sticker | Bossy Burger",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20001": {
     "name": "Sticker | Cat Call",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20002": {
     "name": "Sticker | Chicken Strike",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20003": {
     "name": "Sticker | CT in Banana",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20004": {
     "name": "Sticker | Don't Worry, I'm Pro",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20005": {
     "name": "Sticker | Fight like a Girl",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20006": {
     "name": "Sticker | Flashbang",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20007": {
     "name": "Sticker | Kawaii Killer CT",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20008": {
     "name": "Sticker | Nelu the Bear",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20009": {
     "name": "Sticker | One Shot One Kill",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20010": {
     "name": "Sticker | Shooting Star Return",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20012": {
     "name": "Sticker | War Penguin",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20013": {
     "name": "Sticker | Windy Walking Club",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20014": {
     "name": "Sticker | Blitzkrieg",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20015": {
     "name": "Sticker | Pigeon Master",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20016": {
     "name": "Sticker | Terrorized",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20017": {
     "name": "Sticker | Till Death Do Us Part",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20018": {
     "name": "Sticker | Stay Frosty",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20019": {
     "name": "Sticker | T On Cat",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20020": {
     "name": "Music Kit | Daniel Sadowski, Crimson Assault",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20021": {
     "name": "Music Kit | Noisia, Sharpened",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20022": {
     "name": "Music Kit | Robert Allaire, Insurgency",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20023": {
     "name": "Music Kit | Sean Murray, A*D*8",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20024": {
     "name": "Music Kit | Feed Me, High Noon",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20025": {
     "name": "Music Kit | Dren, Death's Head Demolition",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20026": {
     "name": "Music Kit | Austin Wintory, Desert Fire",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20027": {
     "name": "Music Kit | Sasha, LNOE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20028": {
     "name": "Music Kit | Skog, Metal",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20029": {
     "name": "Sticker | Doomed",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20030": {
     "name": "Sticker | Queen Of Pain",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20031": {
     "name": "Sticker | Trick Or Threat",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20032": {
     "name": "Sticker | Trick Or Treat",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20033": {
     "name": "Sticker | Witch",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20034": {
     "name": "Sticker | Zombie Lover",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20035": {
     "name": "Sticker | Blood Boiler",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20036": {
     "name": "Sticker | Dinked",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20037": {
     "name": "Sticker | Drug War Veteran",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20038": {
     "name": "Sticker | Ho Ho Ho",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20039": {
     "name": "Sticker | Massive Pear",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20040": {
     "name": "Sticker | My Little Friend",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20041": {
     "name": "Sticker | Pandamonium",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20042": {
     "name": "Sticker | Piece Of Cake",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20043": {
     "name": "Sticker | SAS Chicken",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20044": {
     "name": "Sticker | Thug Life",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20045": {
     "name": "Sticker | T-Rekt",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20046": {
     "name": "Sticker | Warowl",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20047": {
     "name": "Sticker | Work For Ammo",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20048": {
     "name": "Sticker | Phoenix (Foil)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20049": {
     "name": "Sticker | Bomb Squad (Foil)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20050": {
     "name": "Music Kit | Midnight Riders, All I Want for Christmas",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20051": {
     "name": "Music Kit | Daniel Sadowski, Total Domination",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20052": {
     "name": "Music Kit | Various Artists, Hotline Miami",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20053": {
     "name": "Music Kit | Matt Lange, IsoRhythm",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20054": {
     "name": "Music Kit | Mateo Messina, For No Mankind",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20055": {
     "name": "Music Kit | Damjan Mravunac, The Talos Principle",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20056": {
     "name": "Sticker | Flickshot",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20057": {
     "name": "Sticker | Headshot Guarantee",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20058": {
     "name": "Sticker | Eco Rush",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20059": {
     "name": "Sticker | Just Trolling",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20061": {
     "name": "Sticker | Firestarter (Holo)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20062": {
     "name": "Sticker | Lucky Cat (Foil)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20063": {
     "name": "Sticker | Robo",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20064": {
     "name": "Sticker | Witchcraft",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20065": {
     "name": "Sticker | Wanna Fight",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20066": {
     "name": "Sticker | Hostage Rescue",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20067": {
     "name": "Sticker | Hamster Hawk",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20068": {
     "name": "Sticker | Headless Chicken",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20069": {
     "name": "Music Kit | Proxy, Battlepack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20070": {
     "name": "Music Kit | Ki:Theory, MOLOTOV",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20071": {
     "name": "Music Kit | Troels Folmann, Uber Blasto Phone",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20072": {
     "name": "Music Kit | Kelly Bailey, Hazardous Environments",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20073": {
     "name": "Music Kit | Skog, II-Headshot",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20074": {
     "name": "Enfu Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20075": {
     "name": "Sticker | Awp Country",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20076": {
     "name": "Sticker | Chi Bomb",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20077": {
     "name": "Sticker | Doru The Fox",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20078": {
     "name": "Sticker | Knife Club",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20079": {
     "name": "Sticker | CS On The Mind",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20080": {
     "name": "Sticker | Ninja Defuse",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20081": {
     "name": "Sticker | Pros Don't Fake",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20082": {
     "name": "Sticker | Kawaii Killer Terrorist",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20083": {
     "name": "Sticker | Baaa-ckstabber!",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20084": {
     "name": "Sticker | Delicious Tears",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20085": {
     "name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20086": {
     "name": "Music Kit | AWOLNATION, I Am",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20087": {
     "name": "Music Kit | Mord Fustang, Diamonds",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20088": {
     "name": "Music Kit | Michael Bross, Invasion!",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20089": {
     "name": "Music Kit | Ian Hultquist, Lion's Mouth",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20090": {
     "name": "Music Kit | New Beat Fund, Sponge Fingerz",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20091": {
     "name": "Music Kit | Beartooth, Disgusting",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20092": {
     "name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20093": {
     "name": "Music Kit | Darude, Moments CS:GO",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20094": {
     "name": "StatTrak™ Music Kit | Proxy, Battlepack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20095": {
     "name": "StatTrak™ Music Kit | Ki:Theory, MOLOTOV",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20096": {
     "name": "StatTrak™ Music Kit | Troels Folmann, Uber Blasto Phone",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20097": {
     "name": "StatTrak™ Music Kit | Kelly Bailey, Hazardous Environments",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20098": {
     "name": "StatTrak™ Music Kit | Skog, II-Headshot",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20099": {
     "name": "StatTrak™ Music Kit | Daniel Sadowski, The 8-Bit Kit",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20100": {
     "name": "StatTrak™ Music Kit | AWOLNATION, I Am",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20101": {
     "name": "StatTrak™ Music Kit | Mord Fustang, Diamonds",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20102": {
     "name": "StatTrak™ Music Kit | Michael Bross, Invasion!",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20103": {
     "name": "StatTrak™ Music Kit | Ian Hultquist, Lion's Mouth",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20104": {
     "name": "StatTrak™ Music Kit | New Beat Fund, Sponge Fingerz",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20105": {
     "name": "StatTrak™ Music Kit | Beartooth, Disgusting",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20106": {
     "name": "StatTrak™ Music Kit | Lennie Moore, Java Havana Funkaloo",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20107": {
     "name": "StatTrak™ Music Kit | Darude, Moments CS:GO",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20108": {
     "name": "StatTrak™ Music Kit | Daniel Sadowski, Crimson Assault",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20109": {
     "name": "StatTrak™ Music Kit | Noisia, Sharpened",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20110": {
     "name": "StatTrak™ Music Kit | Robert Allaire, Insurgency",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20111": {
     "name": "StatTrak™ Music Kit | Sean Murray, A*D*8",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20112": {
     "name": "StatTrak™ Music Kit | Feed Me, High Noon",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20113": {
     "name": "StatTrak™ Music Kit | Dren, Death's Head Demolition",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20114": {
     "name": "StatTrak™ Music Kit | Austin Wintory, Desert Fire",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20115": {
     "name": "StatTrak™ Music Kit | Sasha, LNOE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20116": {
     "name": "StatTrak™ Music Kit | Skog, Metal",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20117": {
     "name": "StatTrak™ Music Kit | Midnight Riders, All I Want for Christmas",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20118": {
     "name": "StatTrak™ Music Kit | Daniel Sadowski, Total Domination",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20119": {
     "name": "StatTrak™ Music Kit | Various Artists, Hotline Miami",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20120": {
     "name": "StatTrak™ Music Kit | Matt Lange, IsoRhythm",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20121": {
     "name": "StatTrak™ Music Kit | Mateo Messina, For No Mankind",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20122": {
     "name": "StatTrak™ Music Kit | Damjan Mravunac, The Talos Principle",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20123": {
     "name": "Pinups Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20124": {
     "name": "Slid3 Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20125": {
     "name": "Team Roles Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20126": {
     "name": "Collectible Pins Capsule Series 1",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20127": {
     "name": "Sugarface Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20128": {
     "name": "Bestiary Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20129": {
     "name": "CS:GO Graffiti Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20130": {
     "name": "Community Graffiti Box 1",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20131": {
     "name": "Collectible Pins Capsule Series 2",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20133": {
     "name": "StatTrak™ Radicals Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20134": {
     "name": "Perfect World Sticker Capsule 1",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20135": {
     "name": "Perfect World Sticker Capsule 2",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20136": {
     "name": "Perfect World Graffiti Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20137": {
     "name": "Community Capsule 2018",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20138": {
     "name": "Collectible Pins Capsule Series 3",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20139": {
     "name": "Skill Groups Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20140": {
     "name": "Music Kit | The Verkkars, EZ4ENCE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20141": {
     "name": "StatTrak™ Music Kit | The Verkkars, EZ4ENCE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20142": {
     "name": "Feral Predators Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20143": {
     "name": "Chicken Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20144": {
     "name": "X-Ray P250 Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20145": {
     "name": "CS20 Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20146": {
     "name": "Halo Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20147": {
     "name": "Music Kit | Scarlxrd: King, Scar",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20148": {
     "name": "StatTrak™ Music Kit | Scarlxrd: King, Scar",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20149": {
     "name": "CS:GO Patch Pack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20152": {
     "name": "Half-Life: Alyx Collectible Pins Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20153": {
     "name": "Half-Life: Alyx Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20154": {
     "name": "Half-Life: Alyx Patch Pack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20169": {
     "name": "Masterminds Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20170": {
     "name": "StatTrak™ Masterminds Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20171": {
     "name": "Warhammer 40,000 Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20172": {
     "name": "Music Kit | Amon Tobin, All for Dust",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20173": {
     "name": "StatTrak™ Music Kit | Amon Tobin, All for Dust",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20174": {
     "name": "Poorly Drawn Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20175": {
     "name": "Music Kit | Neck Deep, The Lowlife Pack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20176": {
     "name": "StatTrak™ Music Kit | Neck Deep, The Lowlife Pack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20177": {
     "name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20178": {
     "name": "StatTrak™ Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20179": {
     "name": "Tacticians Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20180": {
     "name": "StatTrak™ Tacticians Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20181": {
     "name": "2021 Community Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20182": {
     "name": "Battlefield 2042 Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20183": {
     "name": "Music Kit | bbno$, u mad!",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20184": {
     "name": "StatTrak™ Music Kit | bbno$, u mad!",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20185": {
     "name": "Music Kit | The Verkkars & n0thing, Flashbang Dance",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20186": {
     "name": "StatTrak™ Music Kit | The Verkkars & n0thing, Flashbang Dance",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20187": {
     "name": "The Boardroom Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20188": {
     "name": "10 Year Birthday Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20189": {
     "name": "Initiators Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20190": {
     "name": "StatTrak™ Initiators Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20191": {
     "name": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20192": {
     "name": "StatTrak™ Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20193": {
     "name": "Espionage Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20194": {
     "name": "Music Kit | Denzel Curry, ULTIMATE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20195": {
     "name": "StatTrak™ Music Kit | Denzel Curry, ULTIMATE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20197": {
     "name": "Anubis Collection Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20198": {
     "name": "NIGHTMODE Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20199": {
     "name": "StatTrak™ NIGHTMODE Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20200": {
     "name": "Ambush Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20204": {
     "name": "Masterminds 2 Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20205": {
     "name": "StatTrak™ Masterminds 2 Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20206": {
     "name": "Music Kit | Perfect World, Ay Hey",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "20207": {
     "name": "StatTrak™ Music Kit | Perfect World, Ay Hey",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "23": {
@@ -4539,24 +4779,28 @@
     "name": "Operation Hydra Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4354": {
     "name": "Silver Operation Hydra Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4355": {
     "name": "Gold Operation Hydra Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4356": {
     "name": "Diamond Operation Hydra Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4357": {
@@ -5733,24 +5977,28 @@
     "name": "Operation Shattered Web Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4551": {
     "name": "Silver Operation Shattered Web Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4552": {
     "name": "Gold Operation Shattered Web Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4553": {
     "name": "Diamond Operation Shattered Web Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4554": {
@@ -5763,24 +6011,28 @@
     "name": "Katowice 2019 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4556": {
     "name": "Katowice 2019 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4557": {
     "name": "Katowice 2019 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4558": {
     "name": "Katowice 2019 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4559": {
@@ -6081,6 +6333,7 @@
     "name": "Bonus Rank",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4608": {
@@ -6177,24 +6430,28 @@
     "name": "Berlin 2019 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4624": {
     "name": "Berlin 2019 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4625": {
     "name": "Berlin 2019 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4626": {
     "name": "Berlin 2019 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4627": {
@@ -6207,6 +6464,7 @@
     "name": "Berlin 2019 Souvenir Token",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4629": {
@@ -6465,54 +6723,63 @@
     "name": "1 Star for Operation Shattered Web",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4672": {
     "name": "10 Stars for Operation Shattered Web",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4673": {
     "name": "100 Stars for Operation Shattered Web",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4674": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4675": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4676": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4677": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4678": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4679": {
     "name": "2020 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4680": {
@@ -6639,42 +6906,49 @@
     "name": "Operation Broken Fang Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4701": {
     "name": "Silver Operation Broken Fang Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4702": {
     "name": "Gold Operation Broken Fang Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4703": {
     "name": "Diamond Operation Broken Fang Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4704": {
     "name": "1 Star for Operation Broken Fang",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4705": {
     "name": "10 Stars for Operation Broken Fang",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4706": {
     "name": "100 Stars for Operation Broken Fang",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4707": {
@@ -6861,36 +7135,42 @@
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4738": {
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4739": {
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4740": {
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4741": {
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4742": {
     "name": "2021 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4743": {
@@ -6927,6 +7207,7 @@
     "name": "Counter-Strike Subscription Service",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4749": {
@@ -6993,42 +7274,49 @@
     "name": "Operation Riptide Challenge Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4760": {
     "name": "Silver Operation Riptide Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4761": {
     "name": "Gold Operation Riptide Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4762": {
     "name": "Diamond Operation Riptide Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4763": {
     "name": "1 Star for Operation Riptide",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4764": {
     "name": "10 Stars for Operation Riptide",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4765": {
     "name": "100 Stars for Operation Riptide",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4766": {
@@ -7221,18 +7509,21 @@
     "name": "Stockholm 2021 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4798": {
     "name": "Stockholm 2021 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4799": {
     "name": "Stockholm 2021 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "48": {
@@ -7245,6 +7536,7 @@
     "name": "Stockholm 2021 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4801": {
@@ -7257,6 +7549,7 @@
     "name": "Stockholm 2021 Souvenir Token",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4803": {
@@ -7359,36 +7652,42 @@
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4820": {
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4821": {
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4822": {
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4823": {
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4824": {
     "name": "2022 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4825": {
@@ -7401,24 +7700,28 @@
     "name": "Antwerp 2022 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4827": {
     "name": "Antwerp 2022 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4828": {
     "name": "Antwerp 2022 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4829": {
     "name": "Antwerp 2022 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4830": {
@@ -7431,6 +7734,7 @@
     "name": "Antwerp 2022 Souvenir Token",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4832": {
@@ -7551,24 +7855,28 @@
     "name": "Rio 2022 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4852": {
     "name": "Rio 2022 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4853": {
     "name": "Rio 2022 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4854": {
     "name": "Rio 2022 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4855": {
@@ -7581,6 +7889,7 @@
     "name": "Rio 2022 Souvenir Token",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4857": {
@@ -7671,48 +7980,56 @@
     "name": "Rio 2022 Storage Unit with Paper Stickers",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "4872": {
     "name": "Rio 2022 Storage Unit with Glitter Stickers",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "4873": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4874": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4875": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4876": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4877": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4878": {
     "name": "2023 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4879": {
@@ -7743,24 +8060,28 @@
     "name": "Paris 2023 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4885": {
     "name": "Paris 2023 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4886": {
     "name": "Paris 2023 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4887": {
     "name": "Paris 2023 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4888": {
@@ -7773,6 +8094,7 @@
     "name": "Paris 2023 Souvenir Token",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4890": {
@@ -7881,36 +8203,42 @@
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4907": {
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4908": {
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4909": {
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4910": {
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4911": {
     "name": "2024 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4914": {
@@ -7935,24 +8263,28 @@
     "name": "Copenhagen 2024 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4918": {
     "name": "Copenhagen 2024 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4919": {
     "name": "Copenhagen 2024 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4920": {
     "name": "Copenhagen 2024 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4921": {
@@ -7965,6 +8297,7 @@
     "name": "Copenhagen 2024 Souvenir Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4923": {
@@ -8031,24 +8364,28 @@
     "name": "Champion at PGL Copenhagen 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4934": {
     "name": "Finalist at PGL Copenhagen 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4935": {
     "name": "Semifinalist at PGL Copenhagen 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4936": {
     "name": "Quarterfinalist at PGL Copenhagen 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4937": {
@@ -8121,42 +8458,49 @@
     "name": "Charm Detachment Pack",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Tool"
   },
   "4951": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4952": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4953": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4954": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4955": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4956": {
     "name": "2025 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4957": {
@@ -8169,24 +8513,28 @@
     "name": "Shanghai 2024 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4959": {
     "name": "Shanghai 2024 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4960": {
     "name": "Shanghai 2024 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4961": {
     "name": "Shanghai 2024 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4962": {
@@ -8199,6 +8547,7 @@
     "name": "Shanghai 2024 Souvenir Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "4964": {
@@ -8265,24 +8614,28 @@
     "name": "Champion at Perfect World Shanghai 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4975": {
     "name": "Finalist at Perfect World Shanghai 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4976": {
     "name": "Semifinalist at Perfect World Shanghai 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4977": {
     "name": "Quarterfinalist at Perfect World Shanghai 2024",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4978": {
@@ -8337,84 +8690,98 @@
     "name": "Premier Season One Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4987": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4988": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4989": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4990": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4991": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4992": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4993": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4994": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4995": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4996": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4997": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4998": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "4999": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "50": {
@@ -8433,138 +8800,161 @@
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5001": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5002": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5003": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5004": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5005": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5006": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5007": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5008": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5009": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5010": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5011": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5012": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5013": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5014": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5015": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5016": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5017": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5018": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5019": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5020": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5021": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5022": {
     "name": "Premier Season Two Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5027": {
@@ -9105,24 +9495,28 @@
     "name": "Austin 2025 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5112": {
     "name": "Austin 2025 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5113": {
     "name": "Austin 2025 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5114": {
     "name": "Austin 2025 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5115": {
@@ -9135,6 +9529,7 @@
     "name": "Austin 2025 Souvenir Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "5117": {
@@ -9207,24 +9602,28 @@
     "name": "Champion at BLAST.tv Austin 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5128": {
     "name": "Finalist at BLAST.tv Austin 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5129": {
     "name": "Semifinalist at BLAST.tv Austin 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5130": {
     "name": "Quarterfinalist at BLAST.tv Austin 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5131": {
@@ -9291,60 +9690,70 @@
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5141": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5142": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5143": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5144": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5145": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5146": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5147": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5148": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5149": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "515": {
@@ -9357,60 +9766,70 @@
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5151": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5152": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5153": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5154": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5155": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5156": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5157": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5158": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5159": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "516": {
@@ -9423,60 +9842,70 @@
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5161": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5162": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5163": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5164": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5165": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5166": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5167": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5168": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5169": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "517": {
@@ -9489,36 +9918,42 @@
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5171": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5172": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5173": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5174": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5175": {
     "name": "Premier Season Three Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5176": {
@@ -9651,24 +10086,28 @@
     "name": "Budapest 2025 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5211": {
     "name": "Budapest 2025 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5212": {
     "name": "Budapest 2025 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5213": {
     "name": "Budapest 2025 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5214": {
@@ -9681,6 +10120,7 @@
     "name": "Budapest 2025 Souvenir Package",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "5216": {
@@ -9753,24 +10193,28 @@
     "name": "Champion at StarLadder Budapest 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5227": {
     "name": "Finalist at StarLadder Budapest 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5228": {
     "name": "Semifinalist at StarLadder Budapest 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5229": {
     "name": "Quarterfinalist at StarLadder Budapest 2025",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "523": {
@@ -9807,96 +10251,112 @@
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5235": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5236": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5237": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5238": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5239": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5240": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5241": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5242": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5243": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5244": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5245": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5246": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5247": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5248": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5249": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "525": {
@@ -9909,60 +10369,70 @@
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5251": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5252": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5253": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5254": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5255": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5256": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5257": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5258": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5259": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "526": {
@@ -9975,96 +10445,112 @@
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5261": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5262": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5263": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5264": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5265": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5266": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5267": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5268": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5269": {
     "name": "Premier Season Four Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5270": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5271": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5272": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5273": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5274": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5275": {
     "name": "2026 Service Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5276": {
@@ -10185,6 +10671,7 @@
     "name": "Cologne 2026 Tokens",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_Ticket"
   },
   "5310": {
@@ -10203,24 +10690,28 @@
     "name": "Cologne 2026 Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5313": {
     "name": "Cologne 2026 Silver Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5314": {
     "name": "Cologne 2026 Gold Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5315": {
     "name": "Cologne 2026 Diamond Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5316": {
@@ -10245,24 +10736,28 @@
     "name": "Champion at IEM Cologne 2026",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5320": {
     "name": "Finalist at IEM Cologne 2026",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5321": {
     "name": "Semifinalist at IEM Cologne 2026",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5322": {
     "name": "Quarterfinalist at IEM Cologne 2026",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5323": {
@@ -10311,216 +10806,252 @@
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5331": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5332": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5333": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5334": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5335": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5336": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5337": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5338": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5339": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5340": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5341": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5342": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5343": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5344": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5345": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5346": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5347": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5348": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5349": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5350": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5351": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5352": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5353": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5354": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5355": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5356": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5357": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5358": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5359": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5360": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5361": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5362": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5363": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5364": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5365": {
     "name": "Premier Season Five Medal",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "5400": {
@@ -10653,204 +11184,238 @@
     "name": "Dust II Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6002": {
     "name": "Guardian Elite Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6003": {
     "name": "Mirage Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6004": {
     "name": "Inferno Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6005": {
     "name": "Italy Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6006": {
     "name": "Victory Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6007": {
     "name": "Militia Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6008": {
     "name": "Nuke Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6009": {
     "name": "Train Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6010": {
     "name": "Guardian Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6011": {
     "name": "Tactics Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6012": {
     "name": "Guardian 2 Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6013": {
     "name": "Bravo Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6014": {
     "name": "Baggage Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6015": {
     "name": "Phoenix Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6016": {
     "name": "Office Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6017": {
     "name": "Cobblestone Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6018": {
     "name": "Overpass Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6019": {
     "name": "Bloodhound Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6020": {
     "name": "Cache Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6021": {
     "name": "Valeria Phoenix Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6022": {
     "name": "Chroma Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6023": {
     "name": "Guardian 3 Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6024": {
     "name": "Canals Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6025": {
     "name": "Welcome to the Clutch Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6026": {
     "name": "Death Sentence Pin",
     "quality": "genuine",
     "rarity": "rare",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6027": {
     "name": "Inferno 2 Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6028": {
     "name": "Wildfire Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6029": {
     "name": "Easy Peasy Pin",
     "quality": "genuine",
     "rarity": "mythical",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6030": {
     "name": "Aces High Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6031": {
     "name": "Hydra Pin",
     "quality": "genuine",
     "rarity": "legendary",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6032": {
     "name": "Howl Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6033": {
     "name": "Brigadier General Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "6034": {
     "name": "Alyx Pin",
     "quality": "genuine",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "61": {
@@ -11157,6 +11722,7 @@
     "name": "Warhammer 40,000 Traitor Astartes Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7013": {
@@ -11169,6 +11735,7 @@
     "name": "Warhammer 40,000 Adeptus Astartes Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7015": {
@@ -11181,6 +11748,7 @@
     "name": "Warhammer 40,000 Imperium Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7017": {
@@ -11193,6 +11761,7 @@
     "name": "Warhammer 40,000 Xenos Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7019": {
@@ -11205,6 +11774,7 @@
     "name": "Deluge Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7021": {
@@ -11217,78 +11787,91 @@
     "name": "StatTrak™ Deluge Music Kit Box",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7029": {
     "name": "Music Kit | ALRT, DOPAMINE HIT",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7030": {
     "name": "StatTrak™ Music Kit | ALRT, DOPAMINE HIT",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7031": {
     "name": "Music Kit | borne, Give It To Me",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7032": {
     "name": "StatTrak™ Music Kit | borne, Give It To Me",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7033": {
     "name": "Music Kit | Altare, Change My Mind",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7034": {
     "name": "StatTrak™ Music Kit | Altare, Change My Mind",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7035": {
     "name": "Music Kit | Pirapus, EVERYNITE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7036": {
     "name": "StatTrak™ Music Kit | Pirapus, EVERYNITE",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7037": {
     "name": "StatTrak™ Music Kit | Repiet & Julia Kleijn, On And On",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7038": {
     "name": "Music Kit | Repiet & Julia Kleijn, On And On",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7039": {
     "name": "StatTrak™ Music Kit | ShockOne, Voices",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7040": {
     "name": "Music Kit | ShockOne, Voices",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "7041": {
@@ -11301,6 +11884,7 @@
     "name": "Jackass Sticker Capsule",
     "quality": "unique",
     "rarity": "common",
+    "tradable": false,
     "type": "CSGO_Type_WeaponCase"
   },
   "8": {
@@ -11313,156 +11897,182 @@
     "name": "5 Year Veteran Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "875": {
     "name": "Champion at DreamHack 2013",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "876": {
     "name": "Finalist at DreamHack 2013",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "877": {
     "name": "Semifinalist at DreamHack 2013",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "878": {
     "name": "Quarterfinalist at DreamHack 2013",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "879": {
     "name": "Champion at EMS One Katowice 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "880": {
     "name": "Finalist at EMS One Katowice 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "881": {
     "name": "Semifinalist at EMS One Katowice 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "882": {
     "name": "Quarterfinalist at EMS One Katowice 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "883": {
     "name": "Champion at ESL One Cologne 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "884": {
     "name": "Finalist at ESL One Cologne 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "885": {
     "name": "Semifinalist at ESL One Cologne 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "886": {
     "name": "Quarterfinalist at ESL One Cologne 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "887": {
     "name": "Bronze Cologne 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "888": {
     "name": "Silver Cologne 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "889": {
     "name": "Gold Cologne 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "890": {
     "name": "Champion at DreamHack Winter 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "891": {
     "name": "Finalist at DreamHack Winter 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "892": {
     "name": "Semifinalist at DreamHack Winter 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "893": {
     "name": "Quarterfinalist at DreamHack Winter 2014",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "894": {
     "name": "Bronze DreamHack 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "895": {
     "name": "Silver DreamHack 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "896": {
     "name": "Gold DreamHack 2014 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "897": {
     "name": "Champion at ESL One Katowice 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "898": {
     "name": "Finalist at ESL One Katowice 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "899": {
     "name": "Semifinalist at ESL One Katowice 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "9": {
@@ -11475,582 +12085,679 @@
     "name": "Quarterfinalist at ESL One Katowice 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "901": {
     "name": "Bronze Katowice 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "902": {
     "name": "Silver Katowice 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "903": {
     "name": "Gold Katowice 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "904": {
     "name": "Champion at ESL One Cologne 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "905": {
     "name": "Finalist at ESL One Cologne 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "906": {
     "name": "Semifinalist at ESL One Cologne 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "907": {
     "name": "Quarterfinalist at ESL One Cologne 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "908": {
     "name": "Bronze Cologne 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "909": {
     "name": "Silver Cologne 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "910": {
     "name": "Gold Cologne 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "911": {
     "name": "Bronze Cluj-Napoca 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "912": {
     "name": "Silver Cluj-Napoca 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "913": {
     "name": "Gold Cluj-Napoca 2015 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "914": {
     "name": "Bronze Cluj-Napoca 2015 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "915": {
     "name": "Silver Cluj-Napoca 2015 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "916": {
     "name": "Gold Cluj-Napoca 2015 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "917": {
     "name": "Champion at DreamHack Cluj-Napoca 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "918": {
     "name": "Finalist at DreamHack Cluj-Napoca 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "919": {
     "name": "Semifinalist at DreamHack Cluj-Napoca 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "920": {
     "name": "Quarterfinalist at DreamHack Cluj-Napoca 2015",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "921": {
     "name": "Bronze Columbus 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "922": {
     "name": "Silver Columbus 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "923": {
     "name": "Gold Columbus 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "924": {
     "name": "Bronze Columbus 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "925": {
     "name": "Silver Columbus 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "926": {
     "name": "Gold Columbus 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "927": {
     "name": "Champion at MLG Columbus 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "928": {
     "name": "Finalist at MLG Columbus 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "929": {
     "name": "Semifinalist at MLG Columbus 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "930": {
     "name": "Quarterfinalist at MLG Columbus 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "931": {
     "name": "Champion at ESL One Cologne 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "932": {
     "name": "Finalist at ESL One Cologne 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "933": {
     "name": "Semifinalist at ESL One Cologne 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "934": {
     "name": "Quarterfinalist at ESL One Cologne 2016",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "935": {
     "name": "Bronze Cologne 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "936": {
     "name": "Silver Cologne 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "937": {
     "name": "Gold Cologne 2016 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "938": {
     "name": "Bronze Cologne 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "939": {
     "name": "Silver Cologne 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "940": {
     "name": "Gold Cologne 2016 Fantasy Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "941": {
     "name": "Champion at ELEAGUE Atlanta 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "942": {
     "name": "Finalist at ELEAGUE Atlanta 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "943": {
     "name": "Semifinalist at ELEAGUE Atlanta 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "944": {
     "name": "Quarterfinalist at ELEAGUE Atlanta 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "945": {
     "name": "Bronze Atlanta 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "946": {
     "name": "Silver Atlanta 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "947": {
     "name": "Gold Atlanta 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "948": {
     "name": "Champion at PGL Krakow 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "949": {
     "name": "Finalist at PGL Krakow 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "950": {
     "name": "Semifinalist at PGL Krakow 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "951": {
     "name": "Quarterfinalist at PGL Krakow 2017",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "952": {
     "name": "Bronze Krakow 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "953": {
     "name": "Silver Krakow 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "954": {
     "name": "Gold Krakow 2017 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "955": {
     "name": "Champion at ELEAGUE Boston 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "956": {
     "name": "Finalist at ELEAGUE Boston 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "957": {
     "name": "Semifinalist at ELEAGUE Boston 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "958": {
     "name": "Quarterfinalist at ELEAGUE Boston 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "959": {
     "name": "Bronze Boston 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "960": {
     "name": "Silver Boston 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "961": {
     "name": "Gold Boston 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "962": {
     "name": "Champion at FACEIT London 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "963": {
     "name": "Finalist at FACEIT London 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "964": {
     "name": "Semifinalist at FACEIT London 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "965": {
     "name": "Quarterfinalist at FACEIT London 2018",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "966": {
     "name": "Bronze London 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "967": {
     "name": "Silver London 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "968": {
     "name": "Gold London 2018 Pick'Em Trophy",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "969": {
     "name": "10 Year Veteran Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "970": {
     "name": "Loyalty Badge",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "971": {
     "name": "Champion at IEM Katowice 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "972": {
     "name": "Finalist at IEM Katowice 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "973": {
     "name": "Semifinalist at IEM Katowice 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "974": {
     "name": "Quarterfinalist at IEM Katowice 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "975": {
     "name": "Champion at StarLadder Berlin 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "976": {
     "name": "Finalist at StarLadder Berlin 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "977": {
     "name": "Semifinalist at StarLadder Berlin 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "978": {
     "name": "Quarterfinalist at StarLadder Berlin 2019",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "979": {
     "name": "Champion at PGL Stockholm 2021",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "980": {
     "name": "Finalist at PGL Stockholm 2021",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "981": {
     "name": "Semifinalist at PGL Stockholm 2021",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "982": {
     "name": "Quarterfinalist at PGL Stockholm 2021",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "983": {
     "name": "Champion at PGL Antwerp 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "984": {
     "name": "Finalist at PGL Antwerp 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "985": {
     "name": "Semifinalist at PGL Antwerp 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "986": {
     "name": "Quarterfinalist at PGL Antwerp 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "987": {
     "name": "10 Year Birthday Coin",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "988": {
     "name": "Champion at IEM Rio 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "989": {
     "name": "Finalist at IEM Rio 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "990": {
     "name": "Semifinalist at IEM Rio 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "991": {
     "name": "Quarterfinalist at IEM Rio 2022",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "992": {
     "name": "Champion at BLAST.tv Paris 2023",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "993": {
     "name": "Finalist at BLAST.tv Paris 2023",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "994": {
     "name": "Semifinalist at BLAST.tv Paris 2023",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "995": {
     "name": "Quarterfinalist at BLAST.tv Paris 2023",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   },
   "996": {
     "name": "Global Offensive Badge",
     "quality": "unique",
     "rarity": "ancient",
+    "tradable": false,
     "type": "CSGO_Type_Collectible"
   }
 }

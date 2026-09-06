@@ -64,6 +64,27 @@ class FieldsCollector:
 
         return matches
 
+    def _find_attribute(self, data: dict[str, Any], attr: str, visited: set[str] | None = None) -> str:
+        attributes = data.get("attributes", {})
+        if attr in attributes:
+            return attributes[attr]
+
+        values = set()
+        visited = visited or set()
+        for prefab_key in data.get("prefab", "").split():
+            if prefab_key in visited or (prefab := self.items_game["prefabs"].get(prefab_key)) is None:
+                continue
+            try:
+                values.add(self._find_attribute(prefab, attr, visited | {prefab_key}))
+            except KeyError:
+                pass
+
+        if not values:
+            raise KeyError(attr)
+        if len(values) != 1:
+            raise ValueError(f"conflicting inherited attribute {attr!r} values: {values!r}")
+        return values.pop()
+
     def _find_type(self, item_data: dict[str, str]) -> str:
         prefab = self._find_top_level_prefab(item_data, "item_type_name")
         type_key = prefab["item_type_name"].removeprefix("#")
@@ -71,7 +92,7 @@ class FieldsCollector:
             raise KeyError(type_key)
         return type_key
 
-    def _parse_definitions(self) -> dict[str, dict[str, str]]:
+    def _parse_definitions(self) -> dict[str, dict[str, Any]]:
         definitions = {}
 
         for defindex, item_data in self.items_game["items"].items():
@@ -114,6 +135,15 @@ class FieldsCollector:
                         pass
                     else:
                         definition["rarity"] = self._rarities_mapping[rarity_key]
+                try:
+                    cannot_trade = self._find_attribute(item_data, "cannot trade")
+                except KeyError:
+                    pass
+                else:
+                    if cannot_trade not in {"0", "1"}:
+                        raise ValueError(f"unknown 'cannot trade' value for definition {defindex}: {cannot_trade!r}")
+                    if cannot_trade == "1":
+                        definition["tradable"] = False
 
                 definitions[defindex] = definition
 

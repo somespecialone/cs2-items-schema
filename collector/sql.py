@@ -66,6 +66,7 @@ Definitions = Table(
     Column("type", String(60), ForeignKey(Types.c.id)),
     Column("quality", String(60), ForeignKey(Qualities.c.id)),
     Column("rarity", String(60), ForeignKey(Rarities.c.id)),
+    Column("tradable", SmallInteger),
 )
 
 Paints = Table(
@@ -323,6 +324,7 @@ class SQLCreator:
                     quality=def_data.get("quality"),
                     rarity=def_data.get("rarity"),
                     name=def_data["name"],
+                    **({"tradable": 0} if "tradable" in def_data else {}),
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string

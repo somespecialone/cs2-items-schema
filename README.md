@@ -62,6 +62,8 @@ localizations are unavailable; an absent flag does not mean `false`.
   localized catalog values are display text only. Direct definition quality/rarity takes precedence over inherited
   values. When quality is absent, inherited `craft_class = "unusual"` maps to quality `"unusual"` (`★`); this
   is not inferred for every knife or glove.
+- `definitions.tradable` is emitted as `false` only when the definition or an inherited prefab explicitly sets
+  `cannot trade = 1`. Absence does not prove that an item is tradable or marketable.
 - `paints.rarity` is a source key in `rarities`. Definition and paint rarity remain separate; no final per-item rarity is inferred.
 - A `collections` key is the source item-set ID. Its `items` are item IDs and its `containers` are container
   IDs; `containers.collection` provides the inverse link. Collections without a container omit `containers`.

@@ -82,6 +82,7 @@ CREATE TABLE definitions (
 	type VARCHAR2(60 CHAR), 
 	quality VARCHAR2(60 CHAR), 
 	rarity VARCHAR2(60 CHAR), 
+	tradable SMALLINT, 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(type) REFERENCES types (id), 
 	FOREIGN KEY(quality) REFERENCES qualities (id), 
