@@ -10,11 +10,14 @@ import vdf
 from multidict import CIMultiDict
 
 from . import typings
+from .catalog import CatalogCollector
+from .collections import CollectionsCollector
 from .containers import ContainersCollector
 from .fields import FieldsCollector
 from .items import ItemsCollector
 from .sql import SQLCreator
 from .sticker_kits import StickerKitsCollector
+from .trade_up import TradeUpCollector
 
 logger = logging.getLogger(__name__)
 ITEM_IMAGE_PATH_PREFIX = "panorama/images/econ/default_generated/"
@@ -49,9 +52,7 @@ class ResourceCollector:
             )
 
             resps = await asyncio.gather(*tasks)
-            items_game_raw, csgo_english_raw, items_index_raw = await asyncio.gather(
-                *(resp.text() for resp in resps)
-            )
+            items_game_raw, csgo_english_raw, items_index_raw = await asyncio.gather(*(resp.text() for resp in resps))
 
         items_game = vdf.loads(items_game_raw)["items_game"]
         csgo_english = CIMultiDict(vdf.loads(csgo_english_raw)["lang"]["Tokens"])
@@ -92,12 +93,21 @@ class ResourceCollector:
 
         fields_collector = FieldsCollector(items_game, csgo_english)
         types, qualities, definitions, paints, rarities, musics, tints = fields_collector()
+        collections_collector = CollectionsCollector(items_game, csgo_english, definitions, paints)
+        collections = collections_collector()
+        if collections_collector.unresolved_members or collections_collector.unresolved_unusuals:
+            raise ValueError(
+                f"Unresolved collection references: {collections_collector.unresolved_members}, "
+                f"{collections_collector.unresolved_unusuals}"
+            )
+        charms, highlights, tournament_events, tournament_teams, tournament_players, tournament_stages = (
+            CatalogCollector(items_game, csgo_english)()
+        )
+        trade_up_rules = TradeUpCollector(items_game, csgo_english)()
 
         containers_collector = ContainersCollector(items_game, csgo_english)
-        weapon_cases, souvenir_cases, sticker_capsules, patch_capsules, music_kits = containers_collector()
-        item_containers = {**weapon_cases, **souvenir_cases}
-        sticker_kit_containers = {**sticker_capsules, **patch_capsules}
-        containers = {**item_containers, **sticker_kit_containers}
+        containers = containers_collector()
+        sticker_kit_containers = {key: data for key, data in containers.items() if "kits" in data}
 
         items_collector = ItemsCollector(
             items_game,
@@ -105,14 +115,23 @@ class ResourceCollector:
             item_identities,
             paints,
             definitions,
-            item_containers,
+            containers,
         )
         items = items_collector()
 
-        for defindex, container in sticker_kit_containers.items():
-            items[defindex]["kits"] = container["kits"]
-        for defindex, music_kit in music_kits.items():
-            items[defindex]["musics"] = music_kit["musics"]
+        # Collection membership is explicit source evidence even without an indexed image.
+        for collection in collections.values():
+            for item_id in collection["items"]:
+                items.setdefault(item_id, {})
+        for defindex, container in containers.items():
+            items.setdefault(defindex, {})
+            if associated := container.get("associated"):
+                items.setdefault(associated, {})
+
+        for defindex, container in containers.items():
+            for reward_field in ("kits", "musics", "charms"):
+                if reward_field in container:
+                    items[defindex][reward_field] = container[reward_field]
 
         sticker_kit_collector = StickerKitsCollector(items_game, csgo_english, sticker_kit_containers)
         stickers, patches, graffities = sticker_kit_collector()
@@ -136,6 +155,14 @@ class ResourceCollector:
             ("items.json", items),
             ("sticker_kits.json", sticker_kits),
             ("tints.json", tints),
+            ("collections.json", collections),
+            ("charms.json", charms),
+            ("highlights.json", highlights),
+            ("tournament_events.json", tournament_events),
+            ("tournament_teams.json", tournament_teams),
+            ("tournament_players.json", tournament_players),
+            ("tournament_stages.json", tournament_stages),
+            ("trade_up_rules.json", trade_up_rules),
         ]
 
         sql_creator = SQLCreator(
@@ -145,12 +172,18 @@ class ResourceCollector:
             paints=paints,
             musics=musics,
             rarities=rarities,
-            containers=item_containers,
-            sticker_kit_containers=sticker_kit_containers,
+            containers=containers,
             items=items,
             sticker_kits=sticker_kits,
-            music_kits=music_kits,
             tints=tints,
+            collections=collections,
+            charms=charms,
+            highlights=highlights,
+            tournament_events=tournament_events,
+            tournament_teams=tournament_teams,
+            tournament_players=tournament_players,
+            tournament_stages=tournament_stages,
+            trade_up_rules=trade_up_rules,
         )
         sql_dumps = sql_creator.create()
 

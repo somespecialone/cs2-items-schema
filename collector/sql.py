@@ -1,10 +1,20 @@
 from dataclasses import dataclass, field
+from graphlib import TopologicalSorter
 from typing import Any
 
-from sqlalchemy import Column, ForeignKey, Index, MetaData, Table, UniqueConstraint, create_mock_engine
+from sqlalchemy import (
+    Column,
+    ForeignKey,
+    ForeignKeyConstraint,
+    Index,
+    MetaData,
+    Table,
+    UniqueConstraint,
+    create_mock_engine,
+)
 from sqlalchemy.dialects import mssql, mysql, oracle, postgresql, sqlite
 from sqlalchemy.engine.interfaces import Dialect
-from sqlalchemy.types import Float, SmallInteger, String, TypeEngine
+from sqlalchemy.types import BigInteger, Float, SmallInteger, String, Text, TypeEngine
 
 metadata = MetaData()
 
@@ -35,7 +45,7 @@ Musics = Table(
     "musics",
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(16)),
+    Column("name", String(255)),
 )
 
 Rarities = Table(
@@ -53,7 +63,7 @@ Definitions = Table(
     "definitions",
     metadata,
     Column("defindex", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(60), nullable=False),
+    Column("name", String(255), nullable=False),
     Column("type", SmallInteger, ForeignKey(Types.c.id)),
     Column("quality", SmallInteger, ForeignKey(Qualities.c.id)),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
@@ -79,12 +89,95 @@ Items = Table(
     Index("ix_paint_def", "def", "paint", unique=True),
 )
 
+TournamentEvents = Table(
+    "tournament_events",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("name", String(255)),
+    Column("short_name", String(255)),
+)
+
+TournamentTeams = Table(
+    "tournament_teams",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("tag", String(60)),
+    Column("geo", String(16)),
+)
+
+TournamentPlayers = Table(
+    "tournament_players",
+    metadata,
+    Column("id", BigInteger, primary_key=True, autoincrement=False),
+    Column("name", String(255)),
+    Column("geo", String(16)),
+)
+
+TournamentStages = Table(
+    "tournament_stages",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("name", String(255)),
+)
+
+Highlights = Table(
+    "highlights",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("key", String(255), nullable=False, unique=True),
+    Column("event", SmallInteger, ForeignKey(TournamentEvents.c.id), nullable=False),
+    Column("stage", SmallInteger, ForeignKey(TournamentStages.c.id), nullable=False),
+    Column("map", String(60), nullable=False),
+    Column("team0", SmallInteger, ForeignKey(TournamentTeams.c.id), nullable=False),
+    Column("team1", SmallInteger, ForeignKey(TournamentTeams.c.id), nullable=False),
+)
+
+Charms = Table(
+    "charms",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("key", String(255), nullable=False, unique=True),
+    Column("name", String(255)),
+    Column("description", Text),
+    Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
+    Column("quality", SmallInteger, ForeignKey(Qualities.c.id)),
+    Column("base", SmallInteger, ForeignKey("charms.id")),
+    Column("highlight", SmallInteger, ForeignKey(Highlights.c.id)),
+)
+
+Collections = Table(
+    "collections",
+    metadata,
+    Column("id", String(60), primary_key=True),
+    Column("name", String(255)),
+    Column("hidden", SmallInteger),
+)
+
+ItemsCollectionsJunction = Table(
+    "items_collections",
+    metadata,
+    Column("item", String(16), ForeignKey(Items.c.id), primary_key=True),
+    Column("collection", String(60), ForeignKey(Collections.c.id), primary_key=True),
+)
+
+CollectionUnusualSources = Table(
+    "collection_unusual_sources",
+    metadata,
+    Column("collection", String(60), ForeignKey(Collections.c.id), primary_key=True),
+    Column("quality", SmallInteger, ForeignKey(Qualities.c.id), primary_key=True),
+    Column("loot_list", String(255), nullable=False),
+)
+
 StickerKits = Table(
     "sticker_kits",
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(60), nullable=False),
+    Column("name", String(60)),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
+    Column("kind", String(16), nullable=False),
+    Column("event", SmallInteger, ForeignKey(TournamentEvents.c.id)),
+    Column("team", SmallInteger, ForeignKey(TournamentTeams.c.id)),
+    Column("player", BigInteger, ForeignKey(TournamentPlayers.c.id)),
 )
 
 Containers = Table(
@@ -92,19 +185,9 @@ Containers = Table(
     metadata,
     Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
     Column("associated", String(16), ForeignKey(Items.c.id)),
-    Column("set", String(60)),
-)
-
-StickerKitContainers = Table(
-    "sticker_kit_containers",
-    metadata,
-    Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
-)
-
-MusicKits = Table(
-    "music_kits",
-    metadata,
-    Column("defindex", String(16), ForeignKey(Items.c.id), primary_key=True),
+    Column("kind", String(32), nullable=False),
+    Column("collection", String(60), ForeignKey(Collections.c.id)),
+    Column("will_produce_stattrak", SmallInteger),
 )
 
 ItemsContainersJunction = Table(
@@ -116,11 +199,11 @@ ItemsContainersJunction = Table(
     Index("idx_item_container", "item", "container", unique=True),
 )
 
-MusicsMusicKitsJunction = Table(
-    "musics_music_kits",
+MusicsContainersJunction = Table(
+    "musics_containers",
     metadata,
     Column("music", SmallInteger, ForeignKey(Musics.c.id), primary_key=True, nullable=False),
-    Column("container", String(16), ForeignKey(MusicKits.c.defindex), primary_key=True, nullable=False),
+    Column("container", String(16), ForeignKey(Containers.c.defindex), primary_key=True, nullable=False),
     UniqueConstraint("music", "container", name="uniq_music_container"),
     Index("idx_music_container", "music", "container", unique=True),
 )
@@ -129,9 +212,60 @@ StickerKitsContainersJunction = Table(
     "sticker_kits_containers",
     metadata,
     Column("kit", SmallInteger, ForeignKey(StickerKits.c.id), primary_key=True, nullable=False),
-    Column("container", String(16), ForeignKey(StickerKitContainers.c.defindex), primary_key=True, nullable=False),
+    Column("container", String(16), ForeignKey(Containers.c.defindex), primary_key=True, nullable=False),
     UniqueConstraint("kit", "container", name="uniq_kit_container"),
     Index("idx_kit_container", "kit", "container", unique=True),
+)
+
+CharmsContainersJunction = Table(
+    "charms_containers",
+    metadata,
+    Column("container", String(16), ForeignKey(Containers.c.defindex), primary_key=True),
+    Column("charm", SmallInteger, ForeignKey(Charms.c.id), primary_key=True),
+)
+
+ContainerHighlightCharms = Table(
+    "container_highlight_charms",
+    metadata,
+    Column("container", String(16), ForeignKey(Containers.c.defindex), primary_key=True),
+    Column("charm", SmallInteger, ForeignKey(Charms.c.id), primary_key=True),
+)
+
+TradeUpRules = Table(
+    "trade_up_rules",
+    metadata,
+    Column("id", SmallInteger, primary_key=True, autoincrement=False),
+    Column("name", String(255)),
+    Column("disabled", SmallInteger, nullable=False),
+    Column("all_same_class", SmallInteger, nullable=False),
+    Column("premium_only", SmallInteger, nullable=False),
+)
+
+TradeUpGroups = Table(
+    "trade_up_groups",
+    metadata,
+    Column("rule", SmallInteger, ForeignKey(TradeUpRules.c.id), primary_key=True),
+    Column("direction", String(6), primary_key=True),
+    Column("group_index", SmallInteger, primary_key=True, autoincrement=False),
+    Column("count", SmallInteger),
+    Column("key", String(60)),
+)
+
+TradeUpConditions = Table(
+    "trade_up_conditions",
+    metadata,
+    Column("rule", SmallInteger, primary_key=True),
+    Column("direction", String(6), primary_key=True),
+    Column("group_index", SmallInteger, primary_key=True),
+    Column("condition_index", SmallInteger, primary_key=True, autoincrement=False),
+    Column("field", String(60), nullable=False),
+    Column("operator", String(16), nullable=False),
+    Column("value", String(255), nullable=False),
+    Column("required", SmallInteger, nullable=False),
+    ForeignKeyConstraint(
+        ["rule", "direction", "group_index"],
+        [TradeUpGroups.c.rule, TradeUpGroups.c.direction, TradeUpGroups.c.group_index],
+    ),
 )
 
 
@@ -144,11 +278,17 @@ class SQLCreator:
     musics: dict[str, str]
     rarities: dict[str, dict[str, Any]]
     containers: dict[str, dict[str, Any]]
-    sticker_kit_containers: dict[str, dict[str, Any]]
     items: dict[str, dict[str, Any]]
     sticker_kits: dict[str, dict[str, Any]]
-    music_kits: dict[str, dict[str, Any]]
     tints: dict[str, str]
+    collections: dict[str, dict[str, Any]]
+    charms: dict[str, dict[str, Any]]
+    highlights: dict[str, dict[str, Any]]
+    tournament_events: dict[str, dict[str, Any]]
+    tournament_teams: dict[str, dict[str, Any]]
+    tournament_players: dict[str, dict[str, Any]]
+    tournament_stages: dict[str, dict[str, Any]]
+    trade_up_rules: dict[str, dict[str, Any]]
 
     dialect: Dialect = field(default_factory=sqlite.dialect)
 
@@ -282,7 +422,11 @@ class SQLCreator:
                 .values(
                     id=int(sticker_kits_id),
                     rarity=int(sticker_kits_data["rarity"]) if "rarity" in sticker_kits_data else None,
-                    name=sticker_kits_data["name"],
+                    name=sticker_kits_data.get("name"),
+                    kind=sticker_kits_data["kind"],
+                    event=int(sticker_kits_data["event"]) if "event" in sticker_kits_data else None,
+                    team=int(sticker_kits_data["team"]) if "team" in sticker_kits_data else None,
+                    player=int(sticker_kits_data["player"]) if "player" in sticker_kits_data else None,
                 )
                 .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
                 .string
@@ -290,85 +434,102 @@ class SQLCreator:
 
         return sticker_kits
 
-    def _populate_containers(self):
-        containers = []
-        junctions = []
-        for defindex, cont_data in self.containers.items():
-            containers.append(
-                Containers.insert()
-                .values(
-                    defindex=str(defindex),
-                    set=cont_data.get("set"),
-                    associated=str(cont_data["associated"]) if "associated" in cont_data else None,
-                )
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
+    def _insert(self, table: Table, **values: Any) -> str:
+        # Normalize numeric source IDs and encode flags as portable SQL 0/1 values.
+        values = {
+            key: int(value)
+            if value is not None and isinstance(table.c[key].type, (SmallInteger, BigInteger))
+            else value
+            for key, value in values.items()
+        }
+        return (
+            table.insert().values(**values).compile(dialect=self.dialect, compile_kwargs={"literal_binds": True}).string
+        )
+
+    def _populate_catalogs(self) -> list[str]:
+        statements = []
+        for table, source in (
+            (TournamentEvents, self.tournament_events),
+            (TournamentTeams, self.tournament_teams),
+            (TournamentPlayers, self.tournament_players),
+            (TournamentStages, self.tournament_stages),
+            (Highlights, self.highlights),
+        ):
+            for source_id, data in sorted(source.items()):
+                statements.append(self._insert(table, id=source_id, **data))
+
+        # Insert base charms before derivatives so self-references work with FK checks enabled.
+        dependencies = {
+            charm_id: [data["base"]] if "base" in data else [] for charm_id, data in sorted(self.charms.items())
+        }
+        for charm_id in TopologicalSorter(dependencies).static_order():
+            statements.append(self._insert(Charms, id=charm_id, **self.charms[charm_id]))
+        return statements
+
+    def _populate_collections(self) -> list[str]:
+        statements = []
+        for collection_id, data in sorted(self.collections.items()):
+            statements.append(
+                self._insert(Collections, id=collection_id, name=data.get("name"), hidden=data.get("hidden"))
             )
-
-            for item_id in cont_data["items"]:
-                junctions.append(
-                    ItemsContainersJunction.insert()
-                    .values(
-                        item=item_id,
-                        container=str(defindex),
+            for item_id in data["items"]:
+                statements.append(self._insert(ItemsCollectionsJunction, item=item_id, collection=collection_id))
+            for quality, loot_list in sorted(data.get("unusuals", {}).items()):
+                statements.append(
+                    self._insert(
+                        CollectionUnusualSources, collection=collection_id, quality=quality, loot_list=loot_list
                     )
-                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                    .string
                 )
+        return statements
 
-        return containers, junctions
-
-    def _populate_sticker_kit_containers(self):
-        containers = []
-        junctions = []
-        for defindex, cont_data in self.sticker_kit_containers.items():
-            containers.append(
-                StickerKitContainers.insert()
-                .values(
-                    defindex=str(defindex),
+    def _populate_containers(self) -> list[str]:
+        statements = []
+        for defindex, data in sorted(self.containers.items()):
+            statements.append(
+                self._insert(
+                    Containers,
+                    defindex=defindex,
+                    kind=data["kind"],
+                    collection=data.get("collection"),
+                    associated=data.get("associated"),
+                    will_produce_stattrak=data.get("will_produce_stattrak"),
                 )
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
             )
+            for key, table, column in (
+                ("items", ItemsContainersJunction, "item"),
+                ("kits", StickerKitsContainersJunction, "kit"),
+                ("musics", MusicsContainersJunction, "music"),
+                ("charms", CharmsContainersJunction, "charm"),
+                ("highlight_charms", ContainerHighlightCharms, "charm"),
+            ):
+                for member in data.get(key, []):
+                    statements.append(self._insert(table, container=defindex, **{column: member}))
+        return statements
 
-            for item_id in cont_data["kits"]:
-                junctions.append(
-                    StickerKitsContainersJunction.insert()
-                    .values(
-                        kit=int(item_id),
-                        container=str(defindex),
-                    )
-                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                    .string
+    def _populate_trade_up_rules(self) -> list[str]:
+        statements = []
+        for rule_id, data in sorted(self.trade_up_rules.items()):
+            statements.append(
+                self._insert(
+                    TradeUpRules,
+                    id=rule_id,
+                    name=data.get("name"),
+                    disabled=data["disabled"],
+                    all_same_class=data["all_same_class"],
+                    premium_only=data["premium_only"],
                 )
-
-        return containers, junctions
-
-    def _populate_music_kits(self):
-        containers = []
-        junctions = []
-        for defindex, cont_data in self.music_kits.items():
-            containers.append(
-                MusicKits.insert()
-                .values(
-                    defindex=str(defindex),
-                )
-                .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                .string
             )
-
-            for item_id in cont_data["musics"]:
-                junctions.append(
-                    MusicsMusicKitsJunction.insert()
-                    .values(
-                        music=int(item_id),
-                        container=str(defindex),
+            for direction, groups in (("input", data["inputs"]), ("output", data["outputs"])):
+                for group_index, group in enumerate(groups):
+                    identity = {"rule": rule_id, "direction": direction, "group_index": group_index}
+                    statements.append(
+                        self._insert(TradeUpGroups, **identity, count=group.get("count"), key=group.get("key"))
                     )
-                    .compile(dialect=self.dialect, compile_kwargs={"literal_binds": True})
-                    .string
-                )
-
-        return containers, junctions
+                    for condition_index, condition in enumerate(group["conditions"]):
+                        statements.append(
+                            self._insert(TradeUpConditions, **identity, condition_index=condition_index, **condition)
+                        )
+        return statements
 
     def create(self) -> list[tuple[str, str]]:
         create_scripts = self._create_expression()
@@ -382,9 +543,10 @@ class SQLCreator:
         items = self._populate_items()
         sticker_kits = self._populate_sticker_kits()
 
-        containers, items_junc = self._populate_containers()
-        sticker_kit_container, stick_junc = self._populate_sticker_kit_containers()
-        music_kits, music_junc = self._populate_music_kits()
+        catalogs = self._populate_catalogs()
+        collections = self._populate_collections()
+        containers = self._populate_containers()
+        trade_up_rules = self._populate_trade_up_rules()
 
         populate = ";\n".join(
             [
@@ -396,13 +558,11 @@ class SQLCreator:
                 *defs,
                 *paints,
                 *items,
+                *catalogs,
+                *collections,
                 *sticker_kits,
                 *containers,
-                *items_junc,
-                *music_kits,
-                *music_junc,
-                *sticker_kit_container,
-                *stick_junc,
+                *trade_up_rules,
             ]
         )
 

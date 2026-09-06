@@ -16,39 +16,46 @@ class StickerKitsCollector:
     def _find_containers(self, sticker_kit_index: str) -> list[str]:
         containers = set()
         for cont_index, cont in self.containers.items():
-            if sticker_kit_index in cont["kits"]:
+            if sticker_kit_index in cont.get("kits", []):
                 containers.add(cont_index)
 
         return sorted(containers)
 
-    def __call__(self) -> tuple[dict[str, dict[str, str | list[str]]], ...]:
-        stickers: dict[str, dict[str, str | list[str]]] = {}
-        patches: dict[str, dict[str, str | list[str]]] = {}
-        graffities: dict[str, dict[str, str | list[str]]] = {}
+    def __call__(self) -> tuple[dict[str, dict[str, Any]], ...]:
+        stickers: dict[str, dict[str, Any]] = {}
+        patches: dict[str, dict[str, Any]] = {}
+        graffities: dict[str, dict[str, Any]] = {}
 
-        sticker_kit_data: dict[str, str]
         for sticker_kit_index, sticker_kit_data in self.items_game["sticker_kits"].items():
-            try:
-                sticker_kit: dict[str, str | list[str]] = {
-                    "name": self.csgo_english[sticker_kit_data["item_name"][1:]],
-                }
-
-            except KeyError:
-                continue
+            sticker_kit: dict[str, Any] = {}
+            item_name = sticker_kit_data.get("item_name")
+            if item_name and (name := self.csgo_english.get(item_name.removeprefix("#"))):
+                sticker_kit["name"] = name
 
             if containers := self._find_containers(sticker_kit_index):
                 sticker_kit["containers"] = containers
 
             if rarity_key := sticker_kit_data.get("item_rarity"):
-                sticker_kit["rarity"] = self.items_game["rarities"][rarity_key]["value"]
+                rarity = self.items_game["rarities"].get(rarity_key)
+                if isinstance(rarity, dict) and isinstance(rarity.get("value"), str):
+                    sticker_kit["rarity"] = rarity["value"]
 
-            # there can be image
+            for source_key, output_key in (
+                ("tournament_event_id", "event"),
+                ("tournament_team_id", "team"),
+                ("tournament_player_id", "player"),
+            ):
+                if source_id := sticker_kit_data.get(source_key):
+                    sticker_kit[output_key] = source_id
 
-            if "patch" in sticker_kit_data["name"]:
+            if "patch_material" in sticker_kit_data:
+                sticker_kit["kind"] = "patch"
                 patches[sticker_kit_index] = sticker_kit
-            elif "graffiti" in sticker_kit_data["name"]:
+            elif "graffiti" in sticker_kit_data.get("sticker_material", ""):
+                sticker_kit["kind"] = "graffiti"
                 graffities[sticker_kit_index] = sticker_kit
             else:
+                sticker_kit["kind"] = "sticker"
                 stickers[sticker_kit_index] = sticker_kit
 
         return stickers, patches, graffities

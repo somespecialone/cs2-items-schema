@@ -37,20 +37,38 @@ class FieldsCollector:
         item_name = prefab["item_name"]
         return self.csgo_english[item_name.removeprefix("#")]
 
-    def _find_top_level_prefab(self, data: dict[str, str], attr: str):
-        # KeyError excepted on upper level of the stack
+    def _find_top_level_prefab(self, data: dict[str, str], attr: str) -> dict[str, str]:
+        # Direct fields override every prefab branch.
         if data.get(attr):
             return data
-        else:
-            # normalize special key
-            if " " in data["prefab"] and "valve" in data["prefab"]:
-                prefab_key = data["prefab"].split(" ")[1]
-            elif " " in data["prefab"]:  # ex. 'berlin2019_tournament_pass_prefab berlin2019_tournament_steamtv_items'
-                prefab_key = data["prefab"].split(" ")[0]
-            else:
-                prefab_key = data["prefab"]
 
-            return self._find_top_level_prefab(self.items_game["prefabs"][prefab_key], attr)
+        matches = self._find_prefab_matches(data, attr, set())
+        if not matches:
+            raise KeyError(attr)
+
+        values = {match[attr] for match in matches}
+        if len(values) != 1:
+            raise ValueError(f"conflicting inherited {attr!r} values: {values!r}")
+
+        return matches[0]
+
+    def _find_prefab_matches(self, data: dict[str, str], attr: str, visited: set[str]) -> list[dict[str, str]]:
+        matches = []
+        for prefab_key in data.get("prefab", "").split():
+            if prefab_key in visited:
+                continue
+
+            prefab = self.items_game["prefabs"].get(prefab_key)
+            if prefab is None:
+                continue
+
+            if prefab.get(attr):
+                matches.append(prefab)
+                continue
+
+            matches.extend(self._find_prefab_matches(prefab, attr, visited | {prefab_key}))
+
+        return matches
 
     def _find_type(self, item_data: dict[str, str]) -> str:
         # find top level prefab with 'item_type_name'
@@ -73,20 +91,33 @@ class FieldsCollector:
                 except KeyError:
                     pass
 
-                # we have quality on inspected item
                 if quality_key := item_data.get("item_quality"):
                     definition["quality"] = self._qualities_mapping[quality_key]
                 else:
                     try:
-                        prefab = self._find_top_level_prefab(item_data, "craft_class")
+                        craft_class = self._find_top_level_prefab(item_data, "craft_class")["craft_class"]
                     except KeyError:
-                        pass
+                        craft_class = None
+
+                    if craft_class == "unusual":
+                        definition["quality"] = self._qualities_mapping["unusual"]
                     else:
-                        if prefab["craft_class"] == "unusual":
-                            definition["quality"] = self._qualities_mapping["unusual"]
+                        try:
+                            quality_key = self._find_top_level_prefab(item_data, "item_quality")["item_quality"]
+                        except KeyError:
+                            pass
+                        else:
+                            definition["quality"] = self._qualities_mapping[quality_key]
 
                 if rarity_key := item_data.get("item_rarity"):
                     definition["rarity"] = self._rarities_mapping[rarity_key]
+                else:
+                    try:
+                        rarity_key = self._find_top_level_prefab(item_data, "item_rarity")["item_rarity"]
+                    except KeyError:
+                        pass
+                    else:
+                        definition["rarity"] = self._rarities_mapping[rarity_key]
 
                 definitions[defindex] = definition
 

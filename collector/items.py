@@ -12,20 +12,12 @@ class ItemsCollector:
 
     paints: dict[str, str]
     definitions: dict[str, dict[str, str]]
-    containers: dict[str, dict[str, list[str]]]
+    containers: dict[str, dict[str, Any]]
 
     def _create_painted_item_name(self, defindex: str, paint_index: str) -> str:
         paint_codename = "_" + self.items_game["paint_kits"][paint_index]["name"]
         item_codename = self.items_game["items"][defindex]["name"]
         return item_codename + paint_codename
-
-    def _find_containers(self, defindex: str, paintindex: str) -> list[str]:
-        containers = set()
-        for cont_index, cont in self.containers.items():
-            if "[" + paintindex + "]" + defindex in cont["items"]:
-                containers.add(cont_index)
-
-        return sorted(containers)
 
     def __call__(self) -> dict[str, dict[str, Any]]:
         items = {}
@@ -40,15 +32,15 @@ class ItemsCollector:
                 if item_name not in self.item_identities:
                     continue
 
-                item = {}
-                if containers := self._find_containers(defindex, paint_index):
-                    item["containers"] = containers
-
-                items[f"[{paint_index}]{defindex}"] = item
+                items[f"[{paint_index}]{defindex}"] = {}
                 painted = True
 
             if not painted:
                 items[defindex] = {}
 
-        return items
+        # Explicit loot includes bare rewards and items without indexed images.
+        for container_id, container in sorted(self.containers.items()):
+            for item_id in container.get("items", []):
+                items.setdefault(item_id, {}).setdefault("containers", []).append(container_id)
 
+        return items

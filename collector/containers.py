@@ -1,182 +1,147 @@
-import re
 from dataclasses import dataclass
 from typing import Any
 
 from . import typings
 
-ITEM_NAME_RE = re.compile(r"\[(.+)](.+)")
-
 
 @dataclass(repr=False, eq=False)
 class ContainersCollector:
-    """Collect containers"""
+    """Collect container kinds and direct source-defined rewards."""
 
     items_game: typings.ITEMS_GAME
     csgo_english: typings.CSGO_ENGLISH
 
-    def _find_item_indexes(self, item_name: str) -> str:
-        # performance? No, thanks
-        paint_name, def_name = ITEM_NAME_RE.findall(item_name)[0]
-        for defindex, type_data in self.items_game["items"].items():
-            if type_data["name"] == def_name:
-                for paint_index, paint_data in self.items_game["paint_kits"].items():
-                    if paint_data["name"] == paint_name:
-                        return "[" + paint_index + "]" + defindex
-
-        raise ValueError(f"Unknown item index: {item_name}")
-
-    def _check_case_prefab(self, data: dict[str, Any]) -> bool:
-        # look for weapon_case_base prefab walking to top
-        if "prefab" in data:
-            if data["prefab"] == "weapon_case_base":
-                return True
-            else:
-                return self._check_case_prefab(self.items_game["prefabs"].get(data["prefab"], {}))
-        else:
-            return False
-
-    def _find_sticker_kit_index(self, item_name: str) -> str:
-        sticker_kit_name, _ = ITEM_NAME_RE.findall(item_name)[0]
-        for sticker_id, sticker_kit_data in self.items_game["sticker_kits"].items():
-            if sticker_kit_data["name"] == sticker_kit_name:
-                return sticker_id
-
-        raise ValueError(f"Unknown sticker kit: {item_name}")
-
-    def _find_music_kit_index(self, item_name: str) -> str:
-        music_kit_name, _ = ITEM_NAME_RE.findall(item_name)[0]
-        for music_id, music_kit_data in self.items_game["music_definitions"].items():
-            if music_kit_data["name"] == music_kit_name:
-                return music_id
-
-        raise ValueError(f"Unknown music kit: {item_name}")
-
-    def _get_loot_recursive(self, entry: dict[str, Any] | None) -> list[str]:
-        if entry is None:
-            return []
-
-        loot = []
-        for loot_name in entry:
-            if "[" in loot_name:
-                loot.append(loot_name)
-            else:
-                loot.extend(self._get_loot_recursive(self.items_game["client_loot_lists"].get(loot_name, {})))
-
-        return loot
-
-    def __call__(self) -> tuple[dict[str, Any], ...]:
-        souvenir_cases = {}
-        sticker_capsules = {}
-        weapon_cases = {}
-        music_kits = {}
-        patch_capsules = {}
-
-        for defindex, item_data in self.items_game["items"].items():
-            if not self._check_case_prefab(item_data):
+    def _prefab_chain(self, data: dict[str, Any]) -> set[str]:
+        prefabs = set()
+        pending = data.get("prefab", "").split()
+        while pending:
+            key = pending.pop()
+            if key in prefabs:
                 continue
+            prefabs.add(key)
+            pending.extend(self.items_game["prefabs"].get(key, {}).get("prefab", "").split())
+        return prefabs
 
-            container = {}
-            supply_crate_series = item_data.get("attributes", {}).get("set supply crate series")
-            if isinstance(supply_crate_series, dict):
-                supply_crate_series = supply_crate_series.get("value")
-            if not isinstance(supply_crate_series, str):
-                supply_crate_series = None
-            revolving_loot_list = (
-                self.items_game["revolving_loot_lists"].get(supply_crate_series) if supply_crate_series else None
-            )
+    def _loot_list_names(self, item_data: dict[str, Any]) -> set[str]:
+        client_loot_lists = self.items_game["client_loot_lists"]
+        names = set()
+        for name in (item_data.get("name"), item_data.get("loot_list_name")):
+            if name in client_loot_lists:
+                names.add(name)
+        for tag in item_data.get("tags", {}).values():
+            if tag.get("tag_value") in client_loot_lists:
+                names.add(tag["tag_value"])
+        series = item_data.get("attributes", {}).get("set supply crate series")
+        if isinstance(series, dict):
+            series = series.get("value")
+        name = self.items_game["revolving_loot_lists"].get(series)
+        if name in client_loot_lists:
+            names.add(name)
+        return names
 
-
-            # there can be image pointer for containers a la 'econ/weapon_cases/...'
-
-            if item_set_tag := item_data.get("tags", {}).get("ItemSet"):
-                # if item set in tags we can bypass lookup and get items directly from set
-                item_set = self.items_game["item_sets"][item_set_tag["tag_value"]]
-                # container["set"] = self.csgo_english[item_set["name"][1:]]
-
-                loot_list = list(item_set["items"].keys())  # no need to extract here
-                container["items"] = [self._find_item_indexes(i) for i in loot_list]
-
-                if "associated_items" in item_data:
-                    container["associated"] = next(iter(item_data["associated_items"]))
-
-                if item_data["prefab"] == "weapon_case_souvenirpkg":
-                    containers_to_add = souvenir_cases
-                else:
-                    containers_to_add = weapon_cases
-
-            elif sticker_caps_tag := item_data.get("tags", {}).get("StickerCapsule"):
-                loot_dict: dict[str, Any] | None = None
-
-                if sticker_caps_tag["tag_value"] in self.items_game["client_loot_lists"]:
-                    loot_dict = self.items_game["client_loot_lists"][sticker_caps_tag["tag_value"]]
-
-                elif item_data["name"] in self.items_game["client_loot_lists"]:
-                    loot_dict = self.items_game["client_loot_lists"][item_data["name"]]
-
-                elif (
-                    isinstance(revolving_loot_list, str)
-                    and revolving_loot_list in self.items_game["client_loot_lists"]
-                ):
-                    loot_dict = self.items_game["client_loot_lists"][revolving_loot_list]
-
-                loot_list = self._get_loot_recursive(loot_dict)
-                container["kits"] = [self._find_sticker_kit_index(i) for i in loot_list]
-
-                containers_to_add = sticker_capsules
-
-            elif patch_caps_tag := item_data.get("tags", {}).get("PatchCapsule"):
-                loot_dict: dict[str, Any] | None = None
-
-                if patch_caps_tag["tag_value"] in self.items_game["client_loot_lists"]:
-                    loot_dict = self.items_game["client_loot_lists"][patch_caps_tag["tag_value"]]
-
-                elif item_data["name"] in self.items_game["client_loot_lists"]:
-                    loot_dict = self.items_game["client_loot_lists"][item_data["name"]]
-
-                loot_list = self._get_loot_recursive(loot_dict)
-                container["kits"] = [self._find_sticker_kit_index(i) for i in loot_list]
-
-                containers_to_add = patch_capsules
-
-            elif (
-                isinstance(revolving_loot_list, str)
-                and revolving_loot_list in self.items_game["client_loot_lists"]
-            ):
-                loot_dict = self.items_game["client_loot_lists"][revolving_loot_list]
-                loot_list = self._get_loot_recursive(loot_dict)
-
-                if "musickit" in item_data["name"]:
-                    container["musics"] = [self._find_music_kit_index(i) for i in loot_list]
-                    containers_to_add = music_kits
-
-                else:
-                    container["kits"] = [self._find_sticker_kit_index(i) for i in loot_list]
-                    containers_to_add = sticker_capsules
-
-            elif "loot_list_name" in item_data:
-                try:
-                    loot_dict = self.items_game["client_loot_lists"][item_data["loot_list_name"]]
-                except KeyError:
-                    continue
-
-                loot_list = self._get_loot_recursive(loot_dict)
-
-                if "musickit" in item_data["name"] or "music_kits" in item_data.get("image_inventory", ""):
-                    container["musics"] = [self._find_music_kit_index(i) for i in loot_list]
-                    containers_to_add = music_kits
-
-                elif "coupon" in item_data["name"]:
-                    container["kits"] = [self._find_sticker_kit_index(i) for i in loot_list]
-                    containers_to_add = sticker_capsules
-
-                else:
-                    container["kits"] = [self._find_sticker_kit_index(i) for i in loot_list]
-                    containers_to_add = sticker_capsules
-
-            else:  # skip containers without loot lists
+    def _loot(self, names: set[str]) -> tuple[set[str], set[str]]:
+        rewards = set()
+        highlight_charms = set()
+        seen = set()
+        pending = list(names)
+        while pending:
+            name = pending.pop()
+            if name in seen:
                 continue
+            seen.add(name)
+            entry = self.items_game["client_loot_lists"][name]
+            if charm := entry.get("match_highlight_reel_keychain"):
+                highlight_charms.add(charm)
+            for reward in entry:
+                if reward in self.items_game["client_loot_lists"]:
+                    pending.append(reward)
+                else:
+                    rewards.add(reward)
+        return rewards, highlight_charms
 
-            if container.get("items") or container.get("kits") or container.get("musics"):
-                containers_to_add[defindex] = container
+    @staticmethod
+    def _kind(item: dict[str, Any], prefabs: set[str], rewards: set[str]) -> str:
+        tags = item.get("tags", {})
+        if "coupon_prefab" in prefabs:
+            return "coupon"
+        if "weapon_case_souvenirpkg" in prefabs:
+            return "souvenir_package"
+        if "ItemSet" in tags or "weapon_case" in prefabs or "weapon_case_selfopening_collection" in prefabs:
+            return "weapon_case"
+        if "PatchCapsule" in tags or "patch_capsule" in prefabs:
+            return "patch_capsule"
+        if "SprayCapsule" in tags or "graffiti_box" in prefabs:
+            return "graffiti_container"
+        if "StickerCapsule" in tags or "sticker_capsule" in prefabs:
+            return "sticker_capsule"
+        reward_types = {reward.rsplit("]", 1)[-1] for reward in rewards if reward.startswith("[")}
+        return {
+            frozenset({"sticker"}): "sticker_capsule",
+            frozenset({"patch"}): "patch_capsule",
+            frozenset({"spray"}): "graffiti_container",
+            frozenset({"musickit"}): "music_kit_container",
+            frozenset({"keychain"}): "charm_container",
+        }.get(frozenset(reward_types), "container")
 
-        return weapon_cases, souvenir_cases, sticker_capsules, patch_capsules, music_kits
+    def __call__(self) -> dict[str, dict[str, Any]]:
+        item_ids = {data["name"]: key for key, data in self.items_game["items"].items() if key.isdigit()}
+        paint_ids = {data["name"]: key for key, data in self.items_game["paint_kits"].items()}
+        kit_ids = {data["name"]: key for key, data in self.items_game["sticker_kits"].items()}
+        music_ids = {data["name"]: key for key, data in self.items_game["music_definitions"].items()}
+        charm_ids = {data["name"]: key for key, data in self.items_game["keychain_definitions"].items()}
+        containers = {}
+
+        for defindex, item in self.items_game["items"].items():
+            prefabs = self._prefab_chain(item)
+            if not defindex.isdigit() or "weapon_case_base" not in prefabs:
+                continue
+            names = self._loot_list_names(item)
+            rewards, highlight_charms = self._loot(names)
+            container: dict[str, Any] = {"kind": self._kind(item, prefabs, rewards)}
+            if tag := item.get("tags", {}).get("ItemSet"):
+                collection_id = tag["tag_value"]
+                container["collection"] = collection_id
+                rewards.update(self.items_game["item_sets"][collection_id]["items"])
+
+            members: dict[str, set[str]] = {"items": set(), "kits": set(), "musics": set(), "charms": set()}
+            for reward in rewards:
+                if reward.startswith("["):
+                    kit, definition = reward[1:].split("]", maxsplit=1)
+                    if definition in {"sticker", "patch", "spray"}:
+                        members["kits"].add(kit_ids[kit])
+                    elif definition == "musickit":
+                        members["musics"].add(music_ids[kit])
+                    elif definition == "keychain":
+                        members["charms"].add(charm_ids[kit])
+                    else:
+                        members["items"].add(f"[{paint_ids[kit]}]{item_ids[definition]}")
+                elif reward in item_ids:
+                    # A coupon can award another container; do not flatten that item's contents.
+                    members["items"].add(item_ids[reward])
+            for field, values in members.items():
+                if values:
+                    container[field] = sorted(values)
+
+            if associated := item.get("associated_items"):
+                if len(associated) != 1:
+                    raise ValueError(f"Multiple associated items for container {defindex}: {associated}")
+                container["associated"] = next(iter(associated))
+
+            # Only the item or its explicitly selected root loot list establishes this flag.
+            if "will_produce_stattrak" in item:
+                flags = {item["will_produce_stattrak"]}
+            else:
+                flags = {
+                    self.items_game["client_loot_lists"][name]["will_produce_stattrak"]
+                    for name in names
+                    if "will_produce_stattrak" in self.items_game["client_loot_lists"][name]
+                }
+            if flags:
+                if len(flags) != 1 or not flags <= {"0", "1"}:
+                    raise ValueError(f"Conflicting or unknown StatTrak reward flag for container {defindex}: {flags}")
+                container["will_produce_stattrak"] = flags == {"1"}
+            if highlight_charms:
+                container["highlight_charms"] = sorted(charm_ids[name] for name in highlight_charms)
+            containers[defindex] = container
+
+        return containers
