@@ -6,7 +6,7 @@
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![steam](https://shields.io/badge/steam-1b2838?logo=steam)](https://store.steampowered.com/)
 
-This is storage repo of `CS2` (ex. `CSGO`) items schema with attempt to create more understandable format
+This is storage repo of `CS2` items schema with attempt to create more understandable format
 of `CS2` items and their relations.
 
 > [!IMPORTANT]
@@ -25,41 +25,48 @@ of `CS2` items and their relations.
 
 ```mermaid
 flowchart LR
-    types[types] --> definitions[definitions]
-    qualities[qualities] --> definitions
-    rarities[rarities] --> definitions
-    rarities --> paints[paints]
-    definitions --> items[items]
-    paints --> items
-    containers[containers] <--> items
-    collections[collections] <--> items
-    containers <--> collections
-    containers <--> sticker_kits[sticker_kits]
-    containers --> musics[musics]
-    containers --> charms[charms]
-    charms --> highlights[highlights]
-    tournament_events[tournament_events] --> sticker_kits
-    tournament_events --> highlights
-    tournament_teams[tournament_teams] --> sticker_kits
-    tournament_teams --> highlights
-    tournament_players[tournament_players] --> sticker_kits
-    tournament_stages[tournament_stages] --> highlights
+    definitions -->|type| types[types]
+    definitions -->|quality| qualities[qualities]
+    definitions -->|rarity| rarities[rarities]
+    paints[paints] -->|rarity| rarities
+    items[items] -->|key: definition ID| definitions
+    items -->|key: paint ID| paints
+    items -->|containers| containers[containers]
+    containers -->|items; associated| items
+    collections[collections] -->|items| items
+    collections -->|containers| containers
+    containers -->|collection| collections
+    sticker_kits[sticker_kits] -->|containers| containers
+    containers -->|kits| sticker_kits
+    containers -->|musics| musics[musics]
+    containers -->|charms; highlight_charms| charms[charms]
+    charms -->|base| charms
+    charms -->|highlight| highlights[highlights]
+    sticker_kits -->|event| tournament_events[tournament_events]
+    highlights -->|event| tournament_events
+    sticker_kits -->|team| tournament_teams[tournament_teams]
+    highlights -->|team0; team1| tournament_teams
+    sticker_kits -->|player| tournament_players[tournament_players]
+    highlights -->|stage| tournament_stages[tournament_stages]
 ```
 
 IDs and foreign references are strings in JSON. Optional fields are omitted when their source values or
 localizations are unavailable; an absent flag does not mean `false`.
 
-### Definitions and collections
+### Items, definitions, and collections
 
-- `definitions` resolves inherited `quality` and `rarity`, with direct item fields taking precedence.
-  When direct quality is absent, `craft_class = "unusual"` assigns quality `"3"` (`★`) before ordinary
-  inherited quality is considered. Default knives/gloves are not assigned `★`.
-- Definition rarity and paint rarity remain separate; no final per-inventory-item rarity is inferred.
-- `collections` is keyed by the source item-set identifier. Each record contains normalized `items`, optional
-  associated `containers`, an optional localized `name`, and an optional `hidden` flag. Both painted items and
-  bare agent definitions retain their membership, independently of whether an item image is indexed.
-- Optional collection `unusuals` maps source quality IDs to unresolved loot-list names. These preserve
-  source references, not enumerated rare rewards or drop probabilities.
+- An `items` key is either a bare definition ID (`"7"`) or `[paint ID]definition ID` (`"[44]7"`). Thus the
+  key itself links painted items to `paints` and `definitions`; `items.containers` links back to containers
+  that directly reward the item.
+- `definitions.type`, `quality`, and `rarity` are IDs in `types`, `qualities`, and `rarities`. Direct definition
+  quality/rarity takes precedence over inherited values. When quality is absent, inherited
+  `craft_class = "unusual"` maps to quality `"3"` (`★`); this is not inferred for every knife or glove.
+- `paints.rarity` is an ID in `rarities`. Definition rarity and paint rarity remain separate; no final
+  per-item rarity is inferred.
+- A `collections` key is the source item-set ID. Its `items` are item IDs and its `containers` are container
+  IDs; `containers.collection` provides the inverse link. Collections without a container omit `containers`.
+- In `collections.unusuals`, each key is a quality ID from `qualities`; each value is an unresolved source
+  loot-list name, not an entity ID, enumerated reward list, or probability.
 
 ### Containers and sticker kits
 
@@ -71,72 +78,70 @@ Container fields:
 
 | Field                   | Meaning                                                                           |
 | ----------------------- | --------------------------------------------------------------------------------- |
-| `collection`            | Source collection identifier                                                      |
-| `associated`            | Explicit associated item, such as a case key                                      |
-| `items`                 | Direct bare or painted item rewards; a reward can itself be another container     |
-| `kits`                  | Sticker, patch, or graffiti kit IDs                                               |
-| `musics`                | Music kit IDs                                                                     |
-| `charms`                | Direct charm reward IDs                                                           |
-| `highlight_charms`      | Charm IDs specified by `match_highlight_reel_keychain` reward metadata            |
+| `collection`            | Collection ID in `collections`; inverse of `collections.containers`               |
+| `associated`            | Item ID in `items`, such as the key associated with a case                        |
+| `items`                 | Item IDs in `items`; a reward may itself identify another container               |
+| `kits`                  | Kit IDs in `sticker_kits`                                                         |
+| `musics`                | Music kit IDs in `musics`                                                         |
+| `charms`                | Direct reward IDs in `charms`                                                     |
+| `highlight_charms`      | Charm IDs selected by explicit highlight-reward metadata                          |
 | `will_produce_stattrak` | Explicit item/root-loot-list flag; not inferred from names or conditional rewards |
 
 A coupon remains `kind = "coupon"` even when it awards a music kit or another container.
 Container-awarding coupons link to that item; the awarded container's contents are not flattened into the coupon.
 Known containers with unresolved contents retain their metadata without fabricated reward lists.
 
-`sticker_kits` retains `kind` (`sticker`, `patch`, or `graffiti`) alongside optional `name`, `rarity`,
-`containers`, and source tournament references `event`, `team`, and `player`.
-Existing `items.kits` and `items.musics` links remain available; direct charm rewards also appear as `items.charms`.
+`sticker_kits.kind` distinguishes `sticker`, `patch`, and `graffiti`. Its `rarity` points to `rarities`;
+`containers` points to rewarding containers; `event`, `team`, and `player` point to the corresponding
+tournament catalogs. `items.kits`, `items.musics`, and `items.charms` expose direct container rewards.
 
 ### Charms, highlights, and tournaments
 
-- `charms` is keyed by numeric source charm ID, with optional localized `name`/`description`, `rarity`, `quality`,
-  and numeric `base`/`highlight` references. A variant omits its base charm's duplicate description while
-  inheriting rarity and quality when absent locally.
-- `highlights` preserves each numeric reel ID and source `key`, with `event`, `stage`, `map`, `team0`, and `team1`.
-  No player identity is inferred from the reel key.
+- `charms.rarity` and `quality` are IDs in `rarities` and `qualities`.
+- `charms.base` is another charm ID: the parent/template of a variant. The variant omits the parent's duplicate
+  description and inherits missing rarity and quality from it.
+- `charms.highlight` is an ID in `highlights` for the play represented by that charm.
+- `highlights.event`, `stage`, `team0`, and `team1` point to the corresponding tournament catalogs; `map` and
+  source `key` are plain metadata. No player identity is inferred from the key.
 - `tournament_events` supplies optional `name` and `short_name`; `tournament_stages` maps each stage ID directly
-  to its localized name.
-- `tournament_teams` supplies optional `tag` and `geo`; `tournament_players` supplies optional `name` and `geo`.
-  `geo` is the source geographic tag, which can be `WORLD`, not necessarily a country code.
-- Explicitly referenced IDs without lookup metadata remain identity-only records, including source team ID `0`.
-  Missing team names are not guessed from sticker text.
-
+  to its localized name. `tournament_teams` and `tournament_players` supply optional identity metadata.
+  Referenced IDs without lookup metadata remain present, including team ID `0`; raw `geo` values such as
+  `WORLD` are not necessarily country codes.
 
 ## SQL schema
 
 ```mermaid
 erDiagram
-    TYPES ||--o{ DEFINITIONS : categorizes
-    QUALITIES o|--o{ DEFINITIONS : qualifies
-    RARITIES o|--o{ DEFINITIONS : ranks
-    RARITIES ||--o{ PAINTS : ranks
-    DEFINITIONS ||--o{ ITEMS : defines
-    PAINTS o|--o{ ITEMS : decorates
-    ITEMS ||--o| CONTAINERS : identifies
-    COLLECTIONS ||--o{ ITEMS_COLLECTIONS : groups
-    ITEMS ||--o{ ITEMS_COLLECTIONS : belongs
-    COLLECTIONS ||--o{ CONTAINERS : labels
-    COLLECTIONS ||--o{ COLLECTION_UNUSUAL_SOURCES : references
-    QUALITIES ||--o{ COLLECTION_UNUSUAL_SOURCES : qualifies
-    ITEMS ||--o{ ITEMS_CONTAINERS : rewards
-    CONTAINERS ||--o{ ITEMS_CONTAINERS : contains
-    STICKER_KITS ||--o{ STICKER_KITS_CONTAINERS : rewards
-    CONTAINERS ||--o{ STICKER_KITS_CONTAINERS : contains
-    MUSICS ||--o{ MUSICS_CONTAINERS : rewards
-    CONTAINERS ||--o{ MUSICS_CONTAINERS : contains
-    CHARMS ||--o{ CHARMS_CONTAINERS : rewards
-    CONTAINERS ||--o{ CHARMS_CONTAINERS : contains
-    CHARMS ||--o{ CONTAINER_HIGHLIGHT_CHARMS : decorates
-    CONTAINERS ||--o{ CONTAINER_HIGHLIGHT_CHARMS : references
-    CHARMS o|--o{ CHARMS : derives
-    HIGHLIGHTS o|--o{ CHARMS : identifies
-    TOURNAMENT_EVENTS ||--o{ HIGHLIGHTS : identifies
-    TOURNAMENT_STAGES ||--o{ HIGHLIGHTS : stages
-    TOURNAMENT_TEAMS ||--o{ HIGHLIGHTS : competes
-    TOURNAMENT_EVENTS o|--o{ STICKER_KITS : identifies
-    TOURNAMENT_TEAMS o|--o{ STICKER_KITS : represents
-    TOURNAMENT_PLAYERS o|--o{ STICKER_KITS : signs
+    DEFINITIONS }o--|| TYPES : type
+    DEFINITIONS }o--o| QUALITIES : quality
+    DEFINITIONS }o--o| RARITIES : rarity
+    PAINTS }o--|| RARITIES : rarity
+    ITEMS }o--|| DEFINITIONS : definition
+    ITEMS }o--o| PAINTS : paint
+    CONTAINERS o|--|| ITEMS : defindex
+    ITEMS_COLLECTIONS }o--|| COLLECTIONS : collection
+    ITEMS_COLLECTIONS }o--|| ITEMS : item
+    CONTAINERS }o--o| COLLECTIONS : collection
+    COLLECTION_UNUSUAL_SOURCES }o--|| COLLECTIONS : collection
+    COLLECTION_UNUSUAL_SOURCES }o--|| QUALITIES : quality
+    ITEMS_CONTAINERS }o--|| ITEMS : item
+    ITEMS_CONTAINERS }o--|| CONTAINERS : container
+    STICKER_KITS_CONTAINERS }o--|| STICKER_KITS : kit
+    STICKER_KITS_CONTAINERS }o--|| CONTAINERS : container
+    MUSICS_CONTAINERS }o--|| MUSICS : music
+    MUSICS_CONTAINERS }o--|| CONTAINERS : container
+    CHARMS_CONTAINERS }o--|| CHARMS : charm
+    CHARMS_CONTAINERS }o--|| CONTAINERS : container
+    CONTAINER_HIGHLIGHT_CHARMS }o--|| CHARMS : charm
+    CONTAINER_HIGHLIGHT_CHARMS }o--|| CONTAINERS : container
+    CHARMS }o--o| CHARMS : base
+    CHARMS }o--o| HIGHLIGHTS : highlight
+    HIGHLIGHTS }o--|| TOURNAMENT_EVENTS : event
+    HIGHLIGHTS }o--|| TOURNAMENT_STAGES : stage
+    HIGHLIGHTS }o--|| TOURNAMENT_TEAMS : "team0 / team1"
+    STICKER_KITS }o--o| TOURNAMENT_EVENTS : event
+    STICKER_KITS }o--o| TOURNAMENT_TEAMS : team
+    STICKER_KITS }o--o| TOURNAMENT_PLAYERS : player
 ```
 
 ## TODO
