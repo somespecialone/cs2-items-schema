@@ -17,7 +17,6 @@ from .fields import FieldsCollector
 from .items import ItemsCollector
 from .sql import SQLCreator
 from .sticker_kits import StickerKitsCollector
-from .trade_up import TradeUpCollector
 
 logger = logging.getLogger(__name__)
 ITEM_IMAGE_PATH_PREFIX = "panorama/images/econ/default_generated/"
@@ -103,7 +102,6 @@ class ResourceCollector:
         charms, highlights, tournament_events, tournament_teams, tournament_players, tournament_stages = (
             CatalogCollector(items_game, csgo_english)()
         )
-        trade_up_rules = TradeUpCollector(items_game, csgo_english)()
 
         containers_collector = ContainersCollector(items_game, csgo_english)
         containers = containers_collector()
@@ -162,7 +160,6 @@ class ResourceCollector:
             ("tournament_teams.json", tournament_teams),
             ("tournament_players.json", tournament_players),
             ("tournament_stages.json", tournament_stages),
-            ("trade_up_rules.json", trade_up_rules),
         ]
 
         sql_creator = SQLCreator(
@@ -183,7 +180,6 @@ class ResourceCollector:
             tournament_teams=tournament_teams,
             tournament_players=tournament_players,
             tournament_stages=tournament_stages,
-            trade_up_rules=trade_up_rules,
         )
         sql_dumps = sql_creator.create()
 

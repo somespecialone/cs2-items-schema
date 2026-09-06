@@ -1,0 +1,765 @@
+{
+  "1": {
+    "name": "Lil' Ava",
+    "rarity": "3"
+  },
+  "10": {
+    "name": "Hot Sauce",
+    "rarity": "3"
+  },
+  "100": {
+    "base": "84",
+    "highlight": "881",
+    "name": "kensizor ACE to Advance",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "101": {
+    "base": "84",
+    "highlight": "882",
+    "name": "s1zzi ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "102": {
+    "base": "84",
+    "highlight": "883",
+    "name": "venomzera 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "103": {
+    "base": "84",
+    "highlight": "884",
+    "name": "donk 4K with One Taps",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "104": {
+    "base": "84",
+    "highlight": "885",
+    "name": "AZUWU Deagle ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "105": {
+    "base": "84",
+    "highlight": "886",
+    "name": "w0nderful 2 HP 1v4 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "106": {
+    "base": "84",
+    "highlight": "887",
+    "name": "sh1ro 4K with 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "107": {
+    "base": "84",
+    "highlight": "888",
+    "name": "magixx Multi-weapon ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "108": {
+    "base": "84",
+    "highlight": "889",
+    "name": "KSCERATO 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "109": {
+    "base": "84",
+    "highlight": "890",
+    "name": "YEKINDAR Triple Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "11": {
+    "name": "Diamond Dog",
+    "rarity": "5"
+  },
+  "110": {
+    "base": "84",
+    "highlight": "891",
+    "name": "ZywOo ACE with 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "111": {
+    "base": "84",
+    "highlight": "892",
+    "name": "dgt Pistol ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "112": {
+    "base": "84",
+    "highlight": "893",
+    "name": "woxic 1v4 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "113": {
+    "base": "84",
+    "highlight": "894",
+    "name": "NiKo Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "114": {
+    "base": "84",
+    "highlight": "895",
+    "name": "Krabeni ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "115": {
+    "base": "84",
+    "highlight": "896",
+    "name": "Boombl4 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "116": {
+    "base": "84",
+    "highlight": "897",
+    "name": "soulfly 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "117": {
+    "base": "84",
+    "highlight": "898",
+    "name": "sh1ro ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "118": {
+    "base": "84",
+    "highlight": "899",
+    "name": "magixx 1v4 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "119": {
+    "base": "84",
+    "highlight": "900",
+    "name": "donk 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "12": {
+    "name": "Pinch O' Salt",
+    "rarity": "3"
+  },
+  "120": {
+    "base": "84",
+    "highlight": "901",
+    "name": "kyousuke 3 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "121": {
+    "base": "84",
+    "highlight": "902",
+    "name": "mezii Molotov Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "122": {
+    "base": "84",
+    "highlight": "903",
+    "name": "yuurih 1v4 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "123": {
+    "base": "84",
+    "highlight": "904",
+    "name": "HUASOPEEK ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "124": {
+    "base": "84",
+    "highlight": "905",
+    "name": "max 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "125": {
+    "base": "84",
+    "highlight": "906",
+    "name": "soulfly 3 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "126": {
+    "base": "84",
+    "highlight": "907",
+    "name": "KSCERATO ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "127": {
+    "base": "84",
+    "highlight": "908",
+    "name": "YEKINDAR 2 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "128": {
+    "base": "84",
+    "highlight": "909",
+    "name": "YEKINDAR 3 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "129": {
+    "base": "84",
+    "highlight": "910",
+    "name": "KSCERATO Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "13": {
+    "name": "Diner Dog",
+    "rarity": "5"
+  },
+  "130": {
+    "base": "84",
+    "highlight": "911",
+    "name": "kyousuke Triple Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "131": {
+    "base": "84",
+    "highlight": "912",
+    "name": "sh1ro Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "132": {
+    "base": "84",
+    "highlight": "913",
+    "name": "TeSeS 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "133": {
+    "base": "84",
+    "highlight": "914",
+    "name": "karrigan 4 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "134": {
+    "base": "84",
+    "highlight": "915",
+    "name": "magixx 4 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "135": {
+    "base": "84",
+    "highlight": "916",
+    "name": "Falcons Team Entrance",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "136": {
+    "base": "84",
+    "highlight": "917",
+    "name": "FURIA Team Entrance",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "137": {
+    "base": "84",
+    "highlight": "918",
+    "name": "FalleN Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "138": {
+    "base": "84",
+    "highlight": "919",
+    "name": "m0NESY 4 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "139": {
+    "base": "84",
+    "highlight": "920",
+    "name": "m0NESY 3 Kills with 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "14": {
+    "name": "Lil' Teacup",
+    "rarity": "4"
+  },
+  "140": {
+    "base": "84",
+    "highlight": "921",
+    "name": "kyousuke 4 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "141": {
+    "base": "84",
+    "highlight": "922",
+    "name": "karrigan 3 Kills",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "142": {
+    "base": "84",
+    "highlight": "923",
+    "name": "NiKo Triple Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "143": {
+    "base": "84",
+    "highlight": "924",
+    "name": "karrigan Double Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "144": {
+    "base": "84",
+    "highlight": "925",
+    "name": "m0NESY Major-winning Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "145": {
+    "base": "84",
+    "highlight": "926",
+    "name": "Falcons Trophy-lifting Moment",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "15": {
+    "name": "Lil' SAS",
+    "rarity": "3"
+  },
+  "16": {
+    "name": "Hot Wurst",
+    "rarity": "6"
+  },
+  "17": {
+    "name": "Baby's AK",
+    "rarity": "3"
+  },
+  "18": {
+    "name": "Die-cast AK",
+    "rarity": "4"
+  },
+  "19": {
+    "name": "Pocket AWP",
+    "rarity": "3"
+  },
+  "2": {
+    "name": "That's Bananas",
+    "rarity": "4"
+  },
+  "20": {
+    "name": "Titeenium AWP",
+    "rarity": "5"
+  },
+  "21": {
+    "name": "Baby Karat CT",
+    "rarity": "6"
+  },
+  "22": {
+    "name": "Whittle Knife",
+    "rarity": "3"
+  },
+  "23": {
+    "name": "POP Art",
+    "rarity": "4"
+  },
+  "24": {
+    "name": "Lil' Squirt",
+    "rarity": "5"
+  },
+  "25": {
+    "name": "Disco MAC",
+    "rarity": "4"
+  },
+  "26": {
+    "name": "Backsplash",
+    "rarity": "3"
+  },
+  "27": {
+    "name": "Lil' Cap Gun",
+    "rarity": "3"
+  },
+  "28": {
+    "name": "Hot Hands",
+    "rarity": "4"
+  },
+  "29": {
+    "name": "Semi-Precious",
+    "rarity": "5"
+  },
+  "3": {
+    "name": "Lil' Whiskers",
+    "rarity": "4"
+  },
+  "30": {
+    "name": "Baby Karat T",
+    "rarity": "6"
+  },
+  "31": {
+    "name": "Glamour Shot",
+    "rarity": "4"
+  },
+  "32": {
+    "name": "Stitch-Loaded",
+    "rarity": "3"
+  },
+  "33": {
+    "name": "Lil' Squatch",
+    "rarity": "4"
+  },
+  "36": {
+    "description": "This souvenir charm commemorates the BLAST.tv Austin 2025 CS2 Major Championship and features a highlight reel.",
+    "name": "Austin 2025 Highlight",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "37": {
+    "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.",
+    "name": "Sticker Slab",
+    "quality": "8",
+    "rarity": "1"
+  },
+  "38": {
+    "name": "Lil' Curse",
+    "rarity": "3"
+  },
+  "39": {
+    "name": "Lil' Serpent",
+    "rarity": "6"
+  },
+  "4": {
+    "name": "Lil' Sandy",
+    "rarity": "4"
+  },
+  "40": {
+    "name": "Lil' Baller",
+    "rarity": "3"
+  },
+  "41": {
+    "name": "Dead Weight",
+    "rarity": "3"
+  },
+  "42": {
+    "name": "Lil' Prick",
+    "rarity": "5"
+  },
+  "43": {
+    "name": "Lil' Buns",
+    "rarity": "4"
+  },
+  "44": {
+    "name": "Lil' Smokey",
+    "rarity": "3"
+  },
+  "45": {
+    "name": "Lil' Eldritch",
+    "rarity": "6"
+  },
+  "46": {
+    "name": "Lil' Happy",
+    "rarity": "5"
+  },
+  "47": {
+    "name": "Magmatude",
+    "rarity": "4"
+  },
+  "48": {
+    "name": "Lil' Cackle",
+    "rarity": "3"
+  },
+  "49": {
+    "name": "Quick Silver",
+    "rarity": "6"
+  },
+  "5": {
+    "name": "Chicken Lil'",
+    "rarity": "4"
+  },
+  "50": {
+    "name": "Lil' No. 2",
+    "rarity": "3"
+  },
+  "51": {
+    "name": "Piñatita",
+    "rarity": "5"
+  },
+  "52": {
+    "name": "Pocket Pop",
+    "rarity": "4"
+  },
+  "53": {
+    "name": "Lil' Hero",
+    "rarity": "5"
+  },
+  "54": {
+    "name": "Lil' Tusk",
+    "rarity": "3"
+  },
+  "55": {
+    "name": "Lil' Goop",
+    "rarity": "4"
+  },
+  "56": {
+    "name": "Hang Loose",
+    "rarity": "4"
+  },
+  "57": {
+    "name": "Lil' Vino",
+    "rarity": "3"
+  },
+  "58": {
+    "name": "Lil' Moments",
+    "rarity": "4"
+  },
+  "59": {
+    "name": "Lil' Boo",
+    "rarity": "6"
+  },
+  "6": {
+    "name": "Lil' Crass",
+    "rarity": "3"
+  },
+  "60": {
+    "name": "Lil' Chirp",
+    "rarity": "5"
+  },
+  "61": {
+    "name": "Big Brain",
+    "rarity": "4"
+  },
+  "62": {
+    "name": "Biomech",
+    "rarity": "3"
+  },
+  "63": {
+    "name": "Splatter Cat",
+    "rarity": "3"
+  },
+  "64": {
+    "name": "Gritty",
+    "rarity": "3"
+  },
+  "65": {
+    "name": "Fluffy",
+    "rarity": "3"
+  },
+  "66": {
+    "name": "Whittle Guy",
+    "rarity": "3"
+  },
+  "67": {
+    "name": "Lil' Zen",
+    "rarity": "3"
+  },
+  "68": {
+    "name": "Lil' Facelift",
+    "rarity": "4"
+  },
+  "69": {
+    "name": "Lil' Chomper",
+    "rarity": "4"
+  },
+  "7": {
+    "name": "Hot Howl",
+    "rarity": "6"
+  },
+  "70": {
+    "name": "Lil' Bloody",
+    "rarity": "4"
+  },
+  "71": {
+    "name": "Lil' Dumplin'",
+    "rarity": "4"
+  },
+  "72": {
+    "name": "Bomb Tag",
+    "rarity": "4"
+  },
+  "73": {
+    "name": "Glitter Bomb",
+    "rarity": "6"
+  },
+  "74": {
+    "name": "Lil' Eco",
+    "rarity": "5"
+  },
+  "75": {
+    "name": "Hungry Eyes",
+    "rarity": "5"
+  },
+  "76": {
+    "name": "Eye of Ball",
+    "rarity": "5"
+  },
+  "77": {
+    "name": "Lil' Yeti",
+    "rarity": "5"
+  },
+  "78": {
+    "name": "8 Ball IGL",
+    "rarity": "6"
+  },
+  "79": {
+    "name": "Flash Bomb",
+    "rarity": "5"
+  },
+  "8": {
+    "name": "Big Kev",
+    "rarity": "3"
+  },
+  "80": {
+    "name": "Lil' Ferno",
+    "rarity": "6"
+  },
+  "81": {
+    "name": "Butane Buddy",
+    "rarity": "6"
+  },
+  "82": {
+    "name": "Dr. Brian",
+    "rarity": "4"
+  },
+  "83": {
+    "description": "This souvenir charm commemorates the StarLadder Budapest 2025 CS2 Major Championship and features a highlight reel.",
+    "name": "Budapest 2025 Highlight",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "84": {
+    "description": "This souvenir charm commemorates the IEM Cologne 2026 CS2 Major Championship and features a highlight reel.",
+    "name": "Cologne 2026 Highlight",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "85": {
+    "base": "84",
+    "highlight": "866",
+    "name": "ultimate Jump Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "86": {
+    "base": "84",
+    "highlight": "867",
+    "name": "tabseN 1v2 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "87": {
+    "base": "84",
+    "highlight": "868",
+    "name": "koala ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "88": {
+    "base": "84",
+    "highlight": "869",
+    "name": "Starry Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "89": {
+    "base": "84",
+    "highlight": "870",
+    "name": "asap ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "9": {
+    "name": "Lil' Monster",
+    "rarity": "5"
+  },
+  "90": {
+    "base": "84",
+    "highlight": "871",
+    "name": "hypex Smoke Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "91": {
+    "base": "84",
+    "highlight": "872",
+    "name": "susp 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "92": {
+    "base": "84",
+    "highlight": "873",
+    "name": "beastik Quad Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "93": {
+    "base": "84",
+    "highlight": "874",
+    "name": "s1zzi 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "94": {
+    "base": "84",
+    "highlight": "875",
+    "name": "Magnojez 1v3 Clutch",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "95": {
+    "base": "84",
+    "highlight": "876",
+    "name": "NertZ ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "96": {
+    "base": "84",
+    "highlight": "877",
+    "name": "Gizmy Knife Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "97": {
+    "base": "84",
+    "highlight": "878",
+    "name": "MATYS ACE",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "98": {
+    "base": "84",
+    "highlight": "879",
+    "name": "saffee Triple Kill",
+    "quality": "12",
+    "rarity": "3"
+  },
+  "99": {
+    "base": "84",
+    "highlight": "880",
+    "name": "gr1ks 1v3 AWP Clutch",
+    "quality": "12",
+    "rarity": "3"
+  }
+}

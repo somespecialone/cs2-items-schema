@@ -44,7 +44,6 @@ flowchart LR
     tournament_teams --> highlights
     tournament_players[tournament_players] --> sticker_kits
     tournament_stages[tournament_stages] --> highlights
-    trade_up_rules[trade_up_rules]
 ```
 
 IDs and foreign references are strings in JSON. Optional fields are omitted when their source values or
@@ -91,27 +90,18 @@ Existing `items.kits` and `items.musics` links remain available; direct charm re
 
 ### Charms, highlights, and tournaments
 
-- `charms` is keyed by numeric source charm ID, with source `key`, optional localized `name`/`description`,
-  `rarity`, `quality`, and numeric `base`/`highlight` references. Variants inherit description, rarity, and
-  quality from their explicitly named base when absent locally.
+- `charms` is keyed by numeric source charm ID, with optional localized `name`/`description`, `rarity`, `quality`,
+  and numeric `base`/`highlight` references. A variant omits its base charm's duplicate description while
+  inheriting rarity and quality when absent locally.
 - `highlights` preserves each numeric reel ID and source `key`, with `event`, `stage`, `map`, `team0`, and `team1`.
   No player identity is inferred from the reel key.
-- `tournament_events` supplies optional `name` and `short_name`; `tournament_stages` supplies optional `name`.
+- `tournament_events` supplies optional `name` and `short_name`; `tournament_stages` maps each stage ID directly
+  to its localized name.
 - `tournament_teams` supplies optional `tag` and `geo`; `tournament_players` supplies optional `name` and `geo`.
   `geo` is the source geographic tag, which can be `WORLD`, not necessarily a country code.
 - Explicitly referenced IDs without lookup metadata remain identity-only records, including source team ID `0`.
   Missing team names are not guessed from sticker text.
 
-### Trade-up rules
-
-`trade_up_rules` preserves source recipe IDs, optional resolved names, and the flags `disabled`,
-`all_same_class`, and `premium_only`. `inputs` contains groups with an integer `count`;
-`outputs` contains groups with their source `key`. Both contain ordered `conditions` with
-`field`, `operator`, `value`, and boolean `required`.
-
-Condition expressions are preserved verbatim, including values such as `unique,tournament` and fields
-such as `*match_set_rarity`. This is a source-rule catalog, not an eligibility evaluator or odds calculator.
-It does not infer actual item origin, current inventory restrictions, or complete server-side behavior.
 
 ## SQL schema
 
@@ -147,8 +137,6 @@ erDiagram
     TOURNAMENT_EVENTS o|--o{ STICKER_KITS : identifies
     TOURNAMENT_TEAMS o|--o{ STICKER_KITS : represents
     TOURNAMENT_PLAYERS o|--o{ STICKER_KITS : signs
-    TRADE_UP_RULES ||--|{ TRADE_UP_GROUPS : defines
-    TRADE_UP_GROUPS ||--o{ TRADE_UP_CONDITIONS : constrains
 ```
 
 ## TODO

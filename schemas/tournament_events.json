@@ -1,0 +1,106 @@
+{
+  "1": {
+    "name": "The 2013 DreamHack SteelSeries CS:GO Championship",
+    "short_name": "2013 DreamHack Winter"
+  },
+  "10": {
+    "name": "2016 ESL One Cologne CS:GO Championship",
+    "short_name": "2016 ESL One Cologne"
+  },
+  "11": {
+    "name": "2017 ELEAGUE Atlanta CS:GO Championship",
+    "short_name": "2017 ELEAGUE Atlanta"
+  },
+  "12": {
+    "name": "2017 PGL Krakow CS:GO Championship",
+    "short_name": "2017 PGL Krakow"
+  },
+  "13": {
+    "name": "2018 ELEAGUE Boston CS:GO Championship",
+    "short_name": "2018 ELEAGUE Boston"
+  },
+  "14": {
+    "name": "2018 FACEIT London CS:GO Championship",
+    "short_name": "2018 FACEIT London"
+  },
+  "15": {
+    "name": "2019 IEM Katowice CS:GO Championship",
+    "short_name": "2019 IEM Katowice"
+  },
+  "16": {
+    "name": "2019 StarLadder Berlin CS:GO Championship",
+    "short_name": "2019 StarLadder Berlin"
+  },
+  "17": {
+    "name": "2020 CS:GO Regional Major Rankings",
+    "short_name": "2020 RMR"
+  },
+  "18": {
+    "name": "2021 PGL Stockholm CS:GO Championship",
+    "short_name": "2021 PGL Stockholm"
+  },
+  "19": {
+    "name": "2022 PGL Antwerp CS:GO Championship",
+    "short_name": "2022 PGL Antwerp"
+  },
+  "2": {
+    "name": "The Valve Test Championship",
+    "short_name": "The Valve Test Championship"
+  },
+  "20": {
+    "name": "IEM Rio 2022 CS:GO Championship",
+    "short_name": "IEM Rio 2022"
+  },
+  "21": {
+    "name": "BLAST.tv Paris 2023 CS:GO Championship",
+    "short_name": "BLAST.tv Paris 2023"
+  },
+  "22": {
+    "name": "PGL Copenhagen 2024 CS2 Major Championship",
+    "short_name": "PGL Copenhagen 2024"
+  },
+  "23": {
+    "name": "Perfect World Shanghai 2024 CS2 Major Championship",
+    "short_name": "Perfect World Shanghai 2024"
+  },
+  "24": {
+    "name": "BLAST.tv Austin 2025 CS2 Major Championship",
+    "short_name": "BLAST.tv Austin 2025"
+  },
+  "25": {
+    "name": "StarLadder Budapest 2025 CS2 Major Championship",
+    "short_name": "StarLadder Budapest 2025"
+  },
+  "26": {
+    "name": "IEM Cologne 2026 CS2 Major Championship",
+    "short_name": "IEM Cologne 2026"
+  },
+  "3": {
+    "name": "The 2014 EMS One Katowice CS:GO Championship",
+    "short_name": "2014 EMS One Katowice"
+  },
+  "4": {
+    "name": "ESL One Cologne 2014 CS:GO Championship",
+    "short_name": "2014 ESL One Cologne"
+  },
+  "5": {
+    "name": "The 2014 DreamHack CS:GO Championship",
+    "short_name": "2014 DreamHack Winter"
+  },
+  "6": {
+    "name": "2015 ESL One Katowice CS:GO Championship",
+    "short_name": "2015 ESL One Katowice"
+  },
+  "7": {
+    "name": "2015 ESL One Cologne CS:GO Championship",
+    "short_name": "2015 ESL One Cologne"
+  },
+  "8": {
+    "name": "2015 DreamHack Cluj-Napoca CS:GO Championship",
+    "short_name": "2015 DreamHack Cluj-Napoca"
+  },
+  "9": {
+    "name": "2016 MLG Columbus CS:GO Championship",
+    "short_name": "2016 MLG Columbus"
+  }
+}

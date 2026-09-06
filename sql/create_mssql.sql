@@ -22,7 +22,7 @@ CREATE TABLE tints (
 ;
 CREATE TABLE musics (
 	id SMALLINT NOT NULL, 
-	name VARCHAR(16) NULL, 
+	name VARCHAR(255) NULL, 
 	PRIMARY KEY (id)
 )
 
@@ -37,9 +37,48 @@ CREATE TABLE rarities (
 )
 
 ;
+CREATE TABLE tournament_events (
+	id SMALLINT NOT NULL, 
+	name VARCHAR(255) NULL, 
+	short_name VARCHAR(255) NULL, 
+	PRIMARY KEY (id)
+)
+
+;
+CREATE TABLE tournament_teams (
+	id SMALLINT NOT NULL, 
+	tag VARCHAR(60) NULL, 
+	geo VARCHAR(16) NULL, 
+	PRIMARY KEY (id)
+)
+
+;
+CREATE TABLE tournament_players (
+	id BIGINT NOT NULL, 
+	name VARCHAR(255) NULL, 
+	geo VARCHAR(16) NULL, 
+	PRIMARY KEY (id)
+)
+
+;
+CREATE TABLE tournament_stages (
+	id SMALLINT NOT NULL, 
+	name VARCHAR(255) NULL, 
+	PRIMARY KEY (id)
+)
+
+;
+CREATE TABLE collections (
+	id VARCHAR(60) NOT NULL, 
+	name VARCHAR(255) NULL, 
+	hidden SMALLINT NULL, 
+	PRIMARY KEY (id)
+)
+
+;
 CREATE TABLE definitions (
 	defindex SMALLINT NOT NULL, 
-	name VARCHAR(60) NOT NULL, 
+	name VARCHAR(255) NOT NULL, 
 	type SMALLINT NULL, 
 	quality SMALLINT NULL, 
 	rarity SMALLINT NULL, 
@@ -61,12 +100,46 @@ CREATE TABLE paints (
 )
 
 ;
+CREATE TABLE highlights (
+	id SMALLINT NOT NULL, 
+	[key] VARCHAR(255) NOT NULL, 
+	event SMALLINT NOT NULL, 
+	stage SMALLINT NOT NULL, 
+	map VARCHAR(60) NOT NULL, 
+	team0 SMALLINT NOT NULL, 
+	team1 SMALLINT NOT NULL, 
+	PRIMARY KEY (id), 
+	UNIQUE ([key]), 
+	FOREIGN KEY(event) REFERENCES tournament_events (id), 
+	FOREIGN KEY(stage) REFERENCES tournament_stages (id), 
+	FOREIGN KEY(team0) REFERENCES tournament_teams (id), 
+	FOREIGN KEY(team1) REFERENCES tournament_teams (id)
+)
+
+;
+CREATE TABLE collection_unusual_sources (
+	collection VARCHAR(60) NOT NULL, 
+	quality SMALLINT NOT NULL, 
+	loot_list VARCHAR(255) NOT NULL, 
+	PRIMARY KEY (collection, quality), 
+	FOREIGN KEY(collection) REFERENCES collections (id), 
+	FOREIGN KEY(quality) REFERENCES qualities (id)
+)
+
+;
 CREATE TABLE sticker_kits (
 	id SMALLINT NOT NULL, 
-	name VARCHAR(60) NOT NULL, 
+	name VARCHAR(60) NULL, 
 	rarity SMALLINT NULL, 
+	kind VARCHAR(16) NOT NULL, 
+	event SMALLINT NULL, 
+	team SMALLINT NULL, 
+	player BIGINT NULL, 
 	PRIMARY KEY (id), 
-	FOREIGN KEY(rarity) REFERENCES rarities (id)
+	FOREIGN KEY(rarity) REFERENCES rarities (id), 
+	FOREIGN KEY(event) REFERENCES tournament_events (id), 
+	FOREIGN KEY(team) REFERENCES tournament_teams (id), 
+	FOREIGN KEY(player) REFERENCES tournament_players (id)
 )
 
 ;
@@ -81,27 +154,41 @@ CREATE TABLE items (
 )
 
 ;CREATE UNIQUE INDEX ix_paint_def ON items (def, paint);
+CREATE TABLE charms (
+	id SMALLINT NOT NULL, 
+	name VARCHAR(255) NULL, 
+	description TEXT NULL, 
+	rarity SMALLINT NULL, 
+	quality SMALLINT NULL, 
+	base SMALLINT NULL, 
+	highlight SMALLINT NULL, 
+	PRIMARY KEY (id), 
+	FOREIGN KEY(rarity) REFERENCES rarities (id), 
+	FOREIGN KEY(quality) REFERENCES qualities (id), 
+	FOREIGN KEY(base) REFERENCES charms (id), 
+	FOREIGN KEY(highlight) REFERENCES highlights (id)
+)
+
+;
+CREATE TABLE items_collections (
+	item VARCHAR(16) NOT NULL, 
+	collection VARCHAR(60) NOT NULL, 
+	PRIMARY KEY (item, collection), 
+	FOREIGN KEY(item) REFERENCES items (id), 
+	FOREIGN KEY(collection) REFERENCES collections (id)
+)
+
+;
 CREATE TABLE containers (
 	defindex VARCHAR(16) NOT NULL, 
 	associated VARCHAR(16) NULL, 
-	[set] VARCHAR(60) NULL, 
+	kind VARCHAR(32) NOT NULL, 
+	collection VARCHAR(60) NULL, 
+	will_produce_stattrak SMALLINT NULL, 
 	PRIMARY KEY (defindex), 
 	FOREIGN KEY(defindex) REFERENCES items (id), 
-	FOREIGN KEY(associated) REFERENCES items (id)
-)
-
-;
-CREATE TABLE sticker_kit_containers (
-	defindex VARCHAR(16) NOT NULL, 
-	PRIMARY KEY (defindex), 
-	FOREIGN KEY(defindex) REFERENCES items (id)
-)
-
-;
-CREATE TABLE music_kits (
-	defindex VARCHAR(16) NOT NULL, 
-	PRIMARY KEY (defindex), 
-	FOREIGN KEY(defindex) REFERENCES items (id)
+	FOREIGN KEY(associated) REFERENCES items (id), 
+	FOREIGN KEY(collection) REFERENCES collections (id)
 )
 
 ;
@@ -115,23 +202,41 @@ CREATE TABLE items_containers (
 )
 
 ;CREATE UNIQUE INDEX idx_item_container ON items_containers (item, container);
-CREATE TABLE musics_music_kits (
+CREATE TABLE musics_containers (
 	music SMALLINT NOT NULL, 
 	container VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (music, container), 
 	CONSTRAINT uniq_music_container UNIQUE (music, container), 
 	FOREIGN KEY(music) REFERENCES musics (id), 
-	FOREIGN KEY(container) REFERENCES music_kits (defindex)
+	FOREIGN KEY(container) REFERENCES containers (defindex)
 )
 
-;CREATE UNIQUE INDEX idx_music_container ON musics_music_kits (music, container);
+;CREATE UNIQUE INDEX idx_music_container ON musics_containers (music, container);
 CREATE TABLE sticker_kits_containers (
 	kit SMALLINT NOT NULL, 
 	container VARCHAR(16) NOT NULL, 
 	PRIMARY KEY (kit, container), 
 	CONSTRAINT uniq_kit_container UNIQUE (kit, container), 
 	FOREIGN KEY(kit) REFERENCES sticker_kits (id), 
-	FOREIGN KEY(container) REFERENCES sticker_kit_containers (defindex)
+	FOREIGN KEY(container) REFERENCES containers (defindex)
 )
 
 ;CREATE UNIQUE INDEX idx_kit_container ON sticker_kits_containers (kit, container);
+CREATE TABLE charms_containers (
+	container VARCHAR(16) NOT NULL, 
+	charm SMALLINT NOT NULL, 
+	PRIMARY KEY (container, charm), 
+	FOREIGN KEY(container) REFERENCES containers (defindex), 
+	FOREIGN KEY(charm) REFERENCES charms (id)
+)
+
+;
+CREATE TABLE container_highlight_charms (
+	container VARCHAR(16) NOT NULL, 
+	charm SMALLINT NOT NULL, 
+	PRIMARY KEY (container, charm), 
+	FOREIGN KEY(container) REFERENCES containers (defindex), 
+	FOREIGN KEY(charm) REFERENCES charms (id)
+)
+
+;

@@ -1,0 +1,555 @@
+{
+  "0": {},
+  "1": {
+    "geo": "SE",
+    "tag": "NiP"
+  },
+  "10": {
+    "geo": "DK",
+    "tag": "CW"
+  },
+  "100": {
+    "geo": "BR",
+    "tag": "BOOM"
+  },
+  "101": {
+    "geo": "DK",
+    "tag": "COPE"
+  },
+  "102": {
+    "geo": "BR",
+    "tag": "PAIN"
+  },
+  "103": {
+    "geo": "ES",
+    "tag": "RIDE"
+  },
+  "104": {
+    "geo": "PT",
+    "tag": "SHRK"
+  },
+  "105": {
+    "geo": "CZ",
+    "tag": "ENT"
+  },
+  "106": {
+    "geo": "EU",
+    "tag": "MOUZ"
+  },
+  "107": {
+    "geo": "EU",
+    "tag": "NEMI"
+  },
+  "108": {
+    "geo": "MN",
+    "tag": "IHC"
+  },
+  "109": {
+    "geo": "RU",
+    "tag": "OUT"
+  },
+  "11": {
+    "geo": "PL",
+    "tag": "US"
+  },
+  "110": {
+    "geo": "TR",
+    "tag": "ETER"
+  },
+  "111": {
+    "geo": "US",
+    "tag": "CPLX"
+  },
+  "112": {
+    "geo": "AR",
+    "tag": "NINE"
+  },
+  "113": {
+    "geo": "BR",
+    "tag": "IMP"
+  },
+  "114": {
+    "geo": "XK",
+    "tag": "BNE"
+  },
+  "115": {
+    "geo": "DE",
+    "tag": "GL"
+  },
+  "116": {
+    "geo": "BR",
+    "tag": "ZZN"
+  },
+  "117": {
+    "tag": "APEX"
+  },
+  "118": {
+    "tag": "ITB"
+  },
+  "119": {
+    "tag": "MONT"
+  },
+  "12": {
+    "geo": "CC",
+    "tag": "NAVI"
+  },
+  "120": {
+    "tag": "NEIN"
+  },
+  "121": {
+    "tag": "FLUX"
+  },
+  "122": {
+    "tag": "MNGZ"
+  },
+  "123": {
+    "tag": "AMKA"
+  },
+  "124": {
+    "tag": "ECST"
+  },
+  "125": {
+    "tag": "KOI"
+  },
+  "126": {
+    "tag": "LGCY"
+  },
+  "127": {
+    "tag": "LYNN"
+  },
+  "128": {
+    "tag": "PAND"
+  },
+  "129": {
+    "tag": "SAW"
+  },
+  "13": {
+    "geo": "DK",
+    "tag": "nf"
+  },
+  "130": {
+    "tag": "WCRD"
+  },
+  "131": {
+    "tag": "RATM"
+  },
+  "132": {
+    "tag": "FQ"
+  },
+  "133": {
+    "tag": "PSNU"
+  },
+  "134": {
+    "tag": "AURA"
+  },
+  "135": {
+    "tag": "B8"
+  },
+  "136": {
+    "tag": "BES"
+  },
+  "137": {
+    "tag": "BB"
+  },
+  "138": {
+    "tag": "CHIN"
+  },
+  "139": {
+    "tag": "FAL"
+  },
+  "14": {
+    "geo": "BR",
+    "tag": "SK"
+  },
+  "140": {
+    "tag": "M80"
+  },
+  "141": {
+    "tag": "METI"
+  },
+  "142": {
+    "tag": "PARI"
+  },
+  "143": {
+    "tag": "HUNS"
+  },
+  "144": {
+    "tag": "REDC"
+  },
+  "145": {},
+  "146": {},
+  "147": {},
+  "148": {},
+  "15": {
+    "geo": "EU",
+    "tag": "XAPSO"
+  },
+  "16": {
+    "geo": "DK",
+    "tag": "R"
+  },
+  "17": {
+    "geo": "US",
+    "tag": "V"
+  },
+  "18": {
+    "geo": "MK",
+    "tag": "V2"
+  },
+  "19": {
+    "geo": "SE",
+    "tag": "DRUIDZ"
+  },
+  "2": {
+    "geo": "KZ",
+    "tag": "AD"
+  },
+  "20": {
+    "geo": "SE",
+    "tag": "NiPtA"
+  },
+  "21": {
+    "geo": "SE",
+    "tag": "NiPtB"
+  },
+  "22": {
+    "geo": "EU",
+    "tag": "DH13AA"
+  },
+  "23": {
+    "geo": "EU",
+    "tag": "DH13AB"
+  },
+  "24": {
+    "geo": "DK",
+    "tag": "DIG"
+  },
+  "25": {
+    "geo": "EU",
+    "tag": "HLR"
+  },
+  "26": {
+    "geo": "FR",
+    "tag": "LDLC"
+  },
+  "27": {
+    "geo": "FR",
+    "tag": "TIT"
+  },
+  "28": {
+    "geo": "FI",
+    "tag": "3DM"
+  },
+  "29": {
+    "geo": "EU",
+    "tag": "mss"
+  },
+  "3": {
+    "geo": "US",
+    "tag": "CoL"
+  },
+  "30": {
+    "geo": "DK",
+    "tag": "RGG"
+  },
+  "31": {
+    "geo": "PL",
+    "tag": "VP"
+  },
+  "32": {
+    "geo": "AU",
+    "tag": "VE"
+  },
+  "33": {
+    "geo": "US",
+    "tag": "C9"
+  },
+  "34": {
+    "geo": "CC",
+    "tag": "dAT"
+  },
+  "35": {
+    "geo": "FR",
+    "tag": "Eps"
+  },
+  "36": {
+    "geo": "NO",
+    "tag": "LC"
+  },
+  "37": {
+    "geo": "IN",
+    "tag": "INDW"
+  },
+  "38": {
+    "geo": "DK",
+    "tag": "myXMG"
+  },
+  "39": {
+    "geo": "DE",
+    "tag": "PENTA"
+  },
+  "4": {
+    "geo": "FR",
+    "tag": "VG"
+  },
+  "40": {
+    "geo": "ZA",
+    "tag": "BRAVG"
+  },
+  "41": {
+    "geo": "DE",
+    "tag": "PKD"
+  },
+  "42": {
+    "geo": "PL",
+    "tag": "ESC"
+  },
+  "43": {
+    "geo": "CC",
+    "tag": "FLIP"
+  },
+  "44": {
+    "geo": "ES",
+    "tag": "x6ten"
+  },
+  "45": {
+    "geo": "SE",
+    "tag": "Orbit"
+  },
+  "46": {
+    "geo": "FR",
+    "tag": "NV"
+  },
+  "47": {
+    "geo": "PL",
+    "tag": "VEX"
+  },
+  "48": {
+    "geo": "US",
+    "tag": "LIQ"
+  },
+  "49": {
+    "geo": "US",
+    "tag": "CLG"
+  },
+  "5": {
+    "geo": "US",
+    "tag": "iBP"
+  },
+  "50": {
+    "geo": "BR",
+    "tag": "KEYD"
+  },
+  "51": {
+    "geo": "DK",
+    "tag": "TSM"
+  },
+  "52": {
+    "geo": "US",
+    "tag": "C9G"
+  },
+  "53": {
+    "geo": "AU",
+    "tag": "REN"
+  },
+  "54": {
+    "geo": "AU",
+    "tag": "IM"
+  },
+  "55": {
+    "geo": "EU",
+    "tag": "KING"
+  },
+  "56": {
+    "geo": "PL",
+    "tag": "EBET"
+  },
+  "57": {
+    "geo": "BR",
+    "tag": "LUMI"
+  },
+  "58": {
+    "geo": "DK",
+    "tag": "TSOLO"
+  },
+  "59": {
+    "geo": "EU",
+    "tag": "G2"
+  },
+  "6": {
+    "geo": "SE",
+    "tag": "Fntc"
+  },
+  "60": {
+    "geo": "DK",
+    "tag": "ASTR"
+  },
+  "61": {
+    "geo": "EU",
+    "tag": "FAZE"
+  },
+  "62": {
+    "geo": "US",
+    "tag": "SPLC"
+  },
+  "63": {
+    "geo": "CC",
+    "tag": "GAMB"
+  },
+  "64": {
+    "geo": "US",
+    "tag": "STUS"
+  },
+  "65": {
+    "geo": "EU",
+    "tag": "STEU"
+  },
+  "66": {
+    "geo": "US",
+    "tag": "OPTC"
+  },
+  "67": {
+    "geo": "SE",
+    "tag": "GOD"
+  },
+  "68": {
+    "geo": "DK",
+    "tag": "NOR"
+  },
+  "69": {
+    "geo": "DE",
+    "tag": "BIG"
+  },
+  "7": {
+    "geo": "FR",
+    "tag": "CM"
+  },
+  "70": {
+    "geo": "RU",
+    "tag": "VEGA"
+  },
+  "71": {
+    "geo": "BR",
+    "tag": "IMT"
+  },
+  "72": {
+    "geo": "EU",
+    "tag": "SPR"
+  },
+  "73": {
+    "geo": "TR",
+    "tag": "SPC"
+  },
+  "74": {
+    "geo": "CN",
+    "tag": "TYL"
+  },
+  "75": {
+    "geo": "KZ",
+    "tag": "AVG"
+  },
+  "76": {
+    "geo": "RU",
+    "tag": "QB"
+  },
+  "77": {
+    "geo": "US",
+    "tag": "MFG"
+  },
+  "78": {
+    "geo": "BR",
+    "tag": "THV"
+  },
+  "79": {
+    "geo": "CN",
+    "tag": "FLG"
+  },
+  "8": {
+    "geo": "FR",
+    "tag": "WGG"
+  },
+  "80": {
+    "geo": "BR",
+    "tag": "MIBR"
+  },
+  "81": {
+    "geo": "RU",
+    "tag": "SPIR"
+  },
+  "82": {
+    "geo": "US",
+    "tag": "ROG"
+  },
+  "83": {
+    "geo": "RU",
+    "tag": "WINS"
+  },
+  "84": {
+    "geo": "FI",
+    "tag": "ENCE"
+  },
+  "85": {
+    "geo": "US",
+    "tag": "FURI"
+  },
+  "86": {
+    "geo": "AU",
+    "tag": "GRAY"
+  },
+  "87": {
+    "geo": "US",
+    "tag": "NRG"
+  },
+  "88": {
+    "geo": "CN",
+    "tag": "VICI"
+  },
+  "89": {
+    "geo": "FR",
+    "tag": "VITA"
+  },
+  "9": {
+    "geo": "NO",
+    "tag": "LGB"
+  },
+  "90": {
+    "geo": "RU",
+    "tag": "FORZ"
+  },
+  "91": {
+    "geo": "RS",
+    "tag": "CR4Z"
+  },
+  "92": {
+    "geo": "KZ",
+    "tag": "SYMA"
+  },
+  "93": {
+    "geo": "RU",
+    "tag": "DREA"
+  },
+  "94": {
+    "geo": "BR",
+    "tag": "INTZ"
+  },
+  "95": {
+    "geo": "SE",
+    "tag": "HERO"
+  },
+  "96": {
+    "geo": "US",
+    "tag": "OG"
+  },
+  "97": {
+    "geo": "ES",
+    "tag": "ESP"
+  },
+  "98": {
+    "geo": "US",
+    "tag": "EVL"
+  },
+  "99": {
+    "geo": "US",
+    "tag": "GENG"
+  }
+}

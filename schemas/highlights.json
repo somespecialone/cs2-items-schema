@@ -1,0 +1,7410 @@
+{
+  "1": {
+    "event": "24",
+    "key": "aus2025_chopper2kvsmouzonmirage1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "10": {
+    "event": "24",
+    "key": "aus2025_jimpphatrunninghsvsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "100": {
+    "event": "24",
+    "key": "aus2025_yuurih2kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "101": {
+    "event": "24",
+    "key": "aus2025_yuurihanchor2kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "102": {
+    "event": "24",
+    "key": "aus2025_yuurihentriesvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "103": {
+    "event": "24",
+    "key": "aus2025_biguzera2kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "104": {
+    "event": "24",
+    "key": "aus2025_dav1deus1v2vsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "105": {
+    "event": "24",
+    "key": "aus2025_dav1desecofragsvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "106": {
+    "event": "24",
+    "key": "aus2025_dav1deusclutchvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "107": {
+    "event": "24",
+    "key": "aus2025_dav1deus1v3vsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "108": {
+    "event": "24",
+    "key": "aus2025_dav1deus2kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "109": {
+    "event": "24",
+    "key": "aus2025_dgtpistolgodvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "11": {
+    "event": "24",
+    "key": "aus2025_jimpphat2ktosecureretakevsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "110": {
+    "event": "24",
+    "key": "aus2025_dgt3kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "111": {
+    "event": "24",
+    "key": "aus2025_dgtopportunityvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "112": {
+    "event": "24",
+    "key": "aus2025_fallen2kvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "113": {
+    "event": "24",
+    "key": "aus2025_fallenfinishervspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "114": {
+    "event": "24",
+    "key": "aus2025_fallenpistolkillsvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "115": {
+    "event": "24",
+    "key": "aus2025_ksceratonadekillvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "116": {
+    "event": "24",
+    "key": "aus2025_ksceratonoclutchvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "117": {
+    "event": "24",
+    "key": "aus2025_kscerato2kvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "118": {
+    "event": "24",
+    "key": "aus2025_molodoydoublemissvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "119": {
+    "event": "24",
+    "key": "aus2025_nqzfailedclutchvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "12": {
+    "event": "24",
+    "key": "aus2025_jimpphatlosesclutchtotimevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "120": {
+    "event": "24",
+    "key": "aus2025_nqz4kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "121": {
+    "event": "24",
+    "key": "aus2025_nqz2kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "122": {
+    "event": "24",
+    "key": "aus2025_snow2kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "123": {
+    "event": "24",
+    "key": "aus2025_snowchaoskillsvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "124": {
+    "event": "24",
+    "key": "aus2025_snow3kvsfuriaonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "125": {
+    "event": "24",
+    "key": "aus2025_yekindar3kvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "126": {
+    "event": "24",
+    "key": "aus2025_yuurihdoubleentryvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "127": {
+    "event": "24",
+    "key": "aus2025_yuurihdoublepistolvspainonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "85",
+    "team1": "102"
+  },
+  "128": {
+    "event": "24",
+    "key": "aus2025_biguzera2kentryoninfernovsfuria",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "129": {
+    "event": "24",
+    "key": "aus2025_dav1deus2kvsfuriahoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "13": {
+    "event": "24",
+    "key": "aus2025_jimpphat2kandwinscluthvsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "130": {
+    "event": "24",
+    "key": "aus2025_dav1deus2ktowinseriesvsfuriahoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "131": {
+    "event": "24",
+    "key": "aus2025_fallen2kpistolvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "132": {
+    "event": "24",
+    "key": "aus2025_fallen3konbananavspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "133": {
+    "event": "24",
+    "key": "aus2025_fallen3kafterplantvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "134": {
+    "event": "24",
+    "key": "aus2025_ksceratortriplefrompitvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "135": {
+    "event": "24",
+    "key": "aus2025_kscerato3kfailedclutchvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "136": {
+    "event": "24",
+    "key": "aus2025_molodoy3kfrompitvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "137": {
+    "event": "24",
+    "key": "aus2025_molodoy2kandfailedclutchvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "138": {
+    "event": "24",
+    "key": "aus2025_molodoy3kclutchvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "139": {
+    "event": "24",
+    "key": "aus2025_nqz3koninfernovspain",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "14": {
+    "event": "24",
+    "key": "aus2025_magix1v2tosecureot",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "140": {
+    "event": "24",
+    "key": "aus2025_nqz2awpkillsfrompitvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "141": {
+    "event": "24",
+    "key": "aus2025_nqzistooslowforyuurihvsfuriahoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "142": {
+    "event": "24",
+    "key": "aus2025_nqzawp3kvsfuriahoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "143": {
+    "event": "24",
+    "key": "aus2025_snowspraytransferivspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "144": {
+    "event": "24",
+    "key": "aus2025_snowbadjigglevsfuriahoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "145": {
+    "event": "24",
+    "key": "aus2025_yekindar2kpistolvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "146": {
+    "event": "24",
+    "key": "aus2025_yekindar3kecofragsvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "147": {
+    "event": "24",
+    "key": "aus2025_yekindarfastbananatakevspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "148": {
+    "event": "24",
+    "key": "aus2025_yekindarquickdoublevspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "149": {
+    "event": "24",
+    "key": "aus2025_yekindar4kvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "15": {
+    "event": "24",
+    "key": "aus2025_magix4kand1v3winvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "150": {
+    "event": "24",
+    "key": "aus2025_yekindar2kbalconyentryvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "151": {
+    "event": "24",
+    "key": "aus2025_yekindarmissplaywithjumpvspainoninferno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "152": {
+    "event": "24",
+    "key": "aus2025_yuurik2konavspainoninfreno",
+    "map": "de_inferno",
+    "stage": "7",
+    "team0": "85",
+    "team1": "102"
+  },
+  "153": {
+    "event": "24",
+    "key": "aus2025_aleksibtriplefailedclutchvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "154": {
+    "event": "24",
+    "key": "aus2025_aleksib2kbholdvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "155": {
+    "event": "24",
+    "key": "aus2025_b1t2cleanheadshotsvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "156": {
+    "event": "24",
+    "key": "aus2025_b1tdoubleentryvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "157": {
+    "event": "24",
+    "key": "aus2025_b1tdoubledualieentryvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "158": {
+    "event": "24",
+    "key": "aus2025_b1tfast2ecosvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "159": {
+    "event": "24",
+    "key": "aus2025_flamezspraytransfervsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "16": {
+    "event": "24",
+    "key": "aus2025_shirofastawpflickvsmouzonmirage1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "160": {
+    "event": "24",
+    "key": "aus2025_flamesdoublentryvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "161": {
+    "event": "24",
+    "key": "aus2025_flameztripleentryvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "162": {
+    "event": "24",
+    "key": "aus2025_imquadkillvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "163": {
+    "event": "24",
+    "key": "aus2025_jlentryandhevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "164": {
+    "event": "24",
+    "key": "aus2025_jltriplehsvsecovsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "165": {
+    "event": "24",
+    "key": "aus2025_mezii2kpistolvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "166": {
+    "event": "24",
+    "key": "aus2025_mezii4kclutchvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "167": {
+    "event": "24",
+    "key": "aus2025_meziiflickvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "168": {
+    "event": "24",
+    "key": "aus2025_ropzbholdvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "169": {
+    "event": "24",
+    "key": "aus2025_ropzdoublesprayvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "17": {
+    "event": "24",
+    "key": "aus2025_shirodidntseexertionandlostentryvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "170": {
+    "event": "24",
+    "key": "aus2025_wonderful2kdeagvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "171": {
+    "event": "24",
+    "key": "aus2025_wonderfulteamkillvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "172": {
+    "event": "24",
+    "key": "aus2025_wonderful2kandcluchvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "173": {
+    "event": "24",
+    "key": "aus2025_wonderful3kawpvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "174": {
+    "event": "24",
+    "key": "aus2025_wonderfulgamblevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "175": {
+    "event": "24",
+    "key": "aus2025_zywooraremissesandaflickvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "176": {
+    "event": "24",
+    "key": "aus2025_zywoo2kvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "177": {
+    "event": "24",
+    "key": "aus2025_zywoodeniestheaceclutchvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "178": {
+    "event": "24",
+    "key": "aus2025_zywoo4kakvsnavionmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "89"
+  },
+  "179": {
+    "event": "24",
+    "key": "aus2025_apex2kvsnavionvitality",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "18": {
+    "event": "24",
+    "key": "aus2025_spinxnadedto3hpvsspiritonmirage1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "180": {
+    "event": "24",
+    "key": "aus2025_apexwhiffvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "181": {
+    "event": "24",
+    "key": "aus2025_apex2kinclutchvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "182": {
+    "event": "24",
+    "key": "aus2025_apexforgotreloadvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "183": {
+    "event": "24",
+    "key": "aus2025_apexblockingsmokesvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "184": {
+    "event": "24",
+    "key": "aus2025_b1t2kpistolvsvitalityonnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "185": {
+    "event": "24",
+    "key": "aus2025_flamez2kinnervsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "186": {
+    "event": "24",
+    "key": "aus2025_imsilmtaneousdeathvsvitalityonnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "187": {
+    "event": "24",
+    "key": "aus2025_mezii3kpistolvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "188": {
+    "event": "24",
+    "key": "aus2025_mezii3kvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "189": {
+    "event": "24",
+    "key": "aus2025_meziitkvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "19": {
+    "event": "24",
+    "key": "aus2025_spinxclose1v2clutch",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "190": {
+    "event": "24",
+    "key": "aus2025_meziiladderkillvsnavionuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "191": {
+    "event": "24",
+    "key": "aus2025_mezi2kinnervsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "192": {
+    "event": "24",
+    "key": "aus2025_mezii4kshutdownvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "193": {
+    "event": "24",
+    "key": "aus2025_ropz2kvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "194": {
+    "event": "24",
+    "key": "aus2025_wonderful3kecovsvitalityonnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "195": {
+    "event": "24",
+    "key": "aus2025_wonderful2kawpvsvitalityonnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "196": {
+    "event": "24",
+    "key": "aus2025_wonderfulfailedclutchvsvitalityonnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "197": {
+    "event": "24",
+    "key": "aus2025_zywoo2kvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "198": {
+    "event": "24",
+    "key": "aus2025_zywoo2kvsecovsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "199": {
+    "event": "24",
+    "key": "aus2025_zywooknifekillvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "2": {
+    "event": "24",
+    "key": "aus2025_chopperdiesfrom100byutilityvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "20": {
+    "event": "24",
+    "key": "aus2025_spinxfast2konbsitetosecureotvsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "200": {
+    "event": "24",
+    "key": "aus2025_zywoo3konsaversvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "201": {
+    "event": "24",
+    "key": "aus2025_zywoofailedclutchvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "202": {
+    "event": "24",
+    "key": "aus2025_zywoo2kentryvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "203": {
+    "event": "24",
+    "key": "aus2025_zywoo2kdualiesvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "204": {
+    "event": "24",
+    "key": "aus2025_zywoo3krampvsnavionnuke",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "12",
+    "team1": "89"
+  },
+  "205": {
+    "event": "24",
+    "key": "aus2025_910doubledeaglevsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "206": {
+    "event": "24",
+    "key": "aus2025_9102kpistolvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "207": {
+    "event": "24",
+    "key": "aus2025_9103ktowinmapvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "208": {
+    "event": "24",
+    "key": "aus2025_blitzalmostkillsallvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "209": {
+    "event": "24",
+    "key": "aus2025_blitz2kvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "21": {
+    "event": "24",
+    "key": "aus2025_spinxinsane4kclutchvsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "210": {
+    "event": "24",
+    "key": "aus2025_blitzkobeand2kvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "211": {
+    "event": "24",
+    "key": "aus2025_blitzfast2kvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "212": {
+    "event": "24",
+    "key": "aus2025_blitztrytoknifevsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "213": {
+    "event": "24",
+    "key": "aus2025_eligecatchingsmokevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "214": {
+    "event": "24",
+    "key": "aus2025_frozen2kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "215": {
+    "event": "24",
+    "key": "aus2025_karrigandefensevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "216": {
+    "event": "24",
+    "key": "aus2025_karriganoncatwalkvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "217": {
+    "event": "24",
+    "key": "aus2025_karrigan2headshotsvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "218": {
+    "event": "24",
+    "key": "aus2025_karrigan2entrybvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "219": {
+    "event": "24",
+    "key": "aus2025_mzinhodoubleentryvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "22": {
+    "event": "24",
+    "key": "aus2025_torszipistol3kvspsiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "220": {
+    "event": "24",
+    "key": "aus2025_mzinho2kadefensevsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "221": {
+    "event": "24",
+    "key": "aus2025_rain2kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "222": {
+    "event": "24",
+    "key": "aus2025_rain2khsvsthemongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "223": {
+    "event": "24",
+    "key": "aus2025_s1mple2kdualiesvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "224": {
+    "event": "24",
+    "key": "aus2025_s1mpleawarenessvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "225": {
+    "event": "24",
+    "key": "aus2025_s1mple2crucialmissesvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "226": {
+    "event": "24",
+    "key": "aus2025_s1mple3kawpvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "227": {
+    "event": "24",
+    "key": "aus2025_s1mplefunnymomentvsthemongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "228": {
+    "event": "24",
+    "key": "aus2025_s1mplewinsawpduelvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "229": {
+    "event": "24",
+    "key": "aus2025_s1mplefailvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "23": {
+    "event": "24",
+    "key": "aus2025_torszi3kwithcheekymolokillonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "230": {
+    "event": "24",
+    "key": "aus2025_senzudoubleentryvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "231": {
+    "event": "24",
+    "key": "aus2025_senzu2kdefensevsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "232": {
+    "event": "24",
+    "key": "aus2025_techno4k2konbvsfazeonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "61",
+    "team1": "122"
+  },
+  "233": {
+    "event": "24",
+    "key": "aus2025_9103kawpvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "234": {
+    "event": "24",
+    "key": "aus2025_9103kawpwingamevsfazeanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "235": {
+    "event": "24",
+    "key": "aus2025_blitz2khsvsecovsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "236": {
+    "event": "24",
+    "key": "aus2025_elige1v2clutchvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "237": {
+    "event": "24",
+    "key": "aus2025_elige2kdeaglevsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "238": {
+    "event": "24",
+    "key": "aus2025_eligeexposehimselfin1v2vsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "239": {
+    "event": "24",
+    "key": "aus2025_elige3kdancingvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "24": {
+    "event": "24",
+    "key": "aus2025_zontix3kfrompalacevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "240": {
+    "event": "24",
+    "key": "aus2025_frozen3kvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "241": {
+    "event": "24",
+    "key": "aus2025_frozen2khsvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "242": {
+    "event": "24",
+    "key": "aus2025_karrigan2kvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "243": {
+    "event": "24",
+    "key": "aus2025_karriganusachantvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "244": {
+    "event": "24",
+    "key": "aus2025_karrigan2kmac10vsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "245": {
+    "event": "24",
+    "key": "aus2025_karrigan2kentryvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "246": {
+    "event": "24",
+    "key": "aus2025_mzinho2kafterplantvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "247": {
+    "event": "24",
+    "key": "aus2025_mzinho2kvsecovsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "248": {
+    "event": "24",
+    "key": "aus2025_mzinhochaseandisdeniedthe1v2vsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "249": {
+    "event": "24",
+    "key": "aus2025_rainswiftdoublevsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "25": {
+    "event": "24",
+    "key": "aus2025_zontix3kandwinsclutchvspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "250": {
+    "event": "24",
+    "key": "aus2025_rain3kvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "251": {
+    "event": "24",
+    "key": "aus2025_mongolzscaredofs1mplevsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "252": {
+    "event": "24",
+    "key": "aus2025_s1mple2kawpvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "253": {
+    "event": "24",
+    "key": "aus2025_s1mpleocmbatawpvsmongolzonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "254": {
+    "event": "24",
+    "key": "aus2025_senzu2kandclutchvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "255": {
+    "event": "24",
+    "key": "aus2025_senzu3kpistolvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "256": {
+    "event": "24",
+    "key": "aus2025_senzuswift2kvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "257": {
+    "event": "24",
+    "key": "aus2025_techno3kvsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "258": {
+    "event": "24",
+    "key": "aus2025_technolosestotimevsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "259": {
+    "event": "24",
+    "key": "aus2025_techno4ktriplevsfazeonanubis",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "61",
+    "team1": "122"
+  },
+  "26": {
+    "event": "24",
+    "key": "aus2025_brollan2kvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "260": {
+    "event": "24",
+    "key": "aus2025_9102kdeagvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "261": {
+    "event": "24",
+    "key": "aus2025_9101kvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "262": {
+    "event": "24",
+    "key": "aus2025_9102kawpvspainonmiragee",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "263": {
+    "event": "24",
+    "key": "aus2025_blitzswitcheroovspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "264": {
+    "event": "24",
+    "key": "aus2025_blitz3kvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "265": {
+    "event": "24",
+    "key": "aus2025_blitz2khsvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "266": {
+    "event": "24",
+    "key": "aus2025_dav1deus2kecovsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "267": {
+    "event": "24",
+    "key": "aus2025_dav1deusalmostclutchvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "268": {
+    "event": "24",
+    "key": "aus2025_dav1deusmistakevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "269": {
+    "event": "24",
+    "key": "aus2025_dav1deusclutchdeniedvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "27": {
+    "event": "24",
+    "key": "aus2025_brollan3kvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "270": {
+    "event": "24",
+    "key": "aus2025_dgt3kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "271": {
+    "event": "24",
+    "key": "aus2025_dgt1kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "272": {
+    "event": "24",
+    "key": "aus2025_mzinho2hsvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "273": {
+    "event": "24",
+    "key": "aus2025_mzinho3konavspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "274": {
+    "event": "24",
+    "key": "aus2025_mzinhodobleentryvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "275": {
+    "event": "24",
+    "key": "aus2025_mzinho3kvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "276": {
+    "event": "24",
+    "key": "aus2025_mzinho2kaftertimevspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "277": {
+    "event": "24",
+    "key": "aus2025_mzinho2kintovictoryvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "278": {
+    "event": "24",
+    "key": "aus2025_nqz3kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "279": {
+    "event": "24",
+    "key": "aus2025_nqzawprampagevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "28": {
+    "event": "24",
+    "key": "aus2025_brollanfast2kinpistolvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "280": {
+    "event": "24",
+    "key": "aus2025_senzuremoveawpvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "281": {
+    "event": "24",
+    "key": "aus2025_senznuinstahsvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "282": {
+    "event": "24",
+    "key": "aus2025_senznu2khsvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "283": {
+    "event": "24",
+    "key": "aus2025_snow3kpistolvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "284": {
+    "event": "24",
+    "key": "aus2025_snowhugblitzvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "285": {
+    "event": "24",
+    "key": "aus2025_techno4k2kvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "286": {
+    "event": "24",
+    "key": "aus2025_techno4k2kinbackvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "287": {
+    "event": "24",
+    "key": "aus2025_techno4k2kdualiesvspainonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "102",
+    "team1": "122"
+  },
+  "288": {
+    "event": "24",
+    "key": "aus2025_apexcleansupvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "289": {
+    "event": "24",
+    "key": "aus2025_apexpistolsneutralizedvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "29": {
+    "event": "24",
+    "key": "aus2025_brollandiesfrom100to0fromutilityvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "290": {
+    "event": "24",
+    "key": "aus2025_apexofftargetvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "291": {
+    "event": "24",
+    "key": "aus2025_apexmixedfirevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "292": {
+    "event": "24",
+    "key": "aus2025_brollanroundwinningkillsvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "293": {
+    "event": "24",
+    "key": "aus2025_brollandeaglefuryvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "294": {
+    "event": "24",
+    "key": "aus2025_flamezaceunleashedvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "295": {
+    "event": "24",
+    "key": "aus2025_flamezyoushallnotpassvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "296": {
+    "event": "24",
+    "key": "aus2025_flamezwreckagevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "297": {
+    "event": "24",
+    "key": "aus2025_flamezsmokeambushvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "298": {
+    "event": "24",
+    "key": "aus2025_flamezsmokeshotsvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "299": {
+    "event": "24",
+    "key": "aus2025_jimpphatunseenblastvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "3": {
+    "event": "24",
+    "key": "aus2025_chopperwins1v1vsbrollanonmiragemouz",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "30": {
+    "event": "24",
+    "key": "aus2025_brollancleanentryvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "300": {
+    "event": "24",
+    "key": "aus2025_jimpphatcleansweepvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "301": {
+    "event": "24",
+    "key": "aus2025_meziitickettakedownvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "302": {
+    "event": "24",
+    "key": "aus2025_meziibsiteblockedvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "303": {
+    "event": "24",
+    "key": "aus2025_ropzglockcarnagevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "304": {
+    "event": "24",
+    "key": "aus2025_ropzmassacrevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "305": {
+    "event": "24",
+    "key": "aus2025_ropzcoverfirevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "306": {
+    "event": "24",
+    "key": "aus2025_ropzprecisionvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "307": {
+    "event": "24",
+    "key": "aus2025_spinxtwodownonesitevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "308": {
+    "event": "24",
+    "key": "aus2025_torzsipistolroundherovsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "309": {
+    "event": "24",
+    "key": "aus2025_torzsitunnelvisionvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "31": {
+    "event": "24",
+    "key": "aus2025_chopper3kmp9vsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "310": {
+    "event": "24",
+    "key": "aus2025_xertionglockdoubletroublevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "311": {
+    "event": "24",
+    "key": "aus2025_xertiondeadlydeaglevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "312": {
+    "event": "24",
+    "key": "aus2025_xertiongalilpowervsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "313": {
+    "event": "24",
+    "key": "aus2025_xertionlockedoutvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "314": {
+    "event": "24",
+    "key": "aus2025_zywoofocusedbutfallenvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "315": {
+    "event": "24",
+    "key": "aus2025_zywoofastdoublevsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "316": {
+    "event": "24",
+    "key": "aus2025_zywoovitalvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "89",
+    "team1": "106"
+  },
+  "317": {
+    "event": "24",
+    "key": "aus2025_apexcheekyboostvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "318": {
+    "event": "24",
+    "key": "aus2025_apexpeekaboovsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "319": {
+    "event": "24",
+    "key": "aus2025_apex2kdefendbvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "32": {
+    "event": "24",
+    "key": "aus2025_donk4kandfailed1v1vsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "320": {
+    "event": "24",
+    "key": "aus2025_apex1v2afterplantvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "321": {
+    "event": "24",
+    "key": "aus2025_brollandestroyedvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "322": {
+    "event": "24",
+    "key": "aus2025_brollanrunninggalilvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "323": {
+    "event": "24",
+    "key": "aus2025_flamez2kvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "324": {
+    "event": "24",
+    "key": "aus2025_flamezonetapvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "325": {
+    "event": "24",
+    "key": "aus2025_jimphatlosetotimevsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "326": {
+    "event": "24",
+    "key": "aus2025_jimpphat2kinnervsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "327": {
+    "event": "24",
+    "key": "aus2025_mezitriggerdisciplinenotenoughvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "328": {
+    "event": "24",
+    "key": "aus2025_ropz2kuspvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "329": {
+    "event": "24",
+    "key": "aus2025_ropz2kvsecovsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "33": {
+    "event": "24",
+    "key": "aus2025_donkaceonbvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "330": {
+    "event": "24",
+    "key": "aus2025_ropz2kinnervsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "331": {
+    "event": "24",
+    "key": "aus2025_ropz2krotatevsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "332": {
+    "event": "24",
+    "key": "aus2025_ropz2onetapsvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "333": {
+    "event": "24",
+    "key": "aus2025_ropz2kvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "334": {
+    "event": "24",
+    "key": "aus2025_spinxfailedlurkvsfazeontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "335": {
+    "event": "24",
+    "key": "aus2025_spinx3kvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "336": {
+    "event": "24",
+    "key": "aus2025_spinxswift2khsvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "337": {
+    "event": "24",
+    "key": "aus2025_torszifailedclutchvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "338": {
+    "event": "24",
+    "key": "aus2025_xertioncowboy3kvsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "339": {
+    "event": "24",
+    "key": "aus2025_xertion2kecovsvitalityontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "34": {
+    "event": "24",
+    "key": "aus2025_donkfastmp2kvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "340": {
+    "event": "24",
+    "key": "aus2025_zywoo2kvsecovsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "341": {
+    "event": "24",
+    "key": "aus2025_zywoo2kawpvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "342": {
+    "event": "24",
+    "key": "aus2025_zywooawprampagevsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "343": {
+    "event": "24",
+    "key": "aus2025_zywoo3kdominatingvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "344": {
+    "event": "24",
+    "key": "aus2025_zywoo2khsvsmouzontrain",
+    "map": "de_train",
+    "stage": "10",
+    "team0": "89",
+    "team1": "106"
+  },
+  "345": {
+    "event": "24",
+    "key": "aus2025_apexstrikesbackataustincrowd",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "346": {
+    "event": "24",
+    "key": "aus2025_910clutchdeniedvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "347": {
+    "event": "24",
+    "key": "aus2025_910triplekillvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "348": {
+    "event": "24",
+    "key": "aus2025_9102kawpvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "349": {
+    "event": "24",
+    "key": "aus2025_910acevsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "35": {
+    "event": "24",
+    "key": "aus2025_donkdodgeflashandentryvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "350": {
+    "event": "24",
+    "key": "aus2025_apex3kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "351": {
+    "event": "24",
+    "key": "aus2025_apex2kvsecovsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "352": {
+    "event": "24",
+    "key": "aus2025_apexflashplayvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "353": {
+    "event": "24",
+    "key": "aus2025_apexjokerasitevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "354": {
+    "event": "24",
+    "key": "aus2025_blitz3kvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "355": {
+    "event": "24",
+    "key": "aus2025_blitzclutchdeniedvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "356": {
+    "event": "24",
+    "key": "aus2025_blitz2kvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "357": {
+    "event": "24",
+    "key": "aus2025_flamezclutchdeniedvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "358": {
+    "event": "24",
+    "key": "aus2025_flamez3kvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "359": {
+    "event": "24",
+    "key": "aus2025_meziteamflashedvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "36": {
+    "event": "24",
+    "key": "aus2025_jimpphat4konretakevspsiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "360": {
+    "event": "24",
+    "key": "aus2025_meziifailbacktobackclutchvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "361": {
+    "event": "24",
+    "key": "aus2025_meziiclutchdeniedvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "362": {
+    "event": "24",
+    "key": "aus2025_mzinhowallbangvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "363": {
+    "event": "24",
+    "key": "aus2025_ropzcowboyvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "364": {
+    "event": "24",
+    "key": "aus2025_senzu3kecovsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "365": {
+    "event": "24",
+    "key": "aus2025_senzuecofraggervsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "366": {
+    "event": "24",
+    "key": "aus2025_techno4krampageandclutchvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "367": {
+    "event": "24",
+    "key": "aus2025_tehcno4kclutchdemonvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "368": {
+    "event": "24",
+    "key": "aus2025_techno4k2kdualiesvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "369": {
+    "event": "24",
+    "key": "aus2025_techno4k2kwinmapvsvitalityonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "37": {
+    "event": "24",
+    "key": "aus2025_jimpphatswift2kentryonbvsspiritondust",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "370": {
+    "event": "24",
+    "key": "aus2025_zywoosmokecriminalvsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "371": {
+    "event": "24",
+    "key": "aus2025_zywoosmokespeakervsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "372": {
+    "event": "24",
+    "key": "aus2025_zywoobreaksmokevsmongolzonmirage",
+    "map": "de_mirage",
+    "stage": "11",
+    "team0": "89",
+    "team1": "122"
+  },
+  "373": {
+    "event": "24",
+    "key": "aus2025_apex2kpistolvsmongolzdust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "374": {
+    "event": "24",
+    "key": "aus2025_apexkobevsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "375": {
+    "event": "24",
+    "key": "aus2025_apex2kbvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "376": {
+    "event": "24",
+    "key": "aus2025_apexflyingglockvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "377": {
+    "event": "24",
+    "key": "aus2025_blitz2kvsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "378": {
+    "event": "24",
+    "key": "aus2025_flamez2kecovsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "379": {
+    "event": "24",
+    "key": "aus2025_flamez2kvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "38": {
+    "event": "24",
+    "key": "aus2025_jimpphat2kinmiddust2vsspirit",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "380": {
+    "event": "24",
+    "key": "aus2025_flamez2kafterplantvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "381": {
+    "event": "24",
+    "key": "aus2025_flamez2kavsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "382": {
+    "event": "24",
+    "key": "aus2025_flamezlosetotimevsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "383": {
+    "event": "24",
+    "key": "aus2025_mezii2kvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "384": {
+    "event": "24",
+    "key": "aus2025_meziientry2kvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "385": {
+    "event": "24",
+    "key": "aus2025_meziiclutchvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "386": {
+    "event": "24",
+    "key": "aus2025_mezii2kandwinmapvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "387": {
+    "event": "24",
+    "key": "aus2025_mzinhoclose1v3vsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "388": {
+    "event": "24",
+    "key": "aus2025_mzinhoonetapvsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "389": {
+    "event": "24",
+    "key": "aus2025_ropz2kdualsvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "39": {
+    "event": "24",
+    "key": "aus2025_jimpphat2kspraydownvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "390": {
+    "event": "24",
+    "key": "aus2025_ropz2kbvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "391": {
+    "event": "24",
+    "key": "aus2025_ropz4kvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "392": {
+    "event": "24",
+    "key": "aus2025_ropzclotchdeniedvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "393": {
+    "event": "24",
+    "key": "aus2025_senzuclutchgodvsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "394": {
+    "event": "24",
+    "key": "aus2025_senznuclutchdeniedvsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "395": {
+    "event": "24",
+    "key": "aus2025_techno2kandwhiffvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "396": {
+    "event": "24",
+    "key": "aus2025_techno3kandclutchvsvitalityondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "397": {
+    "event": "24",
+    "key": "aus2025_zywoo2kecovsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "398": {
+    "event": "24",
+    "key": "aus2025_zywoo3kvsmongolzondust2",
+    "map": "de_dust2",
+    "stage": "12",
+    "team0": "89",
+    "team1": "122"
+  },
+  "399": {
+    "event": "24",
+    "key": "aus2025_910openandclosevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "4": {
+    "event": "24",
+    "key": "aus2025_chopper3ktowinmap",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "40": {
+    "event": "24",
+    "key": "aus2025_magixx3konafterplantvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "400": {
+    "event": "24",
+    "key": "aus2025_910jumpspotdodgevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "401": {
+    "event": "24",
+    "key": "aus2025_910killtriodeliveredvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "402": {
+    "event": "24",
+    "key": "aus2025_910triplekillcloservspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "403": {
+    "event": "24",
+    "key": "aus2025_biguzeraibelieveicanflyvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "404": {
+    "event": "24",
+    "key": "aus2025_blitzecotastesgoodvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "405": {
+    "event": "24",
+    "key": "aus2025_blitzstrugglingagainstglocksvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "406": {
+    "event": "24",
+    "key": "aus2025_dav1deusrightbeindyouvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "407": {
+    "event": "24",
+    "key": "aus2025_dgt2kvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "408": {
+    "event": "24",
+    "key": "aus2025_dgt1kvsthemongolzonaubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "409": {
+    "event": "24",
+    "key": "aus2025_mzinho3kvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "41": {
+    "event": "24",
+    "key": "aus2025_magixx2konadefensevsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "410": {
+    "event": "24",
+    "key": "aus2025_mzinhopreaimvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "411": {
+    "event": "24",
+    "key": "aus2025_mzinhoflashingdoesntmattervsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "412": {
+    "event": "24",
+    "key": "aus2025_mzinhodoubleglockdownvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "413": {
+    "event": "24",
+    "key": "aus2025_nqzmissedshotmissedchancevsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "414": {
+    "event": "24",
+    "key": "aus2025_nqzicantseevsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "415": {
+    "event": "24",
+    "key": "aus2025_senzuyoucanthidevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "416": {
+    "event": "24",
+    "key": "aus2025_senzuclutchornothingvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "417": {
+    "event": "24",
+    "key": "aus2025_senzudeagledoublevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "418": {
+    "event": "24",
+    "key": "aus2025_senzuclutchanddefusevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "419": {
+    "event": "24",
+    "key": "aus2025_senzuglockstakendownvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "42": {
+    "event": "24",
+    "key": "aus2025_shiro3kscoutvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "420": {
+    "event": "24",
+    "key": "aus2025_snow2kvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "421": {
+    "event": "24",
+    "key": "aus2025_snownicetryvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "422": {
+    "event": "24",
+    "key": "aus2025_snowglockdoubledownvsthemongolzonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "423": {
+    "event": "24",
+    "key": "aus2025_techno4ktripleterroronanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "424": {
+    "event": "24",
+    "key": "aus2025_techno4kdualsnodamagevspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "425": {
+    "event": "24",
+    "key": "aus2025_techno4kriflepowerplayvspainonanubis",
+    "map": "de_anubis",
+    "stage": "9",
+    "team0": "102",
+    "team1": "122"
+  },
+  "426": {
+    "event": "24",
+    "key": "aus2025_apexsneakyslayervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "427": {
+    "event": "24",
+    "key": "aus2025_apexairbornevsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "428": {
+    "event": "24",
+    "key": "aus2025_brollanexploitvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "429": {
+    "event": "24",
+    "key": "aus2025_brollanriflecontrolvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "43": {
+    "event": "24",
+    "key": "aus2025_shirofailedhetomissfreekillvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "430": {
+    "event": "24",
+    "key": "aus2025_brollanblastvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "431": {
+    "event": "24",
+    "key": "aus2025_flamezlasteffortvsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "432": {
+    "event": "24",
+    "key": "aus2025_jimpphatpitholdvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "433": {
+    "event": "24",
+    "key": "aus2025_jimpphatpitpotvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "434": {
+    "event": "24",
+    "key": "aus2025_jimpphatpunisherfrompitvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "435": {
+    "event": "24",
+    "key": "aus2025_jimpphatretakemastervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "436": {
+    "event": "24",
+    "key": "aus2025_jimpphatjimmyjabsvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "437": {
+    "event": "24",
+    "key": "aus2025_ropzrapidfirevsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "438": {
+    "event": "24",
+    "key": "aus2025_ropzstrongholdvsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "439": {
+    "event": "24",
+    "key": "aus2025_spinxstrikevsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "44": {
+    "event": "24",
+    "key": "aus2025_shiroawp2kvsmouzondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "440": {
+    "event": "24",
+    "key": "aus2025_spinxsiterecoveryvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "441": {
+    "event": "24",
+    "key": "aus2025_spinxsharpshootervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "442": {
+    "event": "24",
+    "key": "aus2025_spinxhiddenthreatvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "443": {
+    "event": "24",
+    "key": "aus2025_torzsideadlydefensevsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "444": {
+    "event": "24",
+    "key": "aus2025_torzsifamasimpactvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "445": {
+    "event": "24",
+    "key": "aus2025_torzsidualkillvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "446": {
+    "event": "24",
+    "key": "aus2025_torzsiclosecallvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "447": {
+    "event": "24",
+    "key": "aus2025_torzsilethallongvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "448": {
+    "event": "24",
+    "key": "aus2025_torzsihitormissvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "449": {
+    "event": "24",
+    "key": "aus2025_torzsitaggingvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "45": {
+    "event": "24",
+    "key": "aus2025_shirothrowawayawpin1v2ondust2vsmouz",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "450": {
+    "event": "24",
+    "key": "aus2025_torzsibombsitebattlevsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "451": {
+    "event": "24",
+    "key": "aus2025_xertionpistolpunishervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "452": {
+    "event": "24",
+    "key": "aus2025_zywooroundcloservsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "453": {
+    "event": "24",
+    "key": "aus2025_zywooalmosttherevsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "454": {
+    "event": "24",
+    "key": "aus2025_zywoostrikingmp9vsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "455": {
+    "event": "24",
+    "key": "aus2025_zywooriflerampagevsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "456": {
+    "event": "24",
+    "key": "aus2025_zywooonemagvsmouzoninferno",
+    "map": "de_inferno",
+    "stage": "9",
+    "team0": "89",
+    "team1": "106"
+  },
+  "457": {
+    "event": "24",
+    "key": "aus2025_910misfirevsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "458": {
+    "event": "24",
+    "key": "aus2025_910strikingvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "459": {
+    "event": "24",
+    "key": "aus2025_910strugglevsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "46": {
+    "event": "24",
+    "key": "aus2025_spinx3konsitedust2vsspirit",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "460": {
+    "event": "24",
+    "key": "aus2025_910sprayandprayvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "461": {
+    "event": "24",
+    "key": "aus2025_910killchainvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "462": {
+    "event": "24",
+    "key": "aus2025_910doubledownvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "463": {
+    "event": "24",
+    "key": "aus2025_apexkillstreakvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "464": {
+    "event": "24",
+    "key": "aus2025_apexroundsecorevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "465": {
+    "event": "24",
+    "key": "aus2025_apexholdlinevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "466": {
+    "event": "24",
+    "key": "aus2025_apexbombsiteclearedvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "467": {
+    "event": "24",
+    "key": "aus2025_apexownfirevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "468": {
+    "event": "24",
+    "key": "aus2025_blitzheroiceffortvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "469": {
+    "event": "24",
+    "key": "aus2025_blitzboomvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "47": {
+    "event": "24",
+    "key": "aus2025_spinxquadkilltowinmapvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "470": {
+    "event": "24",
+    "key": "aus2025_blitzbackstabbervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "471": {
+    "event": "24",
+    "key": "aus2025_flamezretakedeniedvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "472": {
+    "event": "24",
+    "key": "aus2025_flameztesting123vsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "473": {
+    "event": "24",
+    "key": "aus2025_flamezretakekingvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "474": {
+    "event": "24",
+    "key": "aus2025_flamezalmostclutchvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "475": {
+    "event": "24",
+    "key": "aus2025_flamezroundherevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "476": {
+    "event": "24",
+    "key": "aus2025_meziidominationvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "477": {
+    "event": "24",
+    "key": "aus2025_meziistandingstrongvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "478": {
+    "event": "24",
+    "key": "aus2025_meziiboostkillvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "479": {
+    "event": "24",
+    "key": "aus2025_meziiwarningshotvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "48": {
+    "event": "24",
+    "key": "aus2025_spinxmisplaysroundvsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "480": {
+    "event": "24",
+    "key": "aus2025_meziicleansweepvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "481": {
+    "event": "24",
+    "key": "aus2025_mzinhogamechangervsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "482": {
+    "event": "24",
+    "key": "aus2025_mzinhomomentumvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "483": {
+    "event": "24",
+    "key": "aus2025_mzinhoquickkillsvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "484": {
+    "event": "24",
+    "key": "aus2025_ropzrampagevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "485": {
+    "event": "24",
+    "key": "aus2025_ropzfiercefightvsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "486": {
+    "event": "24",
+    "key": "aus2025_ropzfailedrevengevsthemongolzoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "487": {
+    "event": "24",
+    "key": "aus2025_senzuoneshotvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "488": {
+    "event": "24",
+    "key": "aus2025_senzusmokesprayvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "489": {
+    "event": "24",
+    "key": "aus2025_senzustrikingshotsvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "49": {
+    "event": "24",
+    "key": "aus2025_spinx2konbdefensevspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "490": {
+    "event": "24",
+    "key": "aus2025_techno4ktechnotriumphvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "491": {
+    "event": "24",
+    "key": "aus2025_techno4ktimedpushvsvitaltyoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "492": {
+    "event": "24",
+    "key": "aus2025_techno4kclutchwinvsvitalityoninferno",
+    "map": "de_inferno",
+    "stage": "13",
+    "team0": "89",
+    "team1": "122"
+  },
+  "493": {
+    "event": "25",
+    "key": "bud2025_qf-navi-entrance",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "494": {
+    "event": "25",
+    "key": "bud2025_qf-furia-entrance",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "495": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-quadro-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "496": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "497": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-triple-kill-on-mirage-1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "498": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-triple-kill-on-mirage-2",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "499": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-triple-kill-on-mirage-3",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "5": {
+    "event": "24",
+    "key": "aus2025_donk2kvsmouzonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "50": {
+    "event": "24",
+    "key": "aus2025_xertion3konbsitedust2vspirit",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "500": {
+    "event": "25",
+    "key": "bud2025_qf-im-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "501": {
+    "event": "25",
+    "key": "bud2025_qf-im-quadro-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "502": {
+    "event": "25",
+    "key": "bud2025_qf-im-double-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "503": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "504": {
+    "event": "25",
+    "key": "bud2025_qf-yuurih-clutch-1v2-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "505": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-vs-furia-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "506": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-vs-furia-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "507": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-vs-furia-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "508": {
+    "event": "25",
+    "key": "bud2025_qf-im-vs-furia-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "509": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-vs-furia-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "51": {
+    "event": "24",
+    "key": "aus2025_xertionclean3konasitevsspiritondust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "106"
+  },
+  "510": {
+    "event": "25",
+    "key": "bud2025_qf-yekindar-vs-navi-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "511": {
+    "event": "25",
+    "key": "bud2025_qf-kscerato-vs-navi-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "512": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-vs-navi-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "513": {
+    "event": "25",
+    "key": "bud2025_qf-molodoy-vs-navi-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "514": {
+    "event": "25",
+    "key": "bud2025_qf-yuurih-vs-navi-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "12",
+    "team1": "85"
+  },
+  "515": {
+    "event": "25",
+    "key": "bud2025_qf-faze-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "516": {
+    "event": "25",
+    "key": "bud2025_qf-mouz-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "517": {
+    "event": "25",
+    "key": "bud2025_qf-karrigan-triple-kill-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "518": {
+    "event": "25",
+    "key": "bud2025_qf-karrigan-triple-kill-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "519": {
+    "event": "25",
+    "key": "bud2025_qf-twistzz-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "52": {
+    "event": "24",
+    "key": "aus2025_chopper2kfromdooronnukevsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "520": {
+    "event": "25",
+    "key": "bud2025_qf-jcobbb-quadro-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "521": {
+    "event": "25",
+    "key": "bud2025_qf-frozen-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "522": {
+    "event": "25",
+    "key": "bud2025_qf-broky-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "523": {
+    "event": "25",
+    "key": "bud2025_qf-spinx-triple-kill-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "524": {
+    "event": "25",
+    "key": "bud2025_qf-spinx-triple-kill-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "525": {
+    "event": "25",
+    "key": "bud2025_qf-torzsi-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "526": {
+    "event": "25",
+    "key": "bud2025_qf-brollan-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "527": {
+    "event": "25",
+    "key": "bud2025_qf-karrigan-vs-mouz-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "528": {
+    "event": "25",
+    "key": "bud2025_qf-broky-vs-mouz-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "529": {
+    "event": "25",
+    "key": "bud2025_qf-twistzz-vs-mouz-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "53": {
+    "event": "24",
+    "key": "aus2025_chopperfailstohearthedoordiesinthesidevsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "530": {
+    "event": "25",
+    "key": "bud2025_qf-jcobbb-vs-mouz-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "531": {
+    "event": "25",
+    "key": "bud2025_qf-frozen-vs-mouz-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "532": {
+    "event": "25",
+    "key": "bud2025_qf-jimpphat-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "533": {
+    "event": "25",
+    "key": "bud2025_qf-brollan-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "534": {
+    "event": "25",
+    "key": "bud2025_qf-spinx-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "535": {
+    "event": "25",
+    "key": "bud2025_qf-torzsi-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "536": {
+    "event": "25",
+    "key": "bud2025_qf-xertion-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "61",
+    "team1": "106"
+  },
+  "537": {
+    "event": "25",
+    "key": "bud2025_qf-spirit-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "538": {
+    "event": "25",
+    "key": "bud2025_qf-falcons-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "539": {
+    "event": "25",
+    "key": "bud2025_qf-chopper-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "54": {
+    "event": "24",
+    "key": "aus2025_donk3kpistolvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "540": {
+    "event": "25",
+    "key": "bud2025_qf-m0nesy-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "541": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-triple-kill-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "542": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-triple-kill-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "543": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-quadro-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "544": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-ace-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "545": {
+    "event": "25",
+    "key": "bud2025_qf-donk-quadro-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "546": {
+    "event": "25",
+    "key": "bud2025_qf-tn1r-triple-kill-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "547": {
+    "event": "25",
+    "key": "bud2025_qf-tn1r-triple-kill-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "548": {
+    "event": "25",
+    "key": "bud2025_qf-kyousuke-triple-kill-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "549": {
+    "event": "25",
+    "key": "bud2025_qf-chopper-vs-falcons-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "55": {
+    "event": "24",
+    "key": "aus2025_donkclean3kvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "550": {
+    "event": "25",
+    "key": "bud2025_qf-donk-vs-falcons-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "551": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-vs-falcons-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "552": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-vs-falcons-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "553": {
+    "event": "25",
+    "key": "bud2025_qf-tn1r-vs-falcons-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "554": {
+    "event": "25",
+    "key": "bud2025_qf-niko-vs-spirit-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "555": {
+    "event": "25",
+    "key": "bud2025_qf-kyxsan-vs-spirit-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "556": {
+    "event": "25",
+    "key": "bud2025_qf-m0nesy-vs-spirit-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "557": {
+    "event": "25",
+    "key": "bud2025_qf-teses-vs-spirit-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "558": {
+    "event": "25",
+    "key": "bud2025_qf-kyousuke-vs-spirit-on-nuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "81",
+    "team1": "139"
+  },
+  "559": {
+    "event": "25",
+    "key": "bud2025_qf-vitality-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "56": {
+    "event": "24",
+    "key": "aus2025_donkmissedopportunityvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "560": {
+    "event": "25",
+    "key": "bud2025_qf-the-mongolz-entrance",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "561": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-quadro-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "562": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "563": {
+    "event": "25",
+    "key": "bud2025_qf-flamez-triple-kill-on-mirage-1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "564": {
+    "event": "25",
+    "key": "bud2025_qf-flamez-triple-kill-on-mirage-2",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "565": {
+    "event": "25",
+    "key": "bud2025_qf-zywoo-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "566": {
+    "event": "25",
+    "key": "bud2025_qf-zywoo-quadro-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "567": {
+    "event": "25",
+    "key": "bud2025_qf-techno4k-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "568": {
+    "event": "25",
+    "key": "bud2025_qf-910-triple-kill-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "569": {
+    "event": "25",
+    "key": "bud2025_qf-zywoo-vs-the-mongolz-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "57": {
+    "event": "24",
+    "key": "aus2025_jimpphat2kmp9vsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "570": {
+    "event": "25",
+    "key": "bud2025_qf-apex-vs-the-mongolz-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "571": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-vs-the-mongolz-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "572": {
+    "event": "25",
+    "key": "bud2025_qf-flamez-vs-the-mongolz-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "573": {
+    "event": "25",
+    "key": "bud2025_qf-ropz-vs-the-mongolz-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "574": {
+    "event": "25",
+    "key": "bud2025_qf-blitz-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "575": {
+    "event": "25",
+    "key": "bud2025_qf-techno4k-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "576": {
+    "event": "25",
+    "key": "bud2025_qf-mzinho-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "577": {
+    "event": "25",
+    "key": "bud2025_qf-910-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "578": {
+    "event": "25",
+    "key": "bud2025_qf-controlez-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "89",
+    "team1": "122"
+  },
+  "579": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "58": {
+    "event": "24",
+    "key": "aus2025_jimpphat2konnukevsspirit",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "580": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-double-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "581": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-quadro-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "582": {
+    "event": "25",
+    "key": "bud2025_qf-im-quadro-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "583": {
+    "event": "25",
+    "key": "bud2025_qf-im-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "584": {
+    "event": "25",
+    "key": "bud2025_qf-yekindar-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "585": {
+    "event": "25",
+    "key": "bud2025_qf-kscerato-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "586": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-double-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "587": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-triple-kill-on-inferno-1",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "588": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-triple-kill-on-inferno-2",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "589": {
+    "event": "25",
+    "key": "bud2025_qf-molodoy-quadro-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "59": {
+    "event": "24",
+    "key": "aus2025_magix2fastkillsonadefensenukevsmouz",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "590": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-vs-furia-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "591": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-vs-furia-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "592": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-vs-furia-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "593": {
+    "event": "25",
+    "key": "bud2025_qf-im-vs-furia-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "594": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-vs-furia-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "595": {
+    "event": "25",
+    "key": "bud2025_qf-yekindar-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "596": {
+    "event": "25",
+    "key": "bud2025_qf-kscerato-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "597": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "598": {
+    "event": "25",
+    "key": "bud2025_qf-molodoy-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "599": {
+    "event": "25",
+    "key": "bud2025_qf-yuurih-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "12",
+    "team1": "85"
+  },
+  "6": {
+    "event": "24",
+    "key": "aus2025_donk3kandcheekydefusevsspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "60": {
+    "event": "24",
+    "key": "aus2025_shiroawp2kvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "600": {
+    "event": "25",
+    "key": "bud2025_qf-faze-victory",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "601": {
+    "event": "25",
+    "key": "bud2025_qf-broky-triple-kill-on-inferno-1",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "602": {
+    "event": "25",
+    "key": "bud2025_qf-broky-triple-kill-on-inferno-2",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "603": {
+    "event": "25",
+    "key": "bud2025_qf-broky-triple-kill-on-inferno-3",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "604": {
+    "event": "25",
+    "key": "bud2025_qf-frozen-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "605": {
+    "event": "25",
+    "key": "bud2025_qf-karrigan-he-damage-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "606": {
+    "event": "25",
+    "key": "bud2025_qf-torzsi-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "607": {
+    "event": "25",
+    "key": "bud2025_qf-twistzz-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "608": {
+    "event": "25",
+    "key": "bud2025_qf-xertion-triple-kill-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "609": {
+    "event": "25",
+    "key": "bud2025_qf-broky-vs-mouz-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "61": {
+    "event": "24",
+    "key": "aus2025_shirolose1v2tolosemapvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "610": {
+    "event": "25",
+    "key": "bud2025_qf-brollan-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "611": {
+    "event": "25",
+    "key": "bud2025_qf-frozen-vs-mouz-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "612": {
+    "event": "25",
+    "key": "bud2025_qf-jcobbb-vs-mouz-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "613": {
+    "event": "25",
+    "key": "bud2025_qf-jimpphat-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "614": {
+    "event": "25",
+    "key": "bud2025_qf-karrigan-vs-mouz-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "615": {
+    "event": "25",
+    "key": "bud2025_qf-spinx-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "616": {
+    "event": "25",
+    "key": "bud2025_qf-torzsi-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "617": {
+    "event": "25",
+    "key": "bud2025_qf-twistzz-vs-mouz-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "618": {
+    "event": "25",
+    "key": "bud2025_qf-xertion-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "6",
+    "team0": "61",
+    "team1": "106"
+  },
+  "619": {
+    "event": "25",
+    "key": "bud2025_qf-spirit-victory",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "62": {
+    "event": "24",
+    "key": "aus2025_spinxfast2kentryvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "620": {
+    "event": "25",
+    "key": "bud2025_qf-chopper-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "621": {
+    "event": "25",
+    "key": "bud2025_qf-donk-quadro-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "622": {
+    "event": "25",
+    "key": "bud2025_qf-kyousuke-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "623": {
+    "event": "25",
+    "key": "bud2025_qf-m0nesy-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "624": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-quadro-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "625": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "626": {
+    "event": "25",
+    "key": "bud2025_qf-teses-quadro-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "627": {
+    "event": "25",
+    "key": "bud2025_qf-tn1r-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "628": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-ace-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "629": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "63": {
+    "event": "24",
+    "key": "aus2025_spinx3kvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "630": {
+    "event": "25",
+    "key": "bud2025_qf-chopper-vs-falcons-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "631": {
+    "event": "25",
+    "key": "bud2025_qf-donk-vs-falcons-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "632": {
+    "event": "25",
+    "key": "bud2025_qf-kyousuke-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "633": {
+    "event": "25",
+    "key": "bud2025_qf-kyxsan-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "634": {
+    "event": "25",
+    "key": "bud2025_qf-m0nesy-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "635": {
+    "event": "25",
+    "key": "bud2025_qf-niko-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "636": {
+    "event": "25",
+    "key": "bud2025_qf-sh1ro-vs-falcons-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "637": {
+    "event": "25",
+    "key": "bud2025_qf-teses-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "638": {
+    "event": "25",
+    "key": "bud2025_qf-tn1r-vs-falcons-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "639": {
+    "event": "25",
+    "key": "bud2025_qf-zweih-vs-falcons-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "81",
+    "team1": "139"
+  },
+  "64": {
+    "event": "24",
+    "key": "aus2025_spinx2kpistolvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "640": {
+    "event": "25",
+    "key": "bud2025_qf-vitality-victory",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "641": {
+    "event": "25",
+    "key": "bud2025_qf-910-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "642": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-triple-kill-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "643": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-triple-kill-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "644": {
+    "event": "25",
+    "key": "bud2025_qf-mzinho-quadro-kill-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "645": {
+    "event": "25",
+    "key": "bud2025_qf-mzinho-quadro-kill-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "646": {
+    "event": "25",
+    "key": "bud2025_qf-mzinho-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "647": {
+    "event": "25",
+    "key": "bud2025_qf-ropz-quadro-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "648": {
+    "event": "25",
+    "key": "bud2025_qf-ropz-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "649": {
+    "event": "25",
+    "key": "bud2025_qf-zywoo-triple-kill-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "65": {
+    "event": "24",
+    "key": "aus2025_spinxclosedefuse",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "650": {
+    "event": "25",
+    "key": "bud2025_qf-910-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "651": {
+    "event": "25",
+    "key": "bud2025_qf-apex-vs-the-mongolz-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "652": {
+    "event": "25",
+    "key": "bud2025_qf-blitz-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "653": {
+    "event": "25",
+    "key": "bud2025_qf-controlez-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "654": {
+    "event": "25",
+    "key": "bud2025_qf-flamez-vs-the-mongolz-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "655": {
+    "event": "25",
+    "key": "bud2025_qf-mezii-vs-the-mongolz-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "656": {
+    "event": "25",
+    "key": "bud2025_qf-mzinho-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "657": {
+    "event": "25",
+    "key": "bud2025_qf-ropz-vs-the-mongolz-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "658": {
+    "event": "25",
+    "key": "bud2025_qf-techno4k-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "659": {
+    "event": "25",
+    "key": "bud2025_qf-zywoo-vs-the-mongolz-on-dust2",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "122"
+  },
+  "66": {
+    "event": "24",
+    "key": "aus2025_spinx2konbvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "660": {
+    "event": "25",
+    "key": "bud2025_qf-navi-victory",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "661": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-quadro-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "662": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-triple-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "663": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-triple-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "664": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-triple-kill-on-train-1",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "665": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-triple-kill-on-train-2",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "666": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-triple-kill-on-train-3",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "667": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-quadro-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "668": {
+    "event": "25",
+    "key": "bud2025_qf-kscerato-triple-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "669": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-triple-kill-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "67": {
+    "event": "24",
+    "key": "aus2025_spinx2kvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "670": {
+    "event": "25",
+    "key": "bud2025_qf-w0nderful-vs-furia-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "671": {
+    "event": "25",
+    "key": "bud2025_qf-aleksib-vs-furia-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "672": {
+    "event": "25",
+    "key": "bud2025_qf-b1t-vs-furia-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "673": {
+    "event": "25",
+    "key": "bud2025_qf-im-vs-furia-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "674": {
+    "event": "25",
+    "key": "bud2025_qf-makazze-vs-furia-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "675": {
+    "event": "25",
+    "key": "bud2025_qf-yekindar-vs-navi-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "676": {
+    "event": "25",
+    "key": "bud2025_qf-kscerato-vs-navi-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "677": {
+    "event": "25",
+    "key": "bud2025_qf-fallen-vs-navi-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "678": {
+    "event": "25",
+    "key": "bud2025_qf-molodoy-vs-navi-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "679": {
+    "event": "25",
+    "key": "bud2025_qf-yuurih-vs-navi-on-train",
+    "map": "de_train",
+    "stage": "7",
+    "team0": "12",
+    "team1": "85"
+  },
+  "68": {
+    "event": "24",
+    "key": "aus2025_spinx2kandwinmapvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "680": {
+    "event": "25",
+    "key": "bud2025_sf-navi-entrance",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "681": {
+    "event": "25",
+    "key": "bud2025_sf-faze-entrance",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "682": {
+    "event": "25",
+    "key": "bud2025_sf-aleksib-double-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "683": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-double-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "684": {
+    "event": "25",
+    "key": "bud2025_sf-im-triple-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "685": {
+    "event": "25",
+    "key": "bud2025_sf-jcobbb-quadro-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "686": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-double-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "687": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-double-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "688": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-quadro-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "689": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-triple-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "69": {
+    "event": "24",
+    "key": "aus2025_torszi2konafterplantvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "690": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-double-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "691": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-triple-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "692": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-vs-faze-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "693": {
+    "event": "25",
+    "key": "bud2025_sf-aleksib-vs-faze-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "694": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-vs-faze-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "695": {
+    "event": "25",
+    "key": "bud2025_sf-im-vs-faze-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "696": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-vs-faze-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "697": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-vs-navi-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "698": {
+    "event": "25",
+    "key": "bud2025_sf-broky-vs-navi-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "699": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-vs-navi-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "7": {
+    "event": "24",
+    "key": "aus2025_donk2withinsanehsflickvspiritonmirage",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "70": {
+    "event": "24",
+    "key": "aus2025_torsziawp2kvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "700": {
+    "event": "25",
+    "key": "bud2025_sf-jcobbb-vs-navi-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "701": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-vs-navi-on-ancient",
+    "map": "de_ancient",
+    "stage": "8",
+    "team0": "12",
+    "team1": "61"
+  },
+  "702": {
+    "event": "25",
+    "key": "bud2025_sf-spirit-entrance",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "703": {
+    "event": "25",
+    "key": "bud2025_sf-vitality-entrance",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "704": {
+    "event": "25",
+    "key": "bud2025_sf-apex-double-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "705": {
+    "event": "25",
+    "key": "bud2025_sf-chopper-triple-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "706": {
+    "event": "25",
+    "key": "bud2025_sf-donk-triple-on-mirage-1",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "707": {
+    "event": "25",
+    "key": "bud2025_sf-donk-triple-on-mirage-2",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "708": {
+    "event": "25",
+    "key": "bud2025_sf-mezii-triple-on-mirage-1",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "709": {
+    "event": "25",
+    "key": "bud2025_sf-mezii-triple-on-mirage-2",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "71": {
+    "event": "24",
+    "key": "aus2025_torszi2awpentryvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "710": {
+    "event": "25",
+    "key": "bud2025_sf-ropz-triple-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "711": {
+    "event": "25",
+    "key": "bud2025_sf-tn1r-triple-on-mirage-1",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "712": {
+    "event": "25",
+    "key": "bud2025_sf-tn1r-triple-on-mirage-2",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "713": {
+    "event": "25",
+    "key": "bud2025_sf-zywoo-quadro-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "714": {
+    "event": "25",
+    "key": "bud2025_sf-apex-vs-spirit-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "715": {
+    "event": "25",
+    "key": "bud2025_sf-chopper-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "716": {
+    "event": "25",
+    "key": "bud2025_sf-donk-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "717": {
+    "event": "25",
+    "key": "bud2025_sf-flamez-vs-spirit-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "718": {
+    "event": "25",
+    "key": "bud2025_sf-mezii-vs-spirit-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "719": {
+    "event": "25",
+    "key": "bud2025_sf-ropz-vs-spirit-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "72": {
+    "event": "24",
+    "key": "aus2025_boosttorszitoentryvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "720": {
+    "event": "25",
+    "key": "bud2025_sf-sh1ro-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "721": {
+    "event": "25",
+    "key": "bud2025_sf-tn1r-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "722": {
+    "event": "25",
+    "key": "bud2025_sf-zweih-vs-vitality-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "723": {
+    "event": "25",
+    "key": "bud2025_sf-zywoo-vs-spirit-on-mirage",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "89"
+  },
+  "724": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "725": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "726": {
+    "event": "25",
+    "key": "bud2025_sf-im-quadro-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "727": {
+    "event": "25",
+    "key": "bud2025_sf-im-quadro-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "728": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "729": {
+    "event": "25",
+    "key": "bud2025_sf-broky-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "73": {
+    "event": "24",
+    "key": "aus2025_xertionfast3koutsidevsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "730": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-quadro-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "731": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-triple-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "732": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-triple-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "733": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "734": {
+    "event": "25",
+    "key": "bud2025_sf-aleksib-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "735": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "736": {
+    "event": "25",
+    "key": "bud2025_sf-im-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "737": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "738": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-vs-navi-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "739": {
+    "event": "25",
+    "key": "bud2025_sf-broky-vs-navi-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "74": {
+    "event": "24",
+    "key": "aus2025_xertion3kadefensvsspiritonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "740": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-vs-navi-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "741": {
+    "event": "25",
+    "key": "bud2025_sf-jcobbb-vs-navi-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "742": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-vs-navi-on-nuke",
+    "map": "de_nuke",
+    "stage": "9",
+    "team0": "12",
+    "team1": "61"
+  },
+  "743": {
+    "event": "25",
+    "key": "bud2025_sf-vitality-victory",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "744": {
+    "event": "25",
+    "key": "bud2025_sf-donk-quadro-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "745": {
+    "event": "25",
+    "key": "bud2025_sf-zweih-triple-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "746": {
+    "event": "25",
+    "key": "bud2025_sf-tn1r-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "747": {
+    "event": "25",
+    "key": "bud2025_sf-zywoo-triple-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "748": {
+    "event": "25",
+    "key": "bud2025_sf-zywoo-triple-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "749": {
+    "event": "25",
+    "key": "bud2025_sf-apex-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "75": {
+    "event": "24",
+    "key": "aus2025_zontix1kandtonofdmgvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "750": {
+    "event": "25",
+    "key": "bud2025_sf-apex-triple-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "751": {
+    "event": "25",
+    "key": "bud2025_sf-apex-triple-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "752": {
+    "event": "25",
+    "key": "bud2025_sf-flamez-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "753": {
+    "event": "25",
+    "key": "bud2025_sf-ropz-triple-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "754": {
+    "event": "25",
+    "key": "bud2025_sf-chopper-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "755": {
+    "event": "25",
+    "key": "bud2025_sf-donk-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "756": {
+    "event": "25",
+    "key": "bud2025_sf-zweih-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "757": {
+    "event": "25",
+    "key": "bud2025_sf-sh1ro-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "758": {
+    "event": "25",
+    "key": "bud2025_sf-tn1r-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "759": {
+    "event": "25",
+    "key": "bud2025_sf-zywoo-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "76": {
+    "event": "24",
+    "key": "aus2025_zontix3krampholdvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "760": {
+    "event": "25",
+    "key": "bud2025_sf-apex-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "761": {
+    "event": "25",
+    "key": "bud2025_sf-mezii-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "762": {
+    "event": "25",
+    "key": "bud2025_sf-flamez-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "763": {
+    "event": "25",
+    "key": "bud2025_sf-ropz-vs-spirit-on-dust2",
+    "map": "de_dust2",
+    "stage": "9",
+    "team0": "81",
+    "team1": "89"
+  },
+  "764": {
+    "event": "25",
+    "key": "bud2025_sf-faze-win",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "765": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "766": {
+    "event": "25",
+    "key": "bud2025_sf-aleksib-double-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "767": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-quadro-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "768": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-defuse-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "769": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-double-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "77": {
+    "event": "24",
+    "key": "aus2025_zontixmasterclasslurkvsmouzonnuke",
+    "map": "de_nuke",
+    "stage": "7",
+    "team0": "81",
+    "team1": "106"
+  },
+  "770": {
+    "event": "25",
+    "key": "bud2025_sf-broky-double-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "771": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-double-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "772": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-quadro-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "773": {
+    "event": "25",
+    "key": "bud2025_sf-jcobbb-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "774": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "775": {
+    "event": "25",
+    "key": "bud2025_sf-w0nderful-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "776": {
+    "event": "25",
+    "key": "bud2025_sf-aleksib-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "777": {
+    "event": "25",
+    "key": "bud2025_sf-b1t-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "778": {
+    "event": "25",
+    "key": "bud2025_sf-im-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "779": {
+    "event": "25",
+    "key": "bud2025_sf-makazze-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "78": {
+    "event": "24",
+    "key": "aus2025_biguzeradiesvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "780": {
+    "event": "25",
+    "key": "bud2025_sf-karrigan-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "781": {
+    "event": "25",
+    "key": "bud2025_sf-broky-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "782": {
+    "event": "25",
+    "key": "bud2025_sf-twistzz-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "783": {
+    "event": "25",
+    "key": "bud2025_sf-jcobbb-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "784": {
+    "event": "25",
+    "key": "bud2025_sf-frozen-vs-navi-on-inferno",
+    "map": "de_inferno",
+    "stage": "10",
+    "team0": "12",
+    "team1": "61"
+  },
+  "785": {
+    "event": "25",
+    "key": "bud2025_gf-vitality-entrance",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "786": {
+    "event": "25",
+    "key": "bud2025_gf-faze-entrance",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "787": {
+    "event": "25",
+    "key": "bud2025_gf-apex-double-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "788": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "789": {
+    "event": "25",
+    "key": "bud2025_gf-jcobbb-triple-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "79": {
+    "event": "24",
+    "key": "aus2025_biguzera3kvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "790": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-triple-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "791": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-triple-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "792": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-clutch-1v3-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "793": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-double-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "794": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-quadro-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "795": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-triple-on-nuke-1",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "796": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-triple-on-nuke-2",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "797": {
+    "event": "25",
+    "key": "bud2025_gf-apex-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "798": {
+    "event": "25",
+    "key": "bud2025_gf-broky-vs-vitality-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "799": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "8": {
+    "event": "24",
+    "key": "aus2025_donk3with1v1win",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "80": {
+    "event": "24",
+    "key": "aus2025_dgt2kvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "800": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-vs-vitality-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "801": {
+    "event": "25",
+    "key": "bud2025_gf-jcobbb-vs-vitality-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "802": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-vs-vitality-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "803": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "804": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "805": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-vs-vitality-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "806": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-vs-faze-on-nuke",
+    "map": "de_nuke",
+    "stage": "97",
+    "team0": "61",
+    "team1": "89"
+  },
+  "807": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-quadro-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "808": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-clutch-1v2-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "809": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-quadro-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "81": {
+    "event": "24",
+    "key": "aus2025_dgtfailed1v3vsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "810": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "811": {
+    "event": "25",
+    "key": "bud2025_gf-broky-triple-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "812": {
+    "event": "25",
+    "key": "bud2025_gf-broky-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "813": {
+    "event": "25",
+    "key": "bud2025_gf-broky-triple-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "814": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-double-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "815": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-triple-on-dust2-1",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "816": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-triple-on-dust2-2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "817": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-vs-faze-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "818": {
+    "event": "25",
+    "key": "bud2025_gf-apex-vs-faze-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "819": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-vs-faze-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "82": {
+    "event": "24",
+    "key": "aus2025_dgtclutchattemptvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "820": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-vs-faze-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "821": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-vs-faze-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "822": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "823": {
+    "event": "25",
+    "key": "bud2025_gf-broky-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "824": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "825": {
+    "event": "25",
+    "key": "bud2025_gf-jcobbb-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "826": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-vs-vitality-on-dust2",
+    "map": "de_dust2",
+    "stage": "98",
+    "team0": "61",
+    "team1": "89"
+  },
+  "827": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "828": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "829": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-triple-on-inferno-1",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "83": {
+    "event": "24",
+    "key": "aus2025_fallenlowerdefensevspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "830": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-triple-on-inferno-2",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "831": {
+    "event": "25",
+    "key": "bud2025_gf-broky-quadro-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "832": {
+    "event": "25",
+    "key": "bud2025_gf-broky-triple-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "833": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-triple-on-inferno-1",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "834": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-triple-on-inferno-2",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "835": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "836": {
+    "event": "25",
+    "key": "bud2025_gf-apex-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "837": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "838": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "839": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-vs-faze-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "84": {
+    "event": "24",
+    "key": "aus2025_fallen2kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "840": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-vs-vitality-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "841": {
+    "event": "25",
+    "key": "bud2025_gf-broky-vs-vitality-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "842": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-vs-vitality-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "843": {
+    "event": "25",
+    "key": "bud2025_gf-jcobbb-vs-vitality-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "844": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-vs-vitality-on-inferno",
+    "map": "de_inferno",
+    "stage": "99",
+    "team0": "61",
+    "team1": "89"
+  },
+  "845": {
+    "event": "25",
+    "key": "bud2025_gf-vitality-win",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "846": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "847": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-double-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "848": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "849": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "85": {
+    "event": "24",
+    "key": "aus2025_fallen1kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "850": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-quadro-on-overpass-1",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "851": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-quadro-on-overpass-2",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "852": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "853": {
+    "event": "25",
+    "key": "bud2025_gf-apex-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "854": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-triple-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "855": {
+    "event": "25",
+    "key": "bud2025_gf-zywoo-vs-faze-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "856": {
+    "event": "25",
+    "key": "bud2025_gf-apex-vs-faze-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "857": {
+    "event": "25",
+    "key": "bud2025_gf-mezii-vs-faze-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "858": {
+    "event": "25",
+    "key": "bud2025_gf-flamez-vs-faze-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "859": {
+    "event": "25",
+    "key": "bud2025_gf-ropz-vs-faze-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "86": {
+    "event": "24",
+    "key": "aus2025_fallentec9mastervspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "860": {
+    "event": "25",
+    "key": "bud2025_gf-karrigan-vs-vitality-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "861": {
+    "event": "25",
+    "key": "bud2025_gf-broky-vs-vitality-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "862": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-vs-vitality-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "863": {
+    "event": "25",
+    "key": "bud2025_gf-jcobbb-vs-vitality-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "864": {
+    "event": "25",
+    "key": "bud2025_gf-frozen-vs-vitality-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "865": {
+    "event": "25",
+    "key": "bud2025_gf-twistzz-clutch-1v1-on-overpass",
+    "map": "de_overpass",
+    "stage": "100",
+    "team0": "61",
+    "team1": "89"
+  },
+  "866": {
+    "event": "26",
+    "key": "cologne2026_st1ultimatenukejumpkill",
+    "map": "de_nuke",
+    "stage": "49",
+    "team0": "48",
+    "team1": "69"
+  },
+  "867": {
+    "event": "26",
+    "key": "cologne2026_st1tabsenmirage1v2clutch",
+    "map": "de_mirage",
+    "stage": "49",
+    "team0": "69",
+    "team1": "87"
+  },
+  "868": {
+    "event": "26",
+    "key": "cologne2026_st1koalainfernoace",
+    "map": "de_inferno",
+    "stage": "49",
+    "team0": "74",
+    "team1": "104"
+  },
+  "869": {
+    "event": "26",
+    "key": "cologne2026_st1starryancientquadkill",
+    "map": "de_ancient",
+    "stage": "49",
+    "team0": "74",
+    "team1": "127"
+  },
+  "87": {
+    "event": "24",
+    "key": "aus2025_fallencloservspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "870": {
+    "event": "26",
+    "key": "cologne2026_st1asapinfernoace",
+    "map": "de_inferno",
+    "stage": "49",
+    "team0": "80",
+    "team1": "148"
+  },
+  "871": {
+    "event": "26",
+    "key": "cologne2026_st1hypexinfernosmokekill",
+    "map": "de_inferno",
+    "stage": "49",
+    "team0": "87",
+    "team1": "115"
+  },
+  "872": {
+    "event": "26",
+    "key": "cologne2026_st1suspinferno1v3clutch",
+    "map": "de_inferno",
+    "stage": "49",
+    "team0": "95",
+    "team1": "146"
+  },
+  "873": {
+    "event": "26",
+    "key": "cologne2026_st1beastikancientquadkill",
+    "map": "de_ancient",
+    "stage": "49",
+    "team0": "132",
+    "team1": "147"
+  },
+  "874": {
+    "event": "26",
+    "key": "cologne2026_st1s1zziinferno1v3clutch",
+    "map": "de_inferno",
+    "stage": "49",
+    "team0": "135",
+    "team1": "140"
+  },
+  "875": {
+    "event": "26",
+    "key": "cologne2026_st1magnojezdust21v3clutch",
+    "map": "de_dust2",
+    "stage": "49",
+    "team0": "137",
+    "team1": "146"
+  },
+  "876": {
+    "event": "26",
+    "key": "cologne2026_st2nertzinfernoace",
+    "map": "de_inferno",
+    "stage": "65",
+    "team0": "59",
+    "team1": "69"
+  },
+  "877": {
+    "event": "26",
+    "key": "cologne2026_st2gizmymirageknifekill",
+    "map": "de_mirage",
+    "stage": "65",
+    "team0": "59",
+    "team1": "119"
+  },
+  "878": {
+    "event": "26",
+    "key": "cologne2026_st2matysmirageace",
+    "map": "de_mirage",
+    "stage": "65",
+    "team0": "59",
+    "team1": "140"
+  },
+  "879": {
+    "event": "26",
+    "key": "cologne2026_st2saffeenuketriplekill",
+    "map": "de_nuke",
+    "stage": "65",
+    "team0": "60",
+    "team1": "102"
+  },
+  "88": {
+    "event": "24",
+    "key": "aus2025_molodoy1kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "880": {
+    "event": "26",
+    "key": "cologne2026_st2gr1ksancient1v3awpclutch",
+    "map": "de_ancient",
+    "stage": "65",
+    "team0": "69",
+    "team1": "135"
+  },
+  "881": {
+    "event": "26",
+    "key": "cologne2026_st2kensizordust2acetoadvance",
+    "map": "de_dust2",
+    "stage": "65",
+    "team0": "69",
+    "team1": "135"
+  },
+  "882": {
+    "event": "26",
+    "key": "cologne2026_st2s1zzioverpassace",
+    "map": "de_overpass",
+    "stage": "65",
+    "team0": "69",
+    "team1": "135"
+  },
+  "883": {
+    "event": "26",
+    "key": "cologne2026_st2venomzeramirage1v3clutch",
+    "map": "de_mirage",
+    "stage": "65",
+    "team0": "80",
+    "team1": "135"
+  },
+  "884": {
+    "event": "26",
+    "key": "cologne2026_st2donknuke4kwithonetaps",
+    "map": "de_nuke",
+    "stage": "65",
+    "team0": "81",
+    "team1": "112"
+  },
+  "885": {
+    "event": "26",
+    "key": "cologne2026_st2azuwudust2deagleace",
+    "map": "de_dust2",
+    "stage": "65",
+    "team0": "102",
+    "team1": "119"
+  },
+  "886": {
+    "event": "26",
+    "key": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+    "map": "de_dust2",
+    "stage": "83",
+    "team0": "12",
+    "team1": "59"
+  },
+  "887": {
+    "event": "26",
+    "key": "cologne2026_st3sh1rodust24kwith1v2clutch",
+    "map": "de_dust2",
+    "stage": "83",
+    "team0": "81",
+    "team1": "112"
+  },
+  "888": {
+    "event": "26",
+    "key": "cologne2026_st3magixxanubismultiweaponace",
+    "map": "de_anubis",
+    "stage": "83",
+    "team0": "81",
+    "team1": "134"
+  },
+  "889": {
+    "event": "26",
+    "key": "cologne2026_st3ksceratoinferno1v3clutch",
+    "map": "de_inferno",
+    "stage": "83",
+    "team0": "85",
+    "team1": "135"
+  },
+  "89": {
+    "event": "24",
+    "key": "aus2025_molodoy3kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "890": {
+    "event": "26",
+    "key": "cologne2026_st3yekindarmiragetriplekill",
+    "map": "de_mirage",
+    "stage": "83",
+    "team0": "85",
+    "team1": "135"
+  },
+  "891": {
+    "event": "26",
+    "key": "cologne2026_st3zywoooverpassacewith1v3clutch",
+    "map": "de_overpass",
+    "stage": "83",
+    "team0": "89",
+    "team1": "145"
+  },
+  "892": {
+    "event": "26",
+    "key": "cologne2026_st3dgtoverpasspistolace",
+    "map": "de_overpass",
+    "stage": "83",
+    "team0": "112",
+    "team1": "122"
+  },
+  "893": {
+    "event": "26",
+    "key": "cologne2026_st3woxicdust21v4clutch",
+    "map": "de_dust2",
+    "stage": "83",
+    "team0": "112",
+    "team1": "134"
+  },
+  "894": {
+    "event": "26",
+    "key": "cologne2026_st3nikomiragequadkill",
+    "map": "de_mirage",
+    "stage": "83",
+    "team0": "119",
+    "team1": "139"
+  },
+  "895": {
+    "event": "26",
+    "key": "cologne2026_st3krabenimirageace",
+    "map": "de_mirage",
+    "stage": "83",
+    "team0": "137",
+    "team1": "145"
+  },
+  "896": {
+    "event": "26",
+    "key": "cologne2026_qfboombl4nuke1v3clutch",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "134",
+    "team1": "137"
+  },
+  "897": {
+    "event": "26",
+    "key": "cologne2026_qfsoulflynuke1v2clutch",
+    "map": "de_nuke",
+    "stage": "6",
+    "team0": "134",
+    "team1": "137"
+  },
+  "898": {
+    "event": "26",
+    "key": "cologne2026_qfsh1romirageace",
+    "map": "de_mirage",
+    "stage": "6",
+    "team0": "59",
+    "team1": "81"
+  },
+  "899": {
+    "event": "26",
+    "key": "cologne2026_qfmagixxmirage1v4clutch",
+    "map": "de_mirage",
+    "stage": "6",
+    "team0": "59",
+    "team1": "81"
+  },
+  "9": {
+    "event": "24",
+    "key": "aus2025_jimpphat4kvsspiritonmirage1",
+    "map": "de_mirage",
+    "stage": "5",
+    "team0": "81",
+    "team1": "106"
+  },
+  "90": {
+    "event": "24",
+    "key": "aus2025_nqz2kvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "900": {
+    "event": "26",
+    "key": "cologne2026_qfdonkdust21v2clutch",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "59",
+    "team1": "81"
+  },
+  "901": {
+    "event": "26",
+    "key": "cologne2026_qfkyousukeanubis3kills",
+    "map": "de_anubis",
+    "stage": "6",
+    "team0": "89",
+    "team1": "139"
+  },
+  "902": {
+    "event": "26",
+    "key": "cologne2026_qfmeziidust2molotovkill",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "89",
+    "team1": "139"
+  },
+  "903": {
+    "event": "26",
+    "key": "cologne2026_qfyuurihmirage1v4clutch",
+    "map": "de_mirage",
+    "stage": "6",
+    "team0": "85",
+    "team1": "112"
+  },
+  "904": {
+    "event": "26",
+    "key": "cologne2026_qfhuasopeekoverpassace",
+    "map": "de_overpass",
+    "stage": "6",
+    "team0": "85",
+    "team1": "112"
+  },
+  "905": {
+    "event": "26",
+    "key": "cologne2026_qfmaxdust21v2clutch",
+    "map": "de_dust2",
+    "stage": "6",
+    "team0": "85",
+    "team1": "112"
+  },
+  "906": {
+    "event": "26",
+    "key": "cologne2026_sfsoulflydust23kills",
+    "map": "de_dust2",
+    "stage": "8",
+    "team0": "85",
+    "team1": "134"
+  },
+  "907": {
+    "event": "26",
+    "key": "cologne2026_sfksceratodust2ace",
+    "map": "de_dust2",
+    "stage": "8",
+    "team0": "85",
+    "team1": "134"
+  },
+  "908": {
+    "event": "26",
+    "key": "cologne2026_sfyekindardust22kills",
+    "map": "de_dust2",
+    "stage": "8",
+    "team0": "85",
+    "team1": "134"
+  },
+  "909": {
+    "event": "26",
+    "key": "cologne2026_sfyekindarnuketriplekill",
+    "map": "de_nuke",
+    "stage": "8",
+    "team0": "85",
+    "team1": "134"
+  },
+  "91": {
+    "event": "24",
+    "key": "aus2025_nqzdenyretakevsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "910": {
+    "event": "26",
+    "key": "cologne2026_sfksceratonukequadkill",
+    "map": "de_nuke",
+    "stage": "8",
+    "team0": "85",
+    "team1": "134"
+  },
+  "911": {
+    "event": "26",
+    "key": "cologne2026_sfkyousukeanubistriplekill",
+    "map": "de_anubis",
+    "stage": "8",
+    "team0": "81",
+    "team1": "139"
+  },
+  "912": {
+    "event": "26",
+    "key": "cologne2026_sfsh1roanubisquadkill",
+    "map": "de_anubis",
+    "stage": "8",
+    "team0": "81",
+    "team1": "139"
+  },
+  "913": {
+    "event": "26",
+    "key": "cologne2026_sftesesdust21v2clutch",
+    "map": "de_dust2",
+    "stage": "8",
+    "team0": "81",
+    "team1": "139"
+  },
+  "914": {
+    "event": "26",
+    "key": "cologne2026_sfkarriganmirage4kills",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "139"
+  },
+  "915": {
+    "event": "26",
+    "key": "cologne2026_sfmagixxmirage4kills",
+    "map": "de_mirage",
+    "stage": "8",
+    "team0": "81",
+    "team1": "139"
+  },
+  "916": {
+    "event": "26",
+    "key": "cologne2026_gffalconsteamentrance",
+    "map": "de_mirage",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "917": {
+    "event": "26",
+    "key": "cologne2026_gffuriateamentrance",
+    "map": "de_mirage",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "918": {
+    "event": "26",
+    "key": "cologne2026_gffallenmiragequadkill",
+    "map": "de_mirage",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "919": {
+    "event": "26",
+    "key": "cologne2026_gfm0nesyanubis4kills",
+    "map": "de_anubis",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "92": {
+    "event": "24",
+    "key": "aus2025_nqz1kvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "920": {
+    "event": "26",
+    "key": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+    "map": "de_anubis",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "921": {
+    "event": "26",
+    "key": "cologne2026_gfkyousukeinferno4kills",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "922": {
+    "event": "26",
+    "key": "cologne2026_gfkarriganinferno3kills",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "923": {
+    "event": "26",
+    "key": "cologne2026_gfnikoinfernotriplekill",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "924": {
+    "event": "26",
+    "key": "cologne2026_gfkarriganinfernodoublekill",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "925": {
+    "event": "26",
+    "key": "cologne2026_gfm0nesyinfernomajorwinningkill",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "926": {
+    "event": "26",
+    "key": "cologne2026_gffalconstrophyliftingmoment",
+    "map": "de_inferno",
+    "stage": "97",
+    "team0": "85",
+    "team1": "139"
+  },
+  "93": {
+    "event": "24",
+    "key": "aus2025_nqzjustonevsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "94": {
+    "event": "24",
+    "key": "aus2025_snowclutchvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "95": {
+    "event": "24",
+    "key": "aus2025_snow3kvsfuriaonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "96": {
+    "event": "24",
+    "key": "aus2025_yekindarpistolkillsvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "97": {
+    "event": "24",
+    "key": "aus2025_yekindarecokillsvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "98": {
+    "event": "24",
+    "key": "aus2025_yekindar2kvspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  },
+  "99": {
+    "event": "24",
+    "key": "aus2025_yekindardiestoecovspainonnuke",
+    "map": "de_nuke",
+    "stage": "5",
+    "team0": "85",
+    "team1": "102"
+  }
+}

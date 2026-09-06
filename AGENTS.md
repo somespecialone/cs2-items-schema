@@ -13,12 +13,11 @@ This repository generates and stores an understandable, deliberately simple & no
 3. `FieldsCollector` builds types, qualities, definitions, paints, rarities, music kits, and tints, resolving inherited definition quality/rarity.
 4. `CollectionsCollector` normalizes item-set membership and preserves unresolved unusual-reward list references.
 5. `CatalogCollector` builds charms, highlights, and tournament event/team/player/stage lookup records.
-6. `TradeUpCollector` preserves source recipe quantities, flags, and condition groups without evaluating eligibility.
-7. `ContainersCollector` resolves nested loot lists into one container map with explicit kinds and direct reward relationships.
-8. `ItemsCollector` creates base/painted items and reverse container links; `ResourceCollector` also retains explicit collection members, containers, and associated items without requiring indexed images.
-9. `StickerKitsCollector` partitions stickers, patches, and graffiti, preserving kind and tournament references when merged into one catalog.
-10. `SQLCreator` maps the same model to SQLAlchemy metadata, five dialect-specific DDL files, and `populate.sql`.
-11. `ResourceCollector` writes sorted, indented JSON and generated SQL in place.
+6. `ContainersCollector` resolves nested loot lists into one container map with explicit kinds and direct reward relationships.
+7. `ItemsCollector` creates base/painted items and reverse container links; `ResourceCollector` also retains explicit collection members, containers, and associated items without requiring indexed images.
+8. `StickerKitsCollector` partitions stickers, patches, and graffiti, preserving kind and tournament references when merged into one catalog.
+9. `SQLCreator` maps the same model to SQLAlchemy metadata, five dialect-specific DDL files, and `populate.sql`.
+10. `ResourceCollector` writes sorted, indented JSON and generated SQL in place.
 
 Collectors are callable dataclasses (`collector(...)`) coordinated explicitly by `ResourceCollector`; there is no dependency-injection framework or persistent application state. Preserve this direct pipeline rather than introducing a second orchestration pattern.
 
@@ -64,7 +63,6 @@ uv run collect.py
 - `will_produce_stattrak` comes only from an explicit item or selected root-loot-list flag. A conditional nested reward does not establish a guarantee. Missing contents do not require dropping a known container's metadata.
 - Stickers, patches, and graffiti share `sticker_kits` with an explicit `kind`. Preserve source `event`, `team`, and `player` IDs instead of parsing them from names.
 - Charms and highlights are separate catalogs. Resolve explicit charm base/highlight references; do not infer highlight players from reel keys. Tournament lookup records may contain only a source-backed ID, including team ID `0`. Preserve raw `geo` tags such as `WORLD`; they are not necessarily country codes.
-- Trade-up conditions retain their source `field`, `operator`, `value`, and `required`, including comma-separated values. Preserve input counts and group/condition order; this catalog is not an eligibility evaluator.
 - SQL uses unified `containers` and separate reward junctions, including `musics_containers`. Do not reintroduce the obsolete `sticker_kit_containers`, `music_kits`, or `musics_music_kits` tables. `containers.collection` references the collections table.
 - SQL flags use integer `0`/`1` for portable population scripts. Insert referenced records before dependents, including base charms before variants. Keep SQL nullability, numeric ranges, and string widths compatible with emitted JSON data.
 - Update `README.md` when public fields or SQL contracts change. Generated DDL/population files recreate a schema; they are not in-place database migrations.
@@ -76,7 +74,6 @@ uv run collect.py
 - `collector/fields.py`: multi-prefab inheritance, localization, and indexed field maps.
 - `collector/collections.py`: collection membership, source set identities, and unusual-reward references.
 - `collector/catalog.py`: charms, highlights, and tournament lookup identities.
-- `collector/trade_up.py`: source trade-up recipe flags, quantities, and condition groups.
 - `collector/containers.py`: container kinds, direct rewards, coupon links, and explicit reward metadata.
 - `collector/items.py`: image/source-backed item identities and reverse item/container relationships.
 - `collector/sticker_kits.py`: sticker/patch/graffiti kinds, localization, and tournament references.
@@ -95,7 +92,7 @@ For collector changes:
 2. Run `uv run collect.py` as the integration smoke test.
 3. Inspect affected JSON/SQL semantically: source identities, inherited-value precedence, kind preservation, direct coupon rewards, and reference integrity. Do not substitute hard-coded live dataset counts for source comparisons.
 4. For SQL changes, load `create_sqlite.sql` and `populate.sql` into a temporary SQLite database with `PRAGMA foreign_keys=ON`; require an empty `PRAGMA foreign_key_check` result. Compare catalog/junction coverage and check declared string lengths against emitted values, since SQLite does not enforce `VARCHAR` lengths.
-5. Exercise uncertain boundaries with focused smoke checks, especially multi-prefab conflicts, missing localization, conditional versus guaranteed rewards, and verbatim trade-up conditions. Generating five dialects is not proof that all five database engines were exercised.
+5. Exercise uncertain boundaries with focused smoke checks, especially multi-prefab conflicts, missing localization, and conditional versus guaranteed rewards. Generating five dialects is not proof that all five database engines were exercised.
 6. Confirm only intended generated files changed and keep output deterministic; the workflow normally commits schema outputs with a `chore(schema): source ...` message.
 
 The collector smoke test depends on live upstream resources and can produce large generated diffs. For isolated transformation bugs, add focused tests only when they protect a stable observable rule; follow existing repository simplicity rather than introducing test infrastructure for plumbing assertions.

@@ -5,7 +5,6 @@ from typing import Any
 from sqlalchemy import (
     Column,
     ForeignKey,
-    ForeignKeyConstraint,
     Index,
     MetaData,
     Table,
@@ -136,7 +135,6 @@ Charms = Table(
     "charms",
     metadata,
     Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("key", String(255), nullable=False, unique=True),
     Column("name", String(255)),
     Column("description", Text),
     Column("rarity", SmallInteger, ForeignKey(Rarities.c.id)),
@@ -231,42 +229,6 @@ ContainerHighlightCharms = Table(
     Column("charm", SmallInteger, ForeignKey(Charms.c.id), primary_key=True),
 )
 
-TradeUpRules = Table(
-    "trade_up_rules",
-    metadata,
-    Column("id", SmallInteger, primary_key=True, autoincrement=False),
-    Column("name", String(255)),
-    Column("disabled", SmallInteger, nullable=False),
-    Column("all_same_class", SmallInteger, nullable=False),
-    Column("premium_only", SmallInteger, nullable=False),
-)
-
-TradeUpGroups = Table(
-    "trade_up_groups",
-    metadata,
-    Column("rule", SmallInteger, ForeignKey(TradeUpRules.c.id), primary_key=True),
-    Column("direction", String(6), primary_key=True),
-    Column("group_index", SmallInteger, primary_key=True, autoincrement=False),
-    Column("count", SmallInteger),
-    Column("key", String(60)),
-)
-
-TradeUpConditions = Table(
-    "trade_up_conditions",
-    metadata,
-    Column("rule", SmallInteger, primary_key=True),
-    Column("direction", String(6), primary_key=True),
-    Column("group_index", SmallInteger, primary_key=True),
-    Column("condition_index", SmallInteger, primary_key=True, autoincrement=False),
-    Column("field", String(60), nullable=False),
-    Column("operator", String(16), nullable=False),
-    Column("value", String(255), nullable=False),
-    Column("required", SmallInteger, nullable=False),
-    ForeignKeyConstraint(
-        ["rule", "direction", "group_index"],
-        [TradeUpGroups.c.rule, TradeUpGroups.c.direction, TradeUpGroups.c.group_index],
-    ),
-)
 
 
 @dataclass(eq=False, repr=False)
@@ -287,8 +249,7 @@ class SQLCreator:
     tournament_events: dict[str, dict[str, Any]]
     tournament_teams: dict[str, dict[str, Any]]
     tournament_players: dict[str, dict[str, Any]]
-    tournament_stages: dict[str, dict[str, Any]]
-    trade_up_rules: dict[str, dict[str, Any]]
+    tournament_stages: dict[str, str]
 
     dialect: Dialect = field(default_factory=sqlite.dialect)
 
@@ -452,11 +413,13 @@ class SQLCreator:
             (TournamentEvents, self.tournament_events),
             (TournamentTeams, self.tournament_teams),
             (TournamentPlayers, self.tournament_players),
-            (TournamentStages, self.tournament_stages),
-            (Highlights, self.highlights),
         ):
             for source_id, data in sorted(source.items()):
                 statements.append(self._insert(table, id=source_id, **data))
+        for stage_id, name in sorted(self.tournament_stages.items()):
+            statements.append(self._insert(TournamentStages, id=stage_id, name=name))
+        for highlight_id, data in sorted(self.highlights.items()):
+            statements.append(self._insert(Highlights, id=highlight_id, **data))
 
         # Insert base charms before derivatives so self-references work with FK checks enabled.
         dependencies = {
@@ -506,30 +469,6 @@ class SQLCreator:
                     statements.append(self._insert(table, container=defindex, **{column: member}))
         return statements
 
-    def _populate_trade_up_rules(self) -> list[str]:
-        statements = []
-        for rule_id, data in sorted(self.trade_up_rules.items()):
-            statements.append(
-                self._insert(
-                    TradeUpRules,
-                    id=rule_id,
-                    name=data.get("name"),
-                    disabled=data["disabled"],
-                    all_same_class=data["all_same_class"],
-                    premium_only=data["premium_only"],
-                )
-            )
-            for direction, groups in (("input", data["inputs"]), ("output", data["outputs"])):
-                for group_index, group in enumerate(groups):
-                    identity = {"rule": rule_id, "direction": direction, "group_index": group_index}
-                    statements.append(
-                        self._insert(TradeUpGroups, **identity, count=group.get("count"), key=group.get("key"))
-                    )
-                    for condition_index, condition in enumerate(group["conditions"]):
-                        statements.append(
-                            self._insert(TradeUpConditions, **identity, condition_index=condition_index, **condition)
-                        )
-        return statements
 
     def create(self) -> list[tuple[str, str]]:
         create_scripts = self._create_expression()
@@ -546,7 +485,6 @@ class SQLCreator:
         catalogs = self._populate_catalogs()
         collections = self._populate_collections()
         containers = self._populate_containers()
-        trade_up_rules = self._populate_trade_up_rules()
 
         populate = ";\n".join(
             [
@@ -562,7 +500,6 @@ class SQLCreator:
                 *collections,
                 *sticker_kits,
                 *containers,
-                *trade_up_rules,
             ]
         )
 

@@ -22,10 +22,8 @@ class CatalogCollector:
         charms_by_name: dict[str, dict[str, Any]],
         seen: set[str] | None = None,
     ) -> dict[str, Any]:
-        """Inherit only display metadata that source charm variants omit."""
-        inherited = {
-            field: charm[field] for field in ("loc_description", "item_rarity", "item_quality") if field in charm
-        }
+        """Inherit classification metadata that source charm variants omit."""
+        inherited = {field: charm[field] for field in ("item_rarity", "item_quality") if field in charm}
         base_name = charm.get("base")
         if not base_name or base_name in (seen or set()):
             return inherited
@@ -54,11 +52,12 @@ class CatalogCollector:
 
         for charm_id, charm in charm_definitions.items():
             fields = self._charm_fields(charm, charms_by_name)
-            catalog_charm = {"key": charm["name"]}
+            catalog_charm = {}
+            base_id = charm_ids_by_name.get(charm.get("base"))
 
             if name := self._localized(charm.get("loc_name")):
                 catalog_charm["name"] = name
-            if description := self._localized(fields.get("loc_description")):
+            if not base_id and (description := self._localized(charm.get("loc_description"))):
                 catalog_charm["description"] = description
 
             rarity = rarities.get(fields.get("item_rarity"), {}).get("value")
@@ -68,7 +67,7 @@ class CatalogCollector:
             if quality is not None:
                 catalog_charm["quality"] = quality
 
-            if base_id := charm_ids_by_name.get(charm.get("base")):
+            if base_id:
                 catalog_charm["base"] = base_id
             if highlight_id := highlight_ids_by_key.get(charm.get("highlight_reel")):
                 catalog_charm["highlight"] = highlight_id
@@ -123,7 +122,7 @@ class CatalogCollector:
 
     def _collect_events_and_stages(
         self, referenced_events: set[str], referenced_stages: set[str]
-    ) -> tuple[dict[str, dict[str, str]], dict[str, dict[str, str]]]:
+    ) -> tuple[dict[str, dict[str, str]], dict[str, str]]:
         events = set(referenced_events)
         stages = set(referenced_stages)
         event_names = "CSGO_Tournament_Event_Name_"
@@ -148,12 +147,7 @@ class CatalogCollector:
                 event["short_name"] = short_name
             tournament_events[event_id] = event
 
-        tournament_stages: dict[str, dict[str, str]] = {}
-        for stage_id in stages:
-            stage = {}
-            if name := self.csgo_english.get(stage_names + stage_id):
-                stage["name"] = name
-            tournament_stages[stage_id] = stage
+        tournament_stages = {stage_id: self.csgo_english[stage_names + stage_id] for stage_id in stages}
 
         return tournament_events, tournament_stages
 
@@ -182,7 +176,16 @@ class CatalogCollector:
 
         return tournament_teams, tournament_players
 
-    def __call__(self) -> tuple[dict[str, dict[str, str]], ...]:
+    def __call__(
+        self,
+    ) -> tuple[
+        dict[str, dict[str, str]],
+        dict[str, dict[str, str]],
+        dict[str, dict[str, str]],
+        dict[str, dict[str, str]],
+        dict[str, dict[str, str]],
+        dict[str, str],
+    ]:
         charms = self._collect_charms()
         highlights = self._collect_highlights()
         referenced_events, referenced_stages, referenced_teams, referenced_players = self._referenced_tournament_ids()
