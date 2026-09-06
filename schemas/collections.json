@@ -1,5 +1,12 @@
 {
   "set_anubis": {
+    "containers": [
+      "4882",
+      "4895",
+      "4928",
+      "4969",
+      "5122"
+    ],
     "items": [
       "[1237]64",
       "[1238]7",
@@ -116,6 +123,9 @@
     "name": "The Blacksite Collection"
   },
   "set_bravo_i": {
+    "containers": [
+      "4003"
+    ],
     "items": [
       "[180]7",
       "[182]19",
@@ -161,6 +171,21 @@
     "name": "The Alpha Collection"
   },
   "set_cache": {
+    "containers": [
+      "4026",
+      "4035",
+      "4083",
+      "4136",
+      "4181",
+      "4230",
+      "4278",
+      "4348",
+      "4400",
+      "4467",
+      "4544",
+      "4594",
+      "4603"
+    ],
     "items": [
       "[367]4",
       "[368]34",
@@ -179,6 +204,9 @@
     "name": "The Cache Collection"
   },
   "set_canals": {
+    "containers": [
+      "4608"
+    ],
     "items": [
       "[333]63",
       "[453]2",
@@ -202,6 +230,9 @@
     "name": "The Canals Collection"
   },
   "set_chopshop": {
+    "containers": [
+      "4605"
+    ],
     "items": [
       "[102]36",
       "[237]13",
@@ -223,6 +254,19 @@
     "name": "The Chop Shop Collection"
   },
   "set_cobblestone": {
+    "containers": [
+      "4027",
+      "4036",
+      "4084",
+      "4134",
+      "4179",
+      "4228",
+      "4276",
+      "4346",
+      "4398",
+      "4465",
+      "4602"
+    ],
     "items": [
       "[100]19",
       "[100]38",
@@ -243,6 +287,9 @@
     "name": "The Cobblestone Collection"
   },
   "set_community_1": {
+    "containers": [
+      "4009"
+    ],
     "items": [
       "[255]16",
       "[256]29",
@@ -265,6 +312,9 @@
     }
   },
   "set_community_10": {
+    "containers": [
+      "4186"
+    ],
     "items": [
       "[12]64",
       "[506]7",
@@ -291,6 +341,9 @@
     }
   },
   "set_community_11": {
+    "containers": [
+      "4187"
+    ],
     "items": [
       "[524]7",
       "[525]9",
@@ -316,6 +369,9 @@
     }
   },
   "set_community_12": {
+    "containers": [
+      "4233"
+    ],
     "items": [
       "[541]8",
       "[542]26",
@@ -342,6 +398,9 @@
     }
   },
   "set_community_13": {
+    "containers": [
+      "4236"
+    ],
     "items": [
       "[583]8",
       "[584]9",
@@ -368,6 +427,9 @@
     }
   },
   "set_community_15": {
+    "containers": [
+      "4288"
+    ],
     "items": [
       "[622]63",
       "[623]4",
@@ -393,6 +455,9 @@
     }
   },
   "set_community_16": {
+    "containers": [
+      "4351"
+    ],
     "items": [
       "[639]7",
       "[640]9",
@@ -419,6 +484,9 @@
     }
   },
   "set_community_17": {
+    "containers": [
+      "4352"
+    ],
     "items": [
       "[656]7",
       "[657]61",
@@ -444,6 +512,9 @@
     }
   },
   "set_community_18": {
+    "containers": [
+      "4403"
+    ],
     "items": [
       "[673]29",
       "[674]8",
@@ -470,6 +541,9 @@
     }
   },
   "set_community_19": {
+    "containers": [
+      "4471"
+    ],
     "items": [
       "[690]8",
       "[691]9",
@@ -495,6 +569,9 @@
     }
   },
   "set_community_2": {
+    "containers": [
+      "4011"
+    ],
     "items": [
       "[279]9",
       "[280]8",
@@ -517,6 +594,9 @@
     }
   },
   "set_community_20": {
+    "containers": [
+      "4482"
+    ],
     "items": [
       "[707]7",
       "[708]8",
@@ -543,6 +623,9 @@
     }
   },
   "set_community_21": {
+    "containers": [
+      "4548"
+    ],
     "items": [
       "[801]7",
       "[802]24",
@@ -569,6 +652,9 @@
     }
   },
   "set_community_22": {
+    "containers": [
+      "4598"
+    ],
     "items": [
       "[835]10",
       "[836]7",
@@ -595,6 +681,9 @@
     }
   },
   "set_community_23": {
+    "containers": [
+      "4620"
+    ],
     "items": [
       "[884]26",
       "[885]7",
@@ -621,6 +710,9 @@
     }
   },
   "set_community_24": {
+    "containers": [
+      "4669"
+    ],
     "items": [
       "[902]14",
       "[903]2",
@@ -647,6 +739,9 @@
     }
   },
   "set_community_25": {
+    "containers": [
+      "4695"
+    ],
     "items": [
       "[941]7",
       "[942]8",
@@ -673,6 +768,9 @@
     }
   },
   "set_community_26": {
+    "containers": [
+      "4698"
+    ],
     "items": [
       "[958]28",
       "[959]7",
@@ -699,6 +797,9 @@
     }
   },
   "set_community_27": {
+    "containers": [
+      "4717"
+    ],
     "items": [
       "[975]9",
       "[976]63",
@@ -724,6 +825,9 @@
     }
   },
   "set_community_28": {
+    "containers": [
+      "4747"
+    ],
     "items": [
       "[1035]7",
       "[1036]63",
@@ -749,6 +853,9 @@
     }
   },
   "set_community_29": {
+    "containers": [
+      "4790"
+    ],
     "items": [
       "[1087]7",
       "[1088]8",
@@ -775,6 +882,9 @@
     }
   },
   "set_community_3": {
+    "containers": [
+      "4017"
+    ],
     "items": [
       "[301]60",
       "[302]7",
@@ -804,6 +914,9 @@
     }
   },
   "set_community_30": {
+    "containers": [
+      "4818"
+    ],
     "items": [
       "[1125]26",
       "[1126]2",
@@ -830,6 +943,9 @@
     }
   },
   "set_community_31": {
+    "containers": [
+      "4846"
+    ],
     "items": [
       "[1142]61",
       "[1143]7",
@@ -855,6 +971,9 @@
     }
   },
   "set_community_32": {
+    "containers": [
+      "4880"
+    ],
     "items": [
       "[1220]27",
       "[1221]7",
@@ -880,6 +999,9 @@
     }
   },
   "set_community_33": {
+    "containers": [
+      "4904"
+    ],
     "items": [
       "[1159]30",
       "[1160]29",
@@ -906,6 +1028,9 @@
     }
   },
   "set_community_34": {
+    "containers": [
+      "7003"
+    ],
     "items": [
       "[106]60",
       "[112]2",
@@ -932,6 +1057,9 @@
     }
   },
   "set_community_35": {
+    "containers": [
+      "7007"
+    ],
     "items": [
       "[1181]32",
       "[1182]25",
@@ -958,6 +1086,9 @@
     }
   },
   "set_community_36": {
+    "containers": [
+      "5176"
+    ],
     "items": [
       "[1339]8",
       "[1340]60",
@@ -980,6 +1111,9 @@
     "name": "The Genesis Collection"
   },
   "set_community_37": {
+    "containers": [
+      "5181"
+    ],
     "items": [
       "[1418]26",
       "[1419]19",
@@ -1005,6 +1139,9 @@
     }
   },
   "set_community_4": {
+    "containers": [
+      "4018"
+    ],
     "items": [
       "[349]26",
       "[350]63",
@@ -1028,6 +1165,9 @@
     }
   },
   "set_community_5": {
+    "containers": [
+      "4029"
+    ],
     "items": [
       "[380]7",
       "[381]4",
@@ -1051,6 +1191,9 @@
     }
   },
   "set_community_6": {
+    "containers": [
+      "4061"
+    ],
     "items": [
       "[394]7",
       "[395]9",
@@ -1074,6 +1217,9 @@
     }
   },
   "set_community_7": {
+    "containers": [
+      "4089"
+    ],
     "items": [
       "[422]7",
       "[423]33",
@@ -1098,6 +1244,9 @@
     }
   },
   "set_community_8": {
+    "containers": [
+      "4091"
+    ],
     "items": [
       "[474]7",
       "[475]9",
@@ -1123,6 +1272,9 @@
     }
   },
   "set_community_9": {
+    "containers": [
+      "4138"
+    ],
     "items": [
       "[490]7",
       "[491]2",
@@ -1162,6 +1314,19 @@
     "name": "The Dust Collection"
   },
   "set_dust_2": {
+    "containers": [
+      "4022",
+      "4031",
+      "4079",
+      "4131",
+      "4176",
+      "4225",
+      "4274",
+      "4344",
+      "4542",
+      "4592",
+      "4662"
+    ],
     "items": [
       "[116]38",
       "[124]19",
@@ -1183,6 +1348,15 @@
     "name": "The Dust 2 Collection"
   },
   "set_dust_2_2021": {
+    "containers": [
+      "4793",
+      "4811",
+      "4837",
+      "4862",
+      "4970",
+      "5123",
+      "5222"
+    ],
     "items": [
       "[1052]40",
       "[246]13",
@@ -1207,6 +1381,9 @@
     "name": "The 2021 Dust 2 Collection"
   },
   "set_esports": {
+    "containers": [
+      "4002"
+    ],
     "items": [
       "[14]7",
       "[156]19",
@@ -1225,6 +1402,9 @@
     }
   },
   "set_esports_ii": {
+    "containers": [
+      "4005"
+    ],
     "items": [
       "[154]10",
       "[215]16",
@@ -1246,6 +1426,9 @@
     }
   },
   "set_esports_iii": {
+    "containers": [
+      "4019"
+    ],
     "items": [
       "[13]26",
       "[155]16",
@@ -1272,6 +1455,9 @@
     }
   },
   "set_gamma_2": {
+    "containers": [
+      "4281"
+    ],
     "items": [
       "[600]7",
       "[601]8",
@@ -1298,6 +1484,9 @@
     }
   },
   "set_gods_and_monsters": {
+    "containers": [
+      "4604"
+    ],
     "items": [
       "[438]11",
       "[439]30",
@@ -1338,6 +1527,16 @@
     "name": "The Graphic Design Collection"
   },
   "set_inferno": {
+    "containers": [
+      "4023",
+      "4032",
+      "4080",
+      "4133",
+      "4178",
+      "4227",
+      "4396",
+      "4463"
+    ],
     "items": [
       "[101]16",
       "[158]35",
@@ -1349,6 +1548,19 @@
     "name": "The Inferno Collection"
   },
   "set_inferno_2": {
+    "containers": [
+      "4540",
+      "4590",
+      "4660",
+      "4809",
+      "4835",
+      "4860",
+      "4893",
+      "4926",
+      "4967",
+      "5120",
+      "5219"
+    ],
     "items": [
       "[3]26",
       "[747]2",
@@ -1392,6 +1604,9 @@
     "name": "The Italy Collection"
   },
   "set_kimono": {
+    "containers": [
+      "4606"
+    ],
     "items": [
       "[455]8",
       "[456]7",
@@ -1449,6 +1664,21 @@
     "name": "The Militia Collection"
   },
   "set_mirage": {
+    "containers": [
+      "4024",
+      "4033",
+      "4081",
+      "4132",
+      "4177",
+      "4226",
+      "4275",
+      "4345",
+      "4397",
+      "4464",
+      "4541",
+      "4591",
+      "4661"
+    ],
     "items": [
       "[141]33",
       "[175]19",
@@ -1469,6 +1699,17 @@
     "name": "The Mirage Collection"
   },
   "set_mirage_2021": {
+    "containers": [
+      "4794",
+      "4810",
+      "4836",
+      "4861",
+      "4894",
+      "4927",
+      "4968",
+      "5121",
+      "5220"
+    ],
     "items": [
       "[240]10",
       "[764]1",
@@ -1493,6 +1734,9 @@
     "name": "The 2021 Mirage Collection"
   },
   "set_norse": {
+    "containers": [
+      "4611"
+    ],
     "items": [
       "[101]13",
       "[159]38",
@@ -1516,6 +1760,16 @@
     "name": "The Norse Collection"
   },
   "set_nuke": {
+    "containers": [
+      "4025",
+      "4034",
+      "4082",
+      "4232",
+      "4280",
+      "4350",
+      "4402",
+      "4469"
+    ],
     "items": [
       "[167]16",
       "[168]36",
@@ -1530,6 +1784,19 @@
     "name": "The Nuke Collection"
   },
   "set_nuke_2": {
+    "containers": [
+      "4546",
+      "4596",
+      "4665",
+      "4814",
+      "4840",
+      "4865",
+      "4898",
+      "4931",
+      "4972",
+      "5125",
+      "5224"
+    ],
     "items": [
       "[775]26",
       "[776]19",
@@ -1564,6 +1831,17 @@
     "name": "The Office Collection"
   },
   "set_op10_ancient": {
+    "containers": [
+      "4722",
+      "4813",
+      "4839",
+      "4864",
+      "4897",
+      "4930",
+      "4971",
+      "5124",
+      "5223"
+    ],
     "items": [
       "[1000]19",
       "[1001]60",
@@ -1613,6 +1891,9 @@
     "name": "Broken Fang Agents"
   },
   "set_op10_ct": {
+    "containers": [
+      "4720"
+    ],
     "items": [
       "[1002]3",
       "[1003]24",
@@ -1637,6 +1918,9 @@
     "name": "The Control Collection"
   },
   "set_op10_t": {
+    "containers": [
+      "4721"
+    ],
     "items": [
       "[1004]7",
       "[1005]2",
@@ -1714,6 +1998,27 @@
     "name": "Shattered Web Agents"
   },
   "set_overpass": {
+    "containers": [
+      "4028",
+      "4037",
+      "4085",
+      "4135",
+      "4180",
+      "4229",
+      "4277",
+      "4347",
+      "4399",
+      "4466",
+      "4543",
+      "4593",
+      "4601",
+      "4663",
+      "4812",
+      "4838",
+      "4863",
+      "4896",
+      "4929"
+    ],
     "items": [
       "[100]27",
       "[100]34",
@@ -1734,6 +2039,9 @@
     "name": "The Overpass Collection"
   },
   "set_overpass_2024": {
+    "containers": [
+      "5221"
+    ],
     "items": [
       "[1062]3",
       "[133]19",
@@ -1818,6 +2126,9 @@
     "name": "The Spy Tech Collection"
   },
   "set_stmarc": {
+    "containers": [
+      "4612"
+    ],
     "items": [
       "[151]14",
       "[724]7",
@@ -1990,6 +2301,18 @@
     "name": "The Radiant Collection"
   },
   "set_train": {
+    "containers": [
+      "4137",
+      "4182",
+      "4231",
+      "4279",
+      "4349",
+      "4401",
+      "4468",
+      "4545",
+      "4595",
+      "4664"
+    ],
     "items": [
       "[107]35",
       "[149]26",
@@ -2010,6 +2333,12 @@
     "name": "The Train Collection"
   },
   "set_train_2021": {
+    "containers": [
+      "4785",
+      "4786",
+      "4787",
+      "4788"
+    ],
     "items": [
       "[1053]10",
       "[1055]32",
@@ -2036,6 +2365,10 @@
     "name": "The 2021 Train Collection"
   },
   "set_train_2025": {
+    "containers": [
+      "5126",
+      "5225"
+    ],
     "items": [
       "[1195]63",
       "[1198]8",
@@ -2057,6 +2390,9 @@
     "name": "The Train 2025 Collection"
   },
   "set_vertigo": {
+    "containers": [
+      "4666"
+    ],
     "items": [
       "[111]19",
       "[135]25",
@@ -2068,6 +2404,15 @@
     "name": "The Vertigo Collection"
   },
   "set_vertigo_2021": {
+    "containers": [
+      "4792",
+      "4815",
+      "4841",
+      "4866",
+      "4899",
+      "4932",
+      "4973"
+    ],
     "items": [
       "[1066]10",
       "[1070]7",
@@ -2092,6 +2437,9 @@
     "name": "The 2021 Vertigo Collection"
   },
   "set_weapons_i": {
+    "containers": [
+      "4001"
+    ],
     "items": [
       "[11]33",
       "[44]7",
@@ -2110,6 +2458,9 @@
     }
   },
   "set_weapons_ii": {
+    "containers": [
+      "4004"
+    ],
     "items": [
       "[214]35",
       "[216]30",
@@ -2131,6 +2482,9 @@
     }
   },
   "set_weapons_iii": {
+    "containers": [
+      "4010"
+    ],
     "items": [
       "[12]63",
       "[268]63",
@@ -2162,6 +2516,9 @@
     "name": "Limited Edition Item"
   },
   "set_xraymachine": {
+    "containers": [
+      "4668"
+    ],
     "items": [
       "[125]36"
     ],

@@ -32,8 +32,8 @@ flowchart LR
     definitions --> items[items]
     paints --> items
     containers[containers] <--> items
-    collections[collections] --> items
-    containers --> collections
+    collections[collections] <--> items
+    containers <--> collections
     containers <--> sticker_kits[sticker_kits]
     containers --> musics[musics]
     containers --> charms[charms]
@@ -55,9 +55,9 @@ localizations are unavailable; an absent flag does not mean `false`.
   When direct quality is absent, `craft_class = "unusual"` assigns quality `"3"` (`★`) before ordinary
   inherited quality is considered. Default knives/gloves are not assigned `★`.
 - Definition rarity and paint rarity remain separate; no final per-inventory-item rarity is inferred.
-- `collections` is keyed by the source item-set identifier. Each record contains normalized `items`,
-  an optional localized `name`, and an optional `hidden` flag. Both painted items and bare agent definitions
-  retain their membership, independently of whether an item image is indexed.
+- `collections` is keyed by the source item-set identifier. Each record contains normalized `items`, optional
+  associated `containers`, an optional localized `name`, and an optional `hidden` flag. Both painted items and
+  bare agent definitions retain their membership, independently of whether an item image is indexed.
 - Optional collection `unusuals` maps source quality IDs to unresolved loot-list names. These preserve
   source references, not enumerated rare rewards or drop probabilities.
 

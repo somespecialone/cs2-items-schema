@@ -105,6 +105,12 @@ class ResourceCollector:
 
         containers_collector = ContainersCollector(items_game, csgo_english)
         containers = containers_collector()
+        collection_containers: dict[str, list[str]] = {}
+        for defindex, container in containers.items():
+            if collection_id := container.get("collection"):
+                collection_containers.setdefault(collection_id, []).append(defindex)
+        for collection_id, defindexes in collection_containers.items():
+            collections[collection_id]["containers"] = sorted(defindexes)
         sticker_kit_containers = {key: data for key, data in containers.items() if "kits" in data}
 
         items_collector = ItemsCollector(
