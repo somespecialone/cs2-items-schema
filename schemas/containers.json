@@ -22152,5 +22152,18 @@
       "7041"
     ],
     "kind": "coupon"
+  },
+  "7043": {
+    "kind": "coupon",
+    "musics": [
+      "104"
+    ]
+  },
+  "7044": {
+    "kind": "coupon",
+    "musics": [
+      "104"
+    ],
+    "will_produce_stattrak": true
   }
 }

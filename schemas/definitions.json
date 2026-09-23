@@ -576,6 +576,10 @@
     "tradable": false,
     "type": "CSGO_Type_Tool"
   },
+  "1202": {
+    "name": "Expired",
+    "type": "expired_itemdef"
+  },
   "1203": {
     "name": "CS:GO Case Key",
     "quality": "unique",
@@ -8454,6 +8458,14 @@
     "rarity": "common",
     "type": "CSGO_Type_WeaponCase"
   },
+  "4948": {
+    "name": "Chicken Egg",
+    "type": "chicken_egg"
+  },
+  "4949": {
+    "name": "Chicken Feed",
+    "type": "chicken_feed"
+  },
   "4950": {
     "name": "Charm Detachment Pack",
     "quality": "unique",
@@ -11882,6 +11894,20 @@
   },
   "7042": {
     "name": "Jackass Sticker Capsule",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7043": {
+    "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7044": {
+    "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
     "quality": "unique",
     "rarity": "common",
     "tradable": false,

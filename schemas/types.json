@@ -25,5 +25,8 @@
   "CSGO_Type_recipe": "Contract",
   "Type_CustomPlayer": "Agent",
   "Type_Hands": "Gloves",
-  "campaign": "Campaign"
+  "campaign": "Campaign",
+  "chicken_egg": "Chicken Egg",
+  "chicken_feed": "Chicken Feed",
+  "expired_itemdef": "Expired"
 }
