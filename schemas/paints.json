@@ -3485,8 +3485,44 @@
     "wear_max": 1.0,
     "wear_min": 0.0
   },
+  "1478": {
+    "name": "Forest DDPAT",
+    "rarity": "common",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1479": {
+    "name": "Crimson Web",
+    "rarity": "rare",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
   "148": {
     "name": "Sand Dashed",
+    "rarity": "common",
+    "wear_max": 0.8,
+    "wear_min": 0.06
+  },
+  "1480": {
+    "name": "Blue Steel",
+    "rarity": "uncommon",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1481": {
+    "name": "Stained",
+    "rarity": "uncommon",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1482": {
+    "name": "Case Hardened",
+    "rarity": "mythical",
+    "wear_max": 1.0,
+    "wear_min": 0.0
+  },
+  "1483": {
+    "name": "Boreal Forest",
     "rarity": "common",
     "wear_max": 0.8,
     "wear_min": 0.06

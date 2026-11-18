@@ -22390,6 +22390,72 @@
     "rarity": "ancient",
     "team": "132"
   },
+  "11814": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MOUZ | Singapore 2026",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11815": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MOUZ (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11816": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MOUZ (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "106"
+  },
+  "11817": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MOUZ (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11818": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Vitality | Singapore 2026",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "11819": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Vitality (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "89"
+  },
   "1182": {
     "event": "9",
     "kind": "sticker",
@@ -22397,6 +22463,116 @@
     "player": "28273376",
     "rarity": "legendary",
     "team": "29"
+  },
+  "11820": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Vitality (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "89"
+  },
+  "11821": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Vitality (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "11822": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FURIA | Singapore 2026",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "11823": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FURIA (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "11824": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FURIA (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "85"
+  },
+  "11825": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FURIA (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "11826": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aurora | Singapore 2026",
+    "rarity": "rare",
+    "team": "134"
+  },
+  "11827": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aurora (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "11828": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aurora (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "134"
+  },
+  "11829": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aurora (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "134"
   },
   "1183": {
     "containers": [
@@ -22409,6 +22585,116 @@
     "rarity": "rare",
     "team": "29"
   },
+  "11830": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Spirit | Singapore 2026",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "11831": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Spirit (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "11832": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Spirit (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "81"
+  },
+  "11833": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Spirit (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "11834": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BB Team | Singapore 2026",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "11835": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BB Team (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "11836": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BB Team (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "152"
+  },
+  "11837": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BB Team (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "11838": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Falcons | Singapore 2026",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "11839": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Falcons (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "139"
+  },
   "1184": {
     "containers": [
       "4207"
@@ -22420,6 +22706,116 @@
     "rarity": "legendary",
     "team": "29"
   },
+  "11840": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Falcons (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "139"
+  },
+  "11841": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Falcons (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "11842": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FUT | Singapore 2026",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "11843": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FUT (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "11844": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FUT (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "145"
+  },
+  "11845": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FUT (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "11846": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Legacy | Singapore 2026",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "11847": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Legacy (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "11848": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Legacy (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "126"
+  },
+  "11849": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Legacy (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "126"
+  },
   "1185": {
     "event": "9",
     "kind": "sticker",
@@ -22427,6 +22823,116 @@
     "player": "31185376",
     "rarity": "legendary",
     "team": "29"
+  },
+  "11850": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Nemiga | Singapore 2026",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "11851": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Nemiga (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "11852": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Nemiga (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "107"
+  },
+  "11853": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Nemiga (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "11854": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "G2 esports | Singapore 2026",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "11855": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "G2 esports (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "11856": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "G2 esports (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "59"
+  },
+  "11857": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "G2 esports (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "11858": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The One | Singapore 2026",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "11859": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The One (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "149"
   },
   "1186": {
     "containers": [
@@ -22439,6 +22945,116 @@
     "rarity": "rare",
     "team": "29"
   },
+  "11860": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The One (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "149"
+  },
+  "11861": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The One (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "11862": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Natus Vincere | Singapore 2026",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "11863": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Natus Vincere (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "11864": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Natus Vincere (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "12"
+  },
+  "11865": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Natus Vincere (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "11866": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Astralis | Singapore 2026",
+    "rarity": "rare",
+    "team": "60"
+  },
+  "11867": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Astralis (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "11868": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Astralis (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "60"
+  },
+  "11869": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Astralis (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "60"
+  },
   "1187": {
     "containers": [
       "4207"
@@ -22450,6 +23066,116 @@
     "rarity": "legendary",
     "team": "29"
   },
+  "11870": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ninjas in Pyjamas | Singapore 2026",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "11871": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ninjas in Pyjamas (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "11872": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ninjas in Pyjamas (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "1"
+  },
+  "11873": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ninjas in Pyjamas (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "11874": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The Mongolz | Singapore 2026",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "11875": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The Mongolz (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "11876": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The Mongolz (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "122"
+  },
+  "11877": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "The Mongolz (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "11878": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PVISION | Singapore 2026",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "11879": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PVISION (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "153"
+  },
   "1188": {
     "event": "9",
     "kind": "sticker",
@@ -22457,6 +23183,116 @@
     "player": "13465075",
     "rarity": "legendary",
     "team": "29"
+  },
+  "11880": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PVISION (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "153"
+  },
+  "11881": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PVISION (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "11882": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HEROIC | Singapore 2026",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "11883": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HEROIC (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "11884": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HEROIC (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "95"
+  },
+  "11885": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HEROIC (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "11886": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MIBR | Singapore 2026",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "11887": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MIBR (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "11888": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MIBR (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "80"
+  },
+  "11889": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MIBR (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "80"
   },
   "1189": {
     "containers": [
@@ -22468,6 +23304,116 @@
     "player": "90378773",
     "rarity": "rare",
     "team": "29"
+  },
+  "11890": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FaZe Clan | Singapore 2026",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "11891": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FaZe Clan (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "11892": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FaZe Clan (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "61"
+  },
+  "11893": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FaZe Clan (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "11894": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Liquid | Singapore 2026",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "11895": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Liquid (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "11896": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Liquid (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "48"
+  },
+  "11897": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Team Liquid (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "11898": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Eternal Fire | Singapore 2026",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "11899": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Eternal Fire (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "110"
   },
   "119": {
     "containers": [
@@ -22488,6 +23434,116 @@
     "rarity": "legendary",
     "team": "29"
   },
+  "11900": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Eternal Fire (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "110"
+  },
+  "11901": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Eternal Fire (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "11902": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "100 Thieves | Singapore 2026",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "11903": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "100 Thieves (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "11904": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "100 Thieves (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "78"
+  },
+  "11905": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "100 Thieves (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "11906": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "9z Team | Singapore 2026",
+    "rarity": "rare",
+    "team": "112"
+  },
+  "11907": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "9z Team (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "11908": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "9z Team (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "112"
+  },
+  "11909": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "9z Team (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "112"
+  },
   "1191": {
     "event": "9",
     "kind": "sticker",
@@ -22495,6 +23551,116 @@
     "player": "90378773",
     "rarity": "legendary",
     "team": "29"
+  },
+  "11910": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "M80 | Singapore 2026",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "11911": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "M80 (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "11912": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "M80 (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "140"
+  },
+  "11913": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "M80 (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "11914": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "DENDELE | Singapore 2026",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "11915": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "DENDELE (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "11916": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "DENDELE (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "151"
+  },
+  "11917": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "DENDELE (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "11918": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Imperial Esports | Singapore 2026",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "11919": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Imperial Esports (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "113"
   },
   "1192": {
     "containers": [
@@ -22507,6 +23673,116 @@
     "rarity": "rare",
     "team": "29"
   },
+  "11920": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Imperial Esports (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "113"
+  },
+  "11921": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Imperial Esports (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "11922": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wildcard | Singapore 2026",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "11923": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wildcard (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "11924": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wildcard (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "130"
+  },
+  "11925": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wildcard (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "11926": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "GOSH | Singapore 2026",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "11927": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "GOSH (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "11928": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "GOSH (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "150"
+  },
+  "11929": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "GOSH (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "150"
+  },
   "1193": {
     "containers": [
       "4207"
@@ -22518,6 +23794,116 @@
     "rarity": "legendary",
     "team": "29"
   },
+  "11930": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlyQuest | Singapore 2026",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "11931": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlyQuest (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "11932": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlyQuest (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "132"
+  },
+  "11933": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlyQuest (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "11934": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chinggis Warriors | Singapore 2026",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "11935": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chinggis Warriors (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "11936": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chinggis Warriors (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "138"
+  },
+  "11937": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chinggis Warriors (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "11938": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lynn Vision | Singapore 2026",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "11939": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lynn Vision (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "127"
+  },
   "1194": {
     "event": "9",
     "kind": "sticker",
@@ -22525,6 +23911,100 @@
     "player": "81417650",
     "rarity": "legendary",
     "team": "29"
+  },
+  "11940": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lynn Vision (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "127"
+  },
+  "11941": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lynn Vision (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "127"
+  },
+  "11942": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PGL | Singapore 2026",
+    "rarity": "rare",
+    "team": "0"
+  },
+  "11943": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PGL (Foil) | Singapore 2026",
+    "rarity": "mythical",
+    "team": "0"
+  },
+  "11944": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PGL (Holo) | Singapore 2026",
+    "rarity": "legendary",
+    "team": "0"
+  },
+  "11945": {
+    "containers": [
+      "5416",
+      "5417"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PGL (Gold) | Singapore 2026",
+    "rarity": "ancient",
+    "team": "0"
+  },
+  "11946": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "MOUZ | Singapore 2026",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11947": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Vitality | Singapore 2026",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "11948": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "FURIA | Singapore 2026",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "11949": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Aurora | Singapore 2026",
+    "rarity": "rare",
+    "team": "134"
   },
   "1195": {
     "containers": [
@@ -22537,6 +24017,76 @@
     "rarity": "rare",
     "team": "12"
   },
+  "11950": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Team Spirit | Singapore 2026",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "11951": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "BB Team | Singapore 2026",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "11952": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Falcons | Singapore 2026",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "11953": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "FUT | Singapore 2026",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "11954": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Legacy | Singapore 2026",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "11955": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Nemiga | Singapore 2026",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "11956": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "G2 esports | Singapore 2026",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "11957": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "The One | Singapore 2026",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "11958": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Natus Vincere | Singapore 2026",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "11959": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Astralis | Singapore 2026",
+    "rarity": "rare",
+    "team": "60"
+  },
   "1196": {
     "containers": [
       "4208"
@@ -22548,6 +24098,76 @@
     "rarity": "legendary",
     "team": "12"
   },
+  "11960": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Ninjas in Pyjamas | Singapore 2026",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "11961": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "The Mongolz | Singapore 2026",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "11962": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "PVISION | Singapore 2026",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "11963": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "HEROIC | Singapore 2026",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "11964": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "MIBR | Singapore 2026",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "11965": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "FaZe Clan | Singapore 2026",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "11966": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Team Liquid | Singapore 2026",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "11967": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Eternal Fire | Singapore 2026",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "11968": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "100 Thieves | Singapore 2026",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "11969": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "9z Team | Singapore 2026",
+    "rarity": "rare",
+    "team": "112"
+  },
   "1197": {
     "event": "9",
     "kind": "sticker",
@@ -22555,6 +24175,81 @@
     "player": "23429534",
     "rarity": "legendary",
     "team": "12"
+  },
+  "11970": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "M80 | Singapore 2026",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "11971": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "DENDELE | Singapore 2026",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "11972": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Imperial Esports | Singapore 2026",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "11973": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Wildcard | Singapore 2026",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "11974": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "GOSH | Singapore 2026",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "11975": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "FlyQuest | Singapore 2026",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "11976": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Chinggis Warriors | Singapore 2026",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "11977": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "Lynn Vision | Singapore 2026",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "11978": {
+    "event": "27",
+    "kind": "graffiti",
+    "name": "PGL | Singapore 2026",
+    "rarity": "rare",
+    "team": "0"
+  },
+  "11979": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PR | Singapore 2026",
+    "player": "350295751",
+    "rarity": "rare",
+    "team": "106"
   },
   "1198": {
     "containers": [
@@ -22567,6 +24262,126 @@
     "rarity": "rare",
     "team": "12"
   },
+  "11980": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PR (Foil) | Singapore 2026",
+    "player": "350295751",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11981": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PR (Holo) | Singapore 2026",
+    "player": "350295751",
+    "rarity": "legendary",
+    "team": "106"
+  },
+  "11982": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "PR (Gold) | Singapore 2026",
+    "player": "350295751",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11983": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Spinx | Singapore 2026",
+    "player": "103070679",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11984": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Spinx (Foil) | Singapore 2026",
+    "player": "103070679",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11985": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Spinx (Holo) | Singapore 2026",
+    "player": "103070679",
+    "rarity": "legendary",
+    "team": "106"
+  },
+  "11986": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Spinx (Gold) | Singapore 2026",
+    "player": "103070679",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11987": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "torzsi | Singapore 2026",
+    "player": "395473484",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11988": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "torzsi (Foil) | Singapore 2026",
+    "player": "395473484",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11989": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "torzsi (Holo) | Singapore 2026",
+    "player": "395473484",
+    "rarity": "legendary",
+    "team": "106"
+  },
   "1199": {
     "containers": [
       "4208"
@@ -22577,6 +24392,126 @@
     "player": "156257548",
     "rarity": "legendary",
     "team": "12"
+  },
+  "11990": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "torzsi (Gold) | Singapore 2026",
+    "player": "395473484",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11991": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xelex | Singapore 2026",
+    "player": "1038000482",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11992": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xelex (Foil) | Singapore 2026",
+    "player": "1038000482",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11993": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xelex (Holo) | Singapore 2026",
+    "player": "1038000482",
+    "rarity": "legendary",
+    "team": "106"
+  },
+  "11994": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xelex (Gold) | Singapore 2026",
+    "player": "1038000482",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11995": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xertioN | Singapore 2026",
+    "player": "232908406",
+    "rarity": "rare",
+    "team": "106"
+  },
+  "11996": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xertioN (Foil) | Singapore 2026",
+    "player": "232908406",
+    "rarity": "mythical",
+    "team": "106"
+  },
+  "11997": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xertioN (Holo) | Singapore 2026",
+    "player": "232908406",
+    "rarity": "legendary",
+    "team": "106"
+  },
+  "11998": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xertioN (Gold) | Singapore 2026",
+    "player": "232908406",
+    "rarity": "ancient",
+    "team": "106"
+  },
+  "11999": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlameZ | Singapore 2026",
+    "player": "18569432",
+    "rarity": "rare",
+    "team": "89"
   },
   "12": {
     "event": "1",
@@ -22599,6 +24534,126 @@
     "rarity": "legendary",
     "team": "12"
   },
+  "12000": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlameZ (Foil) | Singapore 2026",
+    "player": "18569432",
+    "rarity": "mythical",
+    "team": "89"
+  },
+  "12001": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlameZ (Holo) | Singapore 2026",
+    "player": "18569432",
+    "rarity": "legendary",
+    "team": "89"
+  },
+  "12002": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FlameZ (Gold) | Singapore 2026",
+    "player": "18569432",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "12003": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jL | Singapore 2026",
+    "player": "216612575",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "12004": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jL (Foil) | Singapore 2026",
+    "player": "216612575",
+    "rarity": "mythical",
+    "team": "89"
+  },
+  "12005": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jL (Holo) | Singapore 2026",
+    "player": "216612575",
+    "rarity": "legendary",
+    "team": "89"
+  },
+  "12006": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jL (Gold) | Singapore 2026",
+    "player": "216612575",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "12007": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mezii | Singapore 2026",
+    "player": "12874964",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "12008": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mezii (Foil) | Singapore 2026",
+    "player": "12874964",
+    "rarity": "mythical",
+    "team": "89"
+  },
+  "12009": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mezii (Holo) | Singapore 2026",
+    "player": "12874964",
+    "rarity": "legendary",
+    "team": "89"
+  },
   "1201": {
     "containers": [
       "4216"
@@ -22609,6 +24664,126 @@
     "player": "12065295",
     "rarity": "rare",
     "team": "12"
+  },
+  "12010": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mezii (Gold) | Singapore 2026",
+    "player": "12874964",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "12011": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ropz | Singapore 2026",
+    "player": "31006590",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "12012": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ropz (Foil) | Singapore 2026",
+    "player": "31006590",
+    "rarity": "mythical",
+    "team": "89"
+  },
+  "12013": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ropz (Holo) | Singapore 2026",
+    "player": "31006590",
+    "rarity": "legendary",
+    "team": "89"
+  },
+  "12014": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ropz (Gold) | Singapore 2026",
+    "player": "31006590",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "12015": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ZywOo | Singapore 2026",
+    "player": "153400465",
+    "rarity": "rare",
+    "team": "89"
+  },
+  "12016": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ZywOo (Foil) | Singapore 2026",
+    "player": "153400465",
+    "rarity": "mythical",
+    "team": "89"
+  },
+  "12017": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ZywOo (Holo) | Singapore 2026",
+    "player": "153400465",
+    "rarity": "legendary",
+    "team": "89"
+  },
+  "12018": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ZywOo (Gold) | Singapore 2026",
+    "player": "153400465",
+    "rarity": "ancient",
+    "team": "89"
+  },
+  "12019": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FalleN | Singapore 2026",
+    "player": "424467",
+    "rarity": "rare",
+    "team": "85"
   },
   "1202": {
     "containers": [
@@ -22621,6 +24796,126 @@
     "rarity": "legendary",
     "team": "12"
   },
+  "12020": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FalleN (Foil) | Singapore 2026",
+    "player": "424467",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "12021": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FalleN (Holo) | Singapore 2026",
+    "player": "424467",
+    "rarity": "legendary",
+    "team": "85"
+  },
+  "12022": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FalleN (Gold) | Singapore 2026",
+    "player": "424467",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "12023": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KSCERATO | Singapore 2026",
+    "player": "98234764",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "12024": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KSCERATO (Foil) | Singapore 2026",
+    "player": "98234764",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "12025": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KSCERATO (Holo) | Singapore 2026",
+    "player": "98234764",
+    "rarity": "legendary",
+    "team": "85"
+  },
+  "12026": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KSCERATO (Gold) | Singapore 2026",
+    "player": "98234764",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "12027": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "molodoy | Singapore 2026",
+    "player": "240716562",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "12028": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "molodoy (Foil) | Singapore 2026",
+    "player": "240716562",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "12029": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "molodoy (Holo) | Singapore 2026",
+    "player": "240716562",
+    "rarity": "legendary",
+    "team": "85"
+  },
   "1203": {
     "event": "9",
     "kind": "sticker",
@@ -22628,6 +24923,126 @@
     "player": "12065295",
     "rarity": "legendary",
     "team": "12"
+  },
+  "12030": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "molodoy (Gold) | Singapore 2026",
+    "player": "240716562",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "12031": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "YEKINDAR | Singapore 2026",
+    "player": "174136197",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "12032": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "YEKINDAR (Foil) | Singapore 2026",
+    "player": "174136197",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "12033": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "YEKINDAR (Holo) | Singapore 2026",
+    "player": "174136197",
+    "rarity": "legendary",
+    "team": "85"
+  },
+  "12034": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "YEKINDAR (Gold) | Singapore 2026",
+    "player": "174136197",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "12035": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "yuurih | Singapore 2026",
+    "player": "204704832",
+    "rarity": "rare",
+    "team": "85"
+  },
+  "12036": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "yuurih (Foil) | Singapore 2026",
+    "player": "204704832",
+    "rarity": "mythical",
+    "team": "85"
+  },
+  "12037": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "yuurih (Holo) | Singapore 2026",
+    "player": "204704832",
+    "rarity": "legendary",
+    "team": "85"
+  },
+  "12038": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "yuurih (Gold) | Singapore 2026",
+    "player": "204704832",
+    "rarity": "ancient",
+    "team": "85"
+  },
+  "12039": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jimpphat | Singapore 2026",
+    "player": "895109597",
+    "rarity": "rare",
+    "team": "134"
   },
   "1204": {
     "containers": [
@@ -22640,6 +25055,126 @@
     "rarity": "rare",
     "team": "12"
   },
+  "12040": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jimpphat (Foil) | Singapore 2026",
+    "player": "895109597",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "12041": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jimpphat (Holo) | Singapore 2026",
+    "player": "895109597",
+    "rarity": "legendary",
+    "team": "134"
+  },
+  "12042": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jimpphat (Gold) | Singapore 2026",
+    "player": "895109597",
+    "rarity": "ancient",
+    "team": "134"
+  },
+  "12043": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyxsan | Singapore 2026",
+    "player": "97016704",
+    "rarity": "rare",
+    "team": "134"
+  },
+  "12044": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyxsan (Foil) | Singapore 2026",
+    "player": "97016704",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "12045": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyxsan (Holo) | Singapore 2026",
+    "player": "97016704",
+    "rarity": "legendary",
+    "team": "134"
+  },
+  "12046": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyxsan (Gold) | Singapore 2026",
+    "player": "97016704",
+    "rarity": "ancient",
+    "team": "134"
+  },
+  "12047": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wicadia | Singapore 2026",
+    "player": "852248195",
+    "rarity": "rare",
+    "team": "134"
+  },
+  "12048": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wicadia (Foil) | Singapore 2026",
+    "player": "852248195",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "12049": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wicadia (Holo) | Singapore 2026",
+    "player": "852248195",
+    "rarity": "legendary",
+    "team": "134"
+  },
   "1205": {
     "containers": [
       "4208"
@@ -22651,6 +25186,126 @@
     "rarity": "legendary",
     "team": "12"
   },
+  "12050": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Wicadia (Gold) | Singapore 2026",
+    "player": "852248195",
+    "rarity": "ancient",
+    "team": "134"
+  },
+  "12051": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "woxic | Singapore 2026",
+    "player": "123219778",
+    "rarity": "rare",
+    "team": "134"
+  },
+  "12052": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "woxic (Foil) | Singapore 2026",
+    "player": "123219778",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "12053": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "woxic (Holo) | Singapore 2026",
+    "player": "123219778",
+    "rarity": "legendary",
+    "team": "134"
+  },
+  "12054": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "woxic (Gold) | Singapore 2026",
+    "player": "123219778",
+    "rarity": "ancient",
+    "team": "134"
+  },
+  "12055": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "XANTARES | Singapore 2026",
+    "player": "83853068",
+    "rarity": "rare",
+    "team": "134"
+  },
+  "12056": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "XANTARES (Foil) | Singapore 2026",
+    "player": "83853068",
+    "rarity": "mythical",
+    "team": "134"
+  },
+  "12057": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "XANTARES (Holo) | Singapore 2026",
+    "player": "83853068",
+    "rarity": "legendary",
+    "team": "134"
+  },
+  "12058": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "XANTARES (Gold) | Singapore 2026",
+    "player": "83853068",
+    "rarity": "ancient",
+    "team": "134"
+  },
+  "12059": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "donk | Singapore 2026",
+    "player": "425999755",
+    "rarity": "rare",
+    "team": "81"
+  },
   "1206": {
     "event": "9",
     "kind": "sticker",
@@ -22658,6 +25313,126 @@
     "player": "3648428",
     "rarity": "legendary",
     "team": "12"
+  },
+  "12060": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "donk (Foil) | Singapore 2026",
+    "player": "425999755",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "12061": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "donk (Holo) | Singapore 2026",
+    "player": "425999755",
+    "rarity": "legendary",
+    "team": "81"
+  },
+  "12062": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "donk (Gold) | Singapore 2026",
+    "player": "425999755",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "12063": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "magixx | Singapore 2026",
+    "player": "868554",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "12064": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "magixx (Foil) | Singapore 2026",
+    "player": "868554",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "12065": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "magixx (Holo) | Singapore 2026",
+    "player": "868554",
+    "rarity": "legendary",
+    "team": "81"
+  },
+  "12066": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "magixx (Gold) | Singapore 2026",
+    "player": "868554",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "12067": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sh1ro | Singapore 2026",
+    "player": "121219047",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "12068": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sh1ro (Foil) | Singapore 2026",
+    "player": "121219047",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "12069": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sh1ro (Holo) | Singapore 2026",
+    "player": "121219047",
+    "rarity": "legendary",
+    "team": "81"
   },
   "1207": {
     "containers": [
@@ -22670,6 +25445,126 @@
     "rarity": "rare",
     "team": "12"
   },
+  "12070": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sh1ro (Gold) | Singapore 2026",
+    "player": "121219047",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "12071": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tN1R | Singapore 2026",
+    "player": "911747440",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "12072": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tN1R (Foil) | Singapore 2026",
+    "player": "911747440",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "12073": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tN1R (Holo) | Singapore 2026",
+    "player": "911747440",
+    "rarity": "legendary",
+    "team": "81"
+  },
+  "12074": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tN1R (Gold) | Singapore 2026",
+    "player": "911747440",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "12075": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zont1x | Singapore 2026",
+    "player": "1035615149",
+    "rarity": "rare",
+    "team": "81"
+  },
+  "12076": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zont1x (Foil) | Singapore 2026",
+    "player": "1035615149",
+    "rarity": "mythical",
+    "team": "81"
+  },
+  "12077": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zont1x (Holo) | Singapore 2026",
+    "player": "1035615149",
+    "rarity": "legendary",
+    "team": "81"
+  },
+  "12078": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zont1x (Gold) | Singapore 2026",
+    "player": "1035615149",
+    "rarity": "ancient",
+    "team": "81"
+  },
+  "12079": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Boombl4 | Singapore 2026",
+    "player": "185941338",
+    "rarity": "rare",
+    "team": "152"
+  },
   "1208": {
     "containers": [
       "4208"
@@ -22681,6 +25576,126 @@
     "rarity": "legendary",
     "team": "12"
   },
+  "12080": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Boombl4 (Foil) | Singapore 2026",
+    "player": "185941338",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "12081": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Boombl4 (Holo) | Singapore 2026",
+    "player": "185941338",
+    "rarity": "legendary",
+    "team": "152"
+  },
+  "12082": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Boombl4 (Gold) | Singapore 2026",
+    "player": "185941338",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "12083": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "d1Ledez | Singapore 2026",
+    "player": "899162551",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "12084": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "d1Ledez (Foil) | Singapore 2026",
+    "player": "899162551",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "12085": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "d1Ledez (Holo) | Singapore 2026",
+    "player": "899162551",
+    "rarity": "legendary",
+    "team": "152"
+  },
+  "12086": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "d1Ledez (Gold) | Singapore 2026",
+    "player": "899162551",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "12087": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magnojez | Singapore 2026",
+    "player": "411757486",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "12088": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magnojez (Foil) | Singapore 2026",
+    "player": "411757486",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "12089": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magnojez (Holo) | Singapore 2026",
+    "player": "411757486",
+    "rarity": "legendary",
+    "team": "152"
+  },
   "1209": {
     "event": "9",
     "kind": "sticker",
@@ -22688,6 +25703,126 @@
     "player": "59062744",
     "rarity": "legendary",
     "team": "12"
+  },
+  "12090": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magnojez (Gold) | Singapore 2026",
+    "player": "411757486",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "12091": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "S1ren | Singapore 2026",
+    "player": "207519341",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "12092": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "S1ren (Foil) | Singapore 2026",
+    "player": "207519341",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "12093": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "S1ren (Holo) | Singapore 2026",
+    "player": "207519341",
+    "rarity": "legendary",
+    "team": "152"
+  },
+  "12094": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "S1ren (Gold) | Singapore 2026",
+    "player": "207519341",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "12095": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zorte | Singapore 2026",
+    "player": "99348674",
+    "rarity": "rare",
+    "team": "152"
+  },
+  "12096": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zorte (Foil) | Singapore 2026",
+    "player": "99348674",
+    "rarity": "mythical",
+    "team": "152"
+  },
+  "12097": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zorte (Holo) | Singapore 2026",
+    "player": "99348674",
+    "rarity": "legendary",
+    "team": "152"
+  },
+  "12098": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zorte (Gold) | Singapore 2026",
+    "player": "99348674",
+    "rarity": "ancient",
+    "team": "152"
+  },
+  "12099": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "karrigan | Singapore 2026",
+    "player": "29164525",
+    "rarity": "rare",
+    "team": "139"
   },
   "121": {
     "containers": [
@@ -22708,6 +25843,126 @@
     "rarity": "rare",
     "team": "1"
   },
+  "12100": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "karrigan (Foil) | Singapore 2026",
+    "player": "29164525",
+    "rarity": "mythical",
+    "team": "139"
+  },
+  "12101": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "karrigan (Holo) | Singapore 2026",
+    "player": "29164525",
+    "rarity": "legendary",
+    "team": "139"
+  },
+  "12102": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "karrigan (Gold) | Singapore 2026",
+    "player": "29164525",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "12103": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyousuke | Singapore 2026",
+    "player": "1071740496",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "12104": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyousuke (Foil) | Singapore 2026",
+    "player": "1071740496",
+    "rarity": "mythical",
+    "team": "139"
+  },
+  "12105": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyousuke (Holo) | Singapore 2026",
+    "player": "1071740496",
+    "rarity": "legendary",
+    "team": "139"
+  },
+  "12106": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "kyousuke (Gold) | Singapore 2026",
+    "player": "1071740496",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "12107": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "m0NESY | Singapore 2026",
+    "player": "114497073",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "12108": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "m0NESY (Foil) | Singapore 2026",
+    "player": "114497073",
+    "rarity": "mythical",
+    "team": "139"
+  },
+  "12109": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "m0NESY (Holo) | Singapore 2026",
+    "player": "114497073",
+    "rarity": "legendary",
+    "team": "139"
+  },
   "1211": {
     "containers": [
       "4208"
@@ -22719,6 +25974,126 @@
     "rarity": "legendary",
     "team": "1"
   },
+  "12110": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "m0NESY (Gold) | Singapore 2026",
+    "player": "114497073",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "12111": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NiKo | Singapore 2026",
+    "player": "81417650",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "12112": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NiKo (Foil) | Singapore 2026",
+    "player": "81417650",
+    "rarity": "mythical",
+    "team": "139"
+  },
+  "12113": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NiKo (Holo) | Singapore 2026",
+    "player": "81417650",
+    "rarity": "legendary",
+    "team": "139"
+  },
+  "12114": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NiKo (Gold) | Singapore 2026",
+    "player": "81417650",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "12115": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TeSeS | Singapore 2026",
+    "player": "36412550",
+    "rarity": "rare",
+    "team": "139"
+  },
+  "12116": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TeSeS (Foil) | Singapore 2026",
+    "player": "36412550",
+    "rarity": "mythical",
+    "team": "139"
+  },
+  "12117": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TeSeS (Holo) | Singapore 2026",
+    "player": "36412550",
+    "rarity": "legendary",
+    "team": "139"
+  },
+  "12118": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TeSeS (Gold) | Singapore 2026",
+    "player": "36412550",
+    "rarity": "ancient",
+    "team": "139"
+  },
+  "12119": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cmtry | Singapore 2026",
+    "player": "1353702531",
+    "rarity": "rare",
+    "team": "145"
+  },
   "1212": {
     "event": "9",
     "kind": "sticker",
@@ -22726,6 +26101,126 @@
     "player": "57312567",
     "rarity": "legendary",
     "team": "1"
+  },
+  "12120": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cmtry (Foil) | Singapore 2026",
+    "player": "1353702531",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "12121": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cmtry (Holo) | Singapore 2026",
+    "player": "1353702531",
+    "rarity": "legendary",
+    "team": "145"
+  },
+  "12122": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cmtry (Gold) | Singapore 2026",
+    "player": "1353702531",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "12123": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dem0n | Singapore 2026",
+    "player": "915367451",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "12124": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dem0n (Foil) | Singapore 2026",
+    "player": "915367451",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "12125": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dem0n (Holo) | Singapore 2026",
+    "player": "915367451",
+    "rarity": "legendary",
+    "team": "145"
+  },
+  "12126": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dem0n (Gold) | Singapore 2026",
+    "player": "915367451",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "12127": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dziugss | Singapore 2026",
+    "player": "1140460110",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "12128": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dziugss (Foil) | Singapore 2026",
+    "player": "1140460110",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "12129": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dziugss (Holo) | Singapore 2026",
+    "player": "1140460110",
+    "rarity": "legendary",
+    "team": "145"
   },
   "1213": {
     "containers": [
@@ -22738,6 +26233,126 @@
     "rarity": "rare",
     "team": "1"
   },
+  "12130": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dziugss (Gold) | Singapore 2026",
+    "player": "1140460110",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "12131": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krabeni | Singapore 2026",
+    "player": "1031012697",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "12132": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krabeni (Foil) | Singapore 2026",
+    "player": "1031012697",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "12133": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krabeni (Holo) | Singapore 2026",
+    "player": "1031012697",
+    "rarity": "legendary",
+    "team": "145"
+  },
+  "12134": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krabeni (Gold) | Singapore 2026",
+    "player": "1031012697",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "12135": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xfl0ud | Singapore 2026",
+    "player": "217943381",
+    "rarity": "rare",
+    "team": "145"
+  },
+  "12136": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xfl0ud (Foil) | Singapore 2026",
+    "player": "217943381",
+    "rarity": "mythical",
+    "team": "145"
+  },
+  "12137": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xfl0ud (Holo) | Singapore 2026",
+    "player": "217943381",
+    "rarity": "legendary",
+    "team": "145"
+  },
+  "12138": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xfl0ud (Gold) | Singapore 2026",
+    "player": "217943381",
+    "rarity": "ancient",
+    "team": "145"
+  },
+  "12139": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "arT | Singapore 2026",
+    "player": "83503844",
+    "rarity": "rare",
+    "team": "126"
+  },
   "1214": {
     "containers": [
       "4208"
@@ -22749,6 +26364,126 @@
     "rarity": "legendary",
     "team": "1"
   },
+  "12140": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "arT (Foil) | Singapore 2026",
+    "player": "83503844",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "12141": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "arT (Holo) | Singapore 2026",
+    "player": "83503844",
+    "rarity": "legendary",
+    "team": "126"
+  },
+  "12142": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "arT (Gold) | Singapore 2026",
+    "player": "83503844",
+    "rarity": "ancient",
+    "team": "126"
+  },
+  "12143": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dumau | Singapore 2026",
+    "player": "234059589",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "12144": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dumau (Foil) | Singapore 2026",
+    "player": "234059589",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "12145": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dumau (Holo) | Singapore 2026",
+    "player": "234059589",
+    "rarity": "legendary",
+    "team": "126"
+  },
+  "12146": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dumau (Gold) | Singapore 2026",
+    "player": "234059589",
+    "rarity": "ancient",
+    "team": "126"
+  },
+  "12147": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "latto | Singapore 2026",
+    "player": "889754458",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "12148": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "latto (Foil) | Singapore 2026",
+    "player": "889754458",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "12149": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "latto (Holo) | Singapore 2026",
+    "player": "889754458",
+    "rarity": "legendary",
+    "team": "126"
+  },
   "1215": {
     "event": "9",
     "kind": "sticker",
@@ -22756,6 +26491,126 @@
     "player": "93724",
     "rarity": "legendary",
     "team": "1"
+  },
+  "12150": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "latto (Gold) | Singapore 2026",
+    "player": "889754458",
+    "rarity": "ancient",
+    "team": "126"
+  },
+  "12151": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "n1ssim | Singapore 2026",
+    "player": "101497868",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "12152": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "n1ssim (Foil) | Singapore 2026",
+    "player": "101497868",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "12153": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "n1ssim (Holo) | Singapore 2026",
+    "player": "101497868",
+    "rarity": "legendary",
+    "team": "126"
+  },
+  "12154": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "n1ssim (Gold) | Singapore 2026",
+    "player": "101497868",
+    "rarity": "ancient",
+    "team": "126"
+  },
+  "12155": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TRY | Singapore 2026",
+    "player": "404852560",
+    "rarity": "rare",
+    "team": "126"
+  },
+  "12156": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TRY (Foil) | Singapore 2026",
+    "player": "404852560",
+    "rarity": "mythical",
+    "team": "126"
+  },
+  "12157": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TRY (Holo) | Singapore 2026",
+    "player": "404852560",
+    "rarity": "legendary",
+    "team": "126"
+  },
+  "12158": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "TRY (Gold) | Singapore 2026",
+    "player": "404852560",
+    "rarity": "ancient",
+    "team": "126"
+  },
+  "12159": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KaiR0N- | Singapore 2026",
+    "player": "196885990",
+    "rarity": "rare",
+    "team": "107"
   },
   "1216": {
     "containers": [
@@ -22768,6 +26623,126 @@
     "rarity": "rare",
     "team": "1"
   },
+  "12160": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KaiR0N- (Foil) | Singapore 2026",
+    "player": "196885990",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "12161": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KaiR0N- (Holo) | Singapore 2026",
+    "player": "196885990",
+    "rarity": "legendary",
+    "team": "107"
+  },
+  "12162": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "KaiR0N- (Gold) | Singapore 2026",
+    "player": "196885990",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "12163": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "khaN | Singapore 2026",
+    "player": "991201920",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "12164": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "khaN (Foil) | Singapore 2026",
+    "player": "991201920",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "12165": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "khaN (Holo) | Singapore 2026",
+    "player": "991201920",
+    "rarity": "legendary",
+    "team": "107"
+  },
+  "12166": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "khaN (Gold) | Singapore 2026",
+    "player": "991201920",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "12167": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "robo | Singapore 2026",
+    "player": "1160446281",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "12168": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "robo (Foil) | Singapore 2026",
+    "player": "1160446281",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "12169": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "robo (Holo) | Singapore 2026",
+    "player": "1160446281",
+    "rarity": "legendary",
+    "team": "107"
+  },
   "1217": {
     "containers": [
       "4208"
@@ -22779,6 +26754,126 @@
     "rarity": "legendary",
     "team": "1"
   },
+  "12170": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "robo (Gold) | Singapore 2026",
+    "player": "1160446281",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "12171": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "syph0 | Singapore 2026",
+    "player": "449277787",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "12172": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "syph0 (Foil) | Singapore 2026",
+    "player": "449277787",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "12173": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "syph0 (Holo) | Singapore 2026",
+    "player": "449277787",
+    "rarity": "legendary",
+    "team": "107"
+  },
+  "12174": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "syph0 (Gold) | Singapore 2026",
+    "player": "449277787",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "12175": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Xant3r | Singapore 2026",
+    "player": "879040137",
+    "rarity": "rare",
+    "team": "107"
+  },
+  "12176": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Xant3r (Foil) | Singapore 2026",
+    "player": "879040137",
+    "rarity": "mythical",
+    "team": "107"
+  },
+  "12177": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Xant3r (Holo) | Singapore 2026",
+    "player": "879040137",
+    "rarity": "legendary",
+    "team": "107"
+  },
+  "12178": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Xant3r (Gold) | Singapore 2026",
+    "player": "879040137",
+    "rarity": "ancient",
+    "team": "107"
+  },
+  "12179": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Heavygod | Singapore 2026",
+    "player": "107737265",
+    "rarity": "rare",
+    "team": "59"
+  },
   "1218": {
     "event": "9",
     "kind": "sticker",
@@ -22786,6 +26881,126 @@
     "player": "24295201",
     "rarity": "legendary",
     "team": "1"
+  },
+  "12180": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Heavygod (Foil) | Singapore 2026",
+    "player": "107737265",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "12181": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Heavygod (Holo) | Singapore 2026",
+    "player": "107737265",
+    "rarity": "legendary",
+    "team": "59"
+  },
+  "12182": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Heavygod (Gold) | Singapore 2026",
+    "player": "107737265",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "12183": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "huNter- | Singapore 2026",
+    "player": "52606325",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "12184": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "huNter- (Foil) | Singapore 2026",
+    "player": "52606325",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "12185": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "huNter- (Holo) | Singapore 2026",
+    "player": "52606325",
+    "rarity": "legendary",
+    "team": "59"
+  },
+  "12186": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "huNter- (Gold) | Singapore 2026",
+    "player": "52606325",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "12187": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MATYS | Singapore 2026",
+    "player": "1086212773",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "12188": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MATYS (Foil) | Singapore 2026",
+    "player": "1086212773",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "12189": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MATYS (Holo) | Singapore 2026",
+    "player": "1086212773",
+    "rarity": "legendary",
+    "team": "59"
   },
   "1219": {
     "containers": [
@@ -22797,6 +27012,126 @@
     "player": "21771190",
     "rarity": "rare",
     "team": "1"
+  },
+  "12190": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MATYS (Gold) | Singapore 2026",
+    "player": "1086212773",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "12191": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NertZ | Singapore 2026",
+    "player": "92860917",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "12192": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NertZ (Foil) | Singapore 2026",
+    "player": "92860917",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "12193": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NertZ (Holo) | Singapore 2026",
+    "player": "92860917",
+    "rarity": "legendary",
+    "team": "59"
+  },
+  "12194": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NertZ (Gold) | Singapore 2026",
+    "player": "92860917",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "12195": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "r1nkle | Singapore 2026",
+    "player": "334115362",
+    "rarity": "rare",
+    "team": "59"
+  },
+  "12196": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "r1nkle (Foil) | Singapore 2026",
+    "player": "334115362",
+    "rarity": "mythical",
+    "team": "59"
+  },
+  "12197": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "r1nkle (Holo) | Singapore 2026",
+    "player": "334115362",
+    "rarity": "legendary",
+    "team": "59"
+  },
+  "12198": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "r1nkle (Gold) | Singapore 2026",
+    "player": "334115362",
+    "rarity": "ancient",
+    "team": "59"
+  },
+  "12199": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ArtFr0st | Singapore 2026",
+    "player": "196512686",
+    "rarity": "rare",
+    "team": "149"
   },
   "122": {
     "containers": [
@@ -22819,6 +27154,126 @@
     "rarity": "legendary",
     "team": "1"
   },
+  "12200": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ArtFr0st (Foil) | Singapore 2026",
+    "player": "196512686",
+    "rarity": "mythical",
+    "team": "149"
+  },
+  "12201": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ArtFr0st (Holo) | Singapore 2026",
+    "player": "196512686",
+    "rarity": "legendary",
+    "team": "149"
+  },
+  "12202": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ArtFr0st (Gold) | Singapore 2026",
+    "player": "196512686",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "12203": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ax1Le | Singapore 2026",
+    "player": "85167576",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "12204": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ax1Le (Foil) | Singapore 2026",
+    "player": "85167576",
+    "rarity": "mythical",
+    "team": "149"
+  },
+  "12205": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ax1Le (Holo) | Singapore 2026",
+    "player": "85167576",
+    "rarity": "legendary",
+    "team": "149"
+  },
+  "12206": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Ax1Le (Gold) | Singapore 2026",
+    "player": "85167576",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "12207": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BELCHONOKK | Singapore 2026",
+    "player": "293404789",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "12208": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BELCHONOKK (Foil) | Singapore 2026",
+    "player": "293404789",
+    "rarity": "mythical",
+    "team": "149"
+  },
+  "12209": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BELCHONOKK (Holo) | Singapore 2026",
+    "player": "293404789",
+    "rarity": "legendary",
+    "team": "149"
+  },
   "1221": {
     "event": "9",
     "kind": "sticker",
@@ -22826,6 +27281,126 @@
     "player": "21771190",
     "rarity": "legendary",
     "team": "1"
+  },
+  "12210": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "BELCHONOKK (Gold) | Singapore 2026",
+    "player": "293404789",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "12211": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fame | Singapore 2026",
+    "player": "119848818",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "12212": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fame (Foil) | Singapore 2026",
+    "player": "119848818",
+    "rarity": "mythical",
+    "team": "149"
+  },
+  "12213": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fame (Holo) | Singapore 2026",
+    "player": "119848818",
+    "rarity": "legendary",
+    "team": "149"
+  },
+  "12214": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fame (Gold) | Singapore 2026",
+    "player": "119848818",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "12215": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nafany | Singapore 2026",
+    "player": "99448400",
+    "rarity": "rare",
+    "team": "149"
+  },
+  "12216": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nafany (Foil) | Singapore 2026",
+    "player": "99448400",
+    "rarity": "mythical",
+    "team": "149"
+  },
+  "12217": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nafany (Holo) | Singapore 2026",
+    "player": "99448400",
+    "rarity": "legendary",
+    "team": "149"
+  },
+  "12218": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nafany (Gold) | Singapore 2026",
+    "player": "99448400",
+    "rarity": "ancient",
+    "team": "149"
+  },
+  "12219": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aleksib | Singapore 2026",
+    "player": "52977598",
+    "rarity": "rare",
+    "team": "12"
   },
   "1222": {
     "containers": [
@@ -22838,6 +27413,126 @@
     "rarity": "rare",
     "team": "1"
   },
+  "12220": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aleksib (Foil) | Singapore 2026",
+    "player": "52977598",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "12221": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aleksib (Holo) | Singapore 2026",
+    "player": "52977598",
+    "rarity": "legendary",
+    "team": "12"
+  },
+  "12222": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Aleksib (Gold) | Singapore 2026",
+    "player": "52977598",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "12223": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "b1t | Singapore 2026",
+    "player": "286341748",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "12224": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "b1t (Foil) | Singapore 2026",
+    "player": "286341748",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "12225": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "b1t (Holo) | Singapore 2026",
+    "player": "286341748",
+    "rarity": "legendary",
+    "team": "12"
+  },
+  "12226": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "b1t (Gold) | Singapore 2026",
+    "player": "286341748",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "12227": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "iM | Singapore 2026",
+    "player": "89984505",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "12228": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "iM (Foil) | Singapore 2026",
+    "player": "89984505",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "12229": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "iM (Holo) | Singapore 2026",
+    "player": "89984505",
+    "rarity": "legendary",
+    "team": "12"
+  },
   "1223": {
     "containers": [
       "4208"
@@ -22849,6 +27544,126 @@
     "rarity": "legendary",
     "team": "1"
   },
+  "12230": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "iM (Gold) | Singapore 2026",
+    "player": "89984505",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "12231": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "makazze | Singapore 2026",
+    "player": "1115923884",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "12232": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "makazze (Foil) | Singapore 2026",
+    "player": "1115923884",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "12233": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "makazze (Holo) | Singapore 2026",
+    "player": "1115923884",
+    "rarity": "legendary",
+    "team": "12"
+  },
+  "12234": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "makazze (Gold) | Singapore 2026",
+    "player": "1115923884",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "12235": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "w0nderful | Singapore 2026",
+    "player": "1102803112",
+    "rarity": "rare",
+    "team": "12"
+  },
+  "12236": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "w0nderful (Foil) | Singapore 2026",
+    "player": "1102803112",
+    "rarity": "mythical",
+    "team": "12"
+  },
+  "12237": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "w0nderful (Holo) | Singapore 2026",
+    "player": "1102803112",
+    "rarity": "legendary",
+    "team": "12"
+  },
+  "12238": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "w0nderful (Gold) | Singapore 2026",
+    "player": "1102803112",
+    "rarity": "ancient",
+    "team": "12"
+  },
+  "12239": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jabbi | Singapore 2026",
+    "player": "160291620",
+    "rarity": "rare",
+    "team": "60"
+  },
   "1224": {
     "event": "9",
     "kind": "sticker",
@@ -22856,6 +27671,126 @@
     "player": "26224992",
     "rarity": "legendary",
     "team": "1"
+  },
+  "12240": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jabbi (Foil) | Singapore 2026",
+    "player": "160291620",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "12241": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jabbi (Holo) | Singapore 2026",
+    "player": "160291620",
+    "rarity": "legendary",
+    "team": "60"
+  },
+  "12242": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jabbi (Gold) | Singapore 2026",
+    "player": "160291620",
+    "rarity": "ancient",
+    "team": "60"
+  },
+  "12243": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "phzy | Singapore 2026",
+    "player": "447933315",
+    "rarity": "rare",
+    "team": "60"
+  },
+  "12244": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "phzy (Foil) | Singapore 2026",
+    "player": "447933315",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "12245": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "phzy (Holo) | Singapore 2026",
+    "player": "447933315",
+    "rarity": "legendary",
+    "team": "60"
+  },
+  "12246": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "phzy (Gold) | Singapore 2026",
+    "player": "447933315",
+    "rarity": "ancient",
+    "team": "60"
+  },
+  "12247": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ryu | Singapore 2026",
+    "player": "208135644",
+    "rarity": "rare",
+    "team": "60"
+  },
+  "12248": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ryu (Foil) | Singapore 2026",
+    "player": "208135644",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "12249": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ryu (Holo) | Singapore 2026",
+    "player": "208135644",
+    "rarity": "legendary",
+    "team": "60"
   },
   "1225": {
     "containers": [
@@ -22868,6 +27803,126 @@
     "rarity": "rare",
     "team": "62"
   },
+  "12250": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ryu (Gold) | Singapore 2026",
+    "player": "208135644",
+    "rarity": "ancient",
+    "team": "60"
+  },
+  "12251": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "siuhy | Singapore 2026",
+    "player": "190407632",
+    "rarity": "rare",
+    "team": "60"
+  },
+  "12252": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "siuhy (Foil) | Singapore 2026",
+    "player": "190407632",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "12253": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "siuhy (Holo) | Singapore 2026",
+    "player": "190407632",
+    "rarity": "legendary",
+    "team": "60"
+  },
+  "12254": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "siuhy (Gold) | Singapore 2026",
+    "player": "190407632",
+    "rarity": "ancient",
+    "team": "60"
+  },
+  "12255": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Staehr | Singapore 2026",
+    "player": "44842089",
+    "rarity": "rare",
+    "team": "60"
+  },
+  "12256": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Staehr (Foil) | Singapore 2026",
+    "player": "44842089",
+    "rarity": "mythical",
+    "team": "60"
+  },
+  "12257": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Staehr (Holo) | Singapore 2026",
+    "player": "44842089",
+    "rarity": "legendary",
+    "team": "60"
+  },
+  "12258": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Staehr (Gold) | Singapore 2026",
+    "player": "44842089",
+    "rarity": "ancient",
+    "team": "60"
+  },
+  "12259": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "adamb | Singapore 2026",
+    "player": "890801811",
+    "rarity": "rare",
+    "team": "1"
+  },
   "1226": {
     "containers": [
       "4207"
@@ -22879,6 +27934,126 @@
     "rarity": "legendary",
     "team": "62"
   },
+  "12260": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "adamb (Foil) | Singapore 2026",
+    "player": "890801811",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "12261": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "adamb (Holo) | Singapore 2026",
+    "player": "890801811",
+    "rarity": "legendary",
+    "team": "1"
+  },
+  "12262": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "adamb (Gold) | Singapore 2026",
+    "player": "890801811",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "12263": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krimbo | Singapore 2026",
+    "player": "210365363",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "12264": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krimbo (Foil) | Singapore 2026",
+    "player": "210365363",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "12265": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krimbo (Holo) | Singapore 2026",
+    "player": "210365363",
+    "rarity": "legendary",
+    "team": "1"
+  },
+  "12266": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Krimbo (Gold) | Singapore 2026",
+    "player": "210365363",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "12267": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sjuush | Singapore 2026",
+    "player": "200443857",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "12268": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sjuush (Foil) | Singapore 2026",
+    "player": "200443857",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "12269": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sjuush (Holo) | Singapore 2026",
+    "player": "200443857",
+    "rarity": "legendary",
+    "team": "1"
+  },
   "1227": {
     "event": "9",
     "kind": "sticker",
@@ -22886,6 +28061,126 @@
     "player": "24868593",
     "rarity": "legendary",
     "team": "62"
+  },
+  "12270": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sjuush (Gold) | Singapore 2026",
+    "player": "200443857",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "12271": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "stavn | Singapore 2026",
+    "player": "62099910",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "12272": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "stavn (Foil) | Singapore 2026",
+    "player": "62099910",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "12273": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "stavn (Holo) | Singapore 2026",
+    "player": "62099910",
+    "rarity": "legendary",
+    "team": "1"
+  },
+  "12274": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "stavn (Gold) | Singapore 2026",
+    "player": "62099910",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "12275": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xKacpersky | Singapore 2026",
+    "player": "402698604",
+    "rarity": "rare",
+    "team": "1"
+  },
+  "12276": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xKacpersky (Foil) | Singapore 2026",
+    "player": "402698604",
+    "rarity": "mythical",
+    "team": "1"
+  },
+  "12277": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xKacpersky (Holo) | Singapore 2026",
+    "player": "402698604",
+    "rarity": "legendary",
+    "team": "1"
+  },
+  "12278": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xKacpersky (Gold) | Singapore 2026",
+    "player": "402698604",
+    "rarity": "ancient",
+    "team": "1"
+  },
+  "12279": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "910 | Singapore 2026",
+    "player": "1243297617",
+    "rarity": "rare",
+    "team": "122"
   },
   "1228": {
     "containers": [
@@ -22898,6 +28193,126 @@
     "rarity": "rare",
     "team": "62"
   },
+  "12280": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "910 (Foil) | Singapore 2026",
+    "player": "1243297617",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "12281": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "910 (Holo) | Singapore 2026",
+    "player": "1243297617",
+    "rarity": "legendary",
+    "team": "122"
+  },
+  "12282": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "910 (Gold) | Singapore 2026",
+    "player": "1243297617",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "12283": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "bLitz | Singapore 2026",
+    "player": "999558360",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "12284": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "bLitz (Foil) | Singapore 2026",
+    "player": "999558360",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "12285": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "bLitz (Holo) | Singapore 2026",
+    "player": "999558360",
+    "rarity": "legendary",
+    "team": "122"
+  },
+  "12286": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "bLitz (Gold) | Singapore 2026",
+    "player": "999558360",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "12287": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cobra | Singapore 2026",
+    "player": "1470606075",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "12288": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cobra (Foil) | Singapore 2026",
+    "player": "1470606075",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "12289": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cobra (Holo) | Singapore 2026",
+    "player": "1470606075",
+    "rarity": "legendary",
+    "team": "122"
+  },
   "1229": {
     "containers": [
       "4207"
@@ -22908,6 +28323,126 @@
     "player": "411777",
     "rarity": "legendary",
     "team": "62"
+  },
+  "12290": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cobra (Gold) | Singapore 2026",
+    "player": "1470606075",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "12291": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nin9 | Singapore 2026",
+    "player": "168197870",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "12292": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nin9 (Foil) | Singapore 2026",
+    "player": "168197870",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "12293": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nin9 (Holo) | Singapore 2026",
+    "player": "168197870",
+    "rarity": "legendary",
+    "team": "122"
+  },
+  "12294": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nin9 (Gold) | Singapore 2026",
+    "player": "168197870",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "12295": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Techno4K | Singapore 2026",
+    "player": "1006074432",
+    "rarity": "rare",
+    "team": "122"
+  },
+  "12296": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Techno4K (Foil) | Singapore 2026",
+    "player": "1006074432",
+    "rarity": "mythical",
+    "team": "122"
+  },
+  "12297": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Techno4K (Holo) | Singapore 2026",
+    "player": "1006074432",
+    "rarity": "legendary",
+    "team": "122"
+  },
+  "12298": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Techno4K (Gold) | Singapore 2026",
+    "player": "1006074432",
+    "rarity": "ancient",
+    "team": "122"
+  },
+  "12299": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FL1T | Singapore 2026",
+    "player": "35551773",
+    "rarity": "rare",
+    "team": "153"
   },
   "123": {
     "containers": [
@@ -22927,6 +28462,126 @@
     "rarity": "legendary",
     "team": "62"
   },
+  "12300": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FL1T (Foil) | Singapore 2026",
+    "player": "35551773",
+    "rarity": "mythical",
+    "team": "153"
+  },
+  "12301": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FL1T (Holo) | Singapore 2026",
+    "player": "35551773",
+    "rarity": "legendary",
+    "team": "153"
+  },
+  "12302": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "FL1T (Gold) | Singapore 2026",
+    "player": "35551773",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "12303": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Hobbit | Singapore 2026",
+    "player": "68027030",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "12304": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Hobbit (Foil) | Singapore 2026",
+    "player": "68027030",
+    "rarity": "mythical",
+    "team": "153"
+  },
+  "12305": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Hobbit (Holo) | Singapore 2026",
+    "player": "68027030",
+    "rarity": "legendary",
+    "team": "153"
+  },
+  "12306": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Hobbit (Gold) | Singapore 2026",
+    "player": "68027030",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "12307": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jame | Singapore 2026",
+    "player": "75859856",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "12308": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jame (Foil) | Singapore 2026",
+    "player": "75859856",
+    "rarity": "mythical",
+    "team": "153"
+  },
+  "12309": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jame (Holo) | Singapore 2026",
+    "player": "75859856",
+    "rarity": "legendary",
+    "team": "153"
+  },
   "1231": {
     "containers": [
       "4210"
@@ -22937,6 +28592,126 @@
     "player": "2029235",
     "rarity": "rare",
     "team": "62"
+  },
+  "12310": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jame (Gold) | Singapore 2026",
+    "player": "75859856",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "12311": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xiELO | Singapore 2026",
+    "player": "181006324",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "12312": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xiELO (Foil) | Singapore 2026",
+    "player": "181006324",
+    "rarity": "mythical",
+    "team": "153"
+  },
+  "12313": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xiELO (Holo) | Singapore 2026",
+    "player": "181006324",
+    "rarity": "legendary",
+    "team": "153"
+  },
+  "12314": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "xiELO (Gold) | Singapore 2026",
+    "player": "181006324",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "12315": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zweih | Singapore 2026",
+    "player": "250361011",
+    "rarity": "rare",
+    "team": "153"
+  },
+  "12316": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zweih (Foil) | Singapore 2026",
+    "player": "250361011",
+    "rarity": "mythical",
+    "team": "153"
+  },
+  "12317": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zweih (Holo) | Singapore 2026",
+    "player": "250361011",
+    "rarity": "legendary",
+    "team": "153"
+  },
+  "12318": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "zweih (Gold) | Singapore 2026",
+    "player": "250361011",
+    "rarity": "ancient",
+    "team": "153"
+  },
+  "12319": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Brollan | Singapore 2026",
+    "player": "178562747",
+    "rarity": "rare",
+    "team": "95"
   },
   "1232": {
     "containers": [
@@ -22949,6 +28724,126 @@
     "rarity": "legendary",
     "team": "62"
   },
+  "12320": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Brollan (Foil) | Singapore 2026",
+    "player": "178562747",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "12321": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Brollan (Holo) | Singapore 2026",
+    "player": "178562747",
+    "rarity": "legendary",
+    "team": "95"
+  },
+  "12322": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Brollan (Gold) | Singapore 2026",
+    "player": "178562747",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "12323": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chr1zN | Singapore 2026",
+    "player": "332333072",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "12324": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chr1zN (Foil) | Singapore 2026",
+    "player": "332333072",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "12325": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chr1zN (Holo) | Singapore 2026",
+    "player": "332333072",
+    "rarity": "legendary",
+    "team": "95"
+  },
+  "12326": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Chr1zN (Gold) | Singapore 2026",
+    "player": "332333072",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "12327": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MartinezSa | Singapore 2026",
+    "player": "409820733",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "12328": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MartinezSa (Foil) | Singapore 2026",
+    "player": "409820733",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "12329": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MartinezSa (Holo) | Singapore 2026",
+    "player": "409820733",
+    "rarity": "legendary",
+    "team": "95"
+  },
   "1233": {
     "event": "9",
     "kind": "sticker",
@@ -22956,6 +28851,126 @@
     "player": "2029235",
     "rarity": "legendary",
     "team": "62"
+  },
+  "12330": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MartinezSa (Gold) | Singapore 2026",
+    "player": "409820733",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "12331": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nilo | Singapore 2026",
+    "player": "200790839",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "12332": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nilo (Foil) | Singapore 2026",
+    "player": "200790839",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "12333": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nilo (Holo) | Singapore 2026",
+    "player": "200790839",
+    "rarity": "legendary",
+    "team": "95"
+  },
+  "12334": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nilo (Gold) | Singapore 2026",
+    "player": "200790839",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "12335": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "susp | Singapore 2026",
+    "player": "382452440",
+    "rarity": "rare",
+    "team": "95"
+  },
+  "12336": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "susp (Foil) | Singapore 2026",
+    "player": "382452440",
+    "rarity": "mythical",
+    "team": "95"
+  },
+  "12337": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "susp (Holo) | Singapore 2026",
+    "player": "382452440",
+    "rarity": "legendary",
+    "team": "95"
+  },
+  "12338": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "susp (Gold) | Singapore 2026",
+    "player": "382452440",
+    "rarity": "ancient",
+    "team": "95"
+  },
+  "12339": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "insani | Singapore 2026",
+    "player": "101158002",
+    "rarity": "rare",
+    "team": "80"
   },
   "1234": {
     "containers": [
@@ -22968,6 +28983,126 @@
     "rarity": "rare",
     "team": "62"
   },
+  "12340": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "insani (Foil) | Singapore 2026",
+    "player": "101158002",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "12341": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "insani (Holo) | Singapore 2026",
+    "player": "101158002",
+    "rarity": "legendary",
+    "team": "80"
+  },
+  "12342": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "insani (Gold) | Singapore 2026",
+    "player": "101158002",
+    "rarity": "ancient",
+    "team": "80"
+  },
+  "12343": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "LNZ | Singapore 2026",
+    "player": "144361165",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "12344": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "LNZ (Foil) | Singapore 2026",
+    "player": "144361165",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "12345": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "LNZ (Holo) | Singapore 2026",
+    "player": "144361165",
+    "rarity": "legendary",
+    "team": "80"
+  },
+  "12346": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "LNZ (Gold) | Singapore 2026",
+    "player": "144361165",
+    "rarity": "ancient",
+    "team": "80"
+  },
+  "12347": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NQZ | Singapore 2026",
+    "player": "390076777",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "12348": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NQZ (Foil) | Singapore 2026",
+    "player": "390076777",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "12349": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NQZ (Holo) | Singapore 2026",
+    "player": "390076777",
+    "rarity": "legendary",
+    "team": "80"
+  },
   "1235": {
     "containers": [
       "4207"
@@ -22979,6 +29114,126 @@
     "rarity": "legendary",
     "team": "62"
   },
+  "12350": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NQZ (Gold) | Singapore 2026",
+    "player": "390076777",
+    "rarity": "ancient",
+    "team": "80"
+  },
+  "12351": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tomaszin | Singapore 2026",
+    "player": "462168316",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "12352": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tomaszin (Foil) | Singapore 2026",
+    "player": "462168316",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "12353": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tomaszin (Holo) | Singapore 2026",
+    "player": "462168316",
+    "rarity": "legendary",
+    "team": "80"
+  },
+  "12354": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tomaszin (Gold) | Singapore 2026",
+    "player": "462168316",
+    "rarity": "ancient",
+    "team": "80"
+  },
+  "12355": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "venomzera | Singapore 2026",
+    "player": "257999525",
+    "rarity": "rare",
+    "team": "80"
+  },
+  "12356": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "venomzera (Foil) | Singapore 2026",
+    "player": "257999525",
+    "rarity": "mythical",
+    "team": "80"
+  },
+  "12357": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "venomzera (Holo) | Singapore 2026",
+    "player": "257999525",
+    "rarity": "legendary",
+    "team": "80"
+  },
+  "12358": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "venomzera (Gold) | Singapore 2026",
+    "player": "257999525",
+    "rarity": "ancient",
+    "team": "80"
+  },
+  "12359": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "frozen | Singapore 2026",
+    "player": "108157034",
+    "rarity": "rare",
+    "team": "61"
+  },
   "1236": {
     "event": "9",
     "kind": "sticker",
@@ -22986,6 +29241,126 @@
     "player": "100534297",
     "rarity": "legendary",
     "team": "62"
+  },
+  "12360": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "frozen (Foil) | Singapore 2026",
+    "player": "108157034",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "12361": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "frozen (Holo) | Singapore 2026",
+    "player": "108157034",
+    "rarity": "legendary",
+    "team": "61"
+  },
+  "12362": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "frozen (Gold) | Singapore 2026",
+    "player": "108157034",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "12363": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBOEN | Singapore 2026",
+    "player": "55872799",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "12364": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBOEN (Foil) | Singapore 2026",
+    "player": "55872799",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "12365": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBOEN (Holo) | Singapore 2026",
+    "player": "55872799",
+    "rarity": "legendary",
+    "team": "61"
+  },
+  "12366": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBOEN (Gold) | Singapore 2026",
+    "player": "55872799",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "12367": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jcobbb | Singapore 2026",
+    "player": "218471701",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "12368": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jcobbb (Foil) | Singapore 2026",
+    "player": "218471701",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "12369": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jcobbb (Holo) | Singapore 2026",
+    "player": "218471701",
+    "rarity": "legendary",
+    "team": "61"
   },
   "1237": {
     "containers": [
@@ -22998,6 +29373,126 @@
     "rarity": "rare",
     "team": "62"
   },
+  "12370": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jcobbb (Gold) | Singapore 2026",
+    "player": "218471701",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "12371": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Neityu | Singapore 2026",
+    "player": "1011452664",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "12372": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Neityu (Foil) | Singapore 2026",
+    "player": "1011452664",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "12373": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Neityu (Holo) | Singapore 2026",
+    "player": "1011452664",
+    "rarity": "legendary",
+    "team": "61"
+  },
+  "12374": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Neityu (Gold) | Singapore 2026",
+    "player": "1011452664",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "12375": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Twistzz | Singapore 2026",
+    "player": "55989477",
+    "rarity": "rare",
+    "team": "61"
+  },
+  "12376": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Twistzz (Foil) | Singapore 2026",
+    "player": "55989477",
+    "rarity": "mythical",
+    "team": "61"
+  },
+  "12377": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Twistzz (Holo) | Singapore 2026",
+    "player": "55989477",
+    "rarity": "legendary",
+    "team": "61"
+  },
+  "12378": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Twistzz (Gold) | Singapore 2026",
+    "player": "55989477",
+    "rarity": "ancient",
+    "team": "61"
+  },
+  "12379": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EliGE | Singapore 2026",
+    "player": "106428011",
+    "rarity": "rare",
+    "team": "48"
+  },
   "1238": {
     "containers": [
       "4207"
@@ -23009,6 +29504,126 @@
     "rarity": "legendary",
     "team": "62"
   },
+  "12380": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EliGE (Foil) | Singapore 2026",
+    "player": "106428011",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "12381": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EliGE (Holo) | Singapore 2026",
+    "player": "106428011",
+    "rarity": "legendary",
+    "team": "48"
+  },
+  "12382": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EliGE (Gold) | Singapore 2026",
+    "player": "106428011",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "12383": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jorko | Singapore 2026",
+    "player": "218120778",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "12384": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jorko (Foil) | Singapore 2026",
+    "player": "218120778",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "12385": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jorko (Holo) | Singapore 2026",
+    "player": "218120778",
+    "rarity": "legendary",
+    "team": "48"
+  },
+  "12386": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Jorko (Gold) | Singapore 2026",
+    "player": "218120778",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "12387": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JT | Singapore 2026",
+    "player": "61449372",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "12388": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JT (Foil) | Singapore 2026",
+    "player": "61449372",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "12389": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JT (Holo) | Singapore 2026",
+    "player": "61449372",
+    "rarity": "legendary",
+    "team": "48"
+  },
   "1239": {
     "event": "9",
     "kind": "sticker",
@@ -23016,6 +29631,126 @@
     "player": "25060851",
     "rarity": "legendary",
     "team": "62"
+  },
+  "12390": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JT (Gold) | Singapore 2026",
+    "player": "61449372",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "12391": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "malbsMd | Singapore 2026",
+    "player": "120437415",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "12392": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "malbsMd (Foil) | Singapore 2026",
+    "player": "120437415",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "12393": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "malbsMd (Holo) | Singapore 2026",
+    "player": "120437415",
+    "rarity": "legendary",
+    "team": "48"
+  },
+  "12394": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "malbsMd (Gold) | Singapore 2026",
+    "player": "120437415",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "12395": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NAF | Singapore 2026",
+    "player": "40885967",
+    "rarity": "rare",
+    "team": "48"
+  },
+  "12396": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NAF (Foil) | Singapore 2026",
+    "player": "40885967",
+    "rarity": "mythical",
+    "team": "48"
+  },
+  "12397": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NAF (Holo) | Singapore 2026",
+    "player": "40885967",
+    "rarity": "legendary",
+    "team": "48"
+  },
+  "12398": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "NAF (Gold) | Singapore 2026",
+    "player": "40885967",
+    "rarity": "ancient",
+    "team": "48"
+  },
+  "12399": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jottAAA | Singapore 2026",
+    "player": "450484535",
+    "rarity": "rare",
+    "team": "110"
   },
   "124": {
     "containers": [
@@ -23038,6 +29773,126 @@
     "rarity": "rare",
     "team": "48"
   },
+  "12400": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jottAAA (Foil) | Singapore 2026",
+    "player": "450484535",
+    "rarity": "mythical",
+    "team": "110"
+  },
+  "12401": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jottAAA (Holo) | Singapore 2026",
+    "player": "450484535",
+    "rarity": "legendary",
+    "team": "110"
+  },
+  "12402": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jottAAA (Gold) | Singapore 2026",
+    "player": "450484535",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "12403": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Kvem | Singapore 2026",
+    "player": "885170938",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "12404": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Kvem (Foil) | Singapore 2026",
+    "player": "885170938",
+    "rarity": "mythical",
+    "team": "110"
+  },
+  "12405": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Kvem (Holo) | Singapore 2026",
+    "player": "885170938",
+    "rarity": "legendary",
+    "team": "110"
+  },
+  "12406": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Kvem (Gold) | Singapore 2026",
+    "player": "885170938",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "12407": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MisteM | Singapore 2026",
+    "player": "175149890",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "12408": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MisteM (Foil) | Singapore 2026",
+    "player": "175149890",
+    "rarity": "mythical",
+    "team": "110"
+  },
+  "12409": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MisteM (Holo) | Singapore 2026",
+    "player": "175149890",
+    "rarity": "legendary",
+    "team": "110"
+  },
   "1241": {
     "containers": [
       "4207"
@@ -23049,6 +29904,126 @@
     "rarity": "legendary",
     "team": "48"
   },
+  "12410": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "MisteM (Gold) | Singapore 2026",
+    "player": "175149890",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "12411": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "regali | Singapore 2026",
+    "player": "138197501",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "12412": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "regali (Foil) | Singapore 2026",
+    "player": "138197501",
+    "rarity": "mythical",
+    "team": "110"
+  },
+  "12413": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "regali (Holo) | Singapore 2026",
+    "player": "138197501",
+    "rarity": "legendary",
+    "team": "110"
+  },
+  "12414": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "regali (Gold) | Singapore 2026",
+    "player": "138197501",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "12415": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "soulfly | Singapore 2026",
+    "player": "366802450",
+    "rarity": "rare",
+    "team": "110"
+  },
+  "12416": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "soulfly (Foil) | Singapore 2026",
+    "player": "366802450",
+    "rarity": "mythical",
+    "team": "110"
+  },
+  "12417": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "soulfly (Holo) | Singapore 2026",
+    "player": "366802450",
+    "rarity": "legendary",
+    "team": "110"
+  },
+  "12418": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "soulfly (Gold) | Singapore 2026",
+    "player": "366802450",
+    "rarity": "ancient",
+    "team": "110"
+  },
+  "12419": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "device | Singapore 2026",
+    "player": "27447936",
+    "rarity": "rare",
+    "team": "78"
+  },
   "1242": {
     "event": "9",
     "kind": "sticker",
@@ -23056,6 +30031,126 @@
     "player": "1366033",
     "rarity": "legendary",
     "team": "48"
+  },
+  "12420": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "device (Foil) | Singapore 2026",
+    "player": "27447936",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "12421": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "device (Holo) | Singapore 2026",
+    "player": "27447936",
+    "rarity": "legendary",
+    "team": "78"
+  },
+  "12422": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "device (Gold) | Singapore 2026",
+    "player": "27447936",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "12423": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Gizmy | Singapore 2026",
+    "player": "383961258",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "12424": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Gizmy (Foil) | Singapore 2026",
+    "player": "383961258",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "12425": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Gizmy (Holo) | Singapore 2026",
+    "player": "383961258",
+    "rarity": "legendary",
+    "team": "78"
+  },
+  "12426": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Gizmy (Gold) | Singapore 2026",
+    "player": "383961258",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "12427": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "poiii | Singapore 2026",
+    "player": "34912753",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "12428": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "poiii (Foil) | Singapore 2026",
+    "player": "34912753",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "12429": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "poiii (Holo) | Singapore 2026",
+    "player": "34912753",
+    "rarity": "legendary",
+    "team": "78"
   },
   "1243": {
     "containers": [
@@ -23068,6 +30163,126 @@
     "rarity": "rare",
     "team": "48"
   },
+  "12430": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "poiii (Gold) | Singapore 2026",
+    "player": "34912753",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "12431": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rain | Singapore 2026",
+    "player": "37085479",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "12432": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rain (Foil) | Singapore 2026",
+    "player": "37085479",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "12433": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rain (Holo) | Singapore 2026",
+    "player": "37085479",
+    "rarity": "legendary",
+    "team": "78"
+  },
+  "12434": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rain (Gold) | Singapore 2026",
+    "player": "37085479",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "12435": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sirah | Singapore 2026",
+    "player": "348675310",
+    "rarity": "rare",
+    "team": "78"
+  },
+  "12436": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sirah (Foil) | Singapore 2026",
+    "player": "348675310",
+    "rarity": "mythical",
+    "team": "78"
+  },
+  "12437": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sirah (Holo) | Singapore 2026",
+    "player": "348675310",
+    "rarity": "legendary",
+    "team": "78"
+  },
+  "12438": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sirah (Gold) | Singapore 2026",
+    "player": "348675310",
+    "rarity": "ancient",
+    "team": "78"
+  },
+  "12439": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dgt | Singapore 2026",
+    "player": "256625848",
+    "rarity": "rare",
+    "team": "112"
+  },
   "1244": {
     "containers": [
       "4207"
@@ -23079,6 +30294,126 @@
     "rarity": "legendary",
     "team": "48"
   },
+  "12440": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dgt (Foil) | Singapore 2026",
+    "player": "256625848",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "12441": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dgt (Holo) | Singapore 2026",
+    "player": "256625848",
+    "rarity": "legendary",
+    "team": "112"
+  },
+  "12442": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "dgt (Gold) | Singapore 2026",
+    "player": "256625848",
+    "rarity": "ancient",
+    "team": "112"
+  },
+  "12443": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HUASOPEEK | Singapore 2026",
+    "player": "359457480",
+    "rarity": "rare",
+    "team": "112"
+  },
+  "12444": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HUASOPEEK (Foil) | Singapore 2026",
+    "player": "359457480",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "12445": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HUASOPEEK (Holo) | Singapore 2026",
+    "player": "359457480",
+    "rarity": "legendary",
+    "team": "112"
+  },
+  "12446": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HUASOPEEK (Gold) | Singapore 2026",
+    "player": "359457480",
+    "rarity": "ancient",
+    "team": "112"
+  },
+  "12447": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "luchov | Singapore 2026",
+    "player": "107456470",
+    "rarity": "rare",
+    "team": "112"
+  },
+  "12448": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "luchov (Foil) | Singapore 2026",
+    "player": "107456470",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "12449": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "luchov (Holo) | Singapore 2026",
+    "player": "107456470",
+    "rarity": "legendary",
+    "team": "112"
+  },
   "1245": {
     "event": "9",
     "kind": "sticker",
@@ -23086,6 +30421,126 @@
     "player": "106428011",
     "rarity": "legendary",
     "team": "48"
+  },
+  "12450": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "luchov (Gold) | Singapore 2026",
+    "player": "107456470",
+    "rarity": "ancient",
+    "team": "112"
+  },
+  "12451": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "max | Singapore 2026",
+    "player": "282684656",
+    "rarity": "rare",
+    "team": "112"
+  },
+  "12452": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "max (Foil) | Singapore 2026",
+    "player": "282684656",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "12453": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "max (Holo) | Singapore 2026",
+    "player": "282684656",
+    "rarity": "legendary",
+    "team": "112"
+  },
+  "12454": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "max (Gold) | Singapore 2026",
+    "player": "282684656",
+    "rarity": "ancient",
+    "team": "112"
+  },
+  "12455": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "meyern | Singapore 2026",
+    "player": "235377137",
+    "rarity": "rare",
+    "team": "112"
+  },
+  "12456": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "meyern (Foil) | Singapore 2026",
+    "player": "235377137",
+    "rarity": "mythical",
+    "team": "112"
+  },
+  "12457": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "meyern (Holo) | Singapore 2026",
+    "player": "235377137",
+    "rarity": "legendary",
+    "team": "112"
+  },
+  "12458": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "meyern (Gold) | Singapore 2026",
+    "player": "235377137",
+    "rarity": "ancient",
+    "team": "112"
+  },
+  "12459": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBa | Singapore 2026",
+    "player": "223887847",
+    "rarity": "rare",
+    "team": "140"
   },
   "1246": {
     "containers": [
@@ -23098,6 +30553,126 @@
     "rarity": "rare",
     "team": "48"
   },
+  "12460": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBa (Foil) | Singapore 2026",
+    "player": "223887847",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "12461": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBa (Holo) | Singapore 2026",
+    "player": "223887847",
+    "rarity": "legendary",
+    "team": "140"
+  },
+  "12462": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "JBa (Gold) | Singapore 2026",
+    "player": "223887847",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "12463": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lake | Singapore 2026",
+    "player": "377218468",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "12464": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lake (Foil) | Singapore 2026",
+    "player": "377218468",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "12465": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lake (Holo) | Singapore 2026",
+    "player": "377218468",
+    "rarity": "legendary",
+    "team": "140"
+  },
+  "12466": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Lake (Gold) | Singapore 2026",
+    "player": "377218468",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "12467": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1n | Singapore 2026",
+    "player": "230197733",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "12468": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1n (Foil) | Singapore 2026",
+    "player": "230197733",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "12469": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1n (Holo) | Singapore 2026",
+    "player": "230197733",
+    "rarity": "legendary",
+    "team": "140"
+  },
   "1247": {
     "containers": [
       "4207"
@@ -23109,6 +30684,126 @@
     "rarity": "legendary",
     "team": "48"
   },
+  "12470": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1n (Gold) | Singapore 2026",
+    "player": "230197733",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "12471": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "slaxz- | Singapore 2026",
+    "player": "104087441",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "12472": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "slaxz- (Foil) | Singapore 2026",
+    "player": "104087441",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "12473": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "slaxz- (Holo) | Singapore 2026",
+    "player": "104087441",
+    "rarity": "legendary",
+    "team": "140"
+  },
+  "12474": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "slaxz- (Gold) | Singapore 2026",
+    "player": "104087441",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "12475": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Swisher | Singapore 2026",
+    "player": "222737943",
+    "rarity": "rare",
+    "team": "140"
+  },
+  "12476": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Swisher (Foil) | Singapore 2026",
+    "player": "222737943",
+    "rarity": "mythical",
+    "team": "140"
+  },
+  "12477": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Swisher (Holo) | Singapore 2026",
+    "player": "222737943",
+    "rarity": "legendary",
+    "team": "140"
+  },
+  "12478": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Swisher (Gold) | Singapore 2026",
+    "player": "222737943",
+    "rarity": "ancient",
+    "team": "140"
+  },
+  "12479": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "doc | Singapore 2026",
+    "player": "135630812",
+    "rarity": "rare",
+    "team": "151"
+  },
   "1248": {
     "event": "9",
     "kind": "sticker",
@@ -23116,6 +30811,126 @@
     "player": "73936547",
     "rarity": "legendary",
     "team": "48"
+  },
+  "12480": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "doc (Foil) | Singapore 2026",
+    "player": "135630812",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "12481": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "doc (Holo) | Singapore 2026",
+    "player": "135630812",
+    "rarity": "legendary",
+    "team": "151"
+  },
+  "12482": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "doc (Gold) | Singapore 2026",
+    "player": "135630812",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "12483": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "gafolo | Singapore 2026",
+    "player": "174962930",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "12484": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "gafolo (Foil) | Singapore 2026",
+    "player": "174962930",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "12485": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "gafolo (Holo) | Singapore 2026",
+    "player": "174962930",
+    "rarity": "legendary",
+    "team": "151"
+  },
+  "12486": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "gafolo (Gold) | Singapore 2026",
+    "player": "174962930",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "12487": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "koala | Singapore 2026",
+    "player": "849196548",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "12488": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "koala (Foil) | Singapore 2026",
+    "player": "849196548",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "12489": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "koala (Holo) | Singapore 2026",
+    "player": "849196548",
+    "rarity": "legendary",
+    "team": "151"
   },
   "1249": {
     "containers": [
@@ -23127,6 +30942,126 @@
     "player": "2791",
     "rarity": "rare",
     "team": "48"
+  },
+  "12490": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "koala (Gold) | Singapore 2026",
+    "player": "849196548",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "12491": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "maxxkor | Singapore 2026",
+    "player": "1070706470",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "12492": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "maxxkor (Foil) | Singapore 2026",
+    "player": "1070706470",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "12493": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "maxxkor (Holo) | Singapore 2026",
+    "player": "1070706470",
+    "rarity": "legendary",
+    "team": "151"
+  },
+  "12494": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "maxxkor (Gold) | Singapore 2026",
+    "player": "1070706470",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "12495": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rdnzao | Singapore 2026",
+    "player": "347468740",
+    "rarity": "rare",
+    "team": "151"
+  },
+  "12496": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rdnzao (Foil) | Singapore 2026",
+    "player": "347468740",
+    "rarity": "mythical",
+    "team": "151"
+  },
+  "12497": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rdnzao (Holo) | Singapore 2026",
+    "player": "347468740",
+    "rarity": "legendary",
+    "team": "151"
+  },
+  "12498": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "rdnzao (Gold) | Singapore 2026",
+    "player": "347468740",
+    "rarity": "ancient",
+    "team": "151"
+  },
+  "12499": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "chelo | Singapore 2026",
+    "player": "107498100",
+    "rarity": "rare",
+    "team": "113"
   },
   "125": {
     "containers": [
@@ -23149,6 +31084,126 @@
     "rarity": "legendary",
     "team": "48"
   },
+  "12500": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "chelo (Foil) | Singapore 2026",
+    "player": "107498100",
+    "rarity": "mythical",
+    "team": "113"
+  },
+  "12501": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "chelo (Holo) | Singapore 2026",
+    "player": "107498100",
+    "rarity": "legendary",
+    "team": "113"
+  },
+  "12502": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "chelo (Gold) | Singapore 2026",
+    "player": "107498100",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "12503": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "decenty | Singapore 2026",
+    "player": "346906182",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "12504": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "decenty (Foil) | Singapore 2026",
+    "player": "346906182",
+    "rarity": "mythical",
+    "team": "113"
+  },
+  "12505": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "decenty (Holo) | Singapore 2026",
+    "player": "346906182",
+    "rarity": "legendary",
+    "team": "113"
+  },
+  "12506": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "decenty (Gold) | Singapore 2026",
+    "player": "346906182",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "12507": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "noway | Singapore 2026",
+    "player": "839943839",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "12508": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "noway (Foil) | Singapore 2026",
+    "player": "839943839",
+    "rarity": "mythical",
+    "team": "113"
+  },
+  "12509": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "noway (Holo) | Singapore 2026",
+    "player": "839943839",
+    "rarity": "legendary",
+    "team": "113"
+  },
   "1251": {
     "event": "9",
     "kind": "sticker",
@@ -23156,6 +31211,126 @@
     "player": "2791",
     "rarity": "legendary",
     "team": "48"
+  },
+  "12510": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "noway (Gold) | Singapore 2026",
+    "player": "839943839",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "12511": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "saadzin | Singapore 2026",
+    "player": "140229234",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "12512": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "saadzin (Foil) | Singapore 2026",
+    "player": "140229234",
+    "rarity": "mythical",
+    "team": "113"
+  },
+  "12513": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "saadzin (Holo) | Singapore 2026",
+    "player": "140229234",
+    "rarity": "legendary",
+    "team": "113"
+  },
+  "12514": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "saadzin (Gold) | Singapore 2026",
+    "player": "140229234",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "12515": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "VINI | Singapore 2026",
+    "player": "36104456",
+    "rarity": "rare",
+    "team": "113"
+  },
+  "12516": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "VINI (Foil) | Singapore 2026",
+    "player": "36104456",
+    "rarity": "mythical",
+    "team": "113"
+  },
+  "12517": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "VINI (Holo) | Singapore 2026",
+    "player": "36104456",
+    "rarity": "legendary",
+    "team": "113"
+  },
+  "12518": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "VINI (Gold) | Singapore 2026",
+    "player": "36104456",
+    "rarity": "ancient",
+    "team": "113"
+  },
+  "12519": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Cxzi | Singapore 2026",
+    "player": "211453961",
+    "rarity": "rare",
+    "team": "130"
   },
   "1252": {
     "containers": [
@@ -23168,6 +31343,126 @@
     "rarity": "rare",
     "team": "48"
   },
+  "12520": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Cxzi (Foil) | Singapore 2026",
+    "player": "211453961",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "12521": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Cxzi (Holo) | Singapore 2026",
+    "player": "211453961",
+    "rarity": "legendary",
+    "team": "130"
+  },
+  "12522": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Cxzi (Gold) | Singapore 2026",
+    "player": "211453961",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "12523": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fr3nd | Singapore 2026",
+    "player": "177768668",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "12524": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fr3nd (Foil) | Singapore 2026",
+    "player": "177768668",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "12525": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fr3nd (Holo) | Singapore 2026",
+    "player": "177768668",
+    "rarity": "legendary",
+    "team": "130"
+  },
+  "12526": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fr3nd (Gold) | Singapore 2026",
+    "player": "177768668",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "12527": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HexT | Singapore 2026",
+    "player": "250668735",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "12528": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HexT (Foil) | Singapore 2026",
+    "player": "250668735",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "12529": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HexT (Holo) | Singapore 2026",
+    "player": "250668735",
+    "rarity": "legendary",
+    "team": "130"
+  },
   "1253": {
     "containers": [
       "4207"
@@ -23179,6 +31474,126 @@
     "rarity": "legendary",
     "team": "48"
   },
+  "12530": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "HexT (Gold) | Singapore 2026",
+    "player": "250668735",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "12531": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nEMANHA | Singapore 2026",
+    "player": "22076121",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "12532": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nEMANHA (Foil) | Singapore 2026",
+    "player": "22076121",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "12533": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nEMANHA (Holo) | Singapore 2026",
+    "player": "22076121",
+    "rarity": "legendary",
+    "team": "130"
+  },
+  "12534": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nEMANHA (Gold) | Singapore 2026",
+    "player": "22076121",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "12535": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "reck | Singapore 2026",
+    "player": "374549101",
+    "rarity": "rare",
+    "team": "130"
+  },
+  "12536": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "reck (Foil) | Singapore 2026",
+    "player": "374549101",
+    "rarity": "mythical",
+    "team": "130"
+  },
+  "12537": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "reck (Holo) | Singapore 2026",
+    "player": "374549101",
+    "rarity": "legendary",
+    "team": "130"
+  },
+  "12538": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "reck (Gold) | Singapore 2026",
+    "player": "374549101",
+    "rarity": "ancient",
+    "team": "130"
+  },
+  "12539": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "asap | Singapore 2026",
+    "player": "68391216",
+    "rarity": "rare",
+    "team": "150"
+  },
   "1254": {
     "event": "9",
     "kind": "sticker",
@@ -23186,6 +31601,126 @@
     "player": "35624002",
     "rarity": "legendary",
     "team": "48"
+  },
+  "12540": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "asap (Foil) | Singapore 2026",
+    "player": "68391216",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "12541": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "asap (Holo) | Singapore 2026",
+    "player": "68391216",
+    "rarity": "legendary",
+    "team": "150"
+  },
+  "12542": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "asap (Gold) | Singapore 2026",
+    "player": "68391216",
+    "rarity": "ancient",
+    "team": "150"
+  },
+  "12543": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magisk | Singapore 2026",
+    "player": "23690923",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "12544": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magisk (Foil) | Singapore 2026",
+    "player": "23690923",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "12545": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magisk (Holo) | Singapore 2026",
+    "player": "23690923",
+    "rarity": "legendary",
+    "team": "150"
+  },
+  "12546": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Magisk (Gold) | Singapore 2026",
+    "player": "23690923",
+    "rarity": "ancient",
+    "team": "150"
+  },
+  "12547": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mzinho | Singapore 2026",
+    "player": "878556854",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "12548": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mzinho (Foil) | Singapore 2026",
+    "player": "878556854",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "12549": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mzinho (Holo) | Singapore 2026",
+    "player": "878556854",
+    "rarity": "legendary",
+    "team": "150"
   },
   "1255": {
     "containers": [
@@ -23198,6 +31733,126 @@
     "rarity": "rare",
     "team": "59"
   },
+  "12550": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "mzinho (Gold) | Singapore 2026",
+    "player": "878556854",
+    "rarity": "ancient",
+    "team": "150"
+  },
+  "12551": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1mple | Singapore 2026",
+    "player": "73936547",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "12552": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1mple (Foil) | Singapore 2026",
+    "player": "73936547",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "12553": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1mple (Holo) | Singapore 2026",
+    "player": "73936547",
+    "rarity": "legendary",
+    "team": "150"
+  },
+  "12554": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "s1mple (Gold) | Singapore 2026",
+    "player": "73936547",
+    "rarity": "ancient",
+    "team": "150"
+  },
+  "12555": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Senzu | Singapore 2026",
+    "player": "960454289",
+    "rarity": "rare",
+    "team": "150"
+  },
+  "12556": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Senzu (Foil) | Singapore 2026",
+    "player": "960454289",
+    "rarity": "mythical",
+    "team": "150"
+  },
+  "12557": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Senzu (Holo) | Singapore 2026",
+    "player": "960454289",
+    "rarity": "legendary",
+    "team": "150"
+  },
+  "12558": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Senzu (Gold) | Singapore 2026",
+    "player": "960454289",
+    "rarity": "ancient",
+    "team": "150"
+  },
+  "12559": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "aliStair | Singapore 2026",
+    "player": "138080982",
+    "rarity": "rare",
+    "team": "132"
+  },
   "1256": {
     "containers": [
       "4207"
@@ -23209,6 +31864,126 @@
     "rarity": "legendary",
     "team": "59"
   },
+  "12560": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "aliStair (Foil) | Singapore 2026",
+    "player": "138080982",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "12561": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "aliStair (Holo) | Singapore 2026",
+    "player": "138080982",
+    "rarity": "legendary",
+    "team": "132"
+  },
+  "12562": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "aliStair (Gold) | Singapore 2026",
+    "player": "138080982",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "12563": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "INS | Singapore 2026",
+    "player": "26946895",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "12564": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "INS (Foil) | Singapore 2026",
+    "player": "26946895",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "12565": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "INS (Holo) | Singapore 2026",
+    "player": "26946895",
+    "rarity": "legendary",
+    "team": "132"
+  },
+  "12566": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "INS (Gold) | Singapore 2026",
+    "player": "26946895",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "12567": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jks | Singapore 2026",
+    "player": "16839456",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "12568": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jks (Foil) | Singapore 2026",
+    "player": "16839456",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "12569": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jks (Holo) | Singapore 2026",
+    "player": "16839456",
+    "rarity": "legendary",
+    "team": "132"
+  },
   "1257": {
     "event": "9",
     "kind": "sticker",
@@ -23216,6 +31991,126 @@
     "player": "11737333",
     "rarity": "legendary",
     "team": "59"
+  },
+  "12570": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "jks (Gold) | Singapore 2026",
+    "player": "16839456",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "12571": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nettik | Singapore 2026",
+    "player": "372579523",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "12572": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nettik (Foil) | Singapore 2026",
+    "player": "372579523",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "12573": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nettik (Holo) | Singapore 2026",
+    "player": "372579523",
+    "rarity": "legendary",
+    "team": "132"
+  },
+  "12574": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "nettik (Gold) | Singapore 2026",
+    "player": "372579523",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "12575": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "vexite | Singapore 2026",
+    "player": "92622415",
+    "rarity": "rare",
+    "team": "132"
+  },
+  "12576": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "vexite (Foil) | Singapore 2026",
+    "player": "92622415",
+    "rarity": "mythical",
+    "team": "132"
+  },
+  "12577": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "vexite (Holo) | Singapore 2026",
+    "player": "92622415",
+    "rarity": "legendary",
+    "team": "132"
+  },
+  "12578": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "vexite (Gold) | Singapore 2026",
+    "player": "92622415",
+    "rarity": "ancient",
+    "team": "132"
+  },
+  "12579": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cool4st | Singapore 2026",
+    "player": "882582488",
+    "rarity": "rare",
+    "team": "138"
   },
   "1258": {
     "containers": [
@@ -23228,6 +32123,126 @@
     "rarity": "rare",
     "team": "59"
   },
+  "12580": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cool4st (Foil) | Singapore 2026",
+    "player": "882582488",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "12581": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cool4st (Holo) | Singapore 2026",
+    "player": "882582488",
+    "rarity": "legendary",
+    "team": "138"
+  },
+  "12582": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "cool4st (Gold) | Singapore 2026",
+    "player": "882582488",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "12583": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fury5k | Singapore 2026",
+    "player": "866891295",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "12584": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fury5k (Foil) | Singapore 2026",
+    "player": "866891295",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "12585": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fury5k (Holo) | Singapore 2026",
+    "player": "866891295",
+    "rarity": "legendary",
+    "team": "138"
+  },
+  "12586": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "fury5k (Gold) | Singapore 2026",
+    "player": "866891295",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "12587": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ROUX | Singapore 2026",
+    "player": "977087142",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "12588": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ROUX (Foil) | Singapore 2026",
+    "player": "977087142",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "12589": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ROUX (Holo) | Singapore 2026",
+    "player": "977087142",
+    "rarity": "legendary",
+    "team": "138"
+  },
   "1259": {
     "containers": [
       "4207"
@@ -23238,6 +32253,126 @@
     "player": "53985773",
     "rarity": "legendary",
     "team": "59"
+  },
+  "12590": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "ROUX (Gold) | Singapore 2026",
+    "player": "977087142",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "12591": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sk0R | Singapore 2026",
+    "player": "863160115",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "12592": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sk0R (Foil) | Singapore 2026",
+    "player": "863160115",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "12593": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sk0R (Holo) | Singapore 2026",
+    "player": "863160115",
+    "rarity": "legendary",
+    "team": "138"
+  },
+  "12594": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "sk0R (Gold) | Singapore 2026",
+    "player": "863160115",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "12595": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tikuak | Singapore 2026",
+    "player": "1430173287",
+    "rarity": "rare",
+    "team": "138"
+  },
+  "12596": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tikuak (Foil) | Singapore 2026",
+    "player": "1430173287",
+    "rarity": "mythical",
+    "team": "138"
+  },
+  "12597": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tikuak (Holo) | Singapore 2026",
+    "player": "1430173287",
+    "rarity": "legendary",
+    "team": "138"
+  },
+  "12598": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "tikuak (Gold) | Singapore 2026",
+    "player": "1430173287",
+    "rarity": "ancient",
+    "team": "138"
+  },
+  "12599": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "C4LLM3SU3 | Singapore 2026",
+    "player": "456122416",
+    "rarity": "rare",
+    "team": "127"
   },
   "126": {
     "containers": [
@@ -23257,6 +32392,126 @@
     "rarity": "legendary",
     "team": "59"
   },
+  "12600": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "C4LLM3SU3 (Foil) | Singapore 2026",
+    "player": "456122416",
+    "rarity": "mythical",
+    "team": "127"
+  },
+  "12601": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "C4LLM3SU3 (Holo) | Singapore 2026",
+    "player": "456122416",
+    "rarity": "legendary",
+    "team": "127"
+  },
+  "12602": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "C4LLM3SU3 (Gold) | Singapore 2026",
+    "player": "456122416",
+    "rarity": "ancient",
+    "team": "127"
+  },
+  "12603": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EmiliaQAQ | Singapore 2026",
+    "player": "856465673",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "12604": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EmiliaQAQ (Foil) | Singapore 2026",
+    "player": "856465673",
+    "rarity": "mythical",
+    "team": "127"
+  },
+  "12605": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EmiliaQAQ (Holo) | Singapore 2026",
+    "player": "856465673",
+    "rarity": "legendary",
+    "team": "127"
+  },
+  "12606": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "EmiliaQAQ (Gold) | Singapore 2026",
+    "player": "856465673",
+    "rarity": "ancient",
+    "team": "127"
+  },
+  "12607": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Starry | Singapore 2026",
+    "player": "920033815",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "12608": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Starry (Foil) | Singapore 2026",
+    "player": "920033815",
+    "rarity": "mythical",
+    "team": "127"
+  },
+  "12609": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Starry (Holo) | Singapore 2026",
+    "player": "920033815",
+    "rarity": "legendary",
+    "team": "127"
+  },
   "1261": {
     "containers": [
       "4219"
@@ -23267,6 +32522,114 @@
     "player": "28502520",
     "rarity": "rare",
     "team": "59"
+  },
+  "12610": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "Starry (Gold) | Singapore 2026",
+    "player": "920033815",
+    "rarity": "ancient",
+    "team": "127"
+  },
+  "12611": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "westmelon | Singapore 2026",
+    "player": "146974312",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "12612": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "westmelon (Foil) | Singapore 2026",
+    "player": "146974312",
+    "rarity": "mythical",
+    "team": "127"
+  },
+  "12613": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "westmelon (Holo) | Singapore 2026",
+    "player": "146974312",
+    "rarity": "legendary",
+    "team": "127"
+  },
+  "12614": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "westmelon (Gold) | Singapore 2026",
+    "player": "146974312",
+    "rarity": "ancient",
+    "team": "127"
+  },
+  "12615": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "z4KR | Singapore 2026",
+    "player": "177517735",
+    "rarity": "rare",
+    "team": "127"
+  },
+  "12616": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "z4KR (Foil) | Singapore 2026",
+    "player": "177517735",
+    "rarity": "mythical",
+    "team": "127"
+  },
+  "12617": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "z4KR (Holo) | Singapore 2026",
+    "player": "177517735",
+    "rarity": "legendary",
+    "team": "127"
+  },
+  "12618": {
+    "containers": [
+      "5416",
+      "5418"
+    ],
+    "event": "27",
+    "kind": "sticker",
+    "name": "z4KR (Gold) | Singapore 2026",
+    "player": "177517735",
+    "rarity": "ancient",
+    "team": "127"
   },
   "1262": {
     "containers": [
@@ -27801,6 +37164,11 @@
   "1695": {
     "kind": "sticker",
     "name": "Vertigo (Gold)",
+    "rarity": "legendary"
+  },
+  "1696": {
+    "kind": "sticker",
+    "name": "Cache (Gold)",
     "rarity": "legendary"
   },
   "1697": {

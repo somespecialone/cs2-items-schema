@@ -11102,6 +11102,105 @@
     "rarity": "rare",
     "type": "Type_CustomPlayer"
   },
+  "5409": {
+    "name": "Singapore 2026 Tokens",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_Ticket"
+  },
+  "5410": {
+    "name": "Singapore 2026 Viewer Pass",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_Ticket"
+  },
+  "5411": {
+    "name": "Singapore 2026 Viewer Pass + 900 Tokens",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_Ticket"
+  },
+  "5412": {
+    "name": "Singapore 2026 Coin",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5413": {
+    "name": "Singapore 2026 Silver Coin",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5414": {
+    "name": "Singapore 2026 Gold Coin",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5415": {
+    "name": "Singapore 2026 Diamond Coin",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5416": {
+    "name": "Singapore 2026 Sticker Capsule",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "5417": {
+    "name": "Singapore 2026 Team Sticker Capsule",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "5418": {
+    "name": "Singapore 2026 Autograph Capsule",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "5419": {
+    "name": "Champion at PGL Singapore 2026",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5420": {
+    "name": "Finalist at PGL Singapore 2026",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5421": {
+    "name": "Semifinalist at PGL Singapore 2026",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5422": {
+    "name": "Quarterfinalist at PGL Singapore 2026",
+    "quality": "unique",
+    "rarity": "ancient",
+    "tradable": false,
+    "type": "CSGO_Type_Collectible"
+  },
+  "5423": {
+    "name": "Singapore 2026 Sticker Capsule",
+    "quality": "unique",
+    "rarity": "common",
+    "type": "CSGO_Type_WeaponCase"
+  },
   "55": {
     "name": "Defuse Kit",
     "quality": "normal",
@@ -11908,6 +12007,118 @@
   },
   "7044": {
     "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7045": {
+    "name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7046": {
+    "name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7047": {
+    "name": "Music Kit | Arcando & Pirapus, Ultrasound",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7048": {
+    "name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7049": {
+    "name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7050": {
+    "name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7051": {
+    "name": "Music Kit | F.O.O.L, Criminals",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7052": {
+    "name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7053": {
+    "name": "Music Kit | Noisestorm, Crab Rave",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7054": {
+    "name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7055": {
+    "name": "Music Kit | Pegboard Nerds, Disconnected",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7056": {
+    "name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7057": {
+    "name": "Music Kit | Tristam & Braken, Flight",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7058": {
+    "name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7059": {
+    "name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+    "quality": "unique",
+    "rarity": "common",
+    "tradable": false,
+    "type": "CSGO_Type_WeaponCase"
+  },
+  "7060": {
+    "name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
     "quality": "unique",
     "rarity": "common",
     "tradable": false,
